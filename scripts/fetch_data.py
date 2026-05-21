@@ -53,6 +53,25 @@ def make_request(endpoint, params=None):
         print(f"[ERROR] Connection error for {endpoint}: {e}")
         return None
 
+def ensure_list(response, name="response"):
+    if response is None:
+        return []
+    if isinstance(response, list):
+        return response
+    if isinstance(response, dict):
+        print(f"[DEBUG] {name} is a dict. Keys: {list(response.keys())}")
+        # Search for a list inside the dict keys
+        for k, v in response.items():
+            if isinstance(v, list):
+                print(f"[DEBUG] Extracting list from key '{k}' (length: {len(v)})")
+                return v
+        # Check if it's a dictionary of objects/dicts, e.g. {"id1": {...}, "id2": {...}}
+        if response and all(isinstance(v, dict) for v in response.values()):
+            print(f"[DEBUG] Converting dict values of {name} to list (length: {len(response)})")
+            return list(response.values())
+        print(f"[WARNING] Could not extract a list from {name} dict: {response}")
+    return []
+
 def validate_key():
     res = make_request("/validate")
     if res:
@@ -73,8 +92,8 @@ def main():
     
     # 2. Fetch victims for 2025 and 2026
     print("\n--- Fetching victims for 2025 and 2026 ---")
-    victims_2025 = make_request("/victims/", params={"year": "2025"}) or []
-    victims_2026 = make_request("/victims/", params={"year": "2026"}) or []
+    victims_2025 = ensure_list(make_request("/victims/", params={"year": "2025"}), "victims_2025")
+    victims_2026 = ensure_list(make_request("/victims/", params={"year": "2026"}), "victims_2026")
     
     # Combine victims
     raw_victims = []
@@ -90,8 +109,8 @@ def main():
     
     # 3. Fetch SEC Form 8-K filings
     print("\n--- Fetching SEC 8-K filings ---")
-    sec_2025 = make_request("/8k", params={"year": "2025"}) or []
-    sec_2026 = make_request("/8k", params={"year": "2026"}) or []
+    sec_2025 = ensure_list(make_request("/8k", params={"year": "2025"}), "sec_2025")
+    sec_2026 = ensure_list(make_request("/8k", params={"year": "2026"}), "sec_2026")
     sec_filings = []
     seen_filing_urls = set()
     for f in (sec_2026 + sec_2025):
