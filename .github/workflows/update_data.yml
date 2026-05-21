@@ -30,7 +30,7 @@ jobs:
 
       - name: Run data fetcher script
         env:
-          RANSOMWARE_LIVE_API_KEY: ${{ secrets.RANSOMWARE_LIVE_API_KEY || secrets.RANSSOMWARE_LIVE_API_KEY }}
+          RANSOMWARE_LIVE_API_KEY: ${{ secrets.RANSOMWARE_LIVE_API_KEY }}
         run: |
           python scripts/fetch_data.py
 
