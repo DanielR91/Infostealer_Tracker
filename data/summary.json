@@ -1,31 +1,31 @@
 {
   "totals": {
-    "domains_tracked": 2473,
-    "employees_exposed": 126147,
-    "users_exposed": 15521865,
-    "thirdparties_exposed": 86932,
+    "domains_tracked": 2475,
+    "employees_exposed": 126181,
+    "users_exposed": 15521946,
+    "thirdparties_exposed": 86956,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1117400
+      "count": 1117426
     },
     {
       "name": "Lumma",
-      "count": 572519
+      "count": 572538
     },
     {
       "name": "Generic Stealer",
-      "count": 444883
+      "count": 444885
     },
     {
       "name": "Raccoon",
-      "count": 298151
+      "count": 298155
     },
     {
       "name": "StealC",
-      "count": 119207
+      "count": 119217
     },
     {
       "name": "Azorult",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Vidar",
-      "count": 113921
+      "count": 113923
     },
     {
       "name": "CRYPTBOT",
@@ -73,7 +73,7 @@
     },
     {
       "name": "KPOT",
-      "count": 299
+      "count": 300
     },
     {
       "name": "Aura Stealer",
@@ -151,7 +151,7 @@
     },
     {
       "month": "2026-05",
-      "count": 168
+      "count": 170
     }
   ],
   "sectors": [
@@ -181,7 +181,7 @@
     },
     {
       "name": "Public Sector",
-      "count": 9366
+      "count": 9417
     },
     {
       "name": "Energy",
@@ -205,7 +205,7 @@
     },
     {
       "name": "Agriculture and Food Production",
-      "count": 2794
+      "count": 2801
     },
     {
       "name": "Hospitality and Tourism",
@@ -258,12 +258,12 @@
       "count": 43
     },
     {
-      "name": "MX",
+      "name": "TH",
       "count": 39
     },
     {
-      "name": "TH",
-      "count": 38
+      "name": "MX",
+      "count": 39
     },
     {
       "name": "JP",
@@ -295,7 +295,7 @@
     },
     {
       "name": "AR",
-      "count": 24
+      "count": 25
     },
     {
       "name": "CH",
@@ -955,9 +955,9 @@
     },
     {
       "name": "TH",
-      "percent": 33.33333333333333,
-      "total_victims": 114,
-      "stealer_victims": 38
+      "percent": 33.91304347826087,
+      "total_victims": 115,
+      "stealer_victims": 39
     },
     {
       "name": "PY",
@@ -1033,9 +1033,9 @@
     },
     {
       "name": "AR",
-      "percent": 30.76923076923077,
-      "total_victims": 78,
-      "stealer_victims": 24
+      "percent": 31.645569620253166,
+      "total_victims": 79,
+      "stealer_victims": 25
     },
     {
       "name": "MX",
@@ -1285,8 +1285,8 @@
     },
     {
       "name": "AU",
-      "percent": 14.85148514851485,
-      "total_victims": 202,
+      "percent": 14.77832512315271,
+      "total_victims": 203,
       "stealer_victims": 30
     },
     {
@@ -1401,9 +1401,9 @@
     },
     {
       "group": "apt73",
-      "percent": 76.0,
-      "total_victims": 75,
-      "stealer_victims": 57
+      "percent": 76.62337662337663,
+      "total_victims": 77,
+      "stealer_victims": 59
     },
     {
       "group": "exitium",
@@ -1563,8 +1563,8 @@
     },
     {
       "group": "BrainCipher",
-      "percent": 44.827586206896555,
-      "total_victims": 29,
+      "percent": 43.333333333333336,
+      "total_victims": 30,
       "stealer_victims": 13
     },
     {
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-21T15:42:40.986613Z"
+  "last_update": "2026-05-21T18:05:40.882921Z"
 }
