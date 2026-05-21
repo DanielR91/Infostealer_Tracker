@@ -100,7 +100,7 @@ function setupNavigation() {
       
       // Update title text depending on active tab
       if (tabId === 'dashboard') {
-        el.pageTitle.innerText = 'Threat Dashboard';
+        el.pageTitle.innerText = 'Infostealer Tracking Dashboard';
         el.pageSubtitle.innerText = 'Historical overview of infostealer credential compromise linked to ransomware incidents.';
       } else if (tabId === 'victims') {
         el.pageTitle.innerText = 'Ransomware Victims & Stealer Intel';
