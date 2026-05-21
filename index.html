@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Infostealer Intelligence & Ransomware Tracking Dashboard</title>
+  
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <div class="app-container">
+    
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+      <div class="brand-section">
+        <i class="fa-solid fa-virus-covid brand-logo"></i>
+        <div class="brand-name">STEALER.LIVE</div>
+      </div>
+      
+      <nav class="nav-menu">
+        <a class="nav-item active" data-tab="dashboard">
+          <i class="fa-solid fa-chart-pie"></i>
+          <span>Dashboard</span>
+        </a>
+        <a class="nav-item" data-tab="victims">
+          <i class="fa-solid fa-users-slash"></i>
+          <span>Victims Feed</span>
+        </a>
+        <a class="nav-item" data-tab="sec8k">
+          <i class="fa-solid fa-building-shield"></i>
+          <span>SEC 8-K Feed</span>
+        </a>
+        <a class="nav-item" data-tab="groupintel">
+          <i class="fa-solid fa-network-wired"></i>
+          <span>Group Intel</span>
+        </a>
+      </nav>
+      
+      <div class="sidebar-footer">
+        <p>Powered by Ransomware.live</p>
+        <p style="margin-top: 4px;">Data: <a href="https://hudsonrock.com" target="_blank">Hudson Rock</a></p>
+      </div>
+    </aside>
+    
+    <!-- Main Content Panel -->
+    <main class="main-content">
+      
+      <!-- Top Header -->
+      <header class="top-header">
+        <div class="header-title">
+          <h1 id="page-title">Threat Dashboard</h1>
+          <p id="page-subtitle">Historical overview of infostealer credential compromise linked to ransomware incidents.</p>
+        </div>
+        <div class="api-status-badge">
+          <div class="dot"></div>
+          <span>Feeds Synced</span>
+        </div>
+      </header>
+      
+      <!-- Tab 1: Dashboard -->
+      <section id="dashboard" class="tab-content active">
+        <!-- Info Banner -->
+        <div class="info-alert">
+          <i class="fa-solid fa-circle-info info-alert-icon"></i>
+          <div class="info-alert-text">
+            <h4>Infostealer & Ransomware Correlation</h4>
+            <p>Ransomware threat actors frequently purchase exposed credentials on illicit markets to establish initial access. The statistics below correlate known infostealer logs (stolen browser-saved passwords, cookies, and tokens) matching the domains of ransomware victims tracked by Ransomware.live, illustrating the threat footprint prior to and during deployment.</p>
+          </div>
+        </div>
+        
+        <!-- Metrics Row -->
+        <div class="metrics-grid">
+          <div class="metric-card green">
+            <div class="metric-header">
+              <span>Exposed Domains</span>
+              <i class="fa-solid fa-globe"></i>
+            </div>
+            <div class="metric-value" id="kpi-domains">-</div>
+            <div class="metric-subtext">Unique victim domains identified</div>
+          </div>
+          
+          <div class="metric-card red">
+            <div class="metric-header">
+              <span>Compromised Employees</span>
+              <i class="fa-solid fa-user-tie"></i>
+            </div>
+            <div class="metric-value" id="kpi-employees">-</div>
+            <div class="metric-subtext">Corporate employee credential records</div>
+          </div>
+          
+          <div class="metric-card blue">
+            <div class="metric-header">
+              <span>Exposed Users / Customers</span>
+              <i class="fa-solid fa-users"></i>
+            </div>
+            <div class="metric-value" id="kpi-users">-</div>
+            <div class="metric-subtext">Consumer log credentials exposed</div>
+          </div>
+          
+          <div class="metric-card amber">
+            <div class="metric-header">
+              <span>Stealer Families</span>
+              <i class="fa-solid fa-bug"></i>
+            </div>
+            <div class="metric-value" id="kpi-families">-</div>
+            <div class="metric-subtext">Active malware variants tracked</div>
+          </div>
+        </div>
+        
+        <!-- Charts Grid Row 1 -->
+        <div class="charts-grid">
+          <div class="chart-card col-5">
+            <div class="chart-header">
+              <h3><i class="fa-solid fa-spider"></i>Top Stealer Families</h3>
+            </div>
+            <div class="chart-container">
+              <canvas id="chart-families"></canvas>
+            </div>
+          </div>
+          
+          <div class="chart-card col-7">
+            <div class="chart-header">
+              <h3><i class="fa-solid fa-chart-line"></i>Monthly Ingestion Trend</h3>
+            </div>
+            <div class="chart-container">
+              <canvas id="chart-monthly"></canvas>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Charts Grid Row 2 -->
+        <div class="charts-grid">
+          <div class="chart-card col-6">
+            <div class="chart-header">
+              <h3><i class="fa-solid fa-building-user"></i>Top Sectors with Exposed Credentials</h3>
+            </div>
+            <div class="chart-container">
+              <canvas id="chart-sectors"></canvas>
+            </div>
+          </div>
+          
+          <div class="chart-card col-6">
+            <div class="chart-header">
+              <h3><i class="fa-solid fa-earth-americas"></i>Exposed Targets by Country</h3>
+            </div>
+            <div class="chart-container">
+              <canvas id="chart-countries"></canvas>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+      <!-- Tab 2: Victims Feed -->
+      <section id="victims" class="tab-content">
+        <div class="table-controls">
+          <!-- Search input -->
+          <div class="search-wrapper">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <input type="text" id="victim-search" class="search-input" placeholder="Search by company name or domain...">
+          </div>
+          
+          <!-- Dropdown Filters -->
+          <div class="filter-controls">
+            <select id="filter-group" class="filter-select">
+              <option value="">All Ransomware Groups</option>
+            </select>
+            <select id="filter-sector" class="filter-select">
+              <option value="">All Sectors</option>
+            </select>
+            <select id="filter-country" class="filter-select">
+              <option value="">All Countries</option>
+            </select>
+            <select id="filter-stealer" class="filter-select">
+              <option value="">All Stealer Types</option>
+              <option value="has_stealer">Has Infostealer Data</option>
+              <option value="no_stealer">No Infostealer Data</option>
+            </select>
+          </div>
+        </div>
+        
+        <!-- Victims Table Grid -->
+        <div class="table-responsive">
+          <table class="custom-table" id="victims-table">
+            <thead>
+              <tr>
+                <th data-sort="victim">Victim <i class="fa-solid fa-sort"></i></th>
+                <th data-sort="group">Ransom Group <i class="fa-solid fa-sort"></i></th>
+                <th data-sort="activity">Sector <i class="fa-solid fa-sort"></i></th>
+                <th data-sort="country" style="width: 80px;">Country <i class="fa-solid fa-sort"></i></th>
+                <th data-sort="employees" style="text-align: right;">Employees <i class="fa-solid fa-sort"></i></th>
+                <th data-sort="users" style="text-align: right;">Users <i class="fa-solid fa-sort"></i></th>
+                <th data-sort="discovered" style="text-align: right;">Discovered <i class="fa-solid fa-sort"></i></th>
+                <th style="width: 60px; text-align: center;">Details</th>
+              </tr>
+            </thead>
+            <tbody id="victims-tbody">
+              <!-- Dynamically populated rows -->
+            </tbody>
+          </table>
+        </div>
+        
+        <!-- Pagination footer -->
+        <div class="pagination-wrapper">
+          <div id="pagination-info">Showing 0 to 0 of 0 entries</div>
+          <div class="pagination-buttons">
+            <button id="btn-prev" class="btn-pagination" disabled><i class="fa-solid fa-angle-left"></i> Previous</button>
+            <button id="btn-next" class="btn-pagination" disabled>Next <i class="fa-solid fa-angle-right"></i></button>
+          </div>
+        </div>
+      </section>
+      
+      <!-- Tab 3: SEC 8-K Feed -->
+      <section id="sec8k" class="tab-content">
+        <div class="info-alert" style="background: rgba(239, 68, 68, 0.02); border-color: rgba(239, 68, 68, 0.15);">
+          <i class="fa-solid fa-gavel info-alert-icon" style="color: var(--color-red);"></i>
+          <div class="info-alert-text">
+            <h4 style="color: var(--color-red);">SEC Form 8-K Cybersecurity Disclosures (Item 1.05)</h4>
+            <p>Under SEC regulations mandated in late 2023, public corporations must disclose "material cybersecurity incidents" within four business days under Item 1.05. Below is a feed of SEC filings tracked by Ransomware.live, providing regulatory confirmation of breaches alongside victim correlation intelligence.</p>
+          </div>
+        </div>
+        
+        <!-- SEC Cards list container -->
+        <div class="sec-feed" id="sec-filings-container">
+          <!-- Dynamically populated cards -->
+        </div>
+      </section>
+      
+      <!-- Tab 4: Group Intel -->
+      <section id="groupintel" class="tab-content">
+        <div class="charts-grid">
+          
+          <!-- Top Ransom Groups by Infostealer Prevalence -->
+          <div class="chart-card col-12">
+            <div class="chart-header">
+              <h3><i class="fa-solid fa-people-group"></i>Ransomware Groups linked to Infostealer Access</h3>
+              <p style="font-size: 0.8rem; color: var(--text-secondary);">Shows percentage of group victims that have prior infostealer exposure records.</p>
+            </div>
+            <div style="margin-top: 1.5rem;" id="group-correlation-container">
+              <!-- Dynamically populated bar progress rows -->
+            </div>
+          </div>
+          
+        </div>
+      </section>
+      
+    </main>
+  </div>
+  
+  <!-- Slide-out Drawer Panel -->
+  <div class="drawer-overlay" id="detail-drawer-overlay"></div>
+  <div class="drawer-container" id="detail-drawer">
+    <div class="drawer-header">
+      <div class="drawer-title-wrapper">
+        <i class="fa-solid fa-shield-virus drawer-title-icon"></i>
+        <h2 id="drawer-title">Victim Details</h2>
+      </div>
+      <button class="btn-close-drawer" id="btn-close-drawer"><i class="fa-solid fa-xmark"></i></button>
+    </div>
+    <div class="drawer-content" id="drawer-body">
+      <!-- Dynamically populated in app.js -->
+    </div>
+  </div>
+
+  <!-- ChartJS CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
+  <!-- Application Script -->
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

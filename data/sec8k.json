@@ -1,0 +1,110 @@
+[
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "company_name": "MICROSOFT CORP",
+    "filing_date": "2026-05-07",
+    "item_type": "Item 1.05",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/00011931252600001/d8k.htm",
+    "description": "On 2026-05-07, the registrant discovered that unauthorized actors gained access to certain corporate systems. A threat actor (likely affiliated with bianlian) was found to have compromised administrative credentials."
+  },
+  {
+    "ticker": "ORCL",
+    "cik": "0001341439",
+    "company_name": "ORACLE CORP",
+    "filing_date": "2026-04-09",
+    "item_type": "Item 8.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/00011931252600003/d8k.htm",
+    "description": "On 2026-04-09, the registrant discovered that unauthorized actors gained access to certain corporate systems. A threat actor (likely affiliated with blackcat) was found to have compromised administrative credentials."
+  },
+  {
+    "ticker": "CRM",
+    "cik": "0001108524",
+    "company_name": "Salesforce, Inc.",
+    "filing_date": "2026-03-24",
+    "item_type": "Item 1.05",
+    "url": "https://www.sec.gov/Archives/edgar/data/1108524/00011931252600009/d8k.htm",
+    "description": "On 2026-03-24, the registrant discovered that unauthorized actors gained access to certain corporate systems. A threat actor (likely affiliated with akira) was found to have compromised administrative credentials."
+  },
+  {
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "company_name": "Apple Inc.",
+    "filing_date": "2026-03-21",
+    "item_type": "Item 8.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/00011931252600006/d8k.htm",
+    "description": "On 2026-03-21, the registrant discovered that unauthorized actors gained access to certain corporate systems. A threat actor (likely affiliated with cactus) was found to have compromised administrative credentials."
+  },
+  {
+    "ticker": "ORCL",
+    "cik": "0001341439",
+    "company_name": "ORACLE CORP",
+    "filing_date": "2026-03-09",
+    "item_type": "Item 8.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526000010/d8k.htm",
+    "description": "On 2026-03-09, the registrant discovered that unauthorized actors gained access to certain corporate systems. A threat actor (likely affiliated with blackcat) was found to have compromised administrative credentials."
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "company_name": "MICROSOFT CORP",
+    "filing_date": "2026-02-22",
+    "item_type": "Item 1.05",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526000011/d8k.htm",
+    "description": "On 2026-02-22, the registrant discovered that unauthorized actors gained access to certain corporate systems. A threat actor (likely affiliated with rhysida) was found to have compromised administrative credentials."
+  },
+  {
+    "ticker": "CSCO",
+    "cik": "0000858877",
+    "company_name": "CISCO SYSTEMS, INC.",
+    "filing_date": "2026-02-17",
+    "item_type": "Item 8.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/858877/00011931252600002/d8k.htm",
+    "description": "On 2026-02-17, the registrant discovered that unauthorized actors gained access to certain corporate systems. A threat actor (likely affiliated with lockbit3) was found to have compromised administrative credentials."
+  },
+  {
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "company_name": "Apple Inc.",
+    "filing_date": "2026-02-17",
+    "item_type": "Item 8.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/00011931252600005/d8k.htm",
+    "description": "On 2026-02-17, the registrant discovered that unauthorized actors gained access to certain corporate systems. A threat actor (likely affiliated with blackcat) was found to have compromised administrative credentials."
+  },
+  {
+    "ticker": "CRM",
+    "cik": "0001108524",
+    "company_name": "Salesforce, Inc.",
+    "filing_date": "2026-01-27",
+    "item_type": "Item 1.05",
+    "url": "https://www.sec.gov/Archives/edgar/data/1108524/00011931252600004/d8k.htm",
+    "description": "On 2026-01-27, the registrant discovered that unauthorized actors gained access to certain corporate systems. A threat actor (likely affiliated with alphv) was found to have compromised administrative credentials."
+  },
+  {
+    "ticker": "AMD",
+    "cik": "0000002488",
+    "company_name": "ADVANCED MICRO DEVICES, INC.",
+    "filing_date": "2026-01-23",
+    "item_type": "Item 8.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/00011931252600000/d8k.htm",
+    "description": "On 2026-01-23, the registrant discovered that unauthorized actors gained access to certain corporate systems. A threat actor (likely affiliated with akira) was found to have compromised administrative credentials."
+  },
+  {
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "company_name": "Apple Inc.",
+    "filing_date": "2026-01-17",
+    "item_type": "Item 8.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/00011931252600007/d8k.htm",
+    "description": "On 2026-01-17, the registrant discovered that unauthorized actors gained access to certain corporate systems. A threat actor (likely affiliated with clop) was found to have compromised administrative credentials."
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "company_name": "MICROSOFT CORP",
+    "filing_date": "2026-01-16",
+    "item_type": "Item 8.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/00011931252600008/d8k.htm",
+    "description": "On 2026-01-16, the registrant discovered that unauthorized actors gained access to certain corporate systems. A threat actor (likely affiliated with akira) was found to have compromised administrative credentials."
+  }
+]

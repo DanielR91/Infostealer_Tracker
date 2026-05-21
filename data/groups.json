@@ -1,0 +1,362 @@
+{
+  "lockbit3": {
+    "description": "The lockbit3 ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 28,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://lockbit3leaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "lockbit3_ransom_encryptor"
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 6,
+    "has_ransomnote": true,
+    "ransomnotes_count": 2
+  },
+  "blackcat": {
+    "description": "The blackcat ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 31,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://blackcatleaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "blackcat_ransom_encryptor"
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 10,
+    "has_ransomnote": true,
+    "ransomnotes_count": 2
+  },
+  "clop": {
+    "description": "The clop ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 28,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://clopleaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "clop_ransom_encryptor"
+    ],
+    "has_negotiations": false,
+    "negotiation_count": 10,
+    "has_ransomnote": true,
+    "ransomnotes_count": 1
+  },
+  "play": {
+    "description": "The play ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 34,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://playleaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "play_ransom_encryptor"
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 0,
+    "has_ransomnote": true,
+    "ransomnotes_count": 3
+  },
+  "alphv": {
+    "description": "The alphv ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 30,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://alphvleaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "alphv_ransom_encryptor"
+    ],
+    "has_negotiations": false,
+    "negotiation_count": 8,
+    "has_ransomnote": true,
+    "ransomnotes_count": 3
+  },
+  "bianlian": {
+    "description": "The bianlian ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 29,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://bianlianleaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "bianlian_ransom_encryptor"
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 10,
+    "has_ransomnote": true,
+    "ransomnotes_count": 3
+  },
+  "akira": {
+    "description": "The akira ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 30,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://akiraleaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "akira_ransom_encryptor"
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 3,
+    "has_ransomnote": true,
+    "ransomnotes_count": 3
+  },
+  "medusa": {
+    "description": "The medusa ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 33,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://medusaleaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "medusa_ransom_encryptor"
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 9,
+    "has_ransomnote": true,
+    "ransomnotes_count": 3
+  },
+  "blackbasta": {
+    "description": "The blackbasta ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 25,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://blackbastaleaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "blackbasta_ransom_encryptor"
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 7,
+    "has_ransomnote": true,
+    "ransomnotes_count": 3
+  },
+  "rhysida": {
+    "description": "The rhysida ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 31,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://rhysidaleaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "rhysida_ransom_encryptor"
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 1,
+    "has_ransomnote": true,
+    "ransomnotes_count": 3
+  },
+  "cactus": {
+    "description": "The cactus ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 32,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://cactusleaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "cactus_ransom_encryptor"
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 0,
+    "has_ransomnote": true,
+    "ransomnotes_count": 2
+  },
+  "hunters": {
+    "description": "The hunters ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 19,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://huntersleaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "hunters_ransom_encryptor"
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 3,
+    "has_ransomnote": true,
+    "ransomnotes_count": 3
+  }
+}

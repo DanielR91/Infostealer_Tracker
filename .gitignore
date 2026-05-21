@@ -1,0 +1,16 @@
+# Local credentials
+.env
+
+# Node dependencies
+node_modules/
+.pnpm-store/
+
+# IDE / System
+.DS_Store
+.idea/
+.vscode/
+
+# Build outputs (if any)
+dist/
+build/
+*.log

@@ -1,0 +1,19 @@
+{
+  "name": "infostealer-tracker-dashboard",
+  "version": "1.0.0",
+  "description": "Interactive Infostealer & Ransomware Correlation Dashboard",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y vite",
+    "build": "npx -y vite build",
+    "preview": "npx -y vite preview"
+  },
+  "keywords": [
+    "ransomware",
+    "infostealer",
+    "threat-intelligence",
+    "dashboard"
+  ],
+  "author": "",
+  "license": "MIT"
+}
