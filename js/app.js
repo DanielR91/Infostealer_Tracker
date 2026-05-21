@@ -128,11 +128,12 @@ function setupNavigation() {
 // Fetch JSON Datasets Async
 async function loadData() {
   try {
+    const cacheBuster = `?t=${Date.now()}`;
     const urls = {
-      summary: 'data/summary.json',
-      victims: 'data/victims.json',
-      groups: 'data/groups.json',
-      sec8k: 'data/sec8k.json'
+      summary: `data/summary.json${cacheBuster}`,
+      victims: `data/victims.json${cacheBuster}`,
+      groups: `data/groups.json${cacheBuster}`,
+      sec8k: `data/sec8k.json${cacheBuster}`
     };
     
     // Fetch all files concurrently
