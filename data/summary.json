@@ -1,39 +1,39 @@
 {
   "totals": {
-    "domains_tracked": 2472,
-    "employees_exposed": 126140,
-    "users_exposed": 15521699,
-    "thirdparties_exposed": 86917,
+    "domains_tracked": 2473,
+    "employees_exposed": 126147,
+    "users_exposed": 15521865,
+    "thirdparties_exposed": 86932,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1117345
+      "count": 1117400
     },
     {
       "name": "Lumma",
-      "count": 572464
+      "count": 572519
     },
     {
       "name": "Generic Stealer",
-      "count": 444857
+      "count": 444883
     },
     {
       "name": "Raccoon",
-      "count": 298141
+      "count": 298151
     },
     {
       "name": "StealC",
-      "count": 119197
+      "count": 119207
     },
     {
       "name": "Azorult",
-      "count": 117846
+      "count": 117848
     },
     {
       "name": "Vidar",
-      "count": 113918
+      "count": 113921
     },
     {
       "name": "CRYPTBOT",
@@ -151,7 +151,7 @@
     },
     {
       "month": "2026-05",
-      "count": 167
+      "count": 168
     }
   ],
   "sectors": [
@@ -197,7 +197,7 @@
     },
     {
       "name": "Healthcare",
-      "count": 4175
+      "count": 4197
     },
     {
       "name": "Business Services",
@@ -494,6 +494,10 @@
       "count": 3
     },
     {
+      "name": "MK",
+      "count": 2
+    },
+    {
       "name": "UA",
       "count": 2
     },
@@ -699,10 +703,6 @@
     },
     {
       "name": "UG",
-      "count": 1
-    },
-    {
-      "name": "MK",
       "count": 1
     },
     {
@@ -1327,8 +1327,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.0,
-      "total_victims": 520,
+      "percent": 4.980842911877394,
+      "total_victims": 522,
       "stealer_victims": 26
     },
     {
@@ -1401,9 +1401,9 @@
     },
     {
       "group": "apt73",
-      "percent": 75.67567567567568,
-      "total_victims": 74,
-      "stealer_victims": 56
+      "percent": 76.0,
+      "total_victims": 75,
+      "stealer_victims": 57
     },
     {
       "group": "exitium",
@@ -1479,8 +1479,8 @@
     },
     {
       "group": "nova",
-      "percent": 56.63716814159292,
-      "total_victims": 113,
+      "percent": 55.65217391304348,
+      "total_victims": 115,
       "stealer_victims": 64
     },
     {
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-21T11:32:47.751886Z"
+  "last_update": "2026-05-21T15:42:40.986613Z"
 }

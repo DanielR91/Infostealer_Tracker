@@ -4451,32 +4451,6 @@
     "ransomnotes_count": 0,
     "url": "https://www.ransomware.live/group/handala"
   },
-  "SilentRansomGroup": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "SilentRansomGroup",
-    "description": "a former Conti team",
-    "added_date": "2025-05-06",
-    "victims": 114,
-    "firstseen": "2022-06-07T21:27:01.293260+00:00",
-    "lastseen": "2026-05-19T16:51:00.344841+00:00",
-    "ttps": [],
-    "vulnerabilities": [],
-    "tools": {},
-    "locations": [
-      {
-        "fqdn": "business-data-leaks.com",
-        "title": "",
-        "slug": "https://business-data-leaks.com/about",
-        "type": "DLS",
-        "available": false
-      }
-    ],
-    "has_negotiations": false,
-    "negotiation_count": 0,
-    "has_ransomnote": false,
-    "ransomnotes_count": 0,
-    "url": "https://www.ransomware.live/group/silentransomgroup"
-  },
   "nova": {
     "client": "hose_chamber1d@icloud.com",
     "group": "nova",
@@ -4558,6 +4532,32 @@
     "has_ransomnote": true,
     "ransomnotes_count": 1,
     "url": "https://www.ransomware.live/group/nova"
+  },
+  "SilentRansomGroup": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "SilentRansomGroup",
+    "description": "a former Conti team",
+    "added_date": "2025-05-06",
+    "victims": 114,
+    "firstseen": "2022-06-07T21:27:01.293260+00:00",
+    "lastseen": "2026-05-19T16:51:00.344841+00:00",
+    "ttps": [],
+    "vulnerabilities": [],
+    "tools": {},
+    "locations": [
+      {
+        "fqdn": "business-data-leaks.com",
+        "title": "",
+        "slug": "https://business-data-leaks.com/about",
+        "type": "DLS",
+        "available": false
+      }
+    ],
+    "has_negotiations": false,
+    "negotiation_count": 0,
+    "has_ransomnote": false,
+    "ransomnotes_count": 0,
+    "url": "https://www.ransomware.live/group/silentransomgroup"
   },
   "rhysida": {
     "description": "The rhysida ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
