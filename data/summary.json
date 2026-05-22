@@ -1327,8 +1327,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 4.961832061068702,
-      "total_victims": 524,
+      "percent": 4.942965779467681,
+      "total_victims": 526,
       "stealer_victims": 26
     },
     {
@@ -1478,12 +1478,6 @@
       "stealer_victims": 60
     },
     {
-      "group": "nova",
-      "percent": 55.65217391304348,
-      "total_victims": 115,
-      "stealer_victims": 64
-    },
-    {
       "group": "LeakBazaar",
       "percent": 55.55555555555556,
       "total_victims": 9,
@@ -1494,6 +1488,12 @@
       "percent": 55.55555555555556,
       "total_victims": 9,
       "stealer_victims": 5
+    },
+    {
+      "group": "nova",
+      "percent": 54.700854700854705,
+      "total_victims": 117,
+      "stealer_victims": 64
     },
     {
       "group": "shinyhunters",
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-22T17:58:34.792017Z"
+  "last_update": "2026-05-22T20:03:10.366981Z"
 }
