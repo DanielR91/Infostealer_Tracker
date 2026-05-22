@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2475,
-    "employees_exposed": 126181,
-    "users_exposed": 15521946,
-    "thirdparties_exposed": 86956,
+    "domains_tracked": 2477,
+    "employees_exposed": 126192,
+    "users_exposed": 15521959,
+    "thirdparties_exposed": 86966,
     "stealer_families_count": 19
   },
   "families": [
@@ -13,7 +13,7 @@
     },
     {
       "name": "Lumma",
-      "count": 572538
+      "count": 572539
     },
     {
       "name": "Generic Stealer",
@@ -151,7 +151,7 @@
     },
     {
       "month": "2026-05",
-      "count": 170
+      "count": 172
     }
   ],
   "sectors": [
@@ -169,7 +169,7 @@
     },
     {
       "name": "Telecommunication",
-      "count": 21168
+      "count": 21187
     },
     {
       "name": "Transportation/Logistics",
@@ -209,7 +209,7 @@
     },
     {
       "name": "Hospitality and Tourism",
-      "count": 2148
+      "count": 2150
     },
     {
       "name": "Construction",
@@ -219,7 +219,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 932
+      "count": 933
     },
     {
       "name": "BR",
@@ -318,12 +318,12 @@
       "count": 20
     },
     {
-      "name": "TR",
+      "name": "PL",
       "count": 19
     },
     {
-      "name": "PL",
-      "count": 18
+      "name": "TR",
+      "count": 19
     },
     {
       "name": "EG",
@@ -1044,6 +1044,12 @@
       "stealer_victims": 39
     },
     {
+      "name": "PL",
+      "percent": 30.158730158730158,
+      "total_victims": 63,
+      "stealer_victims": 19
+    },
+    {
       "name": "OM",
       "percent": 30.0,
       "total_victims": 10,
@@ -1054,12 +1060,6 @@
       "percent": 29.042904290429046,
       "total_victims": 303,
       "stealer_victims": 88
-    },
-    {
-      "name": "PL",
-      "percent": 29.03225806451613,
-      "total_victims": 62,
-      "stealer_victims": 18
     },
     {
       "name": "SI",
@@ -1243,9 +1243,9 @@
     },
     {
       "name": "US",
-      "percent": 16.893239079209714,
-      "total_victims": 5517,
-      "stealer_victims": 932
+      "percent": 16.908300108735048,
+      "total_victims": 5518,
+      "stealer_victims": 933
     },
     {
       "name": "CZ",
@@ -1401,9 +1401,9 @@
     },
     {
       "group": "apt73",
-      "percent": 76.62337662337663,
-      "total_victims": 77,
-      "stealer_victims": 59
+      "percent": 76.92307692307693,
+      "total_victims": 78,
+      "stealer_victims": 60
     },
     {
       "group": "exitium",
@@ -2007,9 +2007,9 @@
     },
     {
       "group": "dragonforce",
-      "percent": 12.345679012345679,
-      "total_victims": 405,
-      "stealer_victims": 50
+      "percent": 12.561576354679804,
+      "total_victims": 406,
+      "stealer_victims": 51
     },
     {
       "group": "genesis",
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-22T09:40:43.699912Z"
+  "last_update": "2026-05-22T12:28:27.748490Z"
 }
