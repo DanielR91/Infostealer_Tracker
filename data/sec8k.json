@@ -1,13 +1,13 @@
 [
   {
-    "company": "Fluence Energy, Inc.",
-    "stockticker": "FLNC",
+    "company": "FORD MOTOR CO",
+    "stockticker": "F, F-PB, F-PC, F-PD",
     "form": "8-K",
-    "file_date": "2026-05-15",
-    "cik": "0001868941",
-    "adsh": "0001104659-26-062654",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001868941/000110465926062654/0001104659-26-062654-index.htm",
-    "display_name": "Fluence Energy, Inc.  (FLNC)  (CIK 0001868941)",
+    "file_date": "2026-05-21",
+    "cik": "0000037996",
+    "adsh": "0000037996-26-000093",
+    "link": "https://www.sec.gov/Archives/edgar/data/0000037996/000003799626000093/0000037996-26-000093-index.htm",
+    "display_name": "FORD MOTOR CO  (F, F-PB, F-PC, F-PD)  (CIK 0000037996)",
     "item105": false,
     "item801": true
   }
