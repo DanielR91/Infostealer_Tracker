@@ -1243,8 +1243,8 @@
     },
     {
       "name": "US",
-      "percent": 16.91722514037312,
-      "total_victims": 5521,
+      "percent": 16.908037653874004,
+      "total_victims": 5524,
       "stealer_victims": 934
     },
     {
@@ -1496,16 +1496,16 @@
       "stealer_victims": 64
     },
     {
-      "group": "shinyhunters",
-      "percent": 54.36893203883495,
-      "total_victims": 103,
-      "stealer_victims": 56
-    },
-    {
       "group": "ALP-001",
       "percent": 52.94117647058824,
       "total_victims": 17,
       "stealer_victims": 9
+    },
+    {
+      "group": "shinyhunters",
+      "percent": 52.83018867924528,
+      "total_victims": 106,
+      "stealer_victims": 56
     },
     {
       "group": "blackwater",
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-23T00:12:57.357687Z"
+  "last_update": "2026-05-23T04:46:35.775510Z"
 }
