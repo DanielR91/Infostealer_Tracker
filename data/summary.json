@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2481,
+    "domains_tracked": 2483,
     "employees_exposed": 126370,
     "users_exposed": 15528976,
-    "thirdparties_exposed": 87036,
+    "thirdparties_exposed": 87044,
     "stealer_families_count": 19
   },
   "families": [
@@ -139,7 +139,7 @@
     },
     {
       "month": "2026-02",
-      "count": 81
+      "count": 82
     },
     {
       "month": "2026-03",
@@ -151,7 +151,7 @@
     },
     {
       "month": "2026-05",
-      "count": 176
+      "count": 177
     }
   ],
   "sectors": [
@@ -173,7 +173,7 @@
     },
     {
       "name": "Transportation/Logistics",
-      "count": 11408
+      "count": 11412
     },
     {
       "name": "Public Sector",
@@ -209,7 +209,7 @@
     },
     {
       "name": "Hospitality and Tourism",
-      "count": 2150
+      "count": 2154
     },
     {
       "name": "Construction",
@@ -243,7 +243,7 @@
     },
     {
       "name": "ES",
-      "count": 71
+      "count": 72
     },
     {
       "name": "IN",
@@ -282,11 +282,11 @@
       "count": 30
     },
     {
-      "name": "AE",
-      "count": 27
+      "name": "CO",
+      "count": 28
     },
     {
-      "name": "CO",
+      "name": "AE",
       "count": 27
     },
     {
@@ -924,6 +924,12 @@
       "stealer_victims": 13
     },
     {
+      "name": "CO",
+      "percent": 36.36363636363637,
+      "total_victims": 77,
+      "stealer_victims": 28
+    },
+    {
       "name": "LK",
       "percent": 36.36363636363637,
       "total_victims": 11,
@@ -939,12 +945,6 @@
       "name": "AE",
       "percent": 35.526315789473685,
       "total_victims": 76,
-      "stealer_victims": 27
-    },
-    {
-      "name": "CO",
-      "percent": 35.064935064935064,
-      "total_victims": 77,
       "stealer_victims": 27
     },
     {
@@ -1062,16 +1062,16 @@
       "stealer_victims": 89
     },
     {
+      "name": "ES",
+      "percent": 28.57142857142857,
+      "total_victims": 252,
+      "stealer_victims": 72
+    },
+    {
       "name": "SI",
       "percent": 28.57142857142857,
       "total_victims": 7,
       "stealer_victims": 2
-    },
-    {
-      "name": "ES",
-      "percent": 28.286852589641438,
-      "total_victims": 251,
-      "stealer_victims": 71
     },
     {
       "name": "MY",
@@ -1243,8 +1243,8 @@
     },
     {
       "name": "US",
-      "percent": 16.920289855072465,
-      "total_victims": 5520,
+      "percent": 16.91722514037312,
+      "total_victims": 5521,
       "stealer_victims": 934
     },
     {
@@ -1761,9 +1761,9 @@
     },
     {
       "group": "lockbit5",
-      "percent": 27.380952380952383,
+      "percent": 27.77777777777778,
       "total_victims": 252,
-      "stealer_victims": 69
+      "stealer_victims": 70
     },
     {
       "group": "gunra",
@@ -1862,6 +1862,12 @@
       "stealer_victims": 2
     },
     {
+      "group": "krybit",
+      "percent": 21.875,
+      "total_victims": 32,
+      "stealer_victims": 7
+    },
+    {
       "group": "blacklock",
       "percent": 21.875,
       "total_victims": 64,
@@ -1932,12 +1938,6 @@
       "percent": 19.565217391304348,
       "total_victims": 46,
       "stealer_victims": 9
-    },
-    {
-      "group": "krybit",
-      "percent": 19.35483870967742,
-      "total_victims": 31,
-      "stealer_victims": 6
     },
     {
       "group": "blacknevas",
@@ -2013,8 +2013,8 @@
     },
     {
       "group": "genesis",
-      "percent": 11.842105263157894,
-      "total_victims": 76,
+      "percent": 11.688311688311687,
+      "total_victims": 77,
       "stealer_victims": 9
     },
     {
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-22T22:13:44.454923Z"
+  "last_update": "2026-05-23T00:12:57.357687Z"
 }
