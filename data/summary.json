@@ -1327,8 +1327,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 4.942965779467681,
-      "total_victims": 526,
+      "percent": 4.933586337760911,
+      "total_victims": 527,
       "stealer_victims": 26
     },
     {
@@ -1808,12 +1808,6 @@
       "stealer_victims": 24
     },
     {
-      "group": "AuditTeam",
-      "percent": 25.0,
-      "total_victims": 8,
-      "stealer_victims": 2
-    },
-    {
       "group": "radar",
       "percent": 25.0,
       "total_victims": 24,
@@ -1848,6 +1842,12 @@
       "percent": 23.52941176470588,
       "total_victims": 17,
       "stealer_victims": 4
+    },
+    {
+      "group": "AuditTeam",
+      "percent": 22.22222222222222,
+      "total_victims": 9,
+      "stealer_victims": 2
     },
     {
       "group": "d4rk4rmy",
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-23T07:35:03.030478Z"
+  "last_update": "2026-05-23T10:00:42.569553Z"
 }
