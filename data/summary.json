@@ -1063,8 +1063,8 @@
     },
     {
       "name": "ES",
-      "percent": 28.85375494071146,
-      "total_victims": 253,
+      "percent": 28.627450980392155,
+      "total_victims": 255,
       "stealer_victims": 73
     },
     {
@@ -1479,8 +1479,8 @@
     },
     {
       "group": "nova",
-      "percent": 56.41025641025641,
-      "total_victims": 117,
+      "percent": 55.932203389830505,
+      "total_victims": 118,
       "stealer_victims": 66
     },
     {
@@ -1802,16 +1802,16 @@
       "stealer_victims": 20
     },
     {
-      "group": "incransom",
-      "percent": 25.29510961214165,
-      "total_victims": 593,
-      "stealer_victims": 150
-    },
-    {
       "group": "interlock",
       "percent": 25.263157894736842,
       "total_victims": 95,
       "stealer_victims": 24
+    },
+    {
+      "group": "incransom",
+      "percent": 25.252525252525253,
+      "total_victims": 594,
+      "stealer_victims": 150
     },
     {
       "group": "radar",
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-23T11:23:13.433675Z"
+  "last_update": "2026-05-23T13:50:26.442946Z"
 }
