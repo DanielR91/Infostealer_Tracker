@@ -1129,8 +1129,8 @@
     },
     {
       "name": "TR",
-      "percent": 24.444444444444443,
-      "total_victims": 90,
+      "percent": 24.175824175824175,
+      "total_victims": 91,
       "stealer_victims": 22
     },
     {
@@ -1479,8 +1479,8 @@
     },
     {
       "group": "nova",
-      "percent": 56.30252100840336,
-      "total_victims": 119,
+      "percent": 55.833333333333336,
+      "total_victims": 120,
       "stealer_victims": 67
     },
     {
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-24T20:11:34.354257Z"
+  "last_update": "2026-05-24T22:01:32.171623Z"
 }
