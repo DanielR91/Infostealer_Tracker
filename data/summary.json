@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2493,
-    "employees_exposed": 130636,
-    "users_exposed": 15542041,
-    "thirdparties_exposed": 93871,
+    "domains_tracked": 2494,
+    "employees_exposed": 130967,
+    "users_exposed": 15544976,
+    "thirdparties_exposed": 94310,
     "stealer_families_count": 19
   },
   "families": [
@@ -151,7 +151,7 @@
     },
     {
       "month": "2026-05",
-      "count": 186
+      "count": 187
     }
   ],
   "sectors": [
@@ -161,7 +161,7 @@
     },
     {
       "name": "Education",
-      "count": 30508
+      "count": 31278
     },
     {
       "name": "Technology",
@@ -243,7 +243,7 @@
     },
     {
       "name": "ES",
-      "count": 73
+      "count": 74
     },
     {
       "name": "IN",
@@ -1063,9 +1063,9 @@
     },
     {
       "name": "ES",
-      "percent": 28.627450980392155,
+      "percent": 29.01960784313726,
       "total_victims": 255,
-      "stealer_victims": 73
+      "stealer_victims": 74
     },
     {
       "name": "SI",
@@ -1225,8 +1225,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.023255813953487,
-      "total_victims": 516,
+      "percent": 18.058252427184467,
+      "total_victims": 515,
       "stealer_victims": 93
     },
     {
@@ -1285,8 +1285,8 @@
     },
     {
       "name": "AU",
-      "percent": 14.705882352941178,
-      "total_victims": 204,
+      "percent": 14.77832512315271,
+      "total_victims": 203,
       "stealer_victims": 30
     },
     {
@@ -1401,8 +1401,8 @@
     },
     {
       "group": "apt73",
-      "percent": 77.5,
-      "total_victims": 80,
+      "percent": 78.48101265822784,
+      "total_victims": 79,
       "stealer_victims": 62
     },
     {
@@ -1479,9 +1479,9 @@
     },
     {
       "group": "nova",
-      "percent": 55.932203389830505,
+      "percent": 56.779661016949156,
       "total_victims": 118,
-      "stealer_victims": 66
+      "stealer_victims": 67
     },
     {
       "group": "LeakBazaar",
@@ -1724,16 +1724,16 @@
       "stealer_victims": 29
     },
     {
+      "group": "stormous",
+      "percent": 30.612244897959183,
+      "total_victims": 49,
+      "stealer_victims": 15
+    },
+    {
       "group": "blackshrantac",
       "percent": 30.23255813953488,
       "total_victims": 43,
       "stealer_victims": 13
-    },
-    {
-      "group": "stormous",
-      "percent": 30.0,
-      "total_victims": 50,
-      "stealer_victims": 15
     },
     {
       "group": "ransomhub",
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-24T05:06:34.847283Z"
+  "last_update": "2026-05-24T08:38:42.051863Z"
 }
