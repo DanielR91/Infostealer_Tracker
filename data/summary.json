@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2492,
+    "domains_tracked": 2493,
     "employees_exposed": 130636,
     "users_exposed": 15542041,
-    "thirdparties_exposed": 93870,
+    "thirdparties_exposed": 93871,
     "stealer_families_count": 19
   },
   "families": [
@@ -151,7 +151,7 @@
     },
     {
       "month": "2026-05",
-      "count": 185
+      "count": 186
     }
   ],
   "sectors": [
@@ -189,7 +189,7 @@
     },
     {
       "name": "Energy",
-      "count": 8320
+      "count": 8321
     },
     {
       "name": "Consumer Services",
@@ -302,12 +302,12 @@
       "count": 24
     },
     {
-      "name": "MY",
+      "name": "TR",
       "count": 22
     },
     {
-      "name": "TR",
-      "count": 21
+      "name": "MY",
+      "count": 22
     },
     {
       "name": "KR",
@@ -1128,16 +1128,16 @@
       "stealer_victims": 1
     },
     {
+      "name": "TR",
+      "percent": 24.719101123595504,
+      "total_victims": 89,
+      "stealer_victims": 22
+    },
+    {
       "name": "GR",
       "percent": 24.137931034482758,
       "total_victims": 29,
       "stealer_victims": 7
-    },
-    {
-      "name": "TR",
-      "percent": 23.863636363636363,
-      "total_victims": 88,
-      "stealer_victims": 21
     },
     {
       "name": "CH",
@@ -1904,6 +1904,12 @@
       "stealer_victims": 66
     },
     {
+      "group": "bravox",
+      "percent": 20.0,
+      "total_victims": 15,
+      "stealer_victims": 3
+    },
+    {
       "group": "aurora",
       "percent": 20.0,
       "total_victims": 10,
@@ -1980,12 +1986,6 @@
       "percent": 15.625,
       "total_victims": 32,
       "stealer_victims": 5
-    },
-    {
-      "group": "bravox",
-      "percent": 14.285714285714285,
-      "total_victims": 14,
-      "stealer_victims": 2
     },
     {
       "group": "alphalocker",
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-23T22:58:13.568085Z"
+  "last_update": "2026-05-24T00:05:44.680915Z"
 }
