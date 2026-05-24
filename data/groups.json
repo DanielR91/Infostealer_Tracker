@@ -2309,295 +2309,6 @@
     "ransomnotes_count": 2,
     "url": "https://www.ransomware.live/group/lynx"
   },
-  "sinobi": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "sinobi",
-    "description": "Sinobi is a private vetted-affiliate RaaS group that emerged in mid-2025, believed to be a rebrand of the Lynx/INC ransomware lineage, claiming 176 victims by end of 2025 through double-extortion attacks primarily against mid-market US organizations via compromised SonicWall VPN credentials.",
-    "added_date": "2025-07-05",
-    "victims": 274,
-    "firstseen": "2025-03-24T00:00:00+00:00",
-    "lastseen": "2026-05-05T20:01:52.958000+00:00",
-    "ttps": [
-      {
-        "tactic_id": "TA0001",
-        "tactic_name": "Initial Access",
-        "techniques": [
-          {
-            "technique_name": "Valid Accounts",
-            "technique_id": "T1078",
-            "technique_details": "Use of valid credentials from MSPs (Managed Service Providers)."
-          },
-          {
-            "technique_name": "Exploit Public-Facing Application",
-            "technique_id": "T1190",
-            "technique_details": "Exploitation of vulnerabilities in VPNs (SonicWall)."
-          },
-          {
-            "technique_name": "Phishing",
-            "technique_id": "T1566",
-            "technique_details": ""
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0002",
-        "tactic_name": "Execution",
-        "techniques": [
-          {
-            "technique_name": "Command and Scripting Interpreter: PowerShell",
-            "technique_id": "T1059.001",
-            "technique_details": "Heavy use of PowerShell for script and in-memory command execution."
-          },
-          {
-            "technique_name": "Command and Scripting Interpreter: Windows Command Shell",
-            "technique_id": "T1059.003",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "Native API",
-            "technique_id": "T1106",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "Exploitation for Client Execution",
-            "technique_id": "T1203",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "System Services: Service Execution",
-            "technique_id": "T1569.002",
-            "technique_details": ""
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0003",
-        "tactic_name": "Persistence",
-        "techniques": [
-          {
-            "technique_name": "Create or Modify System Process: Windows Service",
-            "technique_id": "T1543.003",
-            "technique_details": "Creation or modification of Windows services to ensure malware restart."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0004",
-        "tactic_name": "Privilege Escalation",
-        "techniques": [
-          {
-            "technique_name": "Exploitation for Privilege Escalation",
-            "technique_id": "T1068",
-            "technique_details": ""
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0005",
-        "tactic_name": "Defense Evasion",
-        "techniques": [
-          {
-            "technique_name": "Obfuscated Files or Information",
-            "technique_id": "T1027",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "Indicator Removal",
-            "technique_id": "T1070",
-            "technique_details": "Removal of event logs."
-          },
-          {
-            "technique_name": "Indicator Removal: File Deletion",
-            "technique_id": "T1070.004",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "Impair Defenses: Disable or Modify Tools",
-            "technique_id": "T1562.001",
-            "technique_details": "Active disabling of EDR solutions (such as VMware Carbon Black)."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0007",
-        "tactic_name": "Discovery",
-        "techniques": [
-          {
-            "technique_name": "Network Service Discovery",
-            "technique_id": "T1046",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "File and Directory Discovery",
-            "technique_id": "T1083",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "Account Discovery: Domain Account",
-            "technique_id": "T1087.002",
-            "technique_details": ""
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0008",
-        "tactic_name": "Lateral Movement",
-        "techniques": [
-          {
-            "technique_name": "Remote Services: Remote Desktop Protocol",
-            "technique_id": "T1021.001",
-            "technique_details": "Use of RDP to navigate between servers after privilege escalation."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0010",
-        "tactic_name": "Exfiltration",
-        "techniques": [
-          {
-            "technique_name": "Exfiltration Over Web Service: Exfiltration to Cloud Storage",
-            "technique_id": "T1567.002",
-            "technique_details": "Use of Rclone tool to send data to public cloud providers before encryption."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0011",
-        "tactic_name": "Command and Control",
-        "techniques": [
-          {
-            "technique_name": "Encrypted Channel: Symmetric Cryptography",
-            "technique_id": "T1573.001",
-            "technique_details": ""
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0040",
-        "tactic_name": "Impact",
-        "techniques": [
-          {
-            "technique_name": "Data Encrypted for Impact",
-            "technique_id": "T1486",
-            "technique_details": "Data encryption via AES-128-CTR and Curve-25519, adding the .SINOBI extension."
-          },
-          {
-            "technique_name": "Service Stop",
-            "technique_id": "T1489",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "Inhibit System Recovery",
-            "technique_id": "T1490",
-            "technique_details": "Deletion of Shadow Copies via vssadmin.exe."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0042",
-        "tactic_name": "Resource Development",
-        "techniques": [
-          {
-            "technique_name": "Develop Capabilities: Malware",
-            "technique_id": "T1587.001",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "Obtain Capabilities: Tool",
-            "technique_id": "T1588.002",
-            "technique_details": ""
-          }
-        ]
-      }
-    ],
-    "vulnerabilities": [
-      {
-        "Vendor": "Oracle",
-        "Product": "Oracle E-Business Suite (EBS)",
-        "CVE": "CVE-2025-61882",
-        "CVSS": 9.8,
-        "severity": "CRITICAL"
-      },
-      {
-        "Vendor": "SonicWall",
-        "Product": "SonicWall SSL VPN",
-        "CVE": "CVE-2024-53704",
-        "CVSS": 9.8,
-        "severity": "CRITICAL"
-      },
-      {
-        "Vendor": "SonicWall",
-        "Product": "SonicWall SonicOS",
-        "CVE": "CVE-2024-40766",
-        "CVSS": 9.8,
-        "severity": "CRITICAL"
-      }
-    ],
-    "tools": {},
-    "locations": [
-      {
-        "fqdn": "sinobia6mw6ht2wcdjphessyzpy7ph2y4dyqbd74bgobgju4ybytmkqd.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobia6mw6ht2wcdjphessyzpy7ph2y4dyqbd74bgobgju4ybytmkqd.onion/leaks",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "sinobi7sukclb3ygtorysbtrodgdbnrmgbhov45rwzipubbzhiu5jvqd.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobi7sukclb3ygtorysbtrodgdbnrmgbhov45rwzipubbzhiu5jvqd.onion/leaks",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "sinobi23i75c3znmqqxxyuzqvhxnjsar7actgvc4nqeuhgcn5yvz3zqd.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobi23i75c3znmqqxxyuzqvhxnjsar7actgvc4nqeuhgcn5yvz3zqd.onion/leaks",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "sinobi57mfegeov2naiufkidlkpze263jtbldokimfjqmk2mye6s4yqd.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobi57mfegeov2naiufkidlkpze263jtbldokimfjqmk2mye6s4yqd.onion/login",
-        "type": "Chat",
-        "available": true
-      },
-      {
-        "fqdn": "sinobi7l3wet3uqn4cagjiessuomv75aw3bvgah4jpj43od7xndb7kad.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobi7l3wet3uqn4cagjiessuomv75aw3bvgah4jpj43od7xndb7kad.onion/leaks",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd.onion/leaks",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "sinobi6rlec6f2bgn6rd72xo7hvds4a5ajiu2if4oub2sut7fg3gomqd.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobi6rlec6f2bgn6rd72xo7hvds4a5ajiu2if4oub2sut7fg3gomqd.onion/leaks",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "sinobi6ywgmmvg2gj2yygkb2hxbimaxpqkyk27wti5zjwhfcldhackid.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobi6ywgmmvg2gj2yygkb2hxbimaxpqkyk27wti5zjwhfcldhackid.onion/leaks",
-        "type": "DLS",
-        "available": true
-      }
-    ],
-    "has_negotiations": false,
-    "negotiation_count": 0,
-    "has_ransomnote": true,
-    "ransomnotes_count": 1,
-    "url": "https://www.ransomware.live/group/sinobi"
-  },
   "nightspire": {
     "client": "hose_chamber1d@icloud.com",
     "group": "nightspire",
@@ -2920,6 +2631,295 @@
     "has_ransomnote": true,
     "ransomnotes_count": 3,
     "url": "https://www.ransomware.live/group/nightspire"
+  },
+  "sinobi": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "sinobi",
+    "description": "Sinobi is a private vetted-affiliate RaaS group that emerged in mid-2025, believed to be a rebrand of the Lynx/INC ransomware lineage, claiming 176 victims by end of 2025 through double-extortion attacks primarily against mid-market US organizations via compromised SonicWall VPN credentials.",
+    "added_date": "2025-07-05",
+    "victims": 274,
+    "firstseen": "2025-03-24T00:00:00+00:00",
+    "lastseen": "2026-05-05T20:01:52.958000+00:00",
+    "ttps": [
+      {
+        "tactic_id": "TA0001",
+        "tactic_name": "Initial Access",
+        "techniques": [
+          {
+            "technique_name": "Valid Accounts",
+            "technique_id": "T1078",
+            "technique_details": "Use of valid credentials from MSPs (Managed Service Providers)."
+          },
+          {
+            "technique_name": "Exploit Public-Facing Application",
+            "technique_id": "T1190",
+            "technique_details": "Exploitation of vulnerabilities in VPNs (SonicWall)."
+          },
+          {
+            "technique_name": "Phishing",
+            "technique_id": "T1566",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0002",
+        "tactic_name": "Execution",
+        "techniques": [
+          {
+            "technique_name": "Command and Scripting Interpreter: PowerShell",
+            "technique_id": "T1059.001",
+            "technique_details": "Heavy use of PowerShell for script and in-memory command execution."
+          },
+          {
+            "technique_name": "Command and Scripting Interpreter: Windows Command Shell",
+            "technique_id": "T1059.003",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Native API",
+            "technique_id": "T1106",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Exploitation for Client Execution",
+            "technique_id": "T1203",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "System Services: Service Execution",
+            "technique_id": "T1569.002",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0003",
+        "tactic_name": "Persistence",
+        "techniques": [
+          {
+            "technique_name": "Create or Modify System Process: Windows Service",
+            "technique_id": "T1543.003",
+            "technique_details": "Creation or modification of Windows services to ensure malware restart."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0004",
+        "tactic_name": "Privilege Escalation",
+        "techniques": [
+          {
+            "technique_name": "Exploitation for Privilege Escalation",
+            "technique_id": "T1068",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0005",
+        "tactic_name": "Defense Evasion",
+        "techniques": [
+          {
+            "technique_name": "Obfuscated Files or Information",
+            "technique_id": "T1027",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Indicator Removal",
+            "technique_id": "T1070",
+            "technique_details": "Removal of event logs."
+          },
+          {
+            "technique_name": "Indicator Removal: File Deletion",
+            "technique_id": "T1070.004",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Impair Defenses: Disable or Modify Tools",
+            "technique_id": "T1562.001",
+            "technique_details": "Active disabling of EDR solutions (such as VMware Carbon Black)."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0007",
+        "tactic_name": "Discovery",
+        "techniques": [
+          {
+            "technique_name": "Network Service Discovery",
+            "technique_id": "T1046",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "File and Directory Discovery",
+            "technique_id": "T1083",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Account Discovery: Domain Account",
+            "technique_id": "T1087.002",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0008",
+        "tactic_name": "Lateral Movement",
+        "techniques": [
+          {
+            "technique_name": "Remote Services: Remote Desktop Protocol",
+            "technique_id": "T1021.001",
+            "technique_details": "Use of RDP to navigate between servers after privilege escalation."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0010",
+        "tactic_name": "Exfiltration",
+        "techniques": [
+          {
+            "technique_name": "Exfiltration Over Web Service: Exfiltration to Cloud Storage",
+            "technique_id": "T1567.002",
+            "technique_details": "Use of Rclone tool to send data to public cloud providers before encryption."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0011",
+        "tactic_name": "Command and Control",
+        "techniques": [
+          {
+            "technique_name": "Encrypted Channel: Symmetric Cryptography",
+            "technique_id": "T1573.001",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0040",
+        "tactic_name": "Impact",
+        "techniques": [
+          {
+            "technique_name": "Data Encrypted for Impact",
+            "technique_id": "T1486",
+            "technique_details": "Data encryption via AES-128-CTR and Curve-25519, adding the .SINOBI extension."
+          },
+          {
+            "technique_name": "Service Stop",
+            "technique_id": "T1489",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Inhibit System Recovery",
+            "technique_id": "T1490",
+            "technique_details": "Deletion of Shadow Copies via vssadmin.exe."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0042",
+        "tactic_name": "Resource Development",
+        "techniques": [
+          {
+            "technique_name": "Develop Capabilities: Malware",
+            "technique_id": "T1587.001",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Obtain Capabilities: Tool",
+            "technique_id": "T1588.002",
+            "technique_details": ""
+          }
+        ]
+      }
+    ],
+    "vulnerabilities": [
+      {
+        "Vendor": "Oracle",
+        "Product": "Oracle E-Business Suite (EBS)",
+        "CVE": "CVE-2025-61882",
+        "CVSS": 9.8,
+        "severity": "CRITICAL"
+      },
+      {
+        "Vendor": "SonicWall",
+        "Product": "SonicWall SSL VPN",
+        "CVE": "CVE-2024-53704",
+        "CVSS": 9.8,
+        "severity": "CRITICAL"
+      },
+      {
+        "Vendor": "SonicWall",
+        "Product": "SonicWall SonicOS",
+        "CVE": "CVE-2024-40766",
+        "CVSS": 9.8,
+        "severity": "CRITICAL"
+      }
+    ],
+    "tools": {},
+    "locations": [
+      {
+        "fqdn": "sinobia6mw6ht2wcdjphessyzpy7ph2y4dyqbd74bgobgju4ybytmkqd.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobia6mw6ht2wcdjphessyzpy7ph2y4dyqbd74bgobgju4ybytmkqd.onion/leaks",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "sinobi7sukclb3ygtorysbtrodgdbnrmgbhov45rwzipubbzhiu5jvqd.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobi7sukclb3ygtorysbtrodgdbnrmgbhov45rwzipubbzhiu5jvqd.onion/leaks",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "sinobi23i75c3znmqqxxyuzqvhxnjsar7actgvc4nqeuhgcn5yvz3zqd.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobi23i75c3znmqqxxyuzqvhxnjsar7actgvc4nqeuhgcn5yvz3zqd.onion/leaks",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "sinobi57mfegeov2naiufkidlkpze263jtbldokimfjqmk2mye6s4yqd.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobi57mfegeov2naiufkidlkpze263jtbldokimfjqmk2mye6s4yqd.onion/login",
+        "type": "Chat",
+        "available": true
+      },
+      {
+        "fqdn": "sinobi7l3wet3uqn4cagjiessuomv75aw3bvgah4jpj43od7xndb7kad.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobi7l3wet3uqn4cagjiessuomv75aw3bvgah4jpj43od7xndb7kad.onion/leaks",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd.onion/leaks",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "sinobi6rlec6f2bgn6rd72xo7hvds4a5ajiu2if4oub2sut7fg3gomqd.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobi6rlec6f2bgn6rd72xo7hvds4a5ajiu2if4oub2sut7fg3gomqd.onion/leaks",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "sinobi6ywgmmvg2gj2yygkb2hxbimaxpqkyk27wti5zjwhfcldhackid.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobi6ywgmmvg2gj2yygkb2hxbimaxpqkyk27wti5zjwhfcldhackid.onion/leaks",
+        "type": "DLS",
+        "available": true
+      }
+    ],
+    "has_negotiations": false,
+    "negotiation_count": 0,
+    "has_ransomnote": true,
+    "ransomnotes_count": 1,
+    "url": "https://www.ransomware.live/group/sinobi"
   },
   "lockbit5": {
     "client": "hose_chamber1d@icloud.com",

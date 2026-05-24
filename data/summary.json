@@ -846,12 +846,6 @@
       "stealer_victims": 8
     },
     {
-      "name": "EG",
-      "percent": 40.476190476190474,
-      "total_victims": 42,
-      "stealer_victims": 17
-    },
-    {
       "name": "UA",
       "percent": 40.0,
       "total_victims": 5,
@@ -898,6 +892,12 @@
       "percent": 40.0,
       "total_victims": 5,
       "stealer_victims": 2
+    },
+    {
+      "name": "EG",
+      "percent": 38.63636363636363,
+      "total_victims": 44,
+      "stealer_victims": 17
     },
     {
       "name": "BD",
@@ -948,16 +948,16 @@
       "stealer_victims": 27
     },
     {
-      "name": "TH",
-      "percent": 34.48275862068966,
-      "total_victims": 116,
-      "stealer_victims": 40
-    },
-    {
       "name": "IN",
       "percent": 34.29951690821256,
       "total_victims": 207,
       "stealer_victims": 71
+    },
+    {
+      "name": "TH",
+      "percent": 34.18803418803419,
+      "total_victims": 117,
+      "stealer_victims": 40
     },
     {
       "name": "PY",
@@ -1063,8 +1063,8 @@
     },
     {
       "name": "ES",
-      "percent": 29.01960784313726,
-      "total_victims": 255,
+      "percent": 28.90625,
+      "total_victims": 256,
       "stealer_victims": 74
     },
     {
@@ -1243,8 +1243,8 @@
     },
     {
       "name": "US",
-      "percent": 16.953139135154697,
-      "total_victims": 5527,
+      "percent": 16.947006691987703,
+      "total_victims": 5529,
       "stealer_victims": 937
     },
     {
@@ -1327,8 +1327,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.353728489483748,
-      "total_victims": 523,
+      "percent": 5.323193916349809,
+      "total_victims": 526,
       "stealer_victims": 28
     },
     {
@@ -2037,8 +2037,8 @@
     },
     {
       "group": "nightspire",
-      "percent": 9.056603773584905,
-      "total_victims": 265,
+      "percent": 8.75912408759124,
+      "total_victims": 274,
       "stealer_victims": 24
     },
     {
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-24T16:06:19.991809Z"
+  "last_update": "2026-05-24T18:02:58.886197Z"
 }
