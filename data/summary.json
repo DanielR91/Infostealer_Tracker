@@ -943,8 +943,8 @@
     },
     {
       "name": "AE",
-      "percent": 35.526315789473685,
-      "total_victims": 76,
+      "percent": 35.064935064935064,
+      "total_victims": 77,
       "stealer_victims": 27
     },
     {
@@ -1809,8 +1809,8 @@
     },
     {
       "group": "incransom",
-      "percent": 25.252525252525253,
-      "total_victims": 594,
+      "percent": 25.210084033613445,
+      "total_victims": 595,
       "stealer_victims": 150
     },
     {
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-25T00:05:55.837452Z"
+  "last_update": "2026-05-25T05:25:16.260189Z"
 }
