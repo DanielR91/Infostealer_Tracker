@@ -508,6 +508,36 @@
     "has_ransomnote": true,
     "ransomnotes_count": 1
   },
+  "play": {
+    "description": "The play ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 34,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://playleaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "play_ransom_encryptor"
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 0,
+    "has_ransomnote": true,
+    "ransomnotes_count": 3
+  },
   "incransom": {
     "client": "hose_chamber1d@icloud.com",
     "group": "incransom",
@@ -603,36 +633,6 @@
     "has_ransomnote": false,
     "ransomnotes_count": 0,
     "url": "https://www.ransomware.live/group/incransom"
-  },
-  "play": {
-    "description": "The play ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
-    "victims": 34,
-    "firstseen": "2025-01-10T12:00:00Z",
-    "lastseen": "2026-05-20T18:00:00Z",
-    "locations": [
-      {
-        "url": "http://playleaksite557asd.onion",
-        "type": "onion"
-      }
-    ],
-    "ttps": [
-      "T1190 - Exploit Public-Facing Application",
-      "T1078 - Valid Accounts",
-      "T1566 - Phishing"
-    ],
-    "vulnerabilities": [
-      "CVE-2023-4966 (Citrix Bleed)",
-      "CVE-2024-21887 (Ivanti Connect Secure)"
-    ],
-    "tools": [
-      "Cobalt Strike",
-      "Mimikatz",
-      "play_ransom_encryptor"
-    ],
-    "has_negotiations": true,
-    "negotiation_count": 0,
-    "has_ransomnote": true,
-    "ransomnotes_count": 3
   },
   "safepay": {
     "client": "hose_chamber1d@icloud.com",
@@ -1566,533 +1566,6 @@
     "ransomnotes_count": 2,
     "url": "https://www.ransomware.live/group/safepay"
   },
-  "thegentlemen": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "thegentlemen",
-    "description": "The Gentlemen is a RaaS group that emerged in July\u2013August 2025, rapidly claiming over 320 victims across 17+ countries by offering affiliates a 90% revenue share, deploying a Go-based locker against Windows, Linux, NAS, and BSD systems; a compromised C2 server in 2026 revealed more than 1,570 linked victims.",
-    "added_date": "2025-09-09",
-    "victims": 424,
-    "firstseen": "2023-02-28T06:59:00+00:00",
-    "lastseen": "2026-05-18T17:30:30+00:00",
-    "ttps": [
-      {
-        "tactic_id": "TA0001",
-        "tactic_name": "Initial Access",
-        "techniques": [
-          {
-            "technique_name": "Valid Accounts",
-            "technique_id": "T1078",
-            "technique_details": "Use of valid accounts for initial access."
-          },
-          {
-            "technique_name": "Valid Accounts: Domain Accounts",
-            "technique_id": "T1078.002",
-            "technique_details": "Use of valid domain accounts for initial access."
-          },
-          {
-            "technique_name": "External Remote Services",
-            "technique_id": "T1133",
-            "technique_details": "openconnect used to authenticate to FortiGate SSL VPN (--protocol=fortinet). Actors connect post-credential-acquisition to enumerate internal network routes."
-          },
-          {
-            "technique_name": "Exploit Public-Facing Application",
-            "technique_id": "T1190",
-            "technique_details": "Exploitation of public-facing applications for initial access."
-          },
-          {
-            "technique_name": "Phishing",
-            "technique_id": "T1566",
-            "technique_details": "Spear-phishing via compromised corporate OWA mailboxes. ZIP payloads containing LNK files disguised as PDF/DOC/XLS or malicious Office documents sent from legitimate company email accounts to bypass spam filters."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0002",
-        "tactic_name": "Execution",
-        "techniques": [
-          {
-            "technique_name": "Windows Management Instrumentation",
-            "technique_id": "T1047",
-            "technique_details": "NetExec (nxc) with -X/-x flags for remote PowerShell/CMD execution over WMI/SMB. TrustedSec Titanis used for WMI-based remote execution via NTLM hashes."
-          },
-          {
-            "technique_name": "Command and Scripting Interpreter",
-            "technique_id": "T1059",
-            "technique_details": "Use of command and scripting interpreters for execution."
-          },
-          {
-            "technique_name": "Command and Scripting Interpreter: PowerShell",
-            "technique_id": "T1059.001",
-            "technique_details": "Use of PowerShell for execution."
-          },
-          {
-            "technique_name": "Command and Scripting Interpreter: Windows Command Shell",
-            "technique_id": "T1059.003",
-            "technique_details": "Use of Windows Command Shell for execution."
-          },
-          {
-            "technique_name": "Software Deployment Tools",
-            "technique_id": "T1072",
-            "technique_details": "Ransomware locker and EDR killers deployed domain-wide via GPO (deploy_gpo.ps1). GPO configured to run binaries at startup on all domain-joined machines."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0003",
-        "tactic_name": "Persistence",
-        "techniques": [
-          {
-            "technique_name": "Create Account",
-            "technique_id": "T1136",
-            "technique_details": "Creation of accounts for persistence."
-          },
-          {
-            "technique_name": "Create or Modify System Process",
-            "technique_id": "T1543",
-            "technique_details": "Velociraptor deployed as a SYSTEM-level Windows service via MSI (Server.Utils.CreateMSI artifact) for persistent beacon access."
-          },
-          {
-            "technique_name": "Boot or Logon Autostart Execution",
-            "technique_id": "T1547",
-            "technique_details": "Boot or logon autostart execution for persistence."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0004",
-        "tactic_name": "Privilege Escalation",
-        "techniques": [
-          {
-            "technique_name": "Exploitation for Privilege Escalation",
-            "technique_id": "T1068",
-            "technique_details": "Exploitation of vulnerabilities for privilege escalation."
-          },
-          {
-            "technique_name": "Forced Authentication",
-            "technique_id": "T1187",
-            "technique_details": "PetitPotam coercion via NXC coerce_plus module to trigger NTLM authentication from domain hosts toward attacker-controlled relay listener."
-          },
-          {
-            "technique_name": "Adversary-in-the-Middle",
-            "technique_id": "T1557",
-            "technique_details": "Responder (SMB/HTTP disabled) combined with ntlmrelayx targeting LDAP for machine account creation. RelayKing used to scan SMB/LDAP/MSSQL/HTTP/RPC/WinRM relay opportunities."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0005",
-        "tactic_name": "Defense Evasion",
-        "techniques": [
-          {
-            "technique_name": "Obfuscated Files or Information",
-            "technique_id": "T1027",
-            "technique_details": "Obfuscation of files or information to evade detection."
-          },
-          {
-            "technique_name": "Indicator Removal",
-            "technique_id": "T1070",
-            "technique_details": "Automated post-compromise script clears all Windows Event Logs via wevtutil, removes RDP MRU registry keys, deletes .rdp files, empties Recycle Bin, and clears RDP/SMB/WinRM logs."
-          },
-          {
-            "technique_name": "Proxy",
-            "technique_id": "T1090",
-            "technique_details": "ProxyChains (Windows/Linux), SSH dynamic port forwarding (-NfD 1080), ProxyJump multi-hop pivoting. Self-hosted double-VPN with WireGuard/OpenVPN and Amnezia VPN for operator anonymity."
-          },
-          {
-            "technique_name": "Modify Registry",
-            "technique_id": "T1112",
-            "technique_details": "Modifying the registry for defense evasion."
-          },
-          {
-            "technique_name": "Domain Policy Modification: Group Policy Modification",
-            "technique_id": "T1484.001",
-            "technique_details": "Modification of Group Policy for defense evasion."
-          },
-          {
-            "technique_name": "Impair Defenses",
-            "technique_id": "T1562",
-            "technique_details": "Impairing defenses to avoid detection."
-          },
-          {
-            "technique_name": "Impair Defenses: Disable or Modify Tools",
-            "technique_id": "T1562.001",
-            "technique_details": "BYOVD drivers ($3500-$5000 darknet), EDRStartupHinder, GFreeze/GLinker against CrowdStrike, IFEO registry redirecting EDR processes to calc.exe, WMI GlobalLogger/WPR symlink attacks to overwrite EDR binaries on boot."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0006",
-        "tactic_name": "Credential Access",
-        "techniques": [
-          {
-            "technique_name": "OS Credential Dumping",
-            "technique_id": "T1003",
-            "technique_details": "XenAllPasswordPro deployed via SMB for mass browser credential harvesting across all hosts. KslDump/KslKatz for LSASS dumping. Velociraptor for full memory dumps without AV detection. Pass-the-Hash via xfreerdp."
-          },
-          {
-            "technique_name": "Brute Force",
-            "technique_id": "T1110",
-            "technique_details": "Custom FortiGate panel bruter on dedicated hardware (dual Xeon, 120GB RAM) targeting non-standard ports. Credential spraying with known default passwords. Hydra for email spraying. Hash cracking via crackmd5.ru and chamd5.org."
-          },
-          {
-            "technique_name": "Unsecured Credentials",
-            "technique_id": "T1552",
-            "technique_details": "FortiGate configuration files exfiltrated containing plaintext LDAP credentials, local VPN user passwords, and IPSec pre-shared keys. MANSPIDER used to search SMB shares for credential files."
-          },
-          {
-            "technique_name": "Credentials from Password Stores",
-            "technique_id": "T1555",
-            "technique_details": "DumpBrowserSecrets used for browser credential and session cookie theft. Cookies imported via Cookie-Editor extension to hijack authenticated M365/CRM/email sessions."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0007",
-        "tactic_name": "Discovery",
-        "techniques": [
-          {
-            "technique_name": "Remote System Discovery",
-            "technique_id": "T1018",
-            "technique_details": "gogo internal port scanner across /24 subnets (ports 22,53,80,88,389,443,445,636,3389,1433,5985) with 100 threads and ICMP ping. NetExec for SMB/WinRM/LDAP host enumeration."
-          },
-          {
-            "technique_name": "Network Service Discovery",
-            "technique_id": "T1046",
-            "technique_details": "Discovery of network services."
-          },
-          {
-            "technique_name": "Permission Groups Discovery",
-            "technique_id": "T1069",
-            "technique_details": "BloodHound/CertiHound for AD and AD CS (ESC1-ESC17) enumeration. ADFind and ldapdomaindump for group/permission mapping. PrivHound for LPE vector identification within AD."
-          },
-          {
-            "technique_name": "Account Discovery",
-            "technique_id": "T1087",
-            "technique_details": "Discovery of accounts within the environment."
-          },
-          {
-            "technique_name": "Account Discovery: Domain Account",
-            "technique_id": "T1087.002",
-            "technique_details": "Discovery of domain accounts within the environment."
-          },
-          {
-            "technique_name": "Domain Trust Discovery",
-            "technique_id": "T1482",
-            "technique_details": "Discovery of domain trust relationships."
-          },
-          {
-            "technique_name": "Cloud Service Discovery",
-            "technique_id": "T1526",
-            "technique_details": "AWS S3 buckets and EKS clusters enumerated post-access. Censys, Shodan, ZoomInfo, and c99.nl API used for external recon of VPN endpoints and subdomains."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0008",
-        "tactic_name": "Lateral Movement",
-        "techniques": [
-          {
-            "technique_name": "Remote Services",
-            "technique_id": "T1021",
-            "technique_details": "Use of remote services for lateral movement."
-          },
-          {
-            "technique_name": "Remote Services: Remote Desktop Protocol",
-            "technique_id": "T1021.001",
-            "technique_details": "Use of RDP for lateral movement."
-          },
-          {
-            "technique_name": "Remote Services: SMB/Windows Admin Shares",
-            "technique_id": "T1021.002",
-            "technique_details": "Use of SMB/Windows Admin Shares for lateral movement."
-          },
-          {
-            "technique_name": "Remote Services: SSH",
-            "technique_id": "T1021.004",
-            "technique_details": "Use of SSH for lateral movement."
-          },
-          {
-            "technique_name": "Remote Service Session Hijacking",
-            "technique_id": "T1563",
-            "technique_details": "Browser session cookies stolen via DumpBrowserSecrets and replayed via Cookie-Editor to hijack authenticated web application sessions (email, M365, CRM portals)."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0009",
-        "tactic_name": "Collection",
-        "techniques": [
-          {
-            "technique_name": "Data from Local System",
-            "technique_id": "T1005",
-            "technique_details": "XenAllPasswordPro HTML credential reports collected per host. SQL database full dumps via phpMyAdmin exported to SFTP. File system enumeration targeting CRM code, backups, and financial data."
-          },
-          {
-            "technique_name": "Data from Network Shared Drive",
-            "technique_id": "T1039",
-            "technique_details": "Collection of data from network shared drives."
-          },
-          {
-            "technique_name": "Data Staged",
-            "technique_id": "T1074",
-            "technique_details": "Staging of collected data prior to exfiltration."
-          },
-          {
-            "technique_name": "Data Staged: Local Data Staging",
-            "technique_id": "T1074.001",
-            "technique_details": "Local staging of collected data prior to exfiltration."
-          },
-          {
-            "technique_name": "Email Collection",
-            "technique_id": "T1114",
-            "technique_details": "Corporate OWA mailboxes accessed via purchased stealer logs (snusbase.com) to harvest internal communications, credentials, and sensitive documents."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0010",
-        "tactic_name": "Exfiltration",
-        "techniques": [
-          {
-            "technique_name": "Exfiltration Over Alternative Protocol",
-            "technique_id": "T1048",
-            "technique_details": "Exfiltration of data over encrypted channels."
-          },
-          {
-            "technique_name": "Exfiltration Over Alternative Protocol: Exfiltration Over Symmetric Encrypted Non-C2 Protocol",
-            "technique_id": "T1048.001",
-            "technique_details": "Exfiltration over symmetric encrypted non-C2 channels."
-          },
-          {
-            "technique_name": "Transfer Data to Cloud Account",
-            "technique_id": "T1537",
-            "technique_details": "rclone to actor-controlled SFTP servers with high-parallelism (--transfers 16 --multi-thread-streams 8 --buffer-size 256M). Observed volumes: 13GB NAS, 3+TB Docker/Nexus, 100+GB Confluence/JIRA."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0011",
-        "tactic_name": "Command and Control",
-        "techniques": [
-          {
-            "technique_name": "Application Layer Protocol",
-            "technique_id": "T1071",
-            "technique_details": "Use of application layer protocols for C2 communication."
-          },
-          {
-            "technique_name": "Application Layer Protocol: Web Protocols",
-            "technique_id": "T1071.001",
-            "technique_details": "Use of web protocols for C2 communication."
-          },
-          {
-            "technique_name": "Remote Access Software",
-            "technique_id": "T1219",
-            "technique_details": "Use of remote access software for C2."
-          },
-          {
-            "technique_name": "Protocol Tunneling",
-            "technique_id": "T1572",
-            "technique_details": "SSH dynamic SOCKS proxies (ssh -NfD 1080) for network pivoting. ProxyChains (Windows/Linux) tunneling attack tools through SOCKS5 proxies acquired from spam/malware affiliates."
-          },
-          {
-            "technique_name": "Encrypted Channel",
-            "technique_id": "T1573",
-            "technique_details": "Cloudflare Tunnels blend C2 with legitimate HTTPS traffic. Chisel-ng (Rust, SSH-over-WebSocket-over-TLS) for reverse tunnels. Velociraptor C2 over TLS with signed MSI beacons."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0040",
-        "tactic_name": "Impact",
-        "techniques": [
-          {
-            "technique_name": "Data Encrypted for Impact",
-            "technique_id": "T1486",
-            "technique_details": "Encryption of data for extortion."
-          },
-          {
-            "technique_name": "Service Stop",
-            "technique_id": "T1489",
-            "technique_details": "Stopping services to maximize impact."
-          },
-          {
-            "technique_name": "Inhibit System Recovery",
-            "technique_id": "T1490",
-            "technique_details": "Veeam backup jobs stopped and tape media long-erased (Erase-VBRTapeMedium -Long). Docker and QEMU VMs killed pre-encryption. vCenter used to reset ESXi root passwords. Database services (MySQL, PostgreSQL, MongoDB, Redis, MSSQL) stopped before encryption."
-          },
-          {
-            "technique_name": "Defacement",
-            "technique_id": "T1491",
-            "technique_details": "Data deleted from CRM web panels and databases. chmod -R 777 applied to NAS filesystems to facilitate locker access and destroy access controls."
-          }
-        ]
-      }
-    ],
-    "vulnerabilities": [],
-    "tools": {
-      "CredentialTheft": [
-        "DumpBrowserSecrets",
-        "Hydra",
-        "KslDump",
-        "KslKatz",
-        "XenAllPasswordPro"
-      ],
-      "DefenseEvasion": [
-        "EDRStartupHinder",
-        "GFreeze",
-        "GLinker"
-      ],
-      "DiscoveryEnum": [
-        "ADFind",
-        "BloodHound",
-        "Censys",
-        "CertiHound",
-        "MANSPIDER",
-        "PowerZure",
-        "Shodan",
-        "gogo scanner",
-        "ldapdomaindump"
-      ],
-      "Exfiltration": [
-        "rclone"
-      ],
-      "Networking": [
-        "Chisel-ng",
-        "ProxyChains",
-        "Tor / Onion C2",
-        "openconnect"
-      ],
-      "Offsec": [
-        "Custom Go Locker (Windows/Linux/NAS)",
-        "NetExec (nxc)",
-        "PetitPotam",
-        "PrivHound",
-        "RegPwn",
-        "RelayKing",
-        "Responder",
-        "TrustedSec Titanis",
-        "Velociraptor",
-        "ZeroPulse",
-        "ntlmrelayx"
-      ],
-      "RMM-Tools": [
-        "AnyDesk"
-      ]
-    },
-    "locations": [
-      {
-        "fqdn": "tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
-        "title": "Gentlecloud Protection",
-        "slug": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
-        "type": "DLS",
-        "available": true
-      }
-    ],
-    "has_negotiations": false,
-    "negotiation_count": 0,
-    "has_ransomnote": true,
-    "ransomnotes_count": 2,
-    "url": "https://www.ransomware.live/group/thegentlemen"
-  },
-  "dragonforce": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "dragonforce",
-    "description": "DragonForce is a major ransomware-as-a-service operation first observed in August 2023 that launched a formal affiliate program offering 80% revenue share, then rebranded as a \"ransomware cartel\" in 2025, gaining notoriety for high-profile attacks on UK retailers Marks & Spencer, Co-op, and Harrods.",
-    "added_date": null,
-    "victims": 519,
-    "firstseen": "2022-10-20T21:51:27.146973+00:00",
-    "lastseen": "2026-05-20T12:25:21.267845+00:00",
-    "ttps": [
-      {
-        "tactic_id": "TA0002",
-        "tactic_name": "Execution",
-        "techniques": [
-          {
-            "technique_name": "User Execution",
-            "technique_id": "T1204.002",
-            "technique_details": "Executes a malicious file on the victim's system."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0005",
-        "tactic_name": "Defense Evasion",
-        "techniques": [
-          {
-            "technique_name": "Indicator Removal: File Deletion",
-            "technique_id": "T1070.004",
-            "technique_details": "The ransomware self-deletes after execution."
-          },
-          {
-            "technique_name": "Impair Defenses: Disable or Modify Tools",
-            "technique_id": "T1562.001",
-            "technique_details": "Disables Windows Defender (if it is running)."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0007",
-        "tactic_name": "Discovery",
-        "techniques": [
-          {
-            "technique_name": "File and Directory Discovery",
-            "technique_id": "T1083",
-            "technique_details": "The ransomware enumerates directories to encrypt files."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0040",
-        "tactic_name": "Impact",
-        "techniques": [
-          {
-            "technique_name": "Data Encrypted for Impact",
-            "technique_id": "T1486",
-            "technique_details": "The ransomware uses data encryption to extort the victim."
-          }
-        ]
-      }
-    ],
-    "vulnerabilities": [],
-    "tools": {
-      "CredentialTheft": [
-        "Mimikatz"
-      ],
-      "DiscoveryEnum": [
-        "Advanced IP Scanner",
-        "PingCastle",
-        "SoftPerfect NetScan"
-      ]
-    },
-    "locations": [
-      {
-        "fqdn": "dragonforxxbp3awc7mzs5dkswrua3znqyx5roefmi4smjrsdi22xwqd.onion",
-        "title": "DragonForce | Leaks",
-        "slug": "http://dragonforxxbp3awc7mzs5dkswrua3znqyx5roefmi4smjrsdi22xwqd.onion",
-        "type": "Files",
-        "available": true
-      },
-      {
-        "fqdn": "z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion",
-        "title": "DragonForce | Blog",
-        "slug": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion",
-        "title": "DragonForce | Recovery",
-        "slug": "http://3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion",
-        "type": "DLS",
-        "available": true
-      }
-    ],
-    "has_negotiations": true,
-    "negotiation_count": 17,
-    "has_ransomnote": true,
-    "ransomnotes_count": 2,
-    "url": "https://www.ransomware.live/group/dragonforce"
-  },
   "lynx": {
     "client": "hose_chamber1d@icloud.com",
     "group": "lynx",
@@ -2308,791 +1781,6 @@
     "has_ransomnote": true,
     "ransomnotes_count": 2,
     "url": "https://www.ransomware.live/group/lynx"
-  },
-  "nightspire": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "nightspire",
-    "description": "NightSpire is a ransomware group that first emerged in March 2025 and rapidly claimed over 250 victims across retail, manufacturing, healthcare, finance, and education sectors in the US, France, India, Taiwan, and Japan, using aggressive double-extortion with ransom deadlines as short as two days.",
-    "added_date": "2025-03-12",
-    "victims": 265,
-    "firstseen": "2025-02-17T00:00:00+00:00",
-    "lastseen": "2026-05-18T00:00:00+00:00",
-    "ttps": [
-      {
-        "tactic_id": "TA0001",
-        "tactic_name": "Initial Access",
-        "techniques": [
-          {
-            "technique_name": "Valid Accounts",
-            "technique_id": "T1078",
-            "technique_details": "Compromised RDP credentials used for initial access."
-          },
-          {
-            "technique_name": "Brute Force",
-            "technique_id": "T1110",
-            "technique_details": "Brute-forcing remote login credentials (RDP) and MFA fatigue attacks."
-          },
-          {
-            "technique_name": "Exploit Public-Facing Application",
-            "technique_id": "T1190",
-            "technique_details": "Exploitation of CVE-2024-55591 \u2014 FortiOS/FortiProxy authentication bypass; unauthenticated attackers gain super-admin privileges via crafted POST requests to /api/v2/cmdb/."
-          },
-          {
-            "technique_name": "Phishing",
-            "technique_id": "T1566",
-            "technique_details": "Malicious attachments and drive-by downloads."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0002",
-        "tactic_name": "Execution",
-        "techniques": [
-          {
-            "technique_name": "Command and Scripting Interpreter",
-            "technique_id": "T1059",
-            "technique_details": "PowerShell scripts, batch files, PsExec, WMI; conhost.exe command execution window."
-          },
-          {
-            "technique_name": "Software Deployment Tools",
-            "technique_id": "T1072",
-            "technique_details": "Abuse of legitimate tools (WinSCP, MEGACmd, 7-Zip, PsExec) across the attack chain."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0003",
-        "tactic_name": "Persistence",
-        "techniques": [
-          {
-            "technique_name": "Scheduled Task/Job",
-            "technique_id": "T1053",
-            "technique_details": "Persistence via Windows Task Scheduler; service creation and modification."
-          },
-          {
-            "technique_name": "Create Account",
-            "technique_id": "T1136",
-            "technique_details": "Administrative account creation post-exploitation on FortiGate devices."
-          },
-          {
-            "technique_name": "Boot or Logon Autostart Execution",
-            "technique_id": "T1547",
-            "technique_details": "Reboot persistence mechanisms."
-          },
-          {
-            "technique_name": "Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder",
-            "technique_id": "T1547.001",
-            "technique_details": "Persistence via HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run and RunOnce."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0004",
-        "tactic_name": "Privilege Escalation",
-        "techniques": [
-          {
-            "technique_name": "Exploitation for Privilege Escalation",
-            "technique_id": "T1068",
-            "technique_details": "FortiOS super-admin access via CVE-2024-55591 exploitation."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0005",
-        "tactic_name": "Defense Evasion",
-        "techniques": [
-          {
-            "technique_name": "Obfuscated Files or Information",
-            "technique_id": "T1027",
-            "technique_details": "Obfuscation techniques to evade analysis."
-          },
-          {
-            "technique_name": "Masquerading",
-            "technique_id": "T1036",
-            "technique_details": "Renamed processes and use of legitimate tools (WinSCP, MEGACmd, 7-Zip, PsExec) blending into normal operations."
-          },
-          {
-            "technique_name": "Indicator Removal",
-            "technique_id": "T1070",
-            "technique_details": "Removal of forensic indicators from compromised systems."
-          },
-          {
-            "technique_name": "System Binary Proxy Execution",
-            "technique_id": "T1218",
-            "technique_details": "Execution via legitimate system binaries (LOLBins) to evade detection."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0006",
-        "tactic_name": "Credential Access",
-        "techniques": [
-          {
-            "technique_name": "OS Credential Dumping",
-            "technique_id": "T1003",
-            "technique_details": "Credential dumping via Mimikatz."
-          },
-          {
-            "technique_name": "OS Credential Dumping: LSASS Memory",
-            "technique_id": "T1003.001",
-            "technique_details": "LSASS memory extraction for credential harvesting."
-          },
-          {
-            "technique_name": "Unsecured Credentials",
-            "technique_id": "T1552",
-            "technique_details": "Harvesting of stored credentials within the environment."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0007",
-        "tactic_name": "Discovery",
-        "techniques": [
-          {
-            "technique_name": "Network Service Discovery",
-            "technique_id": "T1046",
-            "technique_details": "Network scanning to map internal infrastructure using Advanced IP Scanner."
-          },
-          {
-            "technique_name": "Process Discovery",
-            "technique_id": "T1057",
-            "technique_details": "Process enumeration on compromised systems."
-          },
-          {
-            "technique_name": "System Information Discovery",
-            "technique_id": "T1082",
-            "technique_details": "Collection of system details from compromised hosts."
-          },
-          {
-            "technique_name": "File and Directory Discovery",
-            "technique_id": "T1083",
-            "technique_details": "File indexing and enumeration using Everything.exe."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0008",
-        "tactic_name": "Lateral Movement",
-        "techniques": [
-          {
-            "technique_name": "Remote Services: Remote Desktop Protocol",
-            "technique_id": "T1021.001",
-            "technique_details": "RDP-based lateral movement across compromised network."
-          },
-          {
-            "technique_name": "Remote Services: SMB/Windows Admin Shares",
-            "technique_id": "T1021.002",
-            "technique_details": "Lateral movement via PsExec over SMB."
-          },
-          {
-            "technique_name": "Windows Management Instrumentation",
-            "technique_id": "T1047",
-            "technique_details": "WMI-based execution and lateral movement."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0009",
-        "tactic_name": "Collection",
-        "techniques": [
-          {
-            "technique_name": "Automated Collection",
-            "technique_id": "T1119",
-            "technique_details": "Automated sensitive data gathering from compromised systems."
-          },
-          {
-            "technique_name": "Archive Collected Data",
-            "technique_id": "T1560",
-            "technique_details": "Compression of collected data using 7-Zip (7z2408-x64.exe) prior to exfiltration."
-          },
-          {
-            "technique_name": "Archive Collected Data: Archive via Utility",
-            "technique_id": "T1560.001",
-            "technique_details": "7-Zip archiving of stolen data prior to exfiltration."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0010",
-        "tactic_name": "Exfiltration",
-        "techniques": [
-          {
-            "technique_name": "Exfiltration Over C2 Channel",
-            "technique_id": "T1041",
-            "technique_details": "Data exfiltration over C2 channel."
-          },
-          {
-            "technique_name": "Exfiltration Over Alternative Protocol",
-            "technique_id": "T1048",
-            "technique_details": "Data exfiltration via WinSCP (v6.3.7) and Rclone over encrypted channels."
-          },
-          {
-            "technique_name": "Exfiltration Over Web Service: Exfiltration to Cloud Storage",
-            "technique_id": "T1567.002",
-            "technique_details": "MEGACmd used to upload stolen data to MEGA cloud storage. Documented exfiltration of 1.5TB from a single healthcare victim."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0011",
-        "tactic_name": "Command and Control",
-        "techniques": [
-          {
-            "technique_name": "Application Layer Protocol",
-            "technique_id": "T1071",
-            "technique_details": "Standard web protocols and Tor-based communication. Multi-channel comms: ProtonMail, OnionMail, Gmail, Telegram, qTox."
-          },
-          {
-            "technique_name": "Encrypted Channel",
-            "technique_id": "T1573",
-            "technique_details": "Asymmetric encrypted non-C2 protocols used to evade IDS."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0040",
-        "tactic_name": "Impact",
-        "techniques": [
-          {
-            "technique_name": "Data Encrypted for Impact",
-            "technique_id": "T1486",
-            "technique_details": "Hybrid AES-256 (file content) + RSA-2048 (key protection) encryption; appends .nspire extension; processes files in 1MB block chunks. Double extortion model \u2014 data theft + encryption."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0042",
-        "tactic_name": "Resource Development",
-        "techniques": [
-          {
-            "technique_name": "Develop Capabilities",
-            "technique_id": "T1587",
-            "technique_details": "Custom Go-based ransomware development with modular architecture."
-          }
-        ]
-      }
-    ],
-    "vulnerabilities": [],
-    "tools": {
-      "DiscoveryEnum": [
-        "Everything.exe"
-      ],
-      "Exfiltration": [
-        "MEGA",
-        "WinSCP"
-      ]
-    },
-    "locations": [
-      {
-        "fqdn": "nspirep7orjq73k2x2fwh2mxgh74vm2now6cdbnnxjk2f5wn34bmdxad.onion",
-        "title": "RaaS Service Started",
-        "slug": "http://nspirep7orjq73k2x2fwh2mxgh74vm2now6cdbnnxjk2f5wn34bmdxad.onion/database",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "nspire7lugml7ybqyjaaxtsgrs4qn3fcon3lrjbih6wamttvdm5ke4qd.onion",
-        "title": "Verify human - NightSpire",
-        "slug": "http://nspire7lugml7ybqyjaaxtsgrs4qn3fcon3lrjbih6wamttvdm5ke4qd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion",
-        "title": "NightSpire",
-        "slug": "http://nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion/database",
-        "type": "DLS",
-        "available": false
-      },
-      {
-        "fqdn": "a2lyiiaq4n74tlgz4fk3ft4akolapfrzk772dk24iq32cznjsmzpanqd.onion",
-        "title": "NightSpire",
-        "slug": "http://a2lyiiaq4n74tlgz4fk3ft4akolapfrzk772dk24iq32cznjsmzpanqd.onion",
-        "type": "DLS",
-        "available": false
-      },
-      {
-        "fqdn": "nspirebcv4sy3yydtaercuut34hwc4fsxqqv4b4ye4xmo6qp3vxhulqd.onion",
-        "title": "Database | NightSpire",
-        "slug": "http://nspirebcv4sy3yydtaercuut34hwc4fsxqqv4b4ye4xmo6qp3vxhulqd.onion/database",
-        "type": "DLS",
-        "available": false
-      },
-      {
-        "fqdn": "nspiremkiq44zcxjbgvab4mdedyh2pzj5kzbmvftcugq3mczx3dqogid.onion",
-        "title": "Database | NightSpire",
-        "slug": "http://nspiremkiq44zcxjbgvab4mdedyh2pzj5kzbmvftcugq3mczx3dqogid.onion/database",
-        "type": "DLS",
-        "available": false
-      }
-    ],
-    "has_negotiations": true,
-    "negotiation_count": 11,
-    "has_ransomnote": true,
-    "ransomnotes_count": 3,
-    "url": "https://www.ransomware.live/group/nightspire"
-  },
-  "sinobi": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "sinobi",
-    "description": "Sinobi is a private vetted-affiliate RaaS group that emerged in mid-2025, believed to be a rebrand of the Lynx/INC ransomware lineage, claiming 176 victims by end of 2025 through double-extortion attacks primarily against mid-market US organizations via compromised SonicWall VPN credentials.",
-    "added_date": "2025-07-05",
-    "victims": 274,
-    "firstseen": "2025-03-24T00:00:00+00:00",
-    "lastseen": "2026-05-05T20:01:52.958000+00:00",
-    "ttps": [
-      {
-        "tactic_id": "TA0001",
-        "tactic_name": "Initial Access",
-        "techniques": [
-          {
-            "technique_name": "Valid Accounts",
-            "technique_id": "T1078",
-            "technique_details": "Use of valid credentials from MSPs (Managed Service Providers)."
-          },
-          {
-            "technique_name": "Exploit Public-Facing Application",
-            "technique_id": "T1190",
-            "technique_details": "Exploitation of vulnerabilities in VPNs (SonicWall)."
-          },
-          {
-            "technique_name": "Phishing",
-            "technique_id": "T1566",
-            "technique_details": ""
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0002",
-        "tactic_name": "Execution",
-        "techniques": [
-          {
-            "technique_name": "Command and Scripting Interpreter: PowerShell",
-            "technique_id": "T1059.001",
-            "technique_details": "Heavy use of PowerShell for script and in-memory command execution."
-          },
-          {
-            "technique_name": "Command and Scripting Interpreter: Windows Command Shell",
-            "technique_id": "T1059.003",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "Native API",
-            "technique_id": "T1106",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "Exploitation for Client Execution",
-            "technique_id": "T1203",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "System Services: Service Execution",
-            "technique_id": "T1569.002",
-            "technique_details": ""
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0003",
-        "tactic_name": "Persistence",
-        "techniques": [
-          {
-            "technique_name": "Create or Modify System Process: Windows Service",
-            "technique_id": "T1543.003",
-            "technique_details": "Creation or modification of Windows services to ensure malware restart."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0004",
-        "tactic_name": "Privilege Escalation",
-        "techniques": [
-          {
-            "technique_name": "Exploitation for Privilege Escalation",
-            "technique_id": "T1068",
-            "technique_details": ""
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0005",
-        "tactic_name": "Defense Evasion",
-        "techniques": [
-          {
-            "technique_name": "Obfuscated Files or Information",
-            "technique_id": "T1027",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "Indicator Removal",
-            "technique_id": "T1070",
-            "technique_details": "Removal of event logs."
-          },
-          {
-            "technique_name": "Indicator Removal: File Deletion",
-            "technique_id": "T1070.004",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "Impair Defenses: Disable or Modify Tools",
-            "technique_id": "T1562.001",
-            "technique_details": "Active disabling of EDR solutions (such as VMware Carbon Black)."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0007",
-        "tactic_name": "Discovery",
-        "techniques": [
-          {
-            "technique_name": "Network Service Discovery",
-            "technique_id": "T1046",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "File and Directory Discovery",
-            "technique_id": "T1083",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "Account Discovery: Domain Account",
-            "technique_id": "T1087.002",
-            "technique_details": ""
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0008",
-        "tactic_name": "Lateral Movement",
-        "techniques": [
-          {
-            "technique_name": "Remote Services: Remote Desktop Protocol",
-            "technique_id": "T1021.001",
-            "technique_details": "Use of RDP to navigate between servers after privilege escalation."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0010",
-        "tactic_name": "Exfiltration",
-        "techniques": [
-          {
-            "technique_name": "Exfiltration Over Web Service: Exfiltration to Cloud Storage",
-            "technique_id": "T1567.002",
-            "technique_details": "Use of Rclone tool to send data to public cloud providers before encryption."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0011",
-        "tactic_name": "Command and Control",
-        "techniques": [
-          {
-            "technique_name": "Encrypted Channel: Symmetric Cryptography",
-            "technique_id": "T1573.001",
-            "technique_details": ""
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0040",
-        "tactic_name": "Impact",
-        "techniques": [
-          {
-            "technique_name": "Data Encrypted for Impact",
-            "technique_id": "T1486",
-            "technique_details": "Data encryption via AES-128-CTR and Curve-25519, adding the .SINOBI extension."
-          },
-          {
-            "technique_name": "Service Stop",
-            "technique_id": "T1489",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "Inhibit System Recovery",
-            "technique_id": "T1490",
-            "technique_details": "Deletion of Shadow Copies via vssadmin.exe."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0042",
-        "tactic_name": "Resource Development",
-        "techniques": [
-          {
-            "technique_name": "Develop Capabilities: Malware",
-            "technique_id": "T1587.001",
-            "technique_details": ""
-          },
-          {
-            "technique_name": "Obtain Capabilities: Tool",
-            "technique_id": "T1588.002",
-            "technique_details": ""
-          }
-        ]
-      }
-    ],
-    "vulnerabilities": [
-      {
-        "Vendor": "Oracle",
-        "Product": "Oracle E-Business Suite (EBS)",
-        "CVE": "CVE-2025-61882",
-        "CVSS": 9.8,
-        "severity": "CRITICAL"
-      },
-      {
-        "Vendor": "SonicWall",
-        "Product": "SonicWall SSL VPN",
-        "CVE": "CVE-2024-53704",
-        "CVSS": 9.8,
-        "severity": "CRITICAL"
-      },
-      {
-        "Vendor": "SonicWall",
-        "Product": "SonicWall SonicOS",
-        "CVE": "CVE-2024-40766",
-        "CVSS": 9.8,
-        "severity": "CRITICAL"
-      }
-    ],
-    "tools": {},
-    "locations": [
-      {
-        "fqdn": "sinobia6mw6ht2wcdjphessyzpy7ph2y4dyqbd74bgobgju4ybytmkqd.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobia6mw6ht2wcdjphessyzpy7ph2y4dyqbd74bgobgju4ybytmkqd.onion/leaks",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "sinobi7sukclb3ygtorysbtrodgdbnrmgbhov45rwzipubbzhiu5jvqd.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobi7sukclb3ygtorysbtrodgdbnrmgbhov45rwzipubbzhiu5jvqd.onion/leaks",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "sinobi23i75c3znmqqxxyuzqvhxnjsar7actgvc4nqeuhgcn5yvz3zqd.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobi23i75c3znmqqxxyuzqvhxnjsar7actgvc4nqeuhgcn5yvz3zqd.onion/leaks",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "sinobi57mfegeov2naiufkidlkpze263jtbldokimfjqmk2mye6s4yqd.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobi57mfegeov2naiufkidlkpze263jtbldokimfjqmk2mye6s4yqd.onion/login",
-        "type": "Chat",
-        "available": true
-      },
-      {
-        "fqdn": "sinobi7l3wet3uqn4cagjiessuomv75aw3bvgah4jpj43od7xndb7kad.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobi7l3wet3uqn4cagjiessuomv75aw3bvgah4jpj43od7xndb7kad.onion/leaks",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd.onion/leaks",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "sinobi6rlec6f2bgn6rd72xo7hvds4a5ajiu2if4oub2sut7fg3gomqd.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobi6rlec6f2bgn6rd72xo7hvds4a5ajiu2if4oub2sut7fg3gomqd.onion/leaks",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "sinobi6ywgmmvg2gj2yygkb2hxbimaxpqkyk27wti5zjwhfcldhackid.onion",
-        "title": "Sinobi",
-        "slug": "http://sinobi6ywgmmvg2gj2yygkb2hxbimaxpqkyk27wti5zjwhfcldhackid.onion/leaks",
-        "type": "DLS",
-        "available": true
-      }
-    ],
-    "has_negotiations": false,
-    "negotiation_count": 0,
-    "has_ransomnote": true,
-    "ransomnotes_count": 1,
-    "url": "https://www.ransomware.live/group/sinobi"
-  },
-  "lockbit5": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "lockbit5",
-    "description": "LockBit 5.0 (\"ChuongDong\") emerged in September 2025 as the group's resurgence following the February 2024 law enforcement takedown, introducing cross-platform payloads targeting Windows, Linux, and VMware ESXi with enhanced evasion capabilities and continuing the RaaS affiliate model of its predecessors.",
-    "added_date": "2025-12-04",
-    "victims": 252,
-    "firstseen": "2024-08-17T20:01:00+00:00",
-    "lastseen": "2026-05-09T11:33:00+00:00",
-    "ttps": [],
-    "vulnerabilities": [],
-    "tools": {},
-    "locations": [
-      {
-        "fqdn": "lockbitsuppyx2jegaoyiw44ica5vdho63m5ijjlmfb7omq3tfr3qhyd.onion",
-        "title": "",
-        "slug": "http://lockbitsuppyx2jegaoyiw44ica5vdho63m5ijjlmfb7omq3tfr3qhyd.onion",
-        "type": "Chat",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion",
-        "title": "",
-        "slug": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitkybiqhyv64vdaamz7uf2ymjoafyalx3e6spmmsz5xyk5nbcad.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitkybiqhyv64vdaamz7uf2ymjoafyalx3e6spmmsz5xyk5nbcad.onion",
-        "type": "DLS",
-        "available": false
-      },
-      {
-        "fqdn": "lockbityq64mwtobqqcr3iwxs5q4o7iliuv72gbx4vflggj4m4wqekad.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbityq64mwtobqqcr3iwxs5q4o7iliuv72gbx4vflggj4m4wqekad.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitynxdcxtuvma5deq5pxtnqoacftuigkk37xjq3whefozdpcuad.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitynxdcxtuvma5deq5pxtnqoacftuigkk37xjq3whefozdpcuad.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitfnszjao7hayqsd424m74k5jxc52hozvabjrut7pjfsfaaaoad.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitfnszjao7hayqsd424m74k5jxc52hozvabjrut7pjfsfaaaoad.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitnpobu6luzzlxb7br5uyqnmeruwimpjuw2kv442nvxd6sufsad.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitnpobu6luzzlxb7br5uyqnmeruwimpjuw2kv442nvxd6sufsad.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitdx4kanolaotenc3nmonlxv5enmhxdh2lk54rirvcdsljfbjyd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitdx4kanolaotenc3nmonlxv5enmhxdh2lk54rirvcdsljfbjyd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitjqfuyrkxiie6bcly6ow4sh6lmyuyvyats5hcpe5e6hbuhikyd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitjqfuyrkxiie6bcly6ow4sh6lmyuyvyats5hcpe5e6hbuhikyd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitotfzuq2lpyydzgbhelps2mcz62cpix4nzpcyaak5444iwfmqd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitotfzuq2lpyydzgbhelps2mcz62cpix4nzpcyaak5444iwfmqd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbit7tnu7whmaqnnlmvnoxzejssvr6vkcoovg35encvnp24pikvyd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbit7tnu7whmaqnnlmvnoxzejssvr6vkcoovg35encvnp24pikvyd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbity44loulvujiaoels7knti2tfsnglclnse22syaa6x3vpqp7yd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbity44loulvujiaoels7knti2tfsnglclnse22syaa6x3vpqp7yd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitabmbzz652qeqd7yztgugcihpy4s4f6zuqi3jx32rzjylsn7ad.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitabmbzz652qeqd7yztgugcihpy4s4f6zuqi3jx32rzjylsn7ad.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbithn5a2qgf4ojvut3q25yylrauvjxrz6sjdd4teas65osru2lqd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbithn5a2qgf4ojvut3q25yylrauvjxrz6sjdd4teas65osru2lqd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitf75dfwq4bsec3iaytf6z5z6dmstx3g35grn74ndxy3py2ozyd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitf75dfwq4bsec3iaytf6z5z6dmstx3g35grn74ndxy3py2ozyd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbity3v2rhjjjt6opcgvdrrlvdbrt3p2wqmxmq4cm36cchphdy6qd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbity3v2rhjjjt6opcgvdrrlvdbrt3p2wqmxmq4cm36cchphdy6qd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitqth2ij5cdqmj4cdchoh3etnlbh74utqviwqb5svvhxygnmoqd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitqth2ij5cdqmj4cdchoh3etnlbh74utqviwqb5svvhxygnmoqd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitbgtyqtgutvasrld5gx23ozo32y4xkjrby6bte3zyvjdlyoxyd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitbgtyqtgutvasrld5gx23ozo32y4xkjrby6bte3zyvjdlyoxyd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitgf43c7avhx5wesx5ambjgbormhwc2tujsy6lvg6drkjhnjryd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitgf43c7avhx5wesx5ambjgbormhwc2tujsy6lvg6drkjhnjryd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitdzdbv5dh6ncf65c22tdgej72sty6ikiieuinibh6icnzrv4yd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitdzdbv5dh6ncf65c22tdgej72sty6ikiieuinibh6icnzrv4yd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbit24pegjquuwbmwjlvyivmyaujf33kvlepcxyncnugm3zw73myd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbit24pegjquuwbmwjlvyivmyaujf33kvlepcxyncnugm3zw73myd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbit6vhrjaqzsdj6pqalyideigxv4xycfeyunpx35znogiwmojnid.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbit6vhrjaqzsdj6pqalyideigxv4xycfeyunpx35znogiwmojnid.onion",
-        "type": "DLS",
-        "available": true
-      }
-    ],
-    "has_negotiations": false,
-    "negotiation_count": 0,
-    "has_ransomnote": false,
-    "ransomnotes_count": 0,
-    "url": "https://www.ransomware.live/group/lockbit5"
   },
   "ransomhub": {
     "client": "hose_chamber1d@icloud.com",
@@ -3741,6 +2429,471 @@
     "ransomnotes_count": 4,
     "url": "https://www.ransomware.live/group/ransomhub"
   },
+  "dragonforce": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "dragonforce",
+    "description": "DragonForce is a major ransomware-as-a-service operation first observed in August 2023 that launched a formal affiliate program offering 80% revenue share, then rebranded as a \"ransomware cartel\" in 2025, gaining notoriety for high-profile attacks on UK retailers Marks & Spencer, Co-op, and Harrods.",
+    "added_date": null,
+    "victims": 519,
+    "firstseen": "2022-10-20T21:51:27.146973+00:00",
+    "lastseen": "2026-05-20T12:25:21.267845+00:00",
+    "ttps": [
+      {
+        "tactic_id": "TA0002",
+        "tactic_name": "Execution",
+        "techniques": [
+          {
+            "technique_name": "User Execution",
+            "technique_id": "T1204.002",
+            "technique_details": "Executes a malicious file on the victim's system."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0005",
+        "tactic_name": "Defense Evasion",
+        "techniques": [
+          {
+            "technique_name": "Indicator Removal: File Deletion",
+            "technique_id": "T1070.004",
+            "technique_details": "The ransomware self-deletes after execution."
+          },
+          {
+            "technique_name": "Impair Defenses: Disable or Modify Tools",
+            "technique_id": "T1562.001",
+            "technique_details": "Disables Windows Defender (if it is running)."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0007",
+        "tactic_name": "Discovery",
+        "techniques": [
+          {
+            "technique_name": "File and Directory Discovery",
+            "technique_id": "T1083",
+            "technique_details": "The ransomware enumerates directories to encrypt files."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0040",
+        "tactic_name": "Impact",
+        "techniques": [
+          {
+            "technique_name": "Data Encrypted for Impact",
+            "technique_id": "T1486",
+            "technique_details": "The ransomware uses data encryption to extort the victim."
+          }
+        ]
+      }
+    ],
+    "vulnerabilities": [],
+    "tools": {
+      "CredentialTheft": [
+        "Mimikatz"
+      ],
+      "DiscoveryEnum": [
+        "Advanced IP Scanner",
+        "PingCastle",
+        "SoftPerfect NetScan"
+      ]
+    },
+    "locations": [
+      {
+        "fqdn": "dragonforxxbp3awc7mzs5dkswrua3znqyx5roefmi4smjrsdi22xwqd.onion",
+        "title": "DragonForce | Leaks",
+        "slug": "http://dragonforxxbp3awc7mzs5dkswrua3znqyx5roefmi4smjrsdi22xwqd.onion",
+        "type": "Files",
+        "available": true
+      },
+      {
+        "fqdn": "z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion",
+        "title": "DragonForce | Blog",
+        "slug": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion",
+        "title": "DragonForce | Recovery",
+        "slug": "http://3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion",
+        "type": "DLS",
+        "available": true
+      }
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 17,
+    "has_ransomnote": true,
+    "ransomnotes_count": 2,
+    "url": "https://www.ransomware.live/group/dragonforce"
+  },
+  "sinobi": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "sinobi",
+    "description": "Sinobi is a private vetted-affiliate RaaS group that emerged in mid-2025, believed to be a rebrand of the Lynx/INC ransomware lineage, claiming 176 victims by end of 2025 through double-extortion attacks primarily against mid-market US organizations via compromised SonicWall VPN credentials.",
+    "added_date": "2025-07-05",
+    "victims": 274,
+    "firstseen": "2025-03-24T00:00:00+00:00",
+    "lastseen": "2026-05-05T20:01:52.958000+00:00",
+    "ttps": [
+      {
+        "tactic_id": "TA0001",
+        "tactic_name": "Initial Access",
+        "techniques": [
+          {
+            "technique_name": "Valid Accounts",
+            "technique_id": "T1078",
+            "technique_details": "Use of valid credentials from MSPs (Managed Service Providers)."
+          },
+          {
+            "technique_name": "Exploit Public-Facing Application",
+            "technique_id": "T1190",
+            "technique_details": "Exploitation of vulnerabilities in VPNs (SonicWall)."
+          },
+          {
+            "technique_name": "Phishing",
+            "technique_id": "T1566",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0002",
+        "tactic_name": "Execution",
+        "techniques": [
+          {
+            "technique_name": "Command and Scripting Interpreter: PowerShell",
+            "technique_id": "T1059.001",
+            "technique_details": "Heavy use of PowerShell for script and in-memory command execution."
+          },
+          {
+            "technique_name": "Command and Scripting Interpreter: Windows Command Shell",
+            "technique_id": "T1059.003",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Native API",
+            "technique_id": "T1106",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Exploitation for Client Execution",
+            "technique_id": "T1203",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "System Services: Service Execution",
+            "technique_id": "T1569.002",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0003",
+        "tactic_name": "Persistence",
+        "techniques": [
+          {
+            "technique_name": "Create or Modify System Process: Windows Service",
+            "technique_id": "T1543.003",
+            "technique_details": "Creation or modification of Windows services to ensure malware restart."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0004",
+        "tactic_name": "Privilege Escalation",
+        "techniques": [
+          {
+            "technique_name": "Exploitation for Privilege Escalation",
+            "technique_id": "T1068",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0005",
+        "tactic_name": "Defense Evasion",
+        "techniques": [
+          {
+            "technique_name": "Obfuscated Files or Information",
+            "technique_id": "T1027",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Indicator Removal",
+            "technique_id": "T1070",
+            "technique_details": "Removal of event logs."
+          },
+          {
+            "technique_name": "Indicator Removal: File Deletion",
+            "technique_id": "T1070.004",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Impair Defenses: Disable or Modify Tools",
+            "technique_id": "T1562.001",
+            "technique_details": "Active disabling of EDR solutions (such as VMware Carbon Black)."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0007",
+        "tactic_name": "Discovery",
+        "techniques": [
+          {
+            "technique_name": "Network Service Discovery",
+            "technique_id": "T1046",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "File and Directory Discovery",
+            "technique_id": "T1083",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Account Discovery: Domain Account",
+            "technique_id": "T1087.002",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0008",
+        "tactic_name": "Lateral Movement",
+        "techniques": [
+          {
+            "technique_name": "Remote Services: Remote Desktop Protocol",
+            "technique_id": "T1021.001",
+            "technique_details": "Use of RDP to navigate between servers after privilege escalation."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0010",
+        "tactic_name": "Exfiltration",
+        "techniques": [
+          {
+            "technique_name": "Exfiltration Over Web Service: Exfiltration to Cloud Storage",
+            "technique_id": "T1567.002",
+            "technique_details": "Use of Rclone tool to send data to public cloud providers before encryption."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0011",
+        "tactic_name": "Command and Control",
+        "techniques": [
+          {
+            "technique_name": "Encrypted Channel: Symmetric Cryptography",
+            "technique_id": "T1573.001",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0040",
+        "tactic_name": "Impact",
+        "techniques": [
+          {
+            "technique_name": "Data Encrypted for Impact",
+            "technique_id": "T1486",
+            "technique_details": "Data encryption via AES-128-CTR and Curve-25519, adding the .SINOBI extension."
+          },
+          {
+            "technique_name": "Service Stop",
+            "technique_id": "T1489",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Inhibit System Recovery",
+            "technique_id": "T1490",
+            "technique_details": "Deletion of Shadow Copies via vssadmin.exe."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0042",
+        "tactic_name": "Resource Development",
+        "techniques": [
+          {
+            "technique_name": "Develop Capabilities: Malware",
+            "technique_id": "T1587.001",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Obtain Capabilities: Tool",
+            "technique_id": "T1588.002",
+            "technique_details": ""
+          }
+        ]
+      }
+    ],
+    "vulnerabilities": [
+      {
+        "Vendor": "Oracle",
+        "Product": "Oracle E-Business Suite (EBS)",
+        "CVE": "CVE-2025-61882",
+        "CVSS": 9.8,
+        "severity": "CRITICAL"
+      },
+      {
+        "Vendor": "SonicWall",
+        "Product": "SonicWall SSL VPN",
+        "CVE": "CVE-2024-53704",
+        "CVSS": 9.8,
+        "severity": "CRITICAL"
+      },
+      {
+        "Vendor": "SonicWall",
+        "Product": "SonicWall SonicOS",
+        "CVE": "CVE-2024-40766",
+        "CVSS": 9.8,
+        "severity": "CRITICAL"
+      }
+    ],
+    "tools": {},
+    "locations": [
+      {
+        "fqdn": "sinobia6mw6ht2wcdjphessyzpy7ph2y4dyqbd74bgobgju4ybytmkqd.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobia6mw6ht2wcdjphessyzpy7ph2y4dyqbd74bgobgju4ybytmkqd.onion/leaks",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "sinobi7sukclb3ygtorysbtrodgdbnrmgbhov45rwzipubbzhiu5jvqd.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobi7sukclb3ygtorysbtrodgdbnrmgbhov45rwzipubbzhiu5jvqd.onion/leaks",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "sinobi23i75c3znmqqxxyuzqvhxnjsar7actgvc4nqeuhgcn5yvz3zqd.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobi23i75c3znmqqxxyuzqvhxnjsar7actgvc4nqeuhgcn5yvz3zqd.onion/leaks",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "sinobi57mfegeov2naiufkidlkpze263jtbldokimfjqmk2mye6s4yqd.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobi57mfegeov2naiufkidlkpze263jtbldokimfjqmk2mye6s4yqd.onion/login",
+        "type": "Chat",
+        "available": true
+      },
+      {
+        "fqdn": "sinobi7l3wet3uqn4cagjiessuomv75aw3bvgah4jpj43od7xndb7kad.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobi7l3wet3uqn4cagjiessuomv75aw3bvgah4jpj43od7xndb7kad.onion/leaks",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd.onion/leaks",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "sinobi6rlec6f2bgn6rd72xo7hvds4a5ajiu2if4oub2sut7fg3gomqd.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobi6rlec6f2bgn6rd72xo7hvds4a5ajiu2if4oub2sut7fg3gomqd.onion/leaks",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "sinobi6ywgmmvg2gj2yygkb2hxbimaxpqkyk27wti5zjwhfcldhackid.onion",
+        "title": "Sinobi",
+        "slug": "http://sinobi6ywgmmvg2gj2yygkb2hxbimaxpqkyk27wti5zjwhfcldhackid.onion/leaks",
+        "type": "DLS",
+        "available": true
+      }
+    ],
+    "has_negotiations": false,
+    "negotiation_count": 0,
+    "has_ransomnote": true,
+    "ransomnotes_count": 1,
+    "url": "https://www.ransomware.live/group/sinobi"
+  },
+  "babuk2": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "babuk2",
+    "description": "Babuk Locker 2.0, also known as Bjorka or SkyWave, after failing to make any profit from selling public databases on forums, decided to impersonate Babuk Ransomware group. He launched a blog where he claimed multiple public breaches from BreachForums as ransomware attacks",
+    "added_date": "2025-01-27",
+    "victims": 180,
+    "firstseen": "2021-02-01T08:26:49.563762+00:00",
+    "lastseen": "2025-04-06T20:59:36+00:00",
+    "ttps": [],
+    "vulnerabilities": [],
+    "tools": {},
+    "locations": [
+      {
+        "fqdn": "7dikawx73goypgfi4zyo5fcajxwb7agemmiwqax3p54aey4dwobcvcyd.onion",
+        "title": "Babuk - Leaks site",
+        "slug": "http://7dikawx73goypgfi4zyo5fcajxwb7agemmiwqax3p54aey4dwobcvcyd.onion/",
+        "type": "DLS",
+        "available": false
+      },
+      {
+        "fqdn": "212.24.99.211.",
+        "title": "",
+        "slug": "http://212.24.99.211/",
+        "type": "DLS",
+        "available": false
+      },
+      {
+        "fqdn": "bxwu33iefqfc3rxigynn3ghvq4gdw3gxgxna5m4aa3o4vscdeeqhiqad.onion",
+        "title": "Babuk - Leaks site",
+        "slug": "http://bxwu33iefqfc3rxigynn3ghvq4gdw3gxgxna5m4aa3o4vscdeeqhiqad.onion/",
+        "type": "DLS",
+        "available": false
+      },
+      {
+        "fqdn": "5g2e.l.time4vps.cloud",
+        "title": "",
+        "slug": "http://5g2e.l.time4vps.cloud/",
+        "type": "DLS",
+        "available": false
+      }
+    ],
+    "has_negotiations": false,
+    "negotiation_count": 0,
+    "has_ransomnote": true,
+    "ransomnotes_count": 1,
+    "url": "https://www.ransomware.live/group/babuk2"
+  },
+  "medusa": {
+    "description": "The medusa ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 33,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://medusaleaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "medusa_ransom_encryptor"
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 9,
+    "has_ransomnote": true,
+    "ransomnotes_count": 3
+  },
   "devman": {
     "client": "hose_chamber1d@icloud.com",
     "group": "devman",
@@ -3943,211 +3096,237 @@
     "ransomnotes_count": 1,
     "url": "https://www.ransomware.live/group/devman"
   },
-  "babuk2": {
+  "killsec": {
     "client": "hose_chamber1d@icloud.com",
-    "group": "babuk2",
-    "description": "Babuk Locker 2.0, also known as Bjorka or SkyWave, after failing to make any profit from selling public databases on forums, decided to impersonate Babuk Ransomware group. He launched a blog where he claimed multiple public breaches from BreachForums as ransomware attacks",
-    "added_date": "2025-01-27",
-    "victims": 180,
-    "firstseen": "2021-02-01T08:26:49.563762+00:00",
-    "lastseen": "2025-04-06T20:59:36+00:00",
+    "group": "killsec",
+    "description": "KillSec originated as a hacktivist group aligned with the Anonymous movement before pivoting to ransomware operations in October 2023, officially launching a RaaS platform in June 2024 with an affiliate-friendly 88% revenue split, primarily targeting healthcare, financial services, and government sectors with over 250 documented victims as of late 2025.",
+    "added_date": null,
+    "victims": 279,
+    "firstseen": "2024-02-21T10:00:00+00:00",
+    "lastseen": "2026-05-14T02:53:09.750608+00:00",
     "ttps": [],
     "vulnerabilities": [],
     "tools": {},
     "locations": [
       {
-        "fqdn": "7dikawx73goypgfi4zyo5fcajxwb7agemmiwqax3p54aey4dwobcvcyd.onion",
-        "title": "Babuk - Leaks site",
-        "slug": "http://7dikawx73goypgfi4zyo5fcajxwb7agemmiwqax3p54aey4dwobcvcyd.onion/",
+        "fqdn": "kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion",
+        "title": "Kill Security 2.0",
+        "slug": "http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion",
         "type": "DLS",
         "available": false
       },
       {
-        "fqdn": "212.24.99.211.",
-        "title": "",
-        "slug": "http://212.24.99.211/",
+        "fqdn": "ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion",
+        "title": "KillSec",
+        "slug": "http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php",
         "type": "DLS",
-        "available": false
-      },
-      {
-        "fqdn": "bxwu33iefqfc3rxigynn3ghvq4gdw3gxgxna5m4aa3o4vscdeeqhiqad.onion",
-        "title": "Babuk - Leaks site",
-        "slug": "http://bxwu33iefqfc3rxigynn3ghvq4gdw3gxgxna5m4aa3o4vscdeeqhiqad.onion/",
-        "type": "DLS",
-        "available": false
-      },
-      {
-        "fqdn": "5g2e.l.time4vps.cloud",
-        "title": "",
-        "slug": "http://5g2e.l.time4vps.cloud/",
-        "type": "DLS",
-        "available": false
-      }
-    ],
-    "has_negotiations": false,
-    "negotiation_count": 0,
-    "has_ransomnote": true,
-    "ransomnotes_count": 1,
-    "url": "https://www.ransomware.live/group/babuk2"
-  },
-  "coinbasecartel": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "coinbasecartel",
-    "description": "CoinbaseCartel specializes in data acquisition through system access and strategic partnerships. It focus exclusively on data exfiltration\u2014our operations never involve system encryption or operational disruption.",
-    "added_date": "2025-09-15",
-    "victims": 169,
-    "firstseen": "2023-05-26T01:02:03.456789+00:00",
-    "lastseen": "2026-05-15T20:57:37.982099+00:00",
-    "ttps": [
-      {
-        "tactic_id": "TA0001",
-        "tactic_name": "Initial Access",
-        "techniques": [
-          {
-            "technique_name": "Valid Accounts: Cloud Accounts",
-            "technique_id": "T1078.004",
-            "technique_details": "Massive focus on credential theft from SaaS platforms (Salesforce, Microsoft 365)."
-          },
-          {
-            "technique_name": "Replication Through Removable Media",
-            "technique_id": "T1091",
-            "technique_details": "Although less common, there are records of attempts via service providers (corrupted insiders/third parties)."
-          },
-          {
-            "technique_name": "External Remote Services",
-            "technique_id": "T1133",
-            "technique_details": "Abuse of VPNs and RDP using credentials harvested by infostealers or purchased from IABs (Initial Access Brokers)."
-          },
-          {
-            "technique_name": "Phishing: Spearphishing Voice (Vishing)",
-            "technique_id": "T1566.003",
-            "technique_details": "Use of voice social engineering to induce employees to authorize malicious OAuth applications."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0002",
-        "tactic_name": "Execution",
-        "techniques": [
-          {
-            "technique_name": "Command and Scripting Interpreter: Unix Shell",
-            "technique_id": "T1059.004",
-            "technique_details": "The shinysp1d3r loader is executed via shell scripts on ESXi systems."
-          },
-          {
-            "technique_name": "Command and Scripting Interpreter: Python",
-            "technique_id": "T1059.006",
-            "technique_details": "Use of custom scripts that mimic legitimate tools (e.g., Salesforce Data Loader) for rapid exfiltration."
-          },
-          {
-            "technique_name": "User Execution: Malicious File",
-            "technique_id": "T1204.002",
-            "technique_details": "Deceiving users into executing fake OAuth connectors."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0003",
-        "tactic_name": "Persistence",
-        "techniques": [
-          {
-            "technique_name": "Account Manipulation: Additional Cloud Credentials",
-            "technique_id": "T1098.003",
-            "technique_details": "Adding new secrets or keys to existing OAuth applications to maintain access even after password changes."
-          },
-          {
-            "technique_name": "Create Account: Local Account",
-            "technique_id": "T1136.001",
-            "technique_details": "Creation of \"ghost\" administrator users on VMware hosts."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0005",
-        "tactic_name": "Defense Evasion",
-        "techniques": [
-          {
-            "technique_name": "Masquerading: Match Legitimate Name or Location",
-            "technique_id": "T1036.005",
-            "technique_details": "Renaming malicious binaries to names of critical VMware processes or backup tools."
-          },
-          {
-            "technique_name": "Indicator Removal: Clear Windows Event Logs",
-            "technique_id": "T1070.001",
-            "technique_details": "Systematic cleaning of syslogs and audit logs in ESXi environments."
-          },
-          {
-            "technique_name": "Impair Defenses: Disable or Modify Tools",
-            "technique_id": "T1562.001",
-            "technique_details": "Disabling virtual machine snapshots before encryption (when they opt for it)."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0007",
-        "tactic_name": "Discovery",
-        "techniques": [
-          {
-            "technique_name": "Remote System Discovery",
-            "technique_id": "T1018",
-            "technique_details": "Enumeration of Active Directory objects from non-privileged user accounts."
-          },
-          {
-            "technique_name": "File and Directory Discovery",
-            "technique_id": "T1083",
-            "technique_details": "Scanning vCenter datastores to identify critical VMs and databases."
-          },
-          {
-            "technique_name": "Cloud Service Dashboard",
-            "technique_id": "T1538",
-            "technique_details": "Exploration of AWS/Azure consoles to identify EBS volumes and S3 instances."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0010",
-        "tactic_name": "Exfiltration",
-        "techniques": [
-          {
-            "technique_name": "Exfiltration Over Web Service: Exfiltration to Cloud Storage",
-            "technique_id": "T1567.002",
-            "technique_details": "Use of tools like Rclone to send data to providers such as Mega or Dropbox."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0040",
-        "tactic_name": "Impact",
-        "techniques": [
-          {
-            "technique_name": "Data Encrypted for Impact",
-            "technique_id": "T1486",
-            "technique_details": "Secondary technique, focused on .vmdk files via shinysp1d3r loader."
-          },
-          {
-            "technique_name": "Financial Theft",
-            "technique_id": "T1657",
-            "technique_details": "Direct extortion based on the threat of leaking data on Onion forums (DLS)."
-          }
-        ]
-      }
-    ],
-    "vulnerabilities": [],
-    "tools": {},
-    "locations": [
-      {
-        "fqdn": "fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion",
-        "title": "System Breach \u2022 Coinbasecartel",
-        "slug": "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion",
-        "type": "DLS",
-        "available": false
+        "available": true
       }
     ],
     "has_negotiations": false,
     "negotiation_count": 0,
     "has_ransomnote": false,
     "ransomnotes_count": 0,
-    "url": "https://www.ransomware.live/group/coinbasecartel"
+    "url": "https://www.ransomware.live/group/killsec"
+  },
+  "worldleaks": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "worldleaks",
+    "description": "World Leaks emerged in January 2025 as a rebrand of the Hunters International ransomware operation, shifting its focus from file encryption to solely stealing sensitive data and threatening to leak it unless a ransom is paid",
+    "added_date": "2025-05-16",
+    "victims": 155,
+    "firstseen": "2022-06-23T18:57:09+00:00",
+    "lastseen": "2026-05-12T16:59:22+00:00",
+    "ttps": [],
+    "vulnerabilities": [],
+    "tools": {},
+    "locations": [
+      {
+        "fqdn": "worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion",
+        "title": "(no title)",
+        "slug": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/api/companies",
+        "type": "DLS",
+        "available": true
+      }
+    ],
+    "has_negotiations": false,
+    "negotiation_count": 0,
+    "has_ransomnote": true,
+    "ransomnotes_count": 1,
+    "url": "https://www.ransomware.live/group/worldleaks"
+  },
+  "lockbit5": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "lockbit5",
+    "description": "LockBit 5.0 (\"ChuongDong\") emerged in September 2025 as the group's resurgence following the February 2024 law enforcement takedown, introducing cross-platform payloads targeting Windows, Linux, and VMware ESXi with enhanced evasion capabilities and continuing the RaaS affiliate model of its predecessors.",
+    "added_date": "2025-12-04",
+    "victims": 252,
+    "firstseen": "2024-08-17T20:01:00+00:00",
+    "lastseen": "2026-05-09T11:33:00+00:00",
+    "ttps": [],
+    "vulnerabilities": [],
+    "tools": {},
+    "locations": [
+      {
+        "fqdn": "lockbitsuppyx2jegaoyiw44ica5vdho63m5ijjlmfb7omq3tfr3qhyd.onion",
+        "title": "",
+        "slug": "http://lockbitsuppyx2jegaoyiw44ica5vdho63m5ijjlmfb7omq3tfr3qhyd.onion",
+        "type": "Chat",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion",
+        "title": "",
+        "slug": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitkybiqhyv64vdaamz7uf2ymjoafyalx3e6spmmsz5xyk5nbcad.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitkybiqhyv64vdaamz7uf2ymjoafyalx3e6spmmsz5xyk5nbcad.onion",
+        "type": "DLS",
+        "available": false
+      },
+      {
+        "fqdn": "lockbityq64mwtobqqcr3iwxs5q4o7iliuv72gbx4vflggj4m4wqekad.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbityq64mwtobqqcr3iwxs5q4o7iliuv72gbx4vflggj4m4wqekad.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitynxdcxtuvma5deq5pxtnqoacftuigkk37xjq3whefozdpcuad.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitynxdcxtuvma5deq5pxtnqoacftuigkk37xjq3whefozdpcuad.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitfnszjao7hayqsd424m74k5jxc52hozvabjrut7pjfsfaaaoad.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitfnszjao7hayqsd424m74k5jxc52hozvabjrut7pjfsfaaaoad.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitnpobu6luzzlxb7br5uyqnmeruwimpjuw2kv442nvxd6sufsad.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitnpobu6luzzlxb7br5uyqnmeruwimpjuw2kv442nvxd6sufsad.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitdx4kanolaotenc3nmonlxv5enmhxdh2lk54rirvcdsljfbjyd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitdx4kanolaotenc3nmonlxv5enmhxdh2lk54rirvcdsljfbjyd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitjqfuyrkxiie6bcly6ow4sh6lmyuyvyats5hcpe5e6hbuhikyd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitjqfuyrkxiie6bcly6ow4sh6lmyuyvyats5hcpe5e6hbuhikyd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitotfzuq2lpyydzgbhelps2mcz62cpix4nzpcyaak5444iwfmqd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitotfzuq2lpyydzgbhelps2mcz62cpix4nzpcyaak5444iwfmqd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbit7tnu7whmaqnnlmvnoxzejssvr6vkcoovg35encvnp24pikvyd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbit7tnu7whmaqnnlmvnoxzejssvr6vkcoovg35encvnp24pikvyd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbity44loulvujiaoels7knti2tfsnglclnse22syaa6x3vpqp7yd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbity44loulvujiaoels7knti2tfsnglclnse22syaa6x3vpqp7yd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitabmbzz652qeqd7yztgugcihpy4s4f6zuqi3jx32rzjylsn7ad.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitabmbzz652qeqd7yztgugcihpy4s4f6zuqi3jx32rzjylsn7ad.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbithn5a2qgf4ojvut3q25yylrauvjxrz6sjdd4teas65osru2lqd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbithn5a2qgf4ojvut3q25yylrauvjxrz6sjdd4teas65osru2lqd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitf75dfwq4bsec3iaytf6z5z6dmstx3g35grn74ndxy3py2ozyd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitf75dfwq4bsec3iaytf6z5z6dmstx3g35grn74ndxy3py2ozyd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbity3v2rhjjjt6opcgvdrrlvdbrt3p2wqmxmq4cm36cchphdy6qd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbity3v2rhjjjt6opcgvdrrlvdbrt3p2wqmxmq4cm36cchphdy6qd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitqth2ij5cdqmj4cdchoh3etnlbh74utqviwqb5svvhxygnmoqd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitqth2ij5cdqmj4cdchoh3etnlbh74utqviwqb5svvhxygnmoqd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitbgtyqtgutvasrld5gx23ozo32y4xkjrby6bte3zyvjdlyoxyd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitbgtyqtgutvasrld5gx23ozo32y4xkjrby6bte3zyvjdlyoxyd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitgf43c7avhx5wesx5ambjgbormhwc2tujsy6lvg6drkjhnjryd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitgf43c7avhx5wesx5ambjgbormhwc2tujsy6lvg6drkjhnjryd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitdzdbv5dh6ncf65c22tdgej72sty6ikiieuinibh6icnzrv4yd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitdzdbv5dh6ncf65c22tdgej72sty6ikiieuinibh6icnzrv4yd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbit24pegjquuwbmwjlvyivmyaujf33kvlepcxyncnugm3zw73myd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbit24pegjquuwbmwjlvyivmyaujf33kvlepcxyncnugm3zw73myd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbit6vhrjaqzsdj6pqalyideigxv4xycfeyunpx35znogiwmojnid.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbit6vhrjaqzsdj6pqalyideigxv4xycfeyunpx35znogiwmojnid.onion",
+        "type": "DLS",
+        "available": true
+      }
+    ],
+    "has_negotiations": false,
+    "negotiation_count": 0,
+    "has_ransomnote": false,
+    "ransomnotes_count": 0,
+    "url": "https://www.ransomware.live/group/lockbit5"
   },
   "everest": {
     "client": "hose_chamber1d@icloud.com",
@@ -4308,14 +3487,399 @@
     "ransomnotes_count": 1,
     "url": "https://www.ransomware.live/group/everest"
   },
-  "medusa": {
-    "description": "The medusa ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
-    "victims": 33,
+  "fog": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "fog",
+    "description": "Fog, which uses the .flocked extension for encrypted files, was first observed in May in campaigns by Storm-0844, a threat actor known for distributing Akira. By June, Storm-0844 was deploying Fog more than Akira.",
+    "added_date": null,
+    "victims": 189,
+    "firstseen": "2021-12-20T00:00:00+00:00",
+    "lastseen": "2025-03-20T00:00:00+00:00",
+    "ttps": [],
+    "vulnerabilities": [],
+    "tools": {
+      "CredentialTheft": [
+        "DonPAPI",
+        "Veeam-Get-Creds"
+      ],
+      "DiscoveryEnum": [
+        "Advanced Port Scanner",
+        "SharpShares",
+        "SoftPerfect NetScan"
+      ],
+      "LOLBAS": [
+        "PsExec"
+      ],
+      "Networking": [
+        "Powercat",
+        "Proxychains"
+      ],
+      "Offsec": [
+        "Certipy",
+        "Impacket",
+        "Metasploit",
+        "NetExec",
+        "Orpheus",
+        "Sliver",
+        "Zer0dump"
+      ],
+      "RMM-Tools": [
+        "AnyDesk"
+      ]
+    },
+    "locations": [
+      {
+        "fqdn": "xbkv2qey6u3gd3qxcojynrt4h5sgrhkar6whuo74wo63hijnn677jnyd.onion",
+        "title": "Blog",
+        "slug": "http://xbkv2qey6u3gd3qxcojynrt4h5sgrhkar6whuo74wo63hijnn677jnyd.onion/posts",
+        "type": "DLS",
+        "available": false
+      },
+      {
+        "fqdn": "xql562evsy7njcsngacphc2erzjfecwotdkobn3m4uxu2gtqh26newid.onion",
+        "title": "500 Internal Server Error",
+        "slug": "http://xql562evsy7njcsngacphc2erzjfecwotdkobn3m4uxu2gtqh26newid.onion/",
+        "type": "DLS",
+        "available": false
+      }
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 6,
+    "has_ransomnote": true,
+    "ransomnotes_count": 2,
+    "url": "https://www.ransomware.live/group/fog"
+  },
+  "nightspire": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "nightspire",
+    "description": "NightSpire is a ransomware group that first emerged in March 2025 and rapidly claimed over 250 victims across retail, manufacturing, healthcare, finance, and education sectors in the US, France, India, Taiwan, and Japan, using aggressive double-extortion with ransom deadlines as short as two days.",
+    "added_date": "2025-03-12",
+    "victims": 265,
+    "firstseen": "2025-02-17T00:00:00+00:00",
+    "lastseen": "2026-05-18T00:00:00+00:00",
+    "ttps": [
+      {
+        "tactic_id": "TA0001",
+        "tactic_name": "Initial Access",
+        "techniques": [
+          {
+            "technique_name": "Valid Accounts",
+            "technique_id": "T1078",
+            "technique_details": "Compromised RDP credentials used for initial access."
+          },
+          {
+            "technique_name": "Brute Force",
+            "technique_id": "T1110",
+            "technique_details": "Brute-forcing remote login credentials (RDP) and MFA fatigue attacks."
+          },
+          {
+            "technique_name": "Exploit Public-Facing Application",
+            "technique_id": "T1190",
+            "technique_details": "Exploitation of CVE-2024-55591 \u2014 FortiOS/FortiProxy authentication bypass; unauthenticated attackers gain super-admin privileges via crafted POST requests to /api/v2/cmdb/."
+          },
+          {
+            "technique_name": "Phishing",
+            "technique_id": "T1566",
+            "technique_details": "Malicious attachments and drive-by downloads."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0002",
+        "tactic_name": "Execution",
+        "techniques": [
+          {
+            "technique_name": "Command and Scripting Interpreter",
+            "technique_id": "T1059",
+            "technique_details": "PowerShell scripts, batch files, PsExec, WMI; conhost.exe command execution window."
+          },
+          {
+            "technique_name": "Software Deployment Tools",
+            "technique_id": "T1072",
+            "technique_details": "Abuse of legitimate tools (WinSCP, MEGACmd, 7-Zip, PsExec) across the attack chain."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0003",
+        "tactic_name": "Persistence",
+        "techniques": [
+          {
+            "technique_name": "Scheduled Task/Job",
+            "technique_id": "T1053",
+            "technique_details": "Persistence via Windows Task Scheduler; service creation and modification."
+          },
+          {
+            "technique_name": "Create Account",
+            "technique_id": "T1136",
+            "technique_details": "Administrative account creation post-exploitation on FortiGate devices."
+          },
+          {
+            "technique_name": "Boot or Logon Autostart Execution",
+            "technique_id": "T1547",
+            "technique_details": "Reboot persistence mechanisms."
+          },
+          {
+            "technique_name": "Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder",
+            "technique_id": "T1547.001",
+            "technique_details": "Persistence via HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run and RunOnce."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0004",
+        "tactic_name": "Privilege Escalation",
+        "techniques": [
+          {
+            "technique_name": "Exploitation for Privilege Escalation",
+            "technique_id": "T1068",
+            "technique_details": "FortiOS super-admin access via CVE-2024-55591 exploitation."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0005",
+        "tactic_name": "Defense Evasion",
+        "techniques": [
+          {
+            "technique_name": "Obfuscated Files or Information",
+            "technique_id": "T1027",
+            "technique_details": "Obfuscation techniques to evade analysis."
+          },
+          {
+            "technique_name": "Masquerading",
+            "technique_id": "T1036",
+            "technique_details": "Renamed processes and use of legitimate tools (WinSCP, MEGACmd, 7-Zip, PsExec) blending into normal operations."
+          },
+          {
+            "technique_name": "Indicator Removal",
+            "technique_id": "T1070",
+            "technique_details": "Removal of forensic indicators from compromised systems."
+          },
+          {
+            "technique_name": "System Binary Proxy Execution",
+            "technique_id": "T1218",
+            "technique_details": "Execution via legitimate system binaries (LOLBins) to evade detection."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0006",
+        "tactic_name": "Credential Access",
+        "techniques": [
+          {
+            "technique_name": "OS Credential Dumping",
+            "technique_id": "T1003",
+            "technique_details": "Credential dumping via Mimikatz."
+          },
+          {
+            "technique_name": "OS Credential Dumping: LSASS Memory",
+            "technique_id": "T1003.001",
+            "technique_details": "LSASS memory extraction for credential harvesting."
+          },
+          {
+            "technique_name": "Unsecured Credentials",
+            "technique_id": "T1552",
+            "technique_details": "Harvesting of stored credentials within the environment."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0007",
+        "tactic_name": "Discovery",
+        "techniques": [
+          {
+            "technique_name": "Network Service Discovery",
+            "technique_id": "T1046",
+            "technique_details": "Network scanning to map internal infrastructure using Advanced IP Scanner."
+          },
+          {
+            "technique_name": "Process Discovery",
+            "technique_id": "T1057",
+            "technique_details": "Process enumeration on compromised systems."
+          },
+          {
+            "technique_name": "System Information Discovery",
+            "technique_id": "T1082",
+            "technique_details": "Collection of system details from compromised hosts."
+          },
+          {
+            "technique_name": "File and Directory Discovery",
+            "technique_id": "T1083",
+            "technique_details": "File indexing and enumeration using Everything.exe."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0008",
+        "tactic_name": "Lateral Movement",
+        "techniques": [
+          {
+            "technique_name": "Remote Services: Remote Desktop Protocol",
+            "technique_id": "T1021.001",
+            "technique_details": "RDP-based lateral movement across compromised network."
+          },
+          {
+            "technique_name": "Remote Services: SMB/Windows Admin Shares",
+            "technique_id": "T1021.002",
+            "technique_details": "Lateral movement via PsExec over SMB."
+          },
+          {
+            "technique_name": "Windows Management Instrumentation",
+            "technique_id": "T1047",
+            "technique_details": "WMI-based execution and lateral movement."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0009",
+        "tactic_name": "Collection",
+        "techniques": [
+          {
+            "technique_name": "Automated Collection",
+            "technique_id": "T1119",
+            "technique_details": "Automated sensitive data gathering from compromised systems."
+          },
+          {
+            "technique_name": "Archive Collected Data",
+            "technique_id": "T1560",
+            "technique_details": "Compression of collected data using 7-Zip (7z2408-x64.exe) prior to exfiltration."
+          },
+          {
+            "technique_name": "Archive Collected Data: Archive via Utility",
+            "technique_id": "T1560.001",
+            "technique_details": "7-Zip archiving of stolen data prior to exfiltration."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0010",
+        "tactic_name": "Exfiltration",
+        "techniques": [
+          {
+            "technique_name": "Exfiltration Over C2 Channel",
+            "technique_id": "T1041",
+            "technique_details": "Data exfiltration over C2 channel."
+          },
+          {
+            "technique_name": "Exfiltration Over Alternative Protocol",
+            "technique_id": "T1048",
+            "technique_details": "Data exfiltration via WinSCP (v6.3.7) and Rclone over encrypted channels."
+          },
+          {
+            "technique_name": "Exfiltration Over Web Service: Exfiltration to Cloud Storage",
+            "technique_id": "T1567.002",
+            "technique_details": "MEGACmd used to upload stolen data to MEGA cloud storage. Documented exfiltration of 1.5TB from a single healthcare victim."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0011",
+        "tactic_name": "Command and Control",
+        "techniques": [
+          {
+            "technique_name": "Application Layer Protocol",
+            "technique_id": "T1071",
+            "technique_details": "Standard web protocols and Tor-based communication. Multi-channel comms: ProtonMail, OnionMail, Gmail, Telegram, qTox."
+          },
+          {
+            "technique_name": "Encrypted Channel",
+            "technique_id": "T1573",
+            "technique_details": "Asymmetric encrypted non-C2 protocols used to evade IDS."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0040",
+        "tactic_name": "Impact",
+        "techniques": [
+          {
+            "technique_name": "Data Encrypted for Impact",
+            "technique_id": "T1486",
+            "technique_details": "Hybrid AES-256 (file content) + RSA-2048 (key protection) encryption; appends .nspire extension; processes files in 1MB block chunks. Double extortion model \u2014 data theft + encryption."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0042",
+        "tactic_name": "Resource Development",
+        "techniques": [
+          {
+            "technique_name": "Develop Capabilities",
+            "technique_id": "T1587",
+            "technique_details": "Custom Go-based ransomware development with modular architecture."
+          }
+        ]
+      }
+    ],
+    "vulnerabilities": [],
+    "tools": {
+      "DiscoveryEnum": [
+        "Everything.exe"
+      ],
+      "Exfiltration": [
+        "MEGA",
+        "WinSCP"
+      ]
+    },
+    "locations": [
+      {
+        "fqdn": "nspirep7orjq73k2x2fwh2mxgh74vm2now6cdbnnxjk2f5wn34bmdxad.onion",
+        "title": "RaaS Service Started",
+        "slug": "http://nspirep7orjq73k2x2fwh2mxgh74vm2now6cdbnnxjk2f5wn34bmdxad.onion/database",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "nspire7lugml7ybqyjaaxtsgrs4qn3fcon3lrjbih6wamttvdm5ke4qd.onion",
+        "title": "Verify human - NightSpire",
+        "slug": "http://nspire7lugml7ybqyjaaxtsgrs4qn3fcon3lrjbih6wamttvdm5ke4qd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion",
+        "title": "NightSpire",
+        "slug": "http://nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion/database",
+        "type": "DLS",
+        "available": false
+      },
+      {
+        "fqdn": "a2lyiiaq4n74tlgz4fk3ft4akolapfrzk772dk24iq32cznjsmzpanqd.onion",
+        "title": "NightSpire",
+        "slug": "http://a2lyiiaq4n74tlgz4fk3ft4akolapfrzk772dk24iq32cznjsmzpanqd.onion",
+        "type": "DLS",
+        "available": false
+      },
+      {
+        "fqdn": "nspirebcv4sy3yydtaercuut34hwc4fsxqqv4b4ye4xmo6qp3vxhulqd.onion",
+        "title": "Database | NightSpire",
+        "slug": "http://nspirebcv4sy3yydtaercuut34hwc4fsxqqv4b4ye4xmo6qp3vxhulqd.onion/database",
+        "type": "DLS",
+        "available": false
+      },
+      {
+        "fqdn": "nspiremkiq44zcxjbgvab4mdedyh2pzj5kzbmvftcugq3mczx3dqogid.onion",
+        "title": "Database | NightSpire",
+        "slug": "http://nspiremkiq44zcxjbgvab4mdedyh2pzj5kzbmvftcugq3mczx3dqogid.onion/database",
+        "type": "DLS",
+        "available": false
+      }
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 11,
+    "has_ransomnote": true,
+    "ransomnotes_count": 3,
+    "url": "https://www.ransomware.live/group/nightspire"
+  },
+  "rhysida": {
+    "description": "The rhysida ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 31,
     "firstseen": "2025-01-10T12:00:00Z",
     "lastseen": "2026-05-20T18:00:00Z",
     "locations": [
       {
-        "url": "http://medusaleaksite557asd.onion",
+        "url": "http://rhysidaleaksite557asd.onion",
         "type": "onion"
       }
     ],
@@ -4331,62 +3895,209 @@
     "tools": [
       "Cobalt Strike",
       "Mimikatz",
-      "medusa_ransom_encryptor"
+      "rhysida_ransom_encryptor"
     ],
     "has_negotiations": true,
-    "negotiation_count": 9,
+    "negotiation_count": 1,
     "has_ransomnote": true,
     "ransomnotes_count": 3
   },
-  "worldleaks": {
+  "sarcoma": {
     "client": "hose_chamber1d@icloud.com",
-    "group": "worldleaks",
-    "description": "World Leaks emerged in January 2025 as a rebrand of the Hunters International ransomware operation, shifting its focus from file encryption to solely stealing sensitive data and threatening to leak it unless a ransom is paid",
-    "added_date": "2025-05-16",
-    "victims": 155,
-    "firstseen": "2022-06-23T18:57:09+00:00",
-    "lastseen": "2026-05-12T16:59:22+00:00",
-    "ttps": [],
-    "vulnerabilities": [],
-    "tools": {},
-    "locations": [
-      {
-        "fqdn": "worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion",
-        "title": "(no title)",
-        "slug": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/api/companies",
-        "type": "DLS",
-        "available": true
-      }
-    ],
-    "has_negotiations": false,
-    "negotiation_count": 0,
-    "has_ransomnote": true,
-    "ransomnotes_count": 1,
-    "url": "https://www.ransomware.live/group/worldleaks"
-  },
-  "killsec": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "killsec",
-    "description": "KillSec originated as a hacktivist group aligned with the Anonymous movement before pivoting to ransomware operations in October 2023, officially launching a RaaS platform in June 2024 with an affiliate-friendly 88% revenue split, primarily targeting healthcare, financial services, and government sectors with over 250 documented victims as of late 2025.",
+    "group": "sarcoma",
+    "description": "Sarcoma is a ransomware group that debuted in October 2024, immediately ranking among the top three most active groups globally and surpassing 116 documented victims by mid-2025, targeting mid-market companies across manufacturing, retail, healthcare, legal, and business services with roughly 50% of victims in the United States.",
     "added_date": null,
-    "victims": 279,
-    "firstseen": "2024-02-21T10:00:00+00:00",
-    "lastseen": "2026-05-14T02:53:09.750608+00:00",
-    "ttps": [],
-    "vulnerabilities": [],
-    "tools": {},
-    "locations": [
+    "victims": 141,
+    "firstseen": "2024-07-09T00:00:00+00:00",
+    "lastseen": "2026-03-30T09:25:33.576772+00:00",
+    "ttps": [
       {
-        "fqdn": "kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion",
-        "title": "Kill Security 2.0",
-        "slug": "http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion",
-        "type": "DLS",
-        "available": false
+        "tactic_id": "TA0001",
+        "tactic_name": "Initial Access",
+        "techniques": [
+          {
+            "technique_name": "Valid Accounts",
+            "technique_id": "T1078",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Exploit Public-Facing Application",
+            "technique_id": "T1190",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Trusted Relationship",
+            "technique_id": "T1199",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Phishing",
+            "technique_id": "T1566",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Phishing: Spearphishing Attachment",
+            "technique_id": "T1566.001",
+            "technique_details": ""
+          }
+        ]
       },
       {
-        "fqdn": "ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion",
-        "title": "KillSec",
-        "slug": "http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php",
+        "tactic_id": "TA0003",
+        "tactic_name": "Persistence",
+        "techniques": [
+          {
+            "technique_name": "Scheduled Task/Job",
+            "technique_id": "T1053",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Scheduled Task/Job: Cron",
+            "technique_id": "T1053.003",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0005",
+        "tactic_name": "Defense Evasion",
+        "techniques": [
+          {
+            "technique_name": "Obfuscated Files or Information",
+            "technique_id": "T1027",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Modify Registry",
+            "technique_id": "T1112",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Impair Defenses",
+            "technique_id": "T1562",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Impair Defenses: Disable or Modify Tools",
+            "technique_id": "T1562.001",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0006",
+        "tactic_name": "Credential Access",
+        "techniques": [
+          {
+            "technique_name": "OS Credential Dumping",
+            "technique_id": "T1003",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0007",
+        "tactic_name": "Discovery",
+        "techniques": [
+          {
+            "technique_name": "Remote System Discovery",
+            "technique_id": "T1018",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "File and Directory Discovery",
+            "technique_id": "T1083",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "System Location Discovery",
+            "technique_id": "T1614",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "System Location Discovery: System Language Discovery",
+            "technique_id": "T1614.001",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0008",
+        "tactic_name": "Lateral Movement",
+        "techniques": [
+          {
+            "technique_name": "Remote Services",
+            "technique_id": "T1021",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0009",
+        "tactic_name": "Collection",
+        "techniques": [
+          {
+            "technique_name": "Archive Collected Data",
+            "technique_id": "T1560",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0010",
+        "tactic_name": "Exfiltration",
+        "techniques": [
+          {
+            "technique_name": "Exfiltration Over Web Service",
+            "technique_id": "T1567",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0011",
+        "tactic_name": "Command and Control",
+        "techniques": [
+          {
+            "technique_name": "Remote Access Tools",
+            "technique_id": "T1219",
+            "technique_details": ""
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0040",
+        "tactic_name": "Impact",
+        "techniques": [
+          {
+            "technique_name": "Data Encrypted for Impact",
+            "technique_id": "T1486",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Service Stop",
+            "technique_id": "T1489",
+            "technique_details": ""
+          },
+          {
+            "technique_name": "Inhibit System Recovery",
+            "technique_id": "T1490",
+            "technique_details": ""
+          }
+        ]
+      }
+    ],
+    "vulnerabilities": [],
+    "tools": {
+      "DiscoveryEnum": [
+        "Advanced IP Scanner"
+      ]
+    },
+    "locations": [
+      {
+        "fqdn": "sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion",
+        "title": "Sarcoma Group",
+        "slug": "http://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion",
         "type": "DLS",
         "available": true
       }
@@ -4395,61 +4106,7 @@
     "negotiation_count": 0,
     "has_ransomnote": false,
     "ransomnotes_count": 0,
-    "url": "https://www.ransomware.live/group/killsec"
-  },
-  "handala": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "handala",
-    "description": "Not a Ransomware Group",
-    "added_date": null,
-    "victims": 176,
-    "firstseen": "2024-04-05T07:35:34+00:00",
-    "lastseen": "2026-04-07T10:21:49+00:00",
-    "ttps": [],
-    "vulnerabilities": [],
-    "tools": {},
-    "locations": [
-      {
-        "fqdn": "handala-hack.to",
-        "title": "This Website Has Been Seized",
-        "slug": "https://handala-hack.to/",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "handala.to",
-        "title": "",
-        "slug": "https://handala.to/",
-        "type": "DLS",
-        "available": false
-      },
-      {
-        "fqdn": "vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion",
-        "title": "",
-        "slug": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion",
-        "type": "DLS",
-        "available": false
-      },
-      {
-        "fqdn": "handala-hack.tw",
-        "title": "Security Verification",
-        "slug": "http://handala-hack.tw",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "handala-team.to",
-        "title": "Error Response Page",
-        "slug": "http://handala-team.to",
-        "type": "DLS",
-        "available": false
-      }
-    ],
-    "has_negotiations": false,
-    "negotiation_count": 0,
-    "has_ransomnote": false,
-    "ransomnotes_count": 0,
-    "url": "https://www.ransomware.live/group/handala"
+    "url": "https://www.ransomware.live/group/sarcoma"
   },
   "nova": {
     "client": "hose_chamber1d@icloud.com",
@@ -4559,58 +4216,116 @@
     "ransomnotes_count": 0,
     "url": "https://www.ransomware.live/group/silentransomgroup"
   },
-  "rhysida": {
-    "description": "The rhysida ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
-    "victims": 31,
-    "firstseen": "2025-01-10T12:00:00Z",
-    "lastseen": "2026-05-20T18:00:00Z",
-    "locations": [
-      {
-        "url": "http://rhysidaleaksite557asd.onion",
-        "type": "onion"
-      }
-    ],
-    "ttps": [
-      "T1190 - Exploit Public-Facing Application",
-      "T1078 - Valid Accounts",
-      "T1566 - Phishing"
-    ],
-    "vulnerabilities": [
-      "CVE-2023-4966 (Citrix Bleed)",
-      "CVE-2024-21887 (Ivanti Connect Secure)"
-    ],
-    "tools": [
-      "Cobalt Strike",
-      "Mimikatz",
-      "rhysida_ransom_encryptor"
-    ],
-    "has_negotiations": true,
-    "negotiation_count": 1,
-    "has_ransomnote": true,
-    "ransomnotes_count": 3
-  },
-  "shinyhunters": {
+  "thegentlemen": {
     "client": "hose_chamber1d@icloud.com",
-    "group": "shinyhunters",
-    "description": "ShinyHunters is a financially motivated data-theft and extortion group active since 2020, responsible for high-profile breaches including Ticketmaster (via Snowflake) and PowerSchool; by 2025 they launched a RaaS offering called \"shinysp1d3r,\" and in August 2025 French authorities arrested four members.",
-    "added_date": "2025-10-03",
-    "victims": 103,
-    "firstseen": "2024-04-23T00:00:00+00:00",
-    "lastseen": "2026-05-09T08:56:50.917482+00:00",
+    "group": "thegentlemen",
+    "description": "The Gentlemen is a RaaS group that emerged in July\u2013August 2025, rapidly claiming over 320 victims across 17+ countries by offering affiliates a 90% revenue share, deploying a Go-based locker against Windows, Linux, NAS, and BSD systems; a compromised C2 server in 2026 revealed more than 1,570 linked victims.",
+    "added_date": "2025-09-09",
+    "victims": 424,
+    "firstseen": "2023-02-28T06:59:00+00:00",
+    "lastseen": "2026-05-18T17:30:30+00:00",
     "ttps": [
       {
         "tactic_id": "TA0001",
         "tactic_name": "Initial Access",
         "techniques": [
           {
-            "technique_name": "Unsecured Credentials: Private Keys",
-            "technique_id": "T1552.004",
-            "technique_details": "Scanning GitHub/Bitbucket repositories for exposed API keys and OAuth tokens (Secret Hunting)."
+            "technique_name": "Valid Accounts",
+            "technique_id": "T1078",
+            "technique_details": "Use of valid accounts for initial access."
           },
           {
-            "technique_name": "Phishing: Spearphishing Voice (Vishing)",
-            "technique_id": "T1566.003",
-            "technique_details": "Voice calls to helpdesk pretending to be employees to obtain password reset or MFA bypass."
+            "technique_name": "Valid Accounts: Domain Accounts",
+            "technique_id": "T1078.002",
+            "technique_details": "Use of valid domain accounts for initial access."
+          },
+          {
+            "technique_name": "External Remote Services",
+            "technique_id": "T1133",
+            "technique_details": "openconnect used to authenticate to FortiGate SSL VPN (--protocol=fortinet). Actors connect post-credential-acquisition to enumerate internal network routes."
+          },
+          {
+            "technique_name": "Exploit Public-Facing Application",
+            "technique_id": "T1190",
+            "technique_details": "Exploitation of public-facing applications for initial access."
+          },
+          {
+            "technique_name": "Phishing",
+            "technique_id": "T1566",
+            "technique_details": "Spear-phishing via compromised corporate OWA mailboxes. ZIP payloads containing LNK files disguised as PDF/DOC/XLS or malicious Office documents sent from legitimate company email accounts to bypass spam filters."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0002",
+        "tactic_name": "Execution",
+        "techniques": [
+          {
+            "technique_name": "Windows Management Instrumentation",
+            "technique_id": "T1047",
+            "technique_details": "NetExec (nxc) with -X/-x flags for remote PowerShell/CMD execution over WMI/SMB. TrustedSec Titanis used for WMI-based remote execution via NTLM hashes."
+          },
+          {
+            "technique_name": "Command and Scripting Interpreter",
+            "technique_id": "T1059",
+            "technique_details": "Use of command and scripting interpreters for execution."
+          },
+          {
+            "technique_name": "Command and Scripting Interpreter: PowerShell",
+            "technique_id": "T1059.001",
+            "technique_details": "Use of PowerShell for execution."
+          },
+          {
+            "technique_name": "Command and Scripting Interpreter: Windows Command Shell",
+            "technique_id": "T1059.003",
+            "technique_details": "Use of Windows Command Shell for execution."
+          },
+          {
+            "technique_name": "Software Deployment Tools",
+            "technique_id": "T1072",
+            "technique_details": "Ransomware locker and EDR killers deployed domain-wide via GPO (deploy_gpo.ps1). GPO configured to run binaries at startup on all domain-joined machines."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0003",
+        "tactic_name": "Persistence",
+        "techniques": [
+          {
+            "technique_name": "Create Account",
+            "technique_id": "T1136",
+            "technique_details": "Creation of accounts for persistence."
+          },
+          {
+            "technique_name": "Create or Modify System Process",
+            "technique_id": "T1543",
+            "technique_details": "Velociraptor deployed as a SYSTEM-level Windows service via MSI (Server.Utils.CreateMSI artifact) for persistent beacon access."
+          },
+          {
+            "technique_name": "Boot or Logon Autostart Execution",
+            "technique_id": "T1547",
+            "technique_details": "Boot or logon autostart execution for persistence."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0004",
+        "tactic_name": "Privilege Escalation",
+        "techniques": [
+          {
+            "technique_name": "Exploitation for Privilege Escalation",
+            "technique_id": "T1068",
+            "technique_details": "Exploitation of vulnerabilities for privilege escalation."
+          },
+          {
+            "technique_name": "Forced Authentication",
+            "technique_id": "T1187",
+            "technique_details": "PetitPotam coercion via NXC coerce_plus module to trigger NTLM authentication from domain hosts toward attacker-controlled relay listener."
+          },
+          {
+            "technique_name": "Adversary-in-the-Middle",
+            "technique_id": "T1557",
+            "technique_details": "Responder (SMB/HTTP disabled) combined with ntlmrelayx targeting LDAP for machine account creation. RelayKing used to scan SMB/LDAP/MSSQL/HTTP/RPC/WinRM relay opportunities."
           }
         ]
       },
@@ -4619,9 +4334,137 @@
         "tactic_name": "Defense Evasion",
         "techniques": [
           {
-            "technique_name": "Use Alternate Authentication Material: Application Access Token",
-            "technique_id": "T1550.001",
-            "technique_details": "Use of malicious \"Connected\" OAuth applications to maintain persistent access to Salesforce and Microsoft 365 environments without needing passwords."
+            "technique_name": "Obfuscated Files or Information",
+            "technique_id": "T1027",
+            "technique_details": "Obfuscation of files or information to evade detection."
+          },
+          {
+            "technique_name": "Indicator Removal",
+            "technique_id": "T1070",
+            "technique_details": "Automated post-compromise script clears all Windows Event Logs via wevtutil, removes RDP MRU registry keys, deletes .rdp files, empties Recycle Bin, and clears RDP/SMB/WinRM logs."
+          },
+          {
+            "technique_name": "Proxy",
+            "technique_id": "T1090",
+            "technique_details": "ProxyChains (Windows/Linux), SSH dynamic port forwarding (-NfD 1080), ProxyJump multi-hop pivoting. Self-hosted double-VPN with WireGuard/OpenVPN and Amnezia VPN for operator anonymity."
+          },
+          {
+            "technique_name": "Modify Registry",
+            "technique_id": "T1112",
+            "technique_details": "Modifying the registry for defense evasion."
+          },
+          {
+            "technique_name": "Domain Policy Modification: Group Policy Modification",
+            "technique_id": "T1484.001",
+            "technique_details": "Modification of Group Policy for defense evasion."
+          },
+          {
+            "technique_name": "Impair Defenses",
+            "technique_id": "T1562",
+            "technique_details": "Impairing defenses to avoid detection."
+          },
+          {
+            "technique_name": "Impair Defenses: Disable or Modify Tools",
+            "technique_id": "T1562.001",
+            "technique_details": "BYOVD drivers ($3500-$5000 darknet), EDRStartupHinder, GFreeze/GLinker against CrowdStrike, IFEO registry redirecting EDR processes to calc.exe, WMI GlobalLogger/WPR symlink attacks to overwrite EDR binaries on boot."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0006",
+        "tactic_name": "Credential Access",
+        "techniques": [
+          {
+            "technique_name": "OS Credential Dumping",
+            "technique_id": "T1003",
+            "technique_details": "XenAllPasswordPro deployed via SMB for mass browser credential harvesting across all hosts. KslDump/KslKatz for LSASS dumping. Velociraptor for full memory dumps without AV detection. Pass-the-Hash via xfreerdp."
+          },
+          {
+            "technique_name": "Brute Force",
+            "technique_id": "T1110",
+            "technique_details": "Custom FortiGate panel bruter on dedicated hardware (dual Xeon, 120GB RAM) targeting non-standard ports. Credential spraying with known default passwords. Hydra for email spraying. Hash cracking via crackmd5.ru and chamd5.org."
+          },
+          {
+            "technique_name": "Unsecured Credentials",
+            "technique_id": "T1552",
+            "technique_details": "FortiGate configuration files exfiltrated containing plaintext LDAP credentials, local VPN user passwords, and IPSec pre-shared keys. MANSPIDER used to search SMB shares for credential files."
+          },
+          {
+            "technique_name": "Credentials from Password Stores",
+            "technique_id": "T1555",
+            "technique_details": "DumpBrowserSecrets used for browser credential and session cookie theft. Cookies imported via Cookie-Editor extension to hijack authenticated M365/CRM/email sessions."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0007",
+        "tactic_name": "Discovery",
+        "techniques": [
+          {
+            "technique_name": "Remote System Discovery",
+            "technique_id": "T1018",
+            "technique_details": "gogo internal port scanner across /24 subnets (ports 22,53,80,88,389,443,445,636,3389,1433,5985) with 100 threads and ICMP ping. NetExec for SMB/WinRM/LDAP host enumeration."
+          },
+          {
+            "technique_name": "Network Service Discovery",
+            "technique_id": "T1046",
+            "technique_details": "Discovery of network services."
+          },
+          {
+            "technique_name": "Permission Groups Discovery",
+            "technique_id": "T1069",
+            "technique_details": "BloodHound/CertiHound for AD and AD CS (ESC1-ESC17) enumeration. ADFind and ldapdomaindump for group/permission mapping. PrivHound for LPE vector identification within AD."
+          },
+          {
+            "technique_name": "Account Discovery",
+            "technique_id": "T1087",
+            "technique_details": "Discovery of accounts within the environment."
+          },
+          {
+            "technique_name": "Account Discovery: Domain Account",
+            "technique_id": "T1087.002",
+            "technique_details": "Discovery of domain accounts within the environment."
+          },
+          {
+            "technique_name": "Domain Trust Discovery",
+            "technique_id": "T1482",
+            "technique_details": "Discovery of domain trust relationships."
+          },
+          {
+            "technique_name": "Cloud Service Discovery",
+            "technique_id": "T1526",
+            "technique_details": "AWS S3 buckets and EKS clusters enumerated post-access. Censys, Shodan, ZoomInfo, and c99.nl API used for external recon of VPN endpoints and subdomains."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0008",
+        "tactic_name": "Lateral Movement",
+        "techniques": [
+          {
+            "technique_name": "Remote Services",
+            "technique_id": "T1021",
+            "technique_details": "Use of remote services for lateral movement."
+          },
+          {
+            "technique_name": "Remote Services: Remote Desktop Protocol",
+            "technique_id": "T1021.001",
+            "technique_details": "Use of RDP for lateral movement."
+          },
+          {
+            "technique_name": "Remote Services: SMB/Windows Admin Shares",
+            "technique_id": "T1021.002",
+            "technique_details": "Use of SMB/Windows Admin Shares for lateral movement."
+          },
+          {
+            "technique_name": "Remote Services: SSH",
+            "technique_id": "T1021.004",
+            "technique_details": "Use of SSH for lateral movement."
+          },
+          {
+            "technique_name": "Remote Service Session Hijacking",
+            "technique_id": "T1563",
+            "technique_details": "Browser session cookies stolen via DumpBrowserSecrets and replayed via Cookie-Editor to hijack authenticated web application sessions (email, M365, CRM portals)."
           }
         ]
       },
@@ -4630,9 +4473,29 @@
         "tactic_name": "Collection",
         "techniques": [
           {
-            "technique_name": "Data from Information Repositories",
-            "technique_id": "T1213",
-            "technique_details": "Frequent targets include Confluence, Jira, and SharePoint to collect internal documentation and plaintext credentials."
+            "technique_name": "Data from Local System",
+            "technique_id": "T1005",
+            "technique_details": "XenAllPasswordPro HTML credential reports collected per host. SQL database full dumps via phpMyAdmin exported to SFTP. File system enumeration targeting CRM code, backups, and financial data."
+          },
+          {
+            "technique_name": "Data from Network Shared Drive",
+            "technique_id": "T1039",
+            "technique_details": "Collection of data from network shared drives."
+          },
+          {
+            "technique_name": "Data Staged",
+            "technique_id": "T1074",
+            "technique_details": "Staging of collected data prior to exfiltration."
+          },
+          {
+            "technique_name": "Data Staged: Local Data Staging",
+            "technique_id": "T1074.001",
+            "technique_details": "Local staging of collected data prior to exfiltration."
+          },
+          {
+            "technique_name": "Email Collection",
+            "technique_id": "T1114",
+            "technique_details": "Corporate OWA mailboxes accessed via purchased stealer logs (snusbase.com) to harvest internal communications, credentials, and sensitive documents."
           }
         ]
       },
@@ -4641,9 +4504,50 @@
         "tactic_name": "Exfiltration",
         "techniques": [
           {
-            "technique_name": "Exfiltration Over Web Service",
-            "technique_id": "T1567",
-            "technique_details": "Use of legitimate cloud tools and native APIs to \"drain\" data from CRMs (Salesforce) directly to C2 servers."
+            "technique_name": "Exfiltration Over Alternative Protocol",
+            "technique_id": "T1048",
+            "technique_details": "Exfiltration of data over encrypted channels."
+          },
+          {
+            "technique_name": "Exfiltration Over Alternative Protocol: Exfiltration Over Symmetric Encrypted Non-C2 Protocol",
+            "technique_id": "T1048.001",
+            "technique_details": "Exfiltration over symmetric encrypted non-C2 channels."
+          },
+          {
+            "technique_name": "Transfer Data to Cloud Account",
+            "technique_id": "T1537",
+            "technique_details": "rclone to actor-controlled SFTP servers with high-parallelism (--transfers 16 --multi-thread-streams 8 --buffer-size 256M). Observed volumes: 13GB NAS, 3+TB Docker/Nexus, 100+GB Confluence/JIRA."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0011",
+        "tactic_name": "Command and Control",
+        "techniques": [
+          {
+            "technique_name": "Application Layer Protocol",
+            "technique_id": "T1071",
+            "technique_details": "Use of application layer protocols for C2 communication."
+          },
+          {
+            "technique_name": "Application Layer Protocol: Web Protocols",
+            "technique_id": "T1071.001",
+            "technique_details": "Use of web protocols for C2 communication."
+          },
+          {
+            "technique_name": "Remote Access Software",
+            "technique_id": "T1219",
+            "technique_details": "Use of remote access software for C2."
+          },
+          {
+            "technique_name": "Protocol Tunneling",
+            "technique_id": "T1572",
+            "technique_details": "SSH dynamic SOCKS proxies (ssh -NfD 1080) for network pivoting. ProxyChains (Windows/Linux) tunneling attack tools through SOCKS5 proxies acquired from spam/malware affiliates."
+          },
+          {
+            "technique_name": "Encrypted Channel",
+            "technique_id": "T1573",
+            "technique_details": "Cloudflare Tunnels blend C2 with legitimate HTTPS traffic. Chisel-ng (Rust, SSH-over-WebSocket-over-TLS) for reverse tunnels. Velociraptor C2 over TLS with signed MSI beacons."
           }
         ]
       },
@@ -4654,80 +4558,180 @@
           {
             "technique_name": "Data Encrypted for Impact",
             "technique_id": "T1486",
-            "technique_details": ""
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0043",
-        "tactic_name": "Reconnaissance",
-        "techniques": [
+            "technique_details": "Encryption of data for extortion."
+          },
           {
-            "technique_name": "Phishing for Information: Spearphishing Attachment",
-            "technique_id": "T1598.002",
-            "technique_details": ""
+            "technique_name": "Service Stop",
+            "technique_id": "T1489",
+            "technique_details": "Stopping services to maximize impact."
+          },
+          {
+            "technique_name": "Inhibit System Recovery",
+            "technique_id": "T1490",
+            "technique_details": "Veeam backup jobs stopped and tape media long-erased (Erase-VBRTapeMedium -Long). Docker and QEMU VMs killed pre-encryption. vCenter used to reset ESXi root passwords. Database services (MySQL, PostgreSQL, MongoDB, Redis, MSSQL) stopped before encryption."
+          },
+          {
+            "technique_name": "Defacement",
+            "technique_id": "T1491",
+            "technique_details": "Data deleted from CRM web panels and databases. chmod -R 777 applied to NAS filesystems to facilitate locker access and destroy access controls."
           }
         ]
       }
     ],
-    "vulnerabilities": [
-      {
-        "Vendor": "Oracle",
-        "Product": "Oracle E-Business Suite (EBS)",
-        "CVE": "CVE-2025-61882",
-        "CVSS": 9.8,
-        "severity": "CRITICAL"
-      },
-      {
-        "Vendor": "Cisco",
-        "Product": "Cisco Unified Communications",
-        "CVE": "CVE-2026-20045",
-        "CVSS": 8.2,
-        "severity": "HIGH"
-      },
-      {
-        "Vendor": "Snowflake",
-        "Product": "Snowflake (credential stuffing / no MFA)",
-        "CVE": "OAuth Abuse",
-        "CVSS": null,
-        "severity": "UNKNOWN"
-      }
-    ],
-    "tools": {},
+    "vulnerabilities": [],
+    "tools": {
+      "CredentialTheft": [
+        "DumpBrowserSecrets",
+        "Hydra",
+        "KslDump",
+        "KslKatz",
+        "XenAllPasswordPro"
+      ],
+      "DefenseEvasion": [
+        "EDRStartupHinder",
+        "GFreeze",
+        "GLinker"
+      ],
+      "DiscoveryEnum": [
+        "ADFind",
+        "BloodHound",
+        "Censys",
+        "CertiHound",
+        "MANSPIDER",
+        "PowerZure",
+        "Shodan",
+        "gogo scanner",
+        "ldapdomaindump"
+      ],
+      "Exfiltration": [
+        "rclone"
+      ],
+      "Networking": [
+        "Chisel-ng",
+        "ProxyChains",
+        "Tor / Onion C2",
+        "openconnect"
+      ],
+      "Offsec": [
+        "Custom Go Locker (Windows/Linux/NAS)",
+        "NetExec (nxc)",
+        "PetitPotam",
+        "PrivHound",
+        "RegPwn",
+        "RelayKing",
+        "Responder",
+        "TrustedSec Titanis",
+        "Velociraptor",
+        "ZeroPulse",
+        "ntlmrelayx"
+      ],
+      "RMM-Tools": [
+        "AnyDesk"
+      ]
+    },
     "locations": [
       {
-        "fqdn": "breachforums.hn",
-        "title": "This Domain Has Been Seized",
-        "slug": "https://breachforums.hn/",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "shnyhntww34phqoa6dcgnvps2yu7dlwzmy5lkvejwjdo6z7bmgshzayd.onion",
-        "title": "DDOS Protection",
-        "slug": "http://shnyhntww34phqoa6dcgnvps2yu7dlwzmy5lkvejwjdo6z7bmgshzayd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "toolatedhs5dtr2pv6h5kdraneak5gs3sxrecqhoufc5e45edior7mqd.onion",
-        "title": "SH",
-        "slug": "http://toolatedhs5dtr2pv6h5kdraneak5gs3sxrecqhoufc5e45edior7mqd.onion",
-        "type": "DLS",
-        "available": false
-      },
-      {
-        "fqdn": "shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion",
-        "title": "",
-        "slug": "http://shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid.onion",
+        "fqdn": "tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "title": "Gentlecloud Protection",
+        "slug": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
         "type": "DLS",
         "available": true
       }
     ],
     "has_negotiations": false,
     "negotiation_count": 0,
-    "has_ransomnote": false,
-    "ransomnotes_count": 0,
-    "url": "https://www.ransomware.live/group/shinyhunters"
+    "has_ransomnote": true,
+    "ransomnotes_count": 2,
+    "url": "https://www.ransomware.live/group/thegentlemen"
+  },
+  "warlock": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "warlock",
+    "description": "The Warlock ransomware and operator(s) are believed to be attributed to Storm-2603, a China-based threat actor who is also known to have deployed LockBit ransomware. There's also a crossover between victims with Black Basta. Both are RaaS and have a long list of known and unknown affiliates. Having said that, this is possibly an affiliate (likely a cybergroup) of both of those groups. The Alliance & Association would technically be Encryptor Sharing, but this is realistically more of an \"Old Affiliate\" that created their own ransomware encryptor and operation.",
+    "added_date": "2025-06-10",
+    "victims": 78,
+    "firstseen": "2025-04-02T00:00:00+00:00",
+    "lastseen": "2025-11-06T07:45:49.301773+00:00",
+    "ttps": [],
+    "vulnerabilities": [],
+    "tools": {
+      "CredentialTheft": [
+        "Mimikatz",
+        "Veeam-Get-Creds"
+      ],
+      "DefenseEvasion": [
+        "Antiy System In-Depth Analysis Toolkit driver (BYOVD)",
+        "NsecSoft driver (BYOVD)",
+        "Rising Antivirus driver (BYOVD)",
+        "VMTools AV Killer (BYOVD)"
+      ],
+      "DiscoveryEnum": [
+        "Everything.exe",
+        "SecurityCheck"
+      ],
+      "Exfiltration": [
+        "RClone"
+      ],
+      "LOLBAS": [
+        "Minidump",
+        "Msiexec",
+        "PowerShell Remoting (PSRemoting)",
+        "PsExec",
+        "RDP Patcher"
+      ],
+      "Networking": [
+        "Azure Blog Storage",
+        "Catbox[.]moe",
+        "Cloudflared",
+        "MinIO",
+        "OpenSSH",
+        "Supabase",
+        "VS Code Tunnel",
+        "Yuze"
+      ],
+      "Offsec": [
+        "Cobalt Strike",
+        "Velociraptor"
+      ],
+      "RMM-Tools": [
+        "Radmin",
+        "TightVNC"
+      ]
+    },
+    "locations": [
+      {
+        "fqdn": "elqfbcx5nofwtqfookqml7ltx2g6q6tmddys6e25vgu3al2meim6cbqd.onion",
+        "title": "Warlock Client Leaked Data Show",
+        "slug": "http://elqfbcx5nofwtqfookqml7ltx2g6q6tmddys6e25vgu3al2meim6cbqd.onion",
+        "type": "DLS",
+        "available": false
+      },
+      {
+        "fqdn": "ocwjy4ynmpbbzhumh2ama2vl3bc77lf5auqf7nf4k45lbmzoep2rbyid.onion",
+        "title": "",
+        "slug": "http://ocwjy4ynmpbbzhumh2ama2vl3bc77lf5auqf7nf4k45lbmzoep2rbyid.onion",
+        "type": "Files",
+        "available": false
+      },
+      {
+        "fqdn": "zfytizegsze6uiswodhbaalyy5rawaytv2nzyzdkt3susbewviqqh7yd.onion",
+        "title": "WarLock Client Data Leak Show",
+        "slug": "http://zfytizegsze6uiswodhbaalyy5rawaytv2nzyzdkt3susbewviqqh7yd.onion",
+        "type": "DLS",
+        "available": false
+      },
+      {
+        "fqdn": "warlockhga5iw3t54ps5iytlilf7hlvxy7kwrkidspn4qoh64s4vsuyd.onion",
+        "title": "WarLock Client Data Leak Show",
+        "slug": "http://warlockhga5iw3t54ps5iytlilf7hlvxy7kwrkidspn4qoh64s4vsuyd.onion",
+        "type": "DLS",
+        "available": true
+      }
+    ],
+    "has_negotiations": false,
+    "negotiation_count": 0,
+    "has_ransomnote": true,
+    "ransomnotes_count": 2,
+    "url": "https://www.ransomware.live/group/warlock"
   }
 }
