@@ -894,12 +894,6 @@
       "stealer_victims": 2
     },
     {
-      "name": "EG",
-      "percent": 38.63636363636363,
-      "total_victims": 44,
-      "stealer_victims": 17
-    },
-    {
       "name": "BD",
       "percent": 38.46153846153847,
       "total_victims": 13,
@@ -916,6 +910,12 @@
       "percent": 37.83783783783784,
       "total_victims": 37,
       "stealer_victims": 14
+    },
+    {
+      "name": "EG",
+      "percent": 37.77777777777778,
+      "total_victims": 45,
+      "stealer_victims": 17
     },
     {
       "name": "TW",
@@ -1243,8 +1243,8 @@
     },
     {
       "name": "US",
-      "percent": 16.92529772645254,
-      "total_victims": 5542,
+      "percent": 16.922244272054844,
+      "total_victims": 5543,
       "stealer_victims": 938
     },
     {
@@ -1809,8 +1809,8 @@
     },
     {
       "group": "incransom",
-      "percent": 25.16778523489933,
-      "total_victims": 596,
+      "percent": 25.125628140703515,
+      "total_victims": 597,
       "stealer_victims": 150
     },
     {
@@ -2037,8 +2037,8 @@
     },
     {
       "group": "nightspire",
-      "percent": 8.75912408759124,
-      "total_victims": 274,
+      "percent": 8.727272727272728,
+      "total_victims": 275,
       "stealer_victims": 24
     },
     {
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-25T23:12:31.005808Z"
+  "last_update": "2026-05-26T04:07:47.245733Z"
 }
