@@ -1243,8 +1243,8 @@
     },
     {
       "name": "US",
-      "percent": 16.958325816344942,
-      "total_victims": 5543,
+      "percent": 16.955266955266957,
+      "total_victims": 5544,
       "stealer_victims": 940
     },
     {
@@ -1479,8 +1479,8 @@
     },
     {
       "group": "nova",
-      "percent": 56.557377049180324,
-      "total_victims": 122,
+      "percent": 56.09756097560976,
+      "total_victims": 123,
       "stealer_victims": 69
     },
     {
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-26T19:24:04.078967Z"
+  "last_update": "2026-05-26T21:51:32.245621Z"
 }

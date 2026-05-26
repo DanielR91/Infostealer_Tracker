@@ -4397,60 +4397,6 @@
     "ransomnotes_count": 0,
     "url": "https://www.ransomware.live/group/killsec"
   },
-  "handala": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "handala",
-    "description": "Not a Ransomware Group",
-    "added_date": null,
-    "victims": 176,
-    "firstseen": "2024-04-05T07:35:34+00:00",
-    "lastseen": "2026-04-07T10:21:49+00:00",
-    "ttps": [],
-    "vulnerabilities": [],
-    "tools": {},
-    "locations": [
-      {
-        "fqdn": "handala-hack.to",
-        "title": "This Website Has Been Seized",
-        "slug": "https://handala-hack.to/",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "handala.to",
-        "title": "",
-        "slug": "https://handala.to/",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion",
-        "title": "",
-        "slug": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion",
-        "type": "DLS",
-        "available": false
-      },
-      {
-        "fqdn": "handala-hack.tw",
-        "title": "Security Verification",
-        "slug": "http://handala-hack.tw",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "handala-team.to",
-        "title": "Error Response Page",
-        "slug": "http://handala-team.to",
-        "type": "DLS",
-        "available": false
-      }
-    ],
-    "has_negotiations": false,
-    "negotiation_count": 0,
-    "has_ransomnote": false,
-    "ransomnotes_count": 0,
-    "url": "https://www.ransomware.live/group/handala"
-  },
   "nova": {
     "client": "hose_chamber1d@icloud.com",
     "group": "nova",
@@ -4532,6 +4478,60 @@
     "has_ransomnote": true,
     "ransomnotes_count": 1,
     "url": "https://www.ransomware.live/group/nova"
+  },
+  "handala": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "handala",
+    "description": "Not a Ransomware Group",
+    "added_date": null,
+    "victims": 176,
+    "firstseen": "2024-04-05T07:35:34+00:00",
+    "lastseen": "2026-04-07T10:21:49+00:00",
+    "ttps": [],
+    "vulnerabilities": [],
+    "tools": {},
+    "locations": [
+      {
+        "fqdn": "handala-hack.to",
+        "title": "This Website Has Been Seized",
+        "slug": "https://handala-hack.to/",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "handala.to",
+        "title": "",
+        "slug": "https://handala.to/",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion",
+        "title": "",
+        "slug": "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion",
+        "type": "DLS",
+        "available": false
+      },
+      {
+        "fqdn": "handala-hack.tw",
+        "title": "Security Verification",
+        "slug": "http://handala-hack.tw",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "handala-team.to",
+        "title": "Error Response Page",
+        "slug": "http://handala-team.to",
+        "type": "DLS",
+        "available": false
+      }
+    ],
+    "has_negotiations": false,
+    "negotiation_count": 0,
+    "has_ransomnote": false,
+    "ransomnotes_count": 0,
+    "url": "https://www.ransomware.live/group/handala"
   },
   "SilentRansomGroup": {
     "client": "hose_chamber1d@icloud.com",
