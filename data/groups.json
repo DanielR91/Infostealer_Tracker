@@ -634,6 +634,105 @@
     "has_ransomnote": true,
     "ransomnotes_count": 3
   },
+  "dragonforce": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "dragonforce",
+    "description": "DragonForce is a major ransomware-as-a-service operation first observed in August 2023 that launched a formal affiliate program offering 80% revenue share, then rebranded as a \"ransomware cartel\" in 2025, gaining notoriety for high-profile attacks on UK retailers Marks & Spencer, Co-op, and Harrods.",
+    "added_date": null,
+    "victims": 519,
+    "firstseen": "2022-10-20T21:51:27.146973+00:00",
+    "lastseen": "2026-05-20T12:25:21.267845+00:00",
+    "ttps": [
+      {
+        "tactic_id": "TA0002",
+        "tactic_name": "Execution",
+        "techniques": [
+          {
+            "technique_name": "User Execution",
+            "technique_id": "T1204.002",
+            "technique_details": "Executes a malicious file on the victim's system."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0005",
+        "tactic_name": "Defense Evasion",
+        "techniques": [
+          {
+            "technique_name": "Indicator Removal: File Deletion",
+            "technique_id": "T1070.004",
+            "technique_details": "The ransomware self-deletes after execution."
+          },
+          {
+            "technique_name": "Impair Defenses: Disable or Modify Tools",
+            "technique_id": "T1562.001",
+            "technique_details": "Disables Windows Defender (if it is running)."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0007",
+        "tactic_name": "Discovery",
+        "techniques": [
+          {
+            "technique_name": "File and Directory Discovery",
+            "technique_id": "T1083",
+            "technique_details": "The ransomware enumerates directories to encrypt files."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0040",
+        "tactic_name": "Impact",
+        "techniques": [
+          {
+            "technique_name": "Data Encrypted for Impact",
+            "technique_id": "T1486",
+            "technique_details": "The ransomware uses data encryption to extort the victim."
+          }
+        ]
+      }
+    ],
+    "vulnerabilities": [],
+    "tools": {
+      "CredentialTheft": [
+        "Mimikatz"
+      ],
+      "DiscoveryEnum": [
+        "Advanced IP Scanner",
+        "PingCastle",
+        "SoftPerfect NetScan"
+      ]
+    },
+    "locations": [
+      {
+        "fqdn": "dragonforxxbp3awc7mzs5dkswrua3znqyx5roefmi4smjrsdi22xwqd.onion",
+        "title": "DragonForce | Leaks",
+        "slug": "http://dragonforxxbp3awc7mzs5dkswrua3znqyx5roefmi4smjrsdi22xwqd.onion",
+        "type": "Files",
+        "available": true
+      },
+      {
+        "fqdn": "z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion",
+        "title": "DragonForce | Blog",
+        "slug": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion",
+        "title": "DragonForce | Recovery",
+        "slug": "http://3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion",
+        "type": "DLS",
+        "available": true
+      }
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 17,
+    "has_ransomnote": true,
+    "ransomnotes_count": 2,
+    "url": "https://www.ransomware.live/group/dragonforce"
+  },
   "safepay": {
     "client": "hose_chamber1d@icloud.com",
     "group": "safepay",
@@ -1993,105 +2092,6 @@
     "has_ransomnote": true,
     "ransomnotes_count": 2,
     "url": "https://www.ransomware.live/group/thegentlemen"
-  },
-  "dragonforce": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "dragonforce",
-    "description": "DragonForce is a major ransomware-as-a-service operation first observed in August 2023 that launched a formal affiliate program offering 80% revenue share, then rebranded as a \"ransomware cartel\" in 2025, gaining notoriety for high-profile attacks on UK retailers Marks & Spencer, Co-op, and Harrods.",
-    "added_date": null,
-    "victims": 519,
-    "firstseen": "2022-10-20T21:51:27.146973+00:00",
-    "lastseen": "2026-05-20T12:25:21.267845+00:00",
-    "ttps": [
-      {
-        "tactic_id": "TA0002",
-        "tactic_name": "Execution",
-        "techniques": [
-          {
-            "technique_name": "User Execution",
-            "technique_id": "T1204.002",
-            "technique_details": "Executes a malicious file on the victim's system."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0005",
-        "tactic_name": "Defense Evasion",
-        "techniques": [
-          {
-            "technique_name": "Indicator Removal: File Deletion",
-            "technique_id": "T1070.004",
-            "technique_details": "The ransomware self-deletes after execution."
-          },
-          {
-            "technique_name": "Impair Defenses: Disable or Modify Tools",
-            "technique_id": "T1562.001",
-            "technique_details": "Disables Windows Defender (if it is running)."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0007",
-        "tactic_name": "Discovery",
-        "techniques": [
-          {
-            "technique_name": "File and Directory Discovery",
-            "technique_id": "T1083",
-            "technique_details": "The ransomware enumerates directories to encrypt files."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0040",
-        "tactic_name": "Impact",
-        "techniques": [
-          {
-            "technique_name": "Data Encrypted for Impact",
-            "technique_id": "T1486",
-            "technique_details": "The ransomware uses data encryption to extort the victim."
-          }
-        ]
-      }
-    ],
-    "vulnerabilities": [],
-    "tools": {
-      "CredentialTheft": [
-        "Mimikatz"
-      ],
-      "DiscoveryEnum": [
-        "Advanced IP Scanner",
-        "PingCastle",
-        "SoftPerfect NetScan"
-      ]
-    },
-    "locations": [
-      {
-        "fqdn": "dragonforxxbp3awc7mzs5dkswrua3znqyx5roefmi4smjrsdi22xwqd.onion",
-        "title": "DragonForce | Leaks",
-        "slug": "http://dragonforxxbp3awc7mzs5dkswrua3znqyx5roefmi4smjrsdi22xwqd.onion",
-        "type": "Files",
-        "available": true
-      },
-      {
-        "fqdn": "z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion",
-        "title": "DragonForce | Blog",
-        "slug": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion",
-        "title": "DragonForce | Recovery",
-        "slug": "http://3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion",
-        "type": "DLS",
-        "available": true
-      }
-    ],
-    "has_negotiations": true,
-    "negotiation_count": 17,
-    "has_ransomnote": true,
-    "ransomnotes_count": 2,
-    "url": "https://www.ransomware.live/group/dragonforce"
   },
   "lynx": {
     "client": "hose_chamber1d@icloud.com",
