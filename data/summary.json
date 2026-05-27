@@ -1063,8 +1063,8 @@
     },
     {
       "name": "ES",
-      "percent": 29.18287937743191,
-      "total_victims": 257,
+      "percent": 29.069767441860467,
+      "total_victims": 258,
       "stealer_victims": 75
     },
     {
@@ -1243,8 +1243,8 @@
     },
     {
       "name": "US",
-      "percent": 16.955266955266957,
-      "total_victims": 5544,
+      "percent": 16.952209197475206,
+      "total_victims": 5545,
       "stealer_victims": 940
     },
     {
@@ -2060,12 +2060,6 @@
       "stealer_victims": 1
     },
     {
-      "group": "spacebears",
-      "percent": 7.142857142857142,
-      "total_victims": 84,
-      "stealer_victims": 6
-    },
-    {
       "group": "nitrogen",
       "percent": 7.142857142857142,
       "total_victims": 28,
@@ -2076,6 +2070,12 @@
       "percent": 7.142857142857142,
       "total_victims": 14,
       "stealer_victims": 1
+    },
+    {
+      "group": "spacebears",
+      "percent": 6.976744186046512,
+      "total_victims": 86,
+      "stealer_victims": 6
     },
     {
       "group": "sinobi",
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-26T23:15:32.449042Z"
+  "last_update": "2026-05-27T07:11:34.611674Z"
 }

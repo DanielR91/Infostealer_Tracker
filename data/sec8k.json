@@ -1,14 +1,14 @@
 [
   {
-    "company": "Oncology Institute, Inc.",
-    "stockticker": "TOI, DFPH, TOIIW",
+    "company": "Quantum Cyber N.V.",
+    "stockticker": "QUCY",
     "form": "8-K",
-    "file_date": "2026-05-22",
-    "cik": "0001799191",
-    "adsh": "0001079973-26-000721",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001799191/000107997326000721/0001079973-26-000721-index.htm",
-    "display_name": "Oncology Institute, Inc.  (TOI, DFPH, TOIIW)  (CIK 0001799191)",
-    "item105": true,
-    "item801": false
+    "file_date": "2026-05-26",
+    "cik": "0001874252",
+    "adsh": "0001213900-26-061021",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001874252/000121390026061021/0001213900-26-061021-index.htm",
+    "display_name": "Quantum Cyber N.V.  (QUCY)  (CIK 0001874252)",
+    "item105": false,
+    "item801": true
   }
 ]
