@@ -1,8 +1,8 @@
 {
   "totals": {
-    "domains_tracked": 2509,
+    "domains_tracked": 2510,
     "employees_exposed": 131009,
-    "users_exposed": 15580192,
+    "users_exposed": 15580200,
     "thirdparties_exposed": 94336,
     "stealer_families_count": 19
   },
@@ -151,7 +151,7 @@
     },
     {
       "month": "2026-05",
-      "count": 202
+      "count": 203
     }
   ],
   "sectors": [
@@ -227,7 +227,7 @@
     },
     {
       "name": "DE",
-      "count": 94
+      "count": 95
     },
     {
       "name": "FR",
@@ -1218,16 +1218,16 @@
       "stealer_victims": 83
     },
     {
+      "name": "DE",
+      "percent": 18.269230769230766,
+      "total_victims": 520,
+      "stealer_victims": 95
+    },
+    {
       "name": "NZ",
       "percent": 18.181818181818183,
       "total_victims": 22,
       "stealer_victims": 4
-    },
-    {
-      "name": "DE",
-      "percent": 18.146718146718147,
-      "total_victims": 518,
-      "stealer_victims": 94
     },
     {
       "name": "CN",
@@ -1243,8 +1243,8 @@
     },
     {
       "name": "US",
-      "percent": 16.952209197475206,
-      "total_victims": 5545,
+      "percent": 16.94915254237288,
+      "total_victims": 5546,
       "stealer_victims": 940
     },
     {
@@ -2007,9 +2007,9 @@
     },
     {
       "group": "dragonforce",
-      "percent": 13.30166270783848,
-      "total_victims": 421,
-      "stealer_victims": 56
+      "percent": 13.443396226415095,
+      "total_victims": 424,
+      "stealer_victims": 57
     },
     {
       "group": "pear",
@@ -2234,5 +2234,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-27T07:11:34.611674Z"
+  "last_update": "2026-05-27T08:42:41.239941Z"
 }
