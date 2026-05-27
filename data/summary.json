@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2518,
+    "domains_tracked": 2519,
     "employees_exposed": 131013,
     "users_exposed": 15580226,
-    "thirdparties_exposed": 94347,
+    "thirdparties_exposed": 94348,
     "stealer_families_count": 19
   },
   "families": [
@@ -151,7 +151,7 @@
     },
     {
       "month": "2026-05",
-      "count": 211
+      "count": 212
     }
   ],
   "sectors": [
@@ -177,7 +177,7 @@
     },
     {
       "name": "Transportation/Logistics",
-      "count": 11415
+      "count": 11416
     },
     {
       "name": "Public Sector",
@@ -266,12 +266,12 @@
       "count": 40
     },
     {
-      "name": "JP",
+      "name": "SG",
       "count": 33
     },
     {
-      "name": "SG",
-      "count": 32
+      "name": "JP",
+      "count": 33
     },
     {
       "name": "AU",
@@ -1024,16 +1024,16 @@
       "stealer_victims": 26
     },
     {
+      "name": "SG",
+      "percent": 32.35294117647059,
+      "total_victims": 102,
+      "stealer_victims": 33
+    },
+    {
       "name": "KR",
       "percent": 31.818181818181817,
       "total_victims": 66,
       "stealer_victims": 21
-    },
-    {
-      "name": "SG",
-      "percent": 31.683168316831683,
-      "total_victims": 101,
-      "stealer_victims": 32
     },
     {
       "name": "RO",
@@ -1217,8 +1217,8 @@
     },
     {
       "name": "GB",
-      "percent": 18.640350877192983,
-      "total_victims": 456,
+      "percent": 18.599562363238512,
+      "total_victims": 457,
       "stealer_victims": 85
     },
     {
@@ -1247,8 +1247,8 @@
     },
     {
       "name": "US",
-      "percent": 16.954954954954953,
-      "total_victims": 5550,
+      "percent": 16.945795065730234,
+      "total_victims": 5553,
       "stealer_victims": 941
     },
     {
@@ -1993,9 +1993,9 @@
     },
     {
       "group": "dragonforce",
-      "percent": 14.672686230248308,
-      "total_victims": 443,
-      "stealer_victims": 65
+      "percent": 14.864864864864865,
+      "total_victims": 444,
+      "stealer_victims": 66
     },
     {
       "group": "thegentlemen",
@@ -2113,8 +2113,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.535055350553505,
-      "total_victims": 1626,
+      "percent": 5.521472392638037,
+      "total_victims": 1630,
       "stealer_victims": 90
     },
     {
@@ -2238,5 +2238,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-27T16:41:43.781810Z"
+  "last_update": "2026-05-27T19:29:38.454538Z"
 }
