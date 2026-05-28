@@ -1319,8 +1319,8 @@
     },
     {
       "name": "RU",
-      "percent": 10.526315789473683,
-      "total_victims": 19,
+      "percent": 10.0,
+      "total_victims": 20,
       "stealer_victims": 2
     },
     {
@@ -1674,12 +1674,6 @@
       "stealer_victims": 37
     },
     {
-      "group": "AuditTeam",
-      "percent": 33.33333333333333,
-      "total_victims": 9,
-      "stealer_victims": 3
-    },
-    {
       "group": "moneymessage",
       "percent": 33.33333333333333,
       "total_victims": 6,
@@ -1738,6 +1732,12 @@
       "percent": 30.23255813953488,
       "total_victims": 43,
       "stealer_victims": 13
+    },
+    {
+      "group": "AuditTeam",
+      "percent": 30.0,
+      "total_victims": 10,
+      "stealer_victims": 3
     },
     {
       "group": "ransomhub",
@@ -2238,5 +2238,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-28T00:05:38.341783Z"
+  "last_update": "2026-05-28T05:13:43.675950Z"
 }
