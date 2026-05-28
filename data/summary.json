@@ -821,8 +821,8 @@
     },
     {
       "name": "BR",
-      "percent": 45.70135746606335,
-      "total_victims": 221,
+      "percent": 45.4954954954955,
+      "total_victims": 222,
       "stealer_victims": 101
     },
     {
@@ -851,12 +851,6 @@
     },
     {
       "name": "UA",
-      "percent": 40.0,
-      "total_victims": 5,
-      "stealer_victims": 2
-    },
-    {
-      "name": "GH",
       "percent": 40.0,
       "total_victims": 5,
       "stealer_victims": 2
@@ -964,6 +958,12 @@
       "stealer_victims": 71
     },
     {
+      "name": "GH",
+      "percent": 33.33333333333333,
+      "total_victims": 6,
+      "stealer_victims": 2
+    },
+    {
       "name": "PY",
       "percent": 33.33333333333333,
       "total_victims": 9,
@@ -1067,8 +1067,8 @@
     },
     {
       "name": "ES",
-      "percent": 29.069767441860467,
-      "total_victims": 258,
+      "percent": 28.957528957528954,
+      "total_victims": 259,
       "stealer_victims": 75
     },
     {
@@ -1247,8 +1247,8 @@
     },
     {
       "name": "US",
-      "percent": 16.942743968311127,
-      "total_victims": 5554,
+      "percent": 16.93664506839453,
+      "total_victims": 5556,
       "stealer_victims": 941
     },
     {
@@ -1331,8 +1331,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.21415270018622,
-      "total_victims": 537,
+      "percent": 5.204460966542751,
+      "total_victims": 538,
       "stealer_victims": 28
     },
     {
@@ -1501,8 +1501,8 @@
     },
     {
       "group": "shinyhunters",
-      "percent": 54.71698113207547,
-      "total_victims": 106,
+      "percent": 54.20560747663551,
+      "total_victims": 107,
       "stealer_victims": 58
     },
     {
@@ -1807,8 +1807,8 @@
     },
     {
       "group": "incransom",
-      "percent": 25.418060200668897,
-      "total_victims": 598,
+      "percent": 25.375626043405674,
+      "total_victims": 599,
       "stealer_victims": 152
     },
     {
@@ -2148,6 +2148,12 @@
       "stealer_victims": 3
     },
     {
+      "group": "0day Syndicate",
+      "percent": 0.0,
+      "total_victims": 4,
+      "stealer_victims": 0
+    },
+    {
       "group": "titan",
       "percent": 0.0,
       "total_victims": 7,
@@ -2238,5 +2244,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-28T05:13:43.675950Z"
+  "last_update": "2026-05-28T10:16:24.526957Z"
 }
