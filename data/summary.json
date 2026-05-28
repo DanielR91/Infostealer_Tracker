@@ -1180,12 +1180,6 @@
       "stealer_victims": 2
     },
     {
-      "name": "HU",
-      "percent": 20.0,
-      "total_victims": 10,
-      "stealer_victims": 2
-    },
-    {
       "name": "BH",
       "percent": 20.0,
       "total_victims": 5,
@@ -1226,6 +1220,12 @@
       "percent": 18.199233716475096,
       "total_victims": 522,
       "stealer_victims": 95
+    },
+    {
+      "name": "HU",
+      "percent": 18.181818181818183,
+      "total_victims": 11,
+      "stealer_victims": 2
     },
     {
       "name": "NZ",
@@ -1331,8 +1331,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.223880597014925,
-      "total_victims": 536,
+      "percent": 5.21415270018622,
+      "total_victims": 537,
       "stealer_victims": 28
     },
     {
@@ -1482,12 +1482,6 @@
       "stealer_victims": 60
     },
     {
-      "group": "nova",
-      "percent": 55.64516129032258,
-      "total_victims": 124,
-      "stealer_victims": 69
-    },
-    {
       "group": "LeakBazaar",
       "percent": 55.55555555555556,
       "total_victims": 9,
@@ -1498,6 +1492,12 @@
       "percent": 55.55555555555556,
       "total_victims": 9,
       "stealer_victims": 5
+    },
+    {
+      "group": "nova",
+      "percent": 55.2,
+      "total_victims": 125,
+      "stealer_victims": 69
     },
     {
       "group": "shinyhunters",
@@ -2113,8 +2113,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.521472392638037,
-      "total_victims": 1630,
+      "percent": 5.518087063151441,
+      "total_victims": 1631,
       "stealer_victims": 90
     },
     {
@@ -2238,5 +2238,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-27T22:02:04.493417Z"
+  "last_update": "2026-05-28T00:05:38.341783Z"
 }
