@@ -1247,8 +1247,8 @@
     },
     {
       "name": "US",
-      "percent": 16.968609865470853,
-      "total_victims": 5575,
+      "percent": 16.962524654832347,
+      "total_victims": 5577,
       "stealer_victims": 946
     },
     {
@@ -2034,16 +2034,16 @@
       "stealer_victims": 9
     },
     {
-      "group": "chaos",
-      "percent": 9.25925925925926,
-      "total_victims": 54,
-      "stealer_victims": 5
-    },
-    {
       "group": "ransomhouse",
       "percent": 9.090909090909092,
       "total_victims": 77,
       "stealer_victims": 7
+    },
+    {
+      "group": "chaos",
+      "percent": 8.928571428571429,
+      "total_victims": 56,
+      "stealer_victims": 5
     },
     {
       "group": "nightspire",
@@ -2244,5 +2244,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-28T21:11:59.756547Z"
+  "last_update": "2026-05-28T23:22:43.631123Z"
 }
