@@ -1,59 +1,59 @@
 {
   "totals": {
-    "domains_tracked": 2543,
-    "employees_exposed": 131091,
-    "users_exposed": 15593106,
-    "thirdparties_exposed": 95820,
+    "domains_tracked": 2542,
+    "employees_exposed": 131025,
+    "users_exposed": 15584044,
+    "thirdparties_exposed": 95780,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1130187
+      "count": 1128110
     },
     {
       "name": "Lumma",
-      "count": 586565
+      "count": 584527
     },
     {
       "name": "Generic Stealer",
-      "count": 456688
+      "count": 454616
     },
     {
       "name": "Raccoon",
-      "count": 301981
+      "count": 301461
     },
     {
       "name": "StealC",
-      "count": 121857
+      "count": 121580
     },
     {
       "name": "Azorult",
-      "count": 119236
+      "count": 118809
     },
     {
       "name": "Vidar",
-      "count": 115566
+      "count": 115348
     },
     {
       "name": "CRYPTBOT",
-      "count": 10633
+      "count": 10621
     },
     {
       "name": "Acreed",
-      "count": 6337
+      "count": 6284
     },
     {
       "name": "Mystic",
-      "count": 4565
+      "count": 4561
     },
     {
       "name": "Atomic",
-      "count": 3734
+      "count": 3717
     },
     {
       "name": "DarkCrystal",
-      "count": 3479
+      "count": 3472
     },
     {
       "name": "Predator",
@@ -61,11 +61,11 @@
     },
     {
       "name": "Taurus",
-      "count": 2387
+      "count": 2377
     },
     {
       "name": "Ficker",
-      "count": 2269
+      "count": 2267
     },
     {
       "name": "racoon",
@@ -151,7 +151,7 @@
     },
     {
       "month": "2026-05",
-      "count": 230
+      "count": 229
     }
   ],
   "sectors": [
@@ -173,7 +173,7 @@
     },
     {
       "name": "Business Services",
-      "count": 14779
+      "count": 14673
     },
     {
       "name": "Transportation/Logistics",
@@ -330,11 +330,11 @@
       "count": 17
     },
     {
-      "name": "CL",
-      "count": 15
+      "name": "ZA",
+      "count": 14
     },
     {
-      "name": "ZA",
+      "name": "CL",
       "count": 14
     },
     {
@@ -898,12 +898,6 @@
       "stealer_victims": 2
     },
     {
-      "name": "CL",
-      "percent": 39.473684210526315,
-      "total_victims": 38,
-      "stealer_victims": 15
-    },
-    {
       "name": "BD",
       "percent": 38.46153846153847,
       "total_victims": 13,
@@ -926,6 +920,12 @@
       "percent": 37.17948717948718,
       "total_victims": 78,
       "stealer_victims": 29
+    },
+    {
+      "name": "CL",
+      "percent": 36.84210526315789,
+      "total_victims": 38,
+      "stealer_victims": 14
     },
     {
       "name": "TW",
@@ -2004,16 +2004,16 @@
       "stealer_victims": 3
     },
     {
-      "group": "thegentlemen",
-      "percent": 14.93212669683258,
-      "total_victims": 442,
-      "stealer_victims": 66
-    },
-    {
       "group": "dragonforce",
       "percent": 14.864864864864865,
       "total_victims": 444,
       "stealer_victims": 66
+    },
+    {
+      "group": "thegentlemen",
+      "percent": 14.705882352941178,
+      "total_victims": 442,
+      "stealer_victims": 65
     },
     {
       "group": "alphalocker",
@@ -2244,5 +2244,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-29T16:48:37.017227Z"
+  "last_update": "2026-05-29T19:35:55.519527Z"
 }
