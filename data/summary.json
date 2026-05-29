@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2532,
-    "employees_exposed": 131085,
-    "users_exposed": 15590129,
-    "thirdparties_exposed": 94407,
+    "domains_tracked": 2533,
+    "employees_exposed": 131089,
+    "users_exposed": 15590136,
+    "thirdparties_exposed": 94414,
     "stealer_families_count": 19
   },
   "families": [
@@ -151,7 +151,7 @@
     },
     {
       "month": "2026-05",
-      "count": 225
+      "count": 226
     }
   ],
   "sectors": [
@@ -201,7 +201,7 @@
     },
     {
       "name": "Healthcare",
-      "count": 4205
+      "count": 4216
     },
     {
       "name": "Agriculture and Food Production",
@@ -219,7 +219,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 946
+      "count": 947
     },
     {
       "name": "BR",
@@ -1247,9 +1247,9 @@
     },
     {
       "name": "US",
-      "percent": 16.962524654832347,
-      "total_victims": 5577,
-      "stealer_victims": 946
+      "percent": 16.977411258515595,
+      "total_victims": 5578,
+      "stealer_victims": 947
     },
     {
       "name": "UY",
@@ -1331,8 +1331,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.400372439478584,
-      "total_victims": 537,
+      "percent": 5.380333951762523,
+      "total_victims": 539,
       "stealer_victims": 29
     },
     {
@@ -1590,16 +1590,16 @@
       "stealer_victims": 17
     },
     {
-      "group": "everest",
-      "percent": 41.86046511627907,
-      "total_victims": 172,
-      "stealer_victims": 72
-    },
-    {
       "group": "medusalocker",
       "percent": 41.66666666666667,
       "total_victims": 24,
       "stealer_victims": 10
+    },
+    {
+      "group": "everest",
+      "percent": 41.37931034482759,
+      "total_victims": 174,
+      "stealer_victims": 72
     },
     {
       "group": "embargo",
@@ -1807,9 +1807,9 @@
     },
     {
       "group": "incransom",
-      "percent": 25.375626043405674,
-      "total_victims": 599,
-      "stealer_victims": 152
+      "percent": 25.5,
+      "total_victims": 600,
+      "stealer_victims": 153
     },
     {
       "group": "interlock",
@@ -2244,5 +2244,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-28T23:22:43.631123Z"
+  "last_update": "2026-05-29T04:13:03.008837Z"
 }
