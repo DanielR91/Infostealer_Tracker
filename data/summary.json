@@ -1,31 +1,31 @@
 {
   "totals": {
-    "domains_tracked": 2542,
+    "domains_tracked": 2546,
     "employees_exposed": 131025,
-    "users_exposed": 15584044,
-    "thirdparties_exposed": 95780,
+    "users_exposed": 15584858,
+    "thirdparties_exposed": 96158,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1128110
+      "count": 1128160
     },
     {
       "name": "Lumma",
-      "count": 584527
+      "count": 584779
     },
     {
       "name": "Generic Stealer",
-      "count": 454616
+      "count": 454724
     },
     {
       "name": "Raccoon",
-      "count": 301461
+      "count": 301463
     },
     {
       "name": "StealC",
-      "count": 121580
+      "count": 121644
     },
     {
       "name": "Azorult",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Vidar",
-      "count": 115348
+      "count": 115364
     },
     {
       "name": "CRYPTBOT",
@@ -49,11 +49,11 @@
     },
     {
       "name": "Atomic",
-      "count": 3717
+      "count": 3719
     },
     {
       "name": "DarkCrystal",
-      "count": 3472
+      "count": 3474
     },
     {
       "name": "Predator",
@@ -147,11 +147,11 @@
     },
     {
       "month": "2026-04",
-      "count": 220
+      "count": 221
     },
     {
       "month": "2026-05",
-      "count": 229
+      "count": 232
     }
   ],
   "sectors": [
@@ -181,7 +181,7 @@
     },
     {
       "name": "Not Found",
-      "count": 9998
+      "count": 10374
     },
     {
       "name": "Public Sector",
@@ -197,7 +197,7 @@
     },
     {
       "name": "Healthcare",
-      "count": 4592
+      "count": 4594
     },
     {
       "name": "Manufacturing",
@@ -219,7 +219,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 955
+      "count": 959
     },
     {
       "name": "BR",
@@ -1067,8 +1067,8 @@
     },
     {
       "name": "FR",
-      "percent": 29.18032786885246,
-      "total_victims": 305,
+      "percent": 29.08496732026144,
+      "total_victims": 306,
       "stealer_victims": 89
     },
     {
@@ -1247,9 +1247,9 @@
     },
     {
       "name": "US",
-      "percent": 17.11162874036911,
-      "total_victims": 5581,
-      "stealer_victims": 955
+      "percent": 17.17406876790831,
+      "total_victims": 5584,
+      "stealer_victims": 959
     },
     {
       "name": "UY",
@@ -1818,6 +1818,12 @@
       "stealer_victims": 24
     },
     {
+      "group": "bravox",
+      "percent": 25.0,
+      "total_victims": 16,
+      "stealer_victims": 4
+    },
+    {
       "group": "krybit",
       "percent": 25.0,
       "total_victims": 36,
@@ -1860,6 +1866,12 @@
       "stealer_victims": 4
     },
     {
+      "group": "genesis",
+      "percent": 22.5,
+      "total_victims": 80,
+      "stealer_victims": 18
+    },
+    {
       "group": "d4rk4rmy",
       "percent": 22.22222222222222,
       "total_victims": 18,
@@ -1890,22 +1902,16 @@
       "stealer_victims": 4
     },
     {
-      "group": "kairos",
-      "percent": 20.833333333333336,
-      "total_victims": 72,
-      "stealer_victims": 15
-    },
-    {
       "group": "threeam",
       "percent": 20.833333333333336,
       "total_victims": 24,
       "stealer_victims": 5
     },
     {
-      "group": "genesis",
-      "percent": 20.51282051282051,
-      "total_victims": 78,
-      "stealer_victims": 16
+      "group": "kairos",
+      "percent": 20.54794520547945,
+      "total_victims": 73,
+      "stealer_victims": 15
     },
     {
       "group": "lynx",
@@ -1918,12 +1924,6 @@
       "percent": 20.0,
       "total_victims": 5,
       "stealer_victims": 1
-    },
-    {
-      "group": "bravox",
-      "percent": 20.0,
-      "total_victims": 15,
-      "stealer_victims": 3
     },
     {
       "group": "aurora",
@@ -1969,9 +1969,9 @@
     },
     {
       "group": "safepay",
-      "percent": 17.391304347826086,
+      "percent": 17.620137299771166,
       "total_victims": 437,
-      "stealer_victims": 76
+      "stealer_victims": 77
     },
     {
       "group": "8base",
@@ -2244,5 +2244,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-29T19:35:55.519527Z"
+  "last_update": "2026-05-29T21:57:10.874502Z"
 }
