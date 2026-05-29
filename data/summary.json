@@ -1,8 +1,8 @@
 {
   "totals": {
-    "domains_tracked": 2546,
+    "domains_tracked": 2547,
     "employees_exposed": 131025,
-    "users_exposed": 15584858,
+    "users_exposed": 15584879,
     "thirdparties_exposed": 96158,
     "stealer_families_count": 19
   },
@@ -151,7 +151,7 @@
     },
     {
       "month": "2026-05",
-      "count": 232
+      "count": 233
     }
   ],
   "sectors": [
@@ -219,7 +219,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 959
+      "count": 960
     },
     {
       "name": "BR",
@@ -1217,8 +1217,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.285714285714285,
-      "total_victims": 525,
+      "percent": 18.250950570342205,
+      "total_victims": 526,
       "stealer_victims": 96
     },
     {
@@ -1247,9 +1247,9 @@
     },
     {
       "name": "US",
-      "percent": 17.17406876790831,
-      "total_victims": 5584,
-      "stealer_victims": 959
+      "percent": 17.185821697099893,
+      "total_victims": 5586,
+      "stealer_victims": 960
     },
     {
       "name": "UY",
@@ -1398,16 +1398,16 @@
       "stealer_victims": 5
     },
     {
-      "group": "lapsus$",
-      "percent": 80.0,
-      "total_victims": 15,
-      "stealer_victims": 12
-    },
-    {
       "group": "apt73",
       "percent": 78.48101265822784,
       "total_victims": 79,
       "stealer_victims": 62
+    },
+    {
+      "group": "lapsus$",
+      "percent": 75.0,
+      "total_victims": 16,
+      "stealer_victims": 12
     },
     {
       "group": "exitium",
@@ -1998,16 +1998,16 @@
       "stealer_victims": 5
     },
     {
+      "group": "dragonforce",
+      "percent": 15.022421524663676,
+      "total_victims": 446,
+      "stealer_victims": 67
+    },
+    {
       "group": "m3rx",
       "percent": 15.0,
       "total_victims": 20,
       "stealer_victims": 3
-    },
-    {
-      "group": "dragonforce",
-      "percent": 14.864864864864865,
-      "total_victims": 444,
-      "stealer_victims": 66
     },
     {
       "group": "thegentlemen",
@@ -2244,5 +2244,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-29T21:57:10.874502Z"
+  "last_update": "2026-05-29T23:21:49.948316Z"
 }
