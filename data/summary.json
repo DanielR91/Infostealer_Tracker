@@ -940,12 +940,6 @@
       "stealer_victims": 28
     },
     {
-      "name": "LK",
-      "percent": 36.36363636363637,
-      "total_victims": 11,
-      "stealer_victims": 4
-    },
-    {
       "name": "SA",
       "percent": 36.11111111111111,
       "total_victims": 36,
@@ -962,6 +956,12 @@
       "percent": 34.13461538461539,
       "total_victims": 208,
       "stealer_victims": 71
+    },
+    {
+      "name": "LK",
+      "percent": 33.33333333333333,
+      "total_victims": 12,
+      "stealer_victims": 4
     },
     {
       "name": "PY",
@@ -1036,12 +1036,6 @@
       "stealer_victims": 11
     },
     {
-      "name": "KR",
-      "percent": 31.343283582089555,
-      "total_victims": 67,
-      "stealer_victims": 21
-    },
-    {
       "name": "PL",
       "percent": 31.25,
       "total_victims": 64,
@@ -1052,6 +1046,12 @@
       "percent": 31.060606060606062,
       "total_victims": 132,
       "stealer_victims": 41
+    },
+    {
+      "name": "KR",
+      "percent": 30.88235294117647,
+      "total_victims": 68,
+      "stealer_victims": 21
     },
     {
       "name": "OM",
@@ -2156,7 +2156,7 @@
     {
       "group": "titan",
       "percent": 0.0,
-      "total_victims": 7,
+      "total_victims": 9,
       "stealer_victims": 0
     },
     {
@@ -2244,5 +2244,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-30T03:58:29.632215Z"
+  "last_update": "2026-05-30T06:53:08.393239Z"
 }
