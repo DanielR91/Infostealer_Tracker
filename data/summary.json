@@ -1247,8 +1247,8 @@
     },
     {
       "name": "US",
-      "percent": 17.17967072297781,
-      "total_victims": 5588,
+      "percent": 17.176596886741816,
+      "total_victims": 5589,
       "stealer_victims": 960
     },
     {
@@ -2029,8 +2029,8 @@
     },
     {
       "group": "pear",
-      "percent": 12.643678160919542,
-      "total_victims": 87,
+      "percent": 12.5,
+      "total_victims": 88,
       "stealer_victims": 11
     },
     {
@@ -2244,5 +2244,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-30T06:53:08.393239Z"
+  "last_update": "2026-05-30T09:24:22.519910Z"
 }
