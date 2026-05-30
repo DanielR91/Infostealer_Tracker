@@ -1,27 +1,27 @@
 {
   "totals": {
-    "domains_tracked": 2552,
+    "domains_tracked": 2554,
     "employees_exposed": 133421,
-    "users_exposed": 15621219,
-    "thirdparties_exposed": 100741,
+    "users_exposed": 15621225,
+    "thirdparties_exposed": 100748,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1140410
+      "count": 1140411
     },
     {
       "name": "Lumma",
-      "count": 592415
+      "count": 592416
     },
     {
       "name": "Generic Stealer",
-      "count": 461912
+      "count": 461913
     },
     {
       "name": "Raccoon",
-      "count": 304433
+      "count": 304435
     },
     {
       "name": "StealC",
@@ -151,7 +151,7 @@
     },
     {
       "month": "2026-05",
-      "count": 238
+      "count": 240
     }
   ],
   "sectors": [
@@ -165,7 +165,7 @@
     },
     {
       "name": "Technology",
-      "count": 29308
+      "count": 29315
     },
     {
       "name": "Telecommunication",
@@ -231,11 +231,11 @@
     },
     {
       "name": "FR",
-      "count": 89
+      "count": 90
     },
     {
       "name": "GB",
-      "count": 85
+      "count": 86
     },
     {
       "name": "CA",
@@ -904,12 +904,6 @@
       "stealer_victims": 5
     },
     {
-      "name": "VN",
-      "percent": 37.93103448275862,
-      "total_victims": 29,
-      "stealer_victims": 11
-    },
-    {
       "name": "EG",
       "percent": 37.77777777777778,
       "total_victims": 45,
@@ -932,6 +926,12 @@
       "percent": 36.75213675213676,
       "total_victims": 117,
       "stealer_victims": 43
+    },
+    {
+      "name": "VN",
+      "percent": 36.666666666666664,
+      "total_victims": 30,
+      "stealer_victims": 11
     },
     {
       "name": "AE",
@@ -1060,16 +1060,16 @@
       "stealer_victims": 3
     },
     {
+      "name": "FR",
+      "percent": 29.31596091205212,
+      "total_victims": 307,
+      "stealer_victims": 90
+    },
+    {
       "name": "ES",
       "percent": 29.230769230769234,
       "total_victims": 260,
       "stealer_victims": 76
-    },
-    {
-      "name": "FR",
-      "percent": 29.08496732026144,
-      "total_victims": 306,
-      "stealer_victims": 89
     },
     {
       "name": "SI",
@@ -1211,9 +1211,9 @@
     },
     {
       "name": "GB",
-      "percent": 18.5589519650655,
-      "total_victims": 458,
-      "stealer_victims": 85
+      "percent": 18.736383442265794,
+      "total_victims": 459,
+      "stealer_victims": 86
     },
     {
       "name": "DE",
@@ -1241,8 +1241,8 @@
     },
     {
       "name": "US",
-      "percent": 17.203147353361945,
-      "total_victims": 5592,
+      "percent": 17.196996782266712,
+      "total_victims": 5594,
       "stealer_victims": 962
     },
     {
@@ -1331,8 +1331,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.555555555555555,
-      "total_victims": 540,
+      "percent": 5.545286506469501,
+      "total_victims": 541,
       "stealer_victims": 30
     },
     {
@@ -1459,9 +1459,9 @@
     },
     {
       "group": "coinbasecartel",
-      "percent": 63.31360946745562,
-      "total_victims": 169,
-      "stealer_victims": 107
+      "percent": 63.372093023255815,
+      "total_victims": 172,
+      "stealer_victims": 109
     },
     {
       "group": "ralord",
@@ -1800,16 +1800,16 @@
       "stealer_victims": 13
     },
     {
-      "group": "gunra",
-      "percent": 26.31578947368421,
-      "total_victims": 38,
-      "stealer_victims": 10
-    },
-    {
       "group": "anubis",
       "percent": 25.97402597402597,
       "total_victims": 77,
       "stealer_victims": 20
+    },
+    {
+      "group": "gunra",
+      "percent": 25.64102564102564,
+      "total_victims": 39,
+      "stealer_victims": 10
     },
     {
       "group": "incransom",
@@ -1992,12 +1992,6 @@
       "stealer_victims": 30
     },
     {
-      "group": "termite",
-      "percent": 15.625,
-      "total_victims": 32,
-      "stealer_victims": 5
-    },
-    {
       "group": "dragonforce",
       "percent": 15.022421524663676,
       "total_victims": 446,
@@ -2008,6 +2002,12 @@
       "percent": 15.0,
       "total_victims": 20,
       "stealer_victims": 3
+    },
+    {
+      "group": "termite",
+      "percent": 14.705882352941178,
+      "total_victims": 34,
+      "stealer_victims": 5
     },
     {
       "group": "thegentlemen",
@@ -2244,5 +2244,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-30T13:53:26.888391Z"
+  "last_update": "2026-05-30T15:15:03.494703Z"
 }
