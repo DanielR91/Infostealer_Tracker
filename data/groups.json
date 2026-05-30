@@ -4559,36 +4559,6 @@
     "ransomnotes_count": 0,
     "url": "https://www.ransomware.live/group/silentransomgroup"
   },
-  "rhysida": {
-    "description": "The rhysida ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
-    "victims": 31,
-    "firstseen": "2025-01-10T12:00:00Z",
-    "lastseen": "2026-05-20T18:00:00Z",
-    "locations": [
-      {
-        "url": "http://rhysidaleaksite557asd.onion",
-        "type": "onion"
-      }
-    ],
-    "ttps": [
-      "T1190 - Exploit Public-Facing Application",
-      "T1078 - Valid Accounts",
-      "T1566 - Phishing"
-    ],
-    "vulnerabilities": [
-      "CVE-2023-4966 (Citrix Bleed)",
-      "CVE-2024-21887 (Ivanti Connect Secure)"
-    ],
-    "tools": [
-      "Cobalt Strike",
-      "Mimikatz",
-      "rhysida_ransom_encryptor"
-    ],
-    "has_negotiations": true,
-    "negotiation_count": 1,
-    "has_ransomnote": true,
-    "ransomnotes_count": 3
-  },
   "shinyhunters": {
     "client": "hose_chamber1d@icloud.com",
     "group": "shinyhunters",
@@ -4729,5 +4699,35 @@
     "has_ransomnote": false,
     "ransomnotes_count": 0,
     "url": "https://www.ransomware.live/group/shinyhunters"
+  },
+  "rhysida": {
+    "description": "The rhysida ransomware group is a highly sophisticated cybercriminal syndicate known for target-rich double extortion campaigns. Sourcing initial access widely, often through infostealer credential sales on underground forums.",
+    "victims": 31,
+    "firstseen": "2025-01-10T12:00:00Z",
+    "lastseen": "2026-05-20T18:00:00Z",
+    "locations": [
+      {
+        "url": "http://rhysidaleaksite557asd.onion",
+        "type": "onion"
+      }
+    ],
+    "ttps": [
+      "T1190 - Exploit Public-Facing Application",
+      "T1078 - Valid Accounts",
+      "T1566 - Phishing"
+    ],
+    "vulnerabilities": [
+      "CVE-2023-4966 (Citrix Bleed)",
+      "CVE-2024-21887 (Ivanti Connect Secure)"
+    ],
+    "tools": [
+      "Cobalt Strike",
+      "Mimikatz",
+      "rhysida_ransom_encryptor"
+    ],
+    "has_negotiations": true,
+    "negotiation_count": 1,
+    "has_ransomnote": true,
+    "ransomnotes_count": 3
   }
 }
