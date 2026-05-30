@@ -953,8 +953,8 @@
     },
     {
       "name": "IN",
-      "percent": 34.29951690821256,
-      "total_victims": 207,
+      "percent": 34.13461538461539,
+      "total_victims": 208,
       "stealer_victims": 71
     },
     {
@@ -1776,12 +1776,6 @@
       "stealer_victims": 3
     },
     {
-      "group": "krybit",
-      "percent": 27.027027027027028,
-      "total_victims": 37,
-      "stealer_victims": 10
-    },
-    {
       "group": "direwolf",
       "percent": 26.76056338028169,
       "total_victims": 71,
@@ -1798,6 +1792,12 @@
       "percent": 26.53061224489796,
       "total_victims": 49,
       "stealer_victims": 13
+    },
+    {
+      "group": "krybit",
+      "percent": 26.31578947368421,
+      "total_victims": 38,
+      "stealer_victims": 10
     },
     {
       "group": "anubis",
@@ -2244,5 +2244,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-30T21:07:03.046311Z"
+  "last_update": "2026-05-30T23:04:58.918424Z"
 }
