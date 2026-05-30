@@ -953,8 +953,8 @@
     },
     {
       "name": "IN",
-      "percent": 34.13461538461539,
-      "total_victims": 208,
+      "percent": 34.29951690821256,
+      "total_victims": 207,
       "stealer_victims": 71
     },
     {
@@ -1079,8 +1079,8 @@
     },
     {
       "name": "MY",
-      "percent": 28.205128205128204,
-      "total_victims": 78,
+      "percent": 27.848101265822784,
+      "total_victims": 79,
       "stealer_victims": 22
     },
     {
@@ -1240,16 +1240,16 @@
       "stealer_victims": 12
     },
     {
-      "name": "US",
-      "percent": 17.196996782266712,
-      "total_victims": 5594,
-      "stealer_victims": 962
-    },
-    {
       "name": "AT",
       "percent": 17.1875,
       "total_victims": 64,
       "stealer_victims": 11
+    },
+    {
+      "name": "US",
+      "percent": 17.18163957849616,
+      "total_victims": 5599,
+      "stealer_victims": 962
     },
     {
       "name": "UY",
@@ -1866,12 +1866,6 @@
       "stealer_victims": 4
     },
     {
-      "group": "genesis",
-      "percent": 22.5,
-      "total_victims": 80,
-      "stealer_victims": 18
-    },
-    {
       "group": "d4rk4rmy",
       "percent": 22.22222222222222,
       "total_victims": 18,
@@ -1894,6 +1888,12 @@
       "percent": 21.875,
       "total_victims": 32,
       "stealer_victims": 7
+    },
+    {
+      "group": "genesis",
+      "percent": 21.176470588235293,
+      "total_victims": 85,
+      "stealer_victims": 18
     },
     {
       "group": "cephalus",
@@ -2244,5 +2244,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-30T17:16:43.706128Z"
+  "last_update": "2026-05-30T19:27:04.866580Z"
 }
