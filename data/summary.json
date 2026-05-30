@@ -1,71 +1,71 @@
 {
   "totals": {
-    "domains_tracked": 2548,
-    "employees_exposed": 131025,
-    "users_exposed": 15584879,
-    "thirdparties_exposed": 96163,
+    "domains_tracked": 2552,
+    "employees_exposed": 133421,
+    "users_exposed": 15621219,
+    "thirdparties_exposed": 100741,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1128160
+      "count": 1140410
     },
     {
       "name": "Lumma",
-      "count": 584779
+      "count": 592415
     },
     {
       "name": "Generic Stealer",
-      "count": 454724
+      "count": 461912
     },
     {
       "name": "Raccoon",
-      "count": 301463
+      "count": 304433
     },
     {
       "name": "StealC",
-      "count": 121644
+      "count": 123171
     },
     {
       "name": "Azorult",
-      "count": 118809
+      "count": 119521
     },
     {
       "name": "Vidar",
-      "count": 115364
+      "count": 116775
     },
     {
       "name": "CRYPTBOT",
-      "count": 10621
+      "count": 10699
     },
     {
       "name": "Acreed",
-      "count": 6284
+      "count": 6432
     },
     {
       "name": "Mystic",
-      "count": 4561
+      "count": 4607
     },
     {
       "name": "Atomic",
-      "count": 3719
+      "count": 3765
     },
     {
       "name": "DarkCrystal",
-      "count": 3474
+      "count": 3498
     },
     {
       "name": "Predator",
-      "count": 2400
+      "count": 2407
     },
     {
       "name": "Taurus",
-      "count": 2377
+      "count": 2402
     },
     {
       "name": "Ficker",
-      "count": 2267
+      "count": 2296
     },
     {
       "name": "racoon",
@@ -77,7 +77,7 @@
     },
     {
       "name": "Aura Stealer",
-      "count": 48
+      "count": 52
     },
     {
       "name": "Redline",
@@ -151,7 +151,7 @@
     },
     {
       "month": "2026-05",
-      "count": 234
+      "count": 238
     }
   ],
   "sectors": [
@@ -169,7 +169,7 @@
     },
     {
       "name": "Telecommunication",
-      "count": 21419
+      "count": 28391
     },
     {
       "name": "Business Services",
@@ -197,7 +197,7 @@
     },
     {
       "name": "Healthcare",
-      "count": 4594
+      "count": 4595
     },
     {
       "name": "Manufacturing",
@@ -205,7 +205,7 @@
     },
     {
       "name": "Agriculture and Food Production",
-      "count": 2808
+      "count": 2809
     },
     {
       "name": "Hospitality and Tourism",
@@ -219,7 +219,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 960
+      "count": 962
     },
     {
       "name": "BR",
@@ -227,7 +227,7 @@
     },
     {
       "name": "DE",
-      "count": 96
+      "count": 97
     },
     {
       "name": "FR",
@@ -270,15 +270,15 @@
       "count": 33
     },
     {
+      "name": "ID",
+      "count": 32
+    },
+    {
       "name": "SG",
       "count": 32
     },
     {
       "name": "AU",
-      "count": 31
-    },
-    {
-      "name": "ID",
       "count": 31
     },
     {
@@ -815,9 +815,9 @@
     },
     {
       "name": "ID",
-      "percent": 46.96969696969697,
+      "percent": 48.484848484848484,
       "total_victims": 66,
-      "stealer_victims": 31
+      "stealer_victims": 32
     },
     {
       "name": "EC",
@@ -827,8 +827,8 @@
     },
     {
       "name": "BR",
-      "percent": 45.4954954954955,
-      "total_victims": 222,
+      "percent": 45.2914798206278,
+      "total_victims": 223,
       "stealer_victims": 101
     },
     {
@@ -1217,9 +1217,9 @@
     },
     {
       "name": "DE",
-      "percent": 18.250950570342205,
+      "percent": 18.44106463878327,
       "total_victims": 526,
-      "stealer_victims": 96
+      "stealer_victims": 97
     },
     {
       "name": "HU",
@@ -1240,16 +1240,16 @@
       "stealer_victims": 12
     },
     {
+      "name": "US",
+      "percent": 17.203147353361945,
+      "total_victims": 5592,
+      "stealer_victims": 962
+    },
+    {
       "name": "AT",
       "percent": 17.1875,
       "total_victims": 64,
       "stealer_victims": 11
-    },
-    {
-      "name": "US",
-      "percent": 17.176596886741816,
-      "total_victims": 5589,
-      "stealer_victims": 960
     },
     {
       "name": "UY",
@@ -1331,8 +1331,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.545286506469501,
-      "total_victims": 541,
+      "percent": 5.555555555555555,
+      "total_victims": 540,
       "stealer_victims": 30
     },
     {
@@ -1398,16 +1398,16 @@
       "stealer_victims": 5
     },
     {
+      "group": "lapsus$",
+      "percent": 81.25,
+      "total_victims": 16,
+      "stealer_victims": 13
+    },
+    {
       "group": "apt73",
       "percent": 78.48101265822784,
       "total_victims": 79,
       "stealer_victims": 62
-    },
-    {
-      "group": "lapsus$",
-      "percent": 75.0,
-      "total_victims": 16,
-      "stealer_victims": 12
     },
     {
       "group": "exitium",
@@ -1483,9 +1483,9 @@
     },
     {
       "group": "nova",
-      "percent": 55.90551181102362,
-      "total_victims": 127,
-      "stealer_victims": 71
+      "percent": 55.81395348837209,
+      "total_victims": 129,
+      "stealer_victims": 72
     },
     {
       "group": "LeakBazaar",
@@ -1501,9 +1501,9 @@
     },
     {
       "group": "shinyhunters",
-      "percent": 54.12844036697248,
+      "percent": 55.04587155963303,
       "total_victims": 109,
-      "stealer_victims": 59
+      "stealer_victims": 60
     },
     {
       "group": "ALP-001",
@@ -1759,9 +1759,9 @@
     },
     {
       "group": "akira",
-      "percent": 28.277886497064582,
+      "percent": 28.37573385518591,
       "total_victims": 1022,
-      "stealer_victims": 289
+      "stealer_victims": 290
     },
     {
       "group": "lockbit5",
@@ -2089,8 +2089,8 @@
     },
     {
       "group": "cmdorganization",
-      "percent": 6.666666666666667,
-      "total_victims": 15,
+      "percent": 6.25,
+      "total_victims": 16,
       "stealer_victims": 1
     },
     {
@@ -2244,5 +2244,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-30T11:26:42.547938Z"
+  "last_update": "2026-05-30T13:53:26.888391Z"
 }
