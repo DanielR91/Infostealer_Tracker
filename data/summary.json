@@ -1067,8 +1067,8 @@
     },
     {
       "name": "ES",
-      "percent": 29.230769230769234,
-      "total_victims": 260,
+      "percent": 29.118773946360154,
+      "total_victims": 261,
       "stealer_victims": 76
     },
     {
@@ -1331,8 +1331,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.545286506469501,
-      "total_victims": 541,
+      "percent": 5.535055350553505,
+      "total_victims": 542,
       "stealer_victims": 30
     },
     {
@@ -1398,12 +1398,6 @@
       "stealer_victims": 5
     },
     {
-      "group": "lapsus$",
-      "percent": 81.25,
-      "total_victims": 16,
-      "stealer_victims": 13
-    },
-    {
       "group": "apt73",
       "percent": 78.48101265822784,
       "total_victims": 79,
@@ -1420,6 +1414,12 @@
       "percent": 75.0,
       "total_victims": 8,
       "stealer_victims": 6
+    },
+    {
+      "group": "lapsus$",
+      "percent": 72.22222222222221,
+      "total_victims": 18,
+      "stealer_victims": 13
     },
     {
       "group": "funksec",
@@ -2244,5 +2244,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-31T19:26:03.860141Z"
+  "last_update": "2026-05-31T21:08:19.741354Z"
 }
