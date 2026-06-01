@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2556,
-    "employees_exposed": 133428,
-    "users_exposed": 15621662,
-    "thirdparties_exposed": 100872,
+    "domains_tracked": 2558,
+    "employees_exposed": 133434,
+    "users_exposed": 15621771,
+    "thirdparties_exposed": 100878,
     "stealer_families_count": 19
   },
   "families": [
@@ -152,6 +152,10 @@
     {
       "month": "2026-05",
       "count": 242
+    },
+    {
+      "month": "2026-06",
+      "count": 2
     }
   ],
   "sectors": [
@@ -193,7 +197,7 @@
     },
     {
       "name": "Consumer Services",
-      "count": 7884
+      "count": 7896
     },
     {
       "name": "Healthcare",
@@ -227,7 +231,7 @@
     },
     {
       "name": "DE",
-      "count": 97
+      "count": 98
     },
     {
       "name": "FR",
@@ -251,7 +255,7 @@
     },
     {
       "name": "IT",
-      "count": 60
+      "count": 61
     },
     {
       "name": "TW",
@@ -1169,9 +1173,9 @@
     },
     {
       "name": "IT",
-      "percent": 20.689655172413794,
-      "total_victims": 290,
-      "stealer_victims": 60
+      "percent": 20.819112627986346,
+      "total_victims": 293,
+      "stealer_victims": 61
     },
     {
       "name": "SE",
@@ -1217,9 +1221,9 @@
     },
     {
       "name": "DE",
-      "percent": 18.44106463878327,
-      "total_victims": 526,
-      "stealer_victims": 97
+      "percent": 18.560606060606062,
+      "total_victims": 528,
+      "stealer_victims": 98
     },
     {
       "name": "HU",
@@ -1277,8 +1281,8 @@
     },
     {
       "name": "CA",
-      "percent": 15.487571701720842,
-      "total_victims": 523,
+      "percent": 15.458015267175574,
+      "total_victims": 524,
       "stealer_victims": 81
     },
     {
@@ -1969,9 +1973,9 @@
     },
     {
       "group": "safepay",
-      "percent": 17.620137299771166,
-      "total_victims": 437,
-      "stealer_victims": 77
+      "percent": 17.83295711060948,
+      "total_victims": 443,
+      "stealer_victims": 79
     },
     {
       "group": "8base",
@@ -2244,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-01T16:44:11.999106Z"
+  "last_update": "2026-06-01T21:00:08.542413Z"
 }
