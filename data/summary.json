@@ -1331,8 +1331,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.535055350553505,
-      "total_victims": 542,
+      "percent": 5.524861878453039,
+      "total_victims": 543,
       "stealer_victims": 30
     },
     {
@@ -1578,12 +1578,6 @@
       "stealer_victims": 63
     },
     {
-      "group": "shadowbyt3$",
-      "percent": 42.857142857142854,
-      "total_victims": 7,
-      "stealer_victims": 3
-    },
-    {
       "group": "arcusmedia",
       "percent": 42.5,
       "total_victims": 40,
@@ -1612,6 +1606,12 @@
       "percent": 38.0,
       "total_victims": 100,
       "stealer_victims": 38
+    },
+    {
+      "group": "shadowbyt3$",
+      "percent": 37.5,
+      "total_victims": 8,
+      "stealer_victims": 3
     },
     {
       "group": "VanHelsing",
@@ -2244,5 +2244,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-05-31T23:07:30.449298Z"
+  "last_update": "2026-06-01T04:53:47.713626Z"
 }
