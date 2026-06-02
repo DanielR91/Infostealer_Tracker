@@ -920,12 +920,6 @@
       "stealer_victims": 29
     },
     {
-      "name": "CL",
-      "percent": 36.84210526315789,
-      "total_victims": 38,
-      "stealer_victims": 14
-    },
-    {
       "name": "TW",
       "percent": 36.75213675213676,
       "total_victims": 117,
@@ -948,6 +942,12 @@
       "percent": 36.11111111111111,
       "total_victims": 36,
       "stealer_victims": 13
+    },
+    {
+      "name": "CL",
+      "percent": 35.8974358974359,
+      "total_victims": 39,
+      "stealer_victims": 14
     },
     {
       "name": "TH",
@@ -1323,8 +1323,8 @@
     },
     {
       "name": "RU",
-      "percent": 9.523809523809524,
-      "total_victims": 21,
+      "percent": 9.090909090909092,
+      "total_victims": 22,
       "stealer_victims": 2
     },
     {
@@ -1774,12 +1774,6 @@
       "stealer_victims": 70
     },
     {
-      "group": "AuditTeam",
-      "percent": 27.27272727272727,
-      "total_victims": 11,
-      "stealer_victims": 3
-    },
-    {
       "group": "direwolf",
       "percent": 26.76056338028169,
       "total_victims": 71,
@@ -1826,6 +1820,12 @@
       "percent": 25.263157894736842,
       "total_victims": 95,
       "stealer_victims": 24
+    },
+    {
+      "group": "AuditTeam",
+      "percent": 25.0,
+      "total_victims": 12,
+      "stealer_victims": 3
     },
     {
       "group": "radar",
@@ -2117,8 +2117,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.47112462006079,
-      "total_victims": 1645,
+      "percent": 5.467800729040097,
+      "total_victims": 1646,
       "stealer_victims": 90
     },
     {
@@ -2248,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-02T04:42:08.301003Z"
+  "last_update": "2026-06-02T09:15:04.400632Z"
 }
