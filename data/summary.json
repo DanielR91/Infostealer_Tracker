@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2559,
+    "domains_tracked": 2560,
     "employees_exposed": 133434,
     "users_exposed": 15621771,
-    "thirdparties_exposed": 100879,
+    "thirdparties_exposed": 100880,
     "stealer_families_count": 19
   },
   "families": [
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 2
+      "count": 3
     }
   ],
   "sectors": [
@@ -181,7 +181,7 @@
     },
     {
       "name": "Transportation/Logistics",
-      "count": 11419
+      "count": 11420
     },
     {
       "name": "Not Found",
@@ -223,7 +223,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 963
+      "count": 964
     },
     {
       "name": "BR",
@@ -1245,9 +1245,9 @@
     },
     {
       "name": "US",
-      "percent": 17.171897289586305,
-      "total_victims": 5608,
-      "stealer_victims": 963
+      "percent": 17.186664289534676,
+      "total_victims": 5609,
+      "stealer_victims": 964
     },
     {
       "name": "AT",
@@ -1274,16 +1274,16 @@
       "stealer_victims": 7
     },
     {
-      "name": "NL",
-      "percent": 15.625,
-      "total_victims": 64,
-      "stealer_victims": 10
-    },
-    {
       "name": "CA",
       "percent": 15.458015267175574,
       "total_victims": 524,
       "stealer_victims": 81
+    },
+    {
+      "name": "NL",
+      "percent": 15.384615384615385,
+      "total_victims": 65,
+      "stealer_victims": 10
     },
     {
       "name": "PR",
@@ -1720,16 +1720,16 @@
       "stealer_victims": 29
     },
     {
-      "group": "stormous",
-      "percent": 30.612244897959183,
-      "total_victims": 49,
-      "stealer_victims": 15
-    },
-    {
       "group": "blackshrantac",
       "percent": 30.23255813953488,
       "total_victims": 43,
       "stealer_victims": 13
+    },
+    {
+      "group": "stormous",
+      "percent": 30.0,
+      "total_victims": 50,
+      "stealer_victims": 15
     },
     {
       "group": "SilentRansomGroup",
@@ -1805,9 +1805,9 @@
     },
     {
       "group": "incransom",
-      "percent": 25.37313432835821,
-      "total_victims": 603,
-      "stealer_victims": 153
+      "percent": 25.496688741721858,
+      "total_victims": 604,
+      "stealer_victims": 154
     },
     {
       "group": "krybit",
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-02T18:46:59.882946Z"
+  "last_update": "2026-06-02T21:53:54.269966Z"
 }
