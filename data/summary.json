@@ -957,8 +957,8 @@
     },
     {
       "name": "IN",
-      "percent": 34.13461538461539,
-      "total_victims": 208,
+      "percent": 33.97129186602871,
+      "total_victims": 209,
       "stealer_victims": 71
     },
     {
@@ -1047,8 +1047,8 @@
     },
     {
       "name": "MX",
-      "percent": 31.060606060606062,
-      "total_victims": 132,
+      "percent": 30.82706766917293,
+      "total_victims": 133,
       "stealer_victims": 41
     },
     {
@@ -1335,8 +1335,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.5045871559633035,
-      "total_victims": 545,
+      "percent": 5.4945054945054945,
+      "total_victims": 546,
       "stealer_victims": 30
     },
     {
@@ -1571,8 +1571,8 @@
     },
     {
       "group": "killsec",
-      "percent": 43.15068493150685,
-      "total_victims": 146,
+      "percent": 42.567567567567565,
+      "total_victims": 148,
       "stealer_victims": 63
     },
     {
@@ -1610,12 +1610,6 @@
       "percent": 38.0,
       "total_victims": 100,
       "stealer_victims": 38
-    },
-    {
-      "group": "shadowbyt3$",
-      "percent": 37.5,
-      "total_victims": 8,
-      "stealer_victims": 3
     },
     {
       "group": "VanHelsing",
@@ -1676,6 +1670,12 @@
       "percent": 33.94495412844037,
       "total_victims": 109,
       "stealer_victims": 37
+    },
+    {
+      "group": "shadowbyt3$",
+      "percent": 33.33333333333333,
+      "total_victims": 9,
+      "stealer_victims": 3
     },
     {
       "group": "moneymessage",
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-02T23:53:03.685468Z"
+  "last_update": "2026-06-03T04:51:27.655392Z"
 }
