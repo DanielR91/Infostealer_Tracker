@@ -1,8 +1,8 @@
 {
   "totals": {
-    "domains_tracked": 2576,
+    "domains_tracked": 2577,
     "employees_exposed": 133459,
-    "users_exposed": 15626024,
+    "users_exposed": 15626029,
     "thirdparties_exposed": 101312,
     "stealer_families_count": 19
   },
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 19
+      "count": 20
     }
   ],
   "sectors": [
@@ -235,7 +235,7 @@
     },
     {
       "name": "FR",
-      "count": 90
+      "count": 91
     },
     {
       "name": "GB",
@@ -1071,9 +1071,9 @@
     },
     {
       "name": "FR",
-      "percent": 29.31596091205212,
-      "total_victims": 307,
-      "stealer_victims": 90
+      "percent": 29.545454545454547,
+      "total_victims": 308,
+      "stealer_victims": 91
     },
     {
       "name": "ES",
@@ -2074,6 +2074,12 @@
       "stealer_victims": 2
     },
     {
+      "group": "AiLock",
+      "percent": 7.894736842105263,
+      "total_victims": 38,
+      "stealer_victims": 3
+    },
+    {
       "group": "spacebears",
       "percent": 7.865168539325842,
       "total_victims": 89,
@@ -2120,12 +2126,6 @@
       "percent": 5.451241671714112,
       "total_victims": 1651,
       "stealer_victims": 90
-    },
-    {
-      "group": "AiLock",
-      "percent": 5.405405405405405,
-      "total_victims": 37,
-      "stealer_victims": 2
     },
     {
       "group": "play",
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-04T19:26:55.412037Z"
+  "last_update": "2026-06-04T21:47:20.538289Z"
 }
