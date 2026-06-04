@@ -1034,12 +1034,6 @@
       "stealer_victims": 11
     },
     {
-      "name": "SG",
-      "percent": 31.372549019607842,
-      "total_victims": 102,
-      "stealer_victims": 32
-    },
-    {
       "name": "MX",
       "percent": 31.343283582089555,
       "total_victims": 134,
@@ -1050,6 +1044,12 @@
       "percent": 31.25,
       "total_victims": 64,
       "stealer_victims": 20
+    },
+    {
+      "name": "SG",
+      "percent": 31.06796116504854,
+      "total_victims": 103,
+      "stealer_victims": 32
     },
     {
       "name": "LK",
@@ -1245,8 +1245,8 @@
     },
     {
       "name": "US",
-      "percent": 17.206405693950177,
-      "total_victims": 5620,
+      "percent": 17.203344600604876,
+      "total_victims": 5621,
       "stealer_victims": 967
     },
     {
@@ -1323,8 +1323,8 @@
     },
     {
       "name": "RU",
-      "percent": 9.090909090909092,
-      "total_victims": 22,
+      "percent": 8.695652173913043,
+      "total_victims": 23,
       "stealer_victims": 2
     },
     {
@@ -1335,8 +1335,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.636363636363637,
-      "total_victims": 550,
+      "percent": 5.626134301270418,
+      "total_victims": 551,
       "stealer_victims": 31
     },
     {
@@ -1757,8 +1757,8 @@
     },
     {
       "group": "akira",
-      "percent": 28.26510721247563,
-      "total_victims": 1026,
+      "percent": 28.21011673151751,
+      "total_victims": 1028,
       "stealer_victims": 290
     },
     {
@@ -1799,8 +1799,8 @@
     },
     {
       "group": "incransom",
-      "percent": 25.370675453047774,
-      "total_victims": 607,
+      "percent": 25.32894736842105,
+      "total_victims": 608,
       "stealer_victims": 154
     },
     {
@@ -1814,12 +1814,6 @@
       "percent": 25.0,
       "total_victims": 96,
       "stealer_victims": 24
-    },
-    {
-      "group": "AuditTeam",
-      "percent": 25.0,
-      "total_victims": 12,
-      "stealer_victims": 3
     },
     {
       "group": "radar",
@@ -1868,6 +1862,12 @@
       "percent": 23.52941176470588,
       "total_victims": 17,
       "stealer_victims": 4
+    },
+    {
+      "group": "AuditTeam",
+      "percent": 23.076923076923077,
+      "total_victims": 13,
+      "stealer_victims": 3
     },
     {
       "group": "genesis",
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-04T12:08:00.503989Z"
+  "last_update": "2026-06-04T16:24:21.105417Z"
 }
