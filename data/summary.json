@@ -1082,12 +1082,6 @@
       "stealer_victims": 76
     },
     {
-      "name": "SI",
-      "percent": 28.57142857142857,
-      "total_victims": 7,
-      "stealer_victims": 2
-    },
-    {
       "name": "MY",
       "percent": 27.848101265822784,
       "total_victims": 79,
@@ -1104,6 +1098,12 @@
       "percent": 26.190476190476193,
       "total_victims": 42,
       "stealer_victims": 11
+    },
+    {
+      "name": "SI",
+      "percent": 25.0,
+      "total_victims": 8,
+      "stealer_victims": 2
     },
     {
       "name": "TR",
@@ -1245,14 +1245,14 @@
     },
     {
       "name": "US",
-      "percent": 17.203344600604876,
-      "total_victims": 5621,
+      "percent": 17.19111111111111,
+      "total_victims": 5625,
       "stealer_victims": 967
     },
     {
       "name": "AT",
-      "percent": 16.923076923076923,
-      "total_victims": 65,
+      "percent": 16.666666666666664,
+      "total_victims": 66,
       "stealer_victims": 11
     },
     {
@@ -1275,8 +1275,8 @@
     },
     {
       "name": "CA",
-      "percent": 15.428571428571427,
-      "total_victims": 525,
+      "percent": 15.399239543726237,
+      "total_victims": 526,
       "stealer_victims": 81
     },
     {
@@ -2123,14 +2123,14 @@
     },
     {
       "group": "qilin",
-      "percent": 5.451241671714112,
-      "total_victims": 1651,
+      "percent": 5.441354292623942,
+      "total_victims": 1654,
       "stealer_victims": 90
     },
     {
       "group": "play",
-      "percent": 4.4692737430167595,
-      "total_victims": 537,
+      "percent": 4.436229205175601,
+      "total_victims": 541,
       "stealer_victims": 24
     },
     {
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-04T21:47:20.538289Z"
+  "last_update": "2026-06-04T23:14:36.711438Z"
 }
