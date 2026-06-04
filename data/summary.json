@@ -1215,8 +1215,8 @@
     },
     {
       "name": "GB",
-      "percent": 18.695652173913043,
-      "total_victims": 460,
+      "percent": 18.655097613882862,
+      "total_victims": 461,
       "stealer_victims": 86
     },
     {
@@ -1798,16 +1798,16 @@
       "stealer_victims": 10
     },
     {
-      "group": "incransom",
-      "percent": 25.32894736842105,
-      "total_victims": 608,
-      "stealer_victims": 154
-    },
-    {
       "group": "anubis",
       "percent": 25.31645569620253,
       "total_victims": 79,
       "stealer_victims": 20
+    },
+    {
+      "group": "incransom",
+      "percent": 25.287356321839084,
+      "total_victims": 609,
+      "stealer_victims": 154
     },
     {
       "group": "interlock",
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-04T16:24:21.105417Z"
+  "last_update": "2026-06-04T19:26:55.412037Z"
 }
