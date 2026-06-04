@@ -951,8 +951,8 @@
     },
     {
       "name": "SA",
-      "percent": 36.11111111111111,
-      "total_victims": 36,
+      "percent": 35.13513513513514,
+      "total_victims": 37,
       "stealer_victims": 13
     },
     {
@@ -1245,8 +1245,8 @@
     },
     {
       "name": "US",
-      "percent": 17.1922323178336,
-      "total_victims": 5613,
+      "percent": 17.189169932312076,
+      "total_victims": 5614,
       "stealer_victims": 965
     },
     {
@@ -1726,16 +1726,16 @@
       "stealer_victims": 13
     },
     {
-      "group": "stormous",
-      "percent": 30.0,
-      "total_victims": 50,
-      "stealer_victims": 15
-    },
-    {
       "group": "SilentRansomGroup",
       "percent": 29.565217391304348,
       "total_victims": 115,
       "stealer_victims": 34
+    },
+    {
+      "group": "stormous",
+      "percent": 29.411764705882355,
+      "total_victims": 51,
+      "stealer_victims": 15
     },
     {
       "group": "ransomhub",
@@ -1799,8 +1799,8 @@
     },
     {
       "group": "incransom",
-      "percent": 25.412541254125415,
-      "total_victims": 606,
+      "percent": 25.370675453047774,
+      "total_victims": 607,
       "stealer_victims": 154
     },
     {
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-03T23:51:06.063958Z"
+  "last_update": "2026-06-04T04:45:16.058097Z"
 }
