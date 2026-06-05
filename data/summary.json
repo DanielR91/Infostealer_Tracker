@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2577,
-    "employees_exposed": 133459,
-    "users_exposed": 15626029,
-    "thirdparties_exposed": 101312,
+    "domains_tracked": 2576,
+    "employees_exposed": 133456,
+    "users_exposed": 15626022,
+    "thirdparties_exposed": 101272,
     "stealer_families_count": 19
   },
   "families": [
@@ -143,7 +143,7 @@
     },
     {
       "month": "2026-03",
-      "count": 115
+      "count": 114
     },
     {
       "month": "2026-04",
@@ -169,7 +169,7 @@
     },
     {
       "name": "Technology",
-      "count": 29324
+      "count": 29281
     },
     {
       "name": "Telecommunication",
@@ -251,7 +251,7 @@
     },
     {
       "name": "IN",
-      "count": 71
+      "count": 70
     },
     {
       "name": "IT",
@@ -962,12 +962,6 @@
       "stealer_victims": 43
     },
     {
-      "name": "IN",
-      "percent": 33.490566037735846,
-      "total_victims": 212,
-      "stealer_victims": 71
-    },
-    {
       "name": "PY",
       "percent": 33.33333333333333,
       "total_victims": 9,
@@ -992,16 +986,16 @@
       "stealer_victims": 2
     },
     {
-      "name": "GE",
+      "name": "MC",
       "percent": 33.33333333333333,
       "total_victims": 3,
       "stealer_victims": 1
     },
     {
-      "name": "MC",
-      "percent": 33.33333333333333,
-      "total_victims": 3,
-      "stealer_victims": 1
+      "name": "IN",
+      "percent": 33.175355450236964,
+      "total_victims": 211,
+      "stealer_victims": 70
     },
     {
       "name": "BE",
@@ -1221,8 +1215,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.50467289719626,
-      "total_victims": 535,
+      "percent": 18.470149253731343,
+      "total_victims": 536,
       "stealer_victims": 99
     },
     {
@@ -1245,8 +1239,8 @@
     },
     {
       "name": "US",
-      "percent": 17.181947405828,
-      "total_victims": 5628,
+      "percent": 17.166696254216227,
+      "total_victims": 5633,
       "stealer_victims": 967
     },
     {
@@ -1293,8 +1287,8 @@
     },
     {
       "name": "AU",
-      "percent": 14.903846153846153,
-      "total_victims": 208,
+      "percent": 14.832535885167463,
+      "total_victims": 209,
       "stealer_victims": 31
     },
     {
@@ -1335,9 +1329,15 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.626134301270418,
-      "total_victims": 551,
+      "percent": 5.605786618444846,
+      "total_victims": 553,
       "stealer_victims": 31
+    },
+    {
+      "name": "ZW",
+      "percent": 0.0,
+      "total_victims": 3,
+      "stealer_victims": 0
     },
     {
       "name": "BS",
@@ -1439,12 +1439,6 @@
     },
     {
       "group": "mnt6",
-      "percent": 66.66666666666666,
-      "total_victims": 3,
-      "stealer_victims": 2
-    },
-    {
-      "group": "osiris",
       "percent": 66.66666666666666,
       "total_victims": 3,
       "stealer_victims": 2
@@ -1757,8 +1751,8 @@
     },
     {
       "group": "akira",
-      "percent": 28.21011673151751,
-      "total_victims": 1028,
+      "percent": 28.12803103782735,
+      "total_victims": 1031,
       "stealer_victims": 290
     },
     {
@@ -2003,8 +1997,8 @@
     },
     {
       "group": "dragonforce",
-      "percent": 15.299334811529933,
-      "total_victims": 451,
+      "percent": 15.265486725663715,
+      "total_victims": 452,
       "stealer_victims": 69
     },
     {
@@ -2057,8 +2051,8 @@
     },
     {
       "group": "nightspire",
-      "percent": 8.727272727272728,
-      "total_victims": 275,
+      "percent": 8.664259927797833,
+      "total_victims": 277,
       "stealer_victims": 24
     },
     {
@@ -2117,14 +2111,14 @@
     },
     {
       "group": "worldleaks",
-      "percent": 5.660377358490567,
-      "total_victims": 159,
+      "percent": 5.625,
+      "total_victims": 160,
       "stealer_victims": 9
     },
     {
       "group": "qilin",
-      "percent": 5.424954792043399,
-      "total_victims": 1659,
+      "percent": 5.421686746987952,
+      "total_victims": 1660,
       "stealer_victims": 90
     },
     {
@@ -2141,8 +2135,8 @@
     },
     {
       "group": "securotrop",
-      "percent": 2.857142857142857,
-      "total_victims": 35,
+      "percent": 2.7777777777777777,
+      "total_victims": 36,
       "stealer_victims": 1
     },
     {
@@ -2254,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-05T12:14:13.716584Z"
+  "last_update": "2026-06-05T16:04:53.797255Z"
 }
