@@ -957,8 +957,8 @@
     },
     {
       "name": "TH",
-      "percent": 35.833333333333336,
-      "total_victims": 120,
+      "percent": 35.53719008264463,
+      "total_victims": 121,
       "stealer_victims": 43
     },
     {
@@ -1071,8 +1071,8 @@
     },
     {
       "name": "FR",
-      "percent": 29.545454545454547,
-      "total_victims": 308,
+      "percent": 29.449838187702266,
+      "total_victims": 309,
       "stealer_victims": 91
     },
     {
@@ -1221,8 +1221,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.53932584269663,
-      "total_victims": 534,
+      "percent": 18.50467289719626,
+      "total_victims": 535,
       "stealer_victims": 99
     },
     {
@@ -1245,8 +1245,8 @@
     },
     {
       "name": "US",
-      "percent": 17.19111111111111,
-      "total_victims": 5625,
+      "percent": 17.181947405828,
+      "total_victims": 5628,
       "stealer_victims": 967
     },
     {
@@ -1274,12 +1274,6 @@
       "stealer_victims": 7
     },
     {
-      "name": "CA",
-      "percent": 15.399239543726237,
-      "total_victims": 526,
-      "stealer_victims": 81
-    },
-    {
       "name": "NL",
       "percent": 15.384615384615385,
       "total_victims": 65,
@@ -1290,6 +1284,12 @@
       "percent": 15.384615384615385,
       "total_victims": 13,
       "stealer_victims": 2
+    },
+    {
+      "name": "CA",
+      "percent": 15.370018975332068,
+      "total_victims": 527,
+      "stealer_victims": 81
     },
     {
       "name": "AU",
@@ -2117,14 +2117,14 @@
     },
     {
       "group": "worldleaks",
-      "percent": 5.7324840764331215,
-      "total_victims": 157,
+      "percent": 5.660377358490567,
+      "total_victims": 159,
       "stealer_victims": 9
     },
     {
       "group": "qilin",
-      "percent": 5.441354292623942,
-      "total_victims": 1654,
+      "percent": 5.424954792043399,
+      "total_victims": 1659,
       "stealer_victims": 90
     },
     {
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-05T08:47:43.589856Z"
+  "last_update": "2026-06-05T12:14:13.716584Z"
 }
