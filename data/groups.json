@@ -3990,165 +3990,6 @@
     "ransomnotes_count": 1,
     "url": "https://www.ransomware.live/group/babuk2"
   },
-  "everest": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "everest",
-    "description": "Everest ransom group collects and analyzes information about their victims. They specialize in customer privacy data, financial information, databases, credit card information, and more. The Everest ransom group leaks the victim's data to the darknet and they announced that any victim that will not contact them will suffer from a data leak and they will not delete hist files for future usage.",
-    "added_date": null,
-    "victims": 356,
-    "firstseen": "2021-09-09T23:46:55.460174+00:00",
-    "lastseen": "2026-05-07T18:22:18.746856+00:00",
-    "ttps": [
-      {
-        "tactic_id": "TA0005",
-        "tactic_name": "Stealth",
-        "techniques": [
-          {
-            "technique_name": "Obfuscated Files or Information",
-            "technique_id": "T1027",
-            "technique_details": "Binary protected with ConfuserEx: rename obfuscation, constants encryption, integer confusion, and modified module .cctor."
-          },
-          {
-            "technique_name": "Obfuscated Files or Information: Dynamic API Resolution",
-            "technique_id": "T1027.007",
-            "technique_details": "All non-corlib native API calls resolved at runtime via LoadLibrary / GetProcAddress rather than static imports."
-          },
-          {
-            "technique_name": "Valid Accounts: Local Accounts",
-            "technique_id": "T1078.003",
-            "technique_details": "Implicit current-user impersonation used for net use \\\\<unc> connections to discovered network shares without explicit credential passing."
-          },
-          {
-            "technique_name": "Modify Registry",
-            "technique_id": "T1112",
-            "technique_details": "Multiple HKCU/HKLM registry writes: LongPathsEnabled, LocalAccountTokenFilterPolicy, EnableLinkedConnections (share access), WallPaper (ransom note), AppName\\PublicKey (encryption key storage)."
-          },
-          {
-            "technique_name": "Deobfuscate/Decode Files or Information",
-            "technique_id": "T1140",
-            "technique_details": "Runtime decryption of UserStrings via <Module>.m using GZip decompression followed by Base64 decoding."
-          },
-          {
-            "technique_name": "Execution Guardrails",
-            "technique_id": "T1480",
-            "technique_details": "Global <GUID> mutex enforces single-instance execution; CIS culture/LCID geo-fence prevents execution on CIS-locale systems."
-          },
-          {
-            "technique_name": "Hide Artifacts",
-            "technique_id": "T1564",
-            "technique_details": "Process self-DACL set to deny-Everyone via KZsyzkgZlDQw.UB, preventing other processes from inspecting or terminating the ransomware process."
-          },
-          {
-            "technique_name": "Debugger Evasion",
-            "technique_id": "T1622",
-            "technique_details": "Memory-pig killer heuristic: processes consuming more than 250 MB are terminated, targeting sandbox environments and active debuggers."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0007",
-        "tactic_name": "Discovery",
-        "techniques": [
-          {
-            "technique_name": "Remote System Discovery",
-            "technique_id": "T1018",
-            "technique_details": "ARP table parsed via arp -a; ARP-driven Wake-On-LAN packets sent to discovered hosts to bring them online before encryption."
-          },
-          {
-            "technique_name": "Network Share Discovery",
-            "technique_id": "T1135",
-            "technique_details": "Network shares enumerated via net view, NetDfsEnum, WNetEnumResource*, Win32_Share WMI class, and Win32_NetworkConnection."
-          },
-          {
-            "technique_name": "Software Discovery: Security Software Discovery",
-            "technique_id": "T1518.001",
-            "technique_details": "Anti-analysis kill list matched against ProcessName and MainWindowTitle to identify and terminate security/analysis tools."
-          },
-          {
-            "technique_name": "System Location Discovery: System Language Discovery",
-            "technique_id": "T1614.001",
-            "technique_details": "CIS culture/LCID check used as exclusion geo-fence; execution aborts if system locale matches CIS-region languages."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0008",
-        "tactic_name": "Lateral Movement",
-        "techniques": [
-          {
-            "technique_name": "Remote Services: SMB/Windows Admin Shares",
-            "technique_id": "T1021.002",
-            "technique_details": "net.exe use \\\\<unc> executed over discovered SMB shares to access and encrypt remote file systems."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0011",
-        "tactic_name": "Command and Control",
-        "techniques": [
-          {
-            "technique_name": "Application Layer Protocol: Web Protocols",
-            "technique_id": "T1071.001",
-            "technique_details": "WebClient.DownloadData referenced in Helpers.DownloadUrl \u2014 present in code but not reachable at runtime (inert code path)."
-          }
-        ]
-      },
-      {
-        "tactic_id": "TA0040",
-        "tactic_name": "Impact",
-        "techniques": [
-          {
-            "technique_name": "Data Encrypted for Impact",
-            "technique_id": "T1486",
-            "technique_details": "AES-128-CBC PKCS#7 / NoPadding (large files) encryption of all eligible files on local drives, mounted unlettered volumes, and LAN shares."
-          },
-          {
-            "technique_name": "Service Stop",
-            "technique_id": "T1489",
-            "technique_details": "ServiceController.Stop called against ~100 services (AV, backup, MSSQL, Exchange, MBAM, Veeam, Acronis, etc.) combined with sc config <svc> start=disabled to prevent restart."
-          },
-          {
-            "technique_name": "Inhibit System Recovery",
-            "technique_id": "T1490",
-            "technique_details": "VSS deletion via PowerShell or vssadmin, SRRemoveRestorePoint, backup file deletion (del /s /q), Recycle Bin removal (rd /s /q), Restart Manager used to force-shutdown apps locking target files."
-          }
-        ]
-      }
-    ],
-    "vulnerabilities": [],
-    "tools": {
-      "CredentialTheft": [
-        "ProcDump"
-      ],
-      "DiscoveryEnum": [
-        "SoftPerfect NetScan"
-      ],
-      "Offsec": [
-        "Cobalt Strike",
-        "Metasploit",
-        "Meterpreter"
-      ],
-      "RMM-Tools": [
-        "AnyDesk",
-        "Atera",
-        "Splashtop"
-      ]
-    },
-    "locations": [
-      {
-        "fqdn": "ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion",
-        "title": "",
-        "slug": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/",
-        "type": "DLS",
-        "available": true
-      }
-    ],
-    "has_negotiations": false,
-    "negotiation_count": 0,
-    "has_ransomnote": true,
-    "ransomnotes_count": 1,
-    "url": "https://www.ransomware.live/group/everest"
-  },
   "coinbasecartel": {
     "client": "hose_chamber1d@icloud.com",
     "group": "coinbasecartel",
@@ -4307,6 +4148,165 @@
     "has_ransomnote": false,
     "ransomnotes_count": 0,
     "url": "https://www.ransomware.live/group/coinbasecartel"
+  },
+  "everest": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "everest",
+    "description": "Everest ransom group collects and analyzes information about their victims. They specialize in customer privacy data, financial information, databases, credit card information, and more. The Everest ransom group leaks the victim's data to the darknet and they announced that any victim that will not contact them will suffer from a data leak and they will not delete hist files for future usage.",
+    "added_date": null,
+    "victims": 356,
+    "firstseen": "2021-09-09T23:46:55.460174+00:00",
+    "lastseen": "2026-05-07T18:22:18.746856+00:00",
+    "ttps": [
+      {
+        "tactic_id": "TA0005",
+        "tactic_name": "Stealth",
+        "techniques": [
+          {
+            "technique_name": "Obfuscated Files or Information",
+            "technique_id": "T1027",
+            "technique_details": "Binary protected with ConfuserEx: rename obfuscation, constants encryption, integer confusion, and modified module .cctor."
+          },
+          {
+            "technique_name": "Obfuscated Files or Information: Dynamic API Resolution",
+            "technique_id": "T1027.007",
+            "technique_details": "All non-corlib native API calls resolved at runtime via LoadLibrary / GetProcAddress rather than static imports."
+          },
+          {
+            "technique_name": "Valid Accounts: Local Accounts",
+            "technique_id": "T1078.003",
+            "technique_details": "Implicit current-user impersonation used for net use \\\\<unc> connections to discovered network shares without explicit credential passing."
+          },
+          {
+            "technique_name": "Modify Registry",
+            "technique_id": "T1112",
+            "technique_details": "Multiple HKCU/HKLM registry writes: LongPathsEnabled, LocalAccountTokenFilterPolicy, EnableLinkedConnections (share access), WallPaper (ransom note), AppName\\PublicKey (encryption key storage)."
+          },
+          {
+            "technique_name": "Deobfuscate/Decode Files or Information",
+            "technique_id": "T1140",
+            "technique_details": "Runtime decryption of UserStrings via <Module>.m using GZip decompression followed by Base64 decoding."
+          },
+          {
+            "technique_name": "Execution Guardrails",
+            "technique_id": "T1480",
+            "technique_details": "Global <GUID> mutex enforces single-instance execution; CIS culture/LCID geo-fence prevents execution on CIS-locale systems."
+          },
+          {
+            "technique_name": "Hide Artifacts",
+            "technique_id": "T1564",
+            "technique_details": "Process self-DACL set to deny-Everyone via KZsyzkgZlDQw.UB, preventing other processes from inspecting or terminating the ransomware process."
+          },
+          {
+            "technique_name": "Debugger Evasion",
+            "technique_id": "T1622",
+            "technique_details": "Memory-pig killer heuristic: processes consuming more than 250 MB are terminated, targeting sandbox environments and active debuggers."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0007",
+        "tactic_name": "Discovery",
+        "techniques": [
+          {
+            "technique_name": "Remote System Discovery",
+            "technique_id": "T1018",
+            "technique_details": "ARP table parsed via arp -a; ARP-driven Wake-On-LAN packets sent to discovered hosts to bring them online before encryption."
+          },
+          {
+            "technique_name": "Network Share Discovery",
+            "technique_id": "T1135",
+            "technique_details": "Network shares enumerated via net view, NetDfsEnum, WNetEnumResource*, Win32_Share WMI class, and Win32_NetworkConnection."
+          },
+          {
+            "technique_name": "Software Discovery: Security Software Discovery",
+            "technique_id": "T1518.001",
+            "technique_details": "Anti-analysis kill list matched against ProcessName and MainWindowTitle to identify and terminate security/analysis tools."
+          },
+          {
+            "technique_name": "System Location Discovery: System Language Discovery",
+            "technique_id": "T1614.001",
+            "technique_details": "CIS culture/LCID check used as exclusion geo-fence; execution aborts if system locale matches CIS-region languages."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0008",
+        "tactic_name": "Lateral Movement",
+        "techniques": [
+          {
+            "technique_name": "Remote Services: SMB/Windows Admin Shares",
+            "technique_id": "T1021.002",
+            "technique_details": "net.exe use \\\\<unc> executed over discovered SMB shares to access and encrypt remote file systems."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0011",
+        "tactic_name": "Command and Control",
+        "techniques": [
+          {
+            "technique_name": "Application Layer Protocol: Web Protocols",
+            "technique_id": "T1071.001",
+            "technique_details": "WebClient.DownloadData referenced in Helpers.DownloadUrl \u2014 present in code but not reachable at runtime (inert code path)."
+          }
+        ]
+      },
+      {
+        "tactic_id": "TA0040",
+        "tactic_name": "Impact",
+        "techniques": [
+          {
+            "technique_name": "Data Encrypted for Impact",
+            "technique_id": "T1486",
+            "technique_details": "AES-128-CBC PKCS#7 / NoPadding (large files) encryption of all eligible files on local drives, mounted unlettered volumes, and LAN shares."
+          },
+          {
+            "technique_name": "Service Stop",
+            "technique_id": "T1489",
+            "technique_details": "ServiceController.Stop called against ~100 services (AV, backup, MSSQL, Exchange, MBAM, Veeam, Acronis, etc.) combined with sc config <svc> start=disabled to prevent restart."
+          },
+          {
+            "technique_name": "Inhibit System Recovery",
+            "technique_id": "T1490",
+            "technique_details": "VSS deletion via PowerShell or vssadmin, SRRemoveRestorePoint, backup file deletion (del /s /q), Recycle Bin removal (rd /s /q), Restart Manager used to force-shutdown apps locking target files."
+          }
+        ]
+      }
+    ],
+    "vulnerabilities": [],
+    "tools": {
+      "CredentialTheft": [
+        "ProcDump"
+      ],
+      "DiscoveryEnum": [
+        "SoftPerfect NetScan"
+      ],
+      "Offsec": [
+        "Cobalt Strike",
+        "Metasploit",
+        "Meterpreter"
+      ],
+      "RMM-Tools": [
+        "AnyDesk",
+        "Atera",
+        "Splashtop"
+      ]
+    },
+    "locations": [
+      {
+        "fqdn": "ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion",
+        "title": "",
+        "slug": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/",
+        "type": "DLS",
+        "available": true
+      }
+    ],
+    "has_negotiations": false,
+    "negotiation_count": 0,
+    "has_ransomnote": true,
+    "ransomnotes_count": 1,
+    "url": "https://www.ransomware.live/group/everest"
   },
   "worldleaks": {
     "client": "hose_chamber1d@icloud.com",

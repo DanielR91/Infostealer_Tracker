@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2576,
+    "domains_tracked": 2577,
     "employees_exposed": 133456,
     "users_exposed": 15626022,
-    "thirdparties_exposed": 101272,
+    "thirdparties_exposed": 101273,
     "stealer_families_count": 19
   },
   "families": [
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 20
+      "count": 21
     }
   ],
   "sectors": [
@@ -217,13 +217,13 @@
     },
     {
       "name": "Construction",
-      "count": 1467
+      "count": 1468
     }
   ],
   "countries": [
     {
       "name": "US",
-      "count": 967
+      "count": 968
     },
     {
       "name": "BR",
@@ -1239,9 +1239,9 @@
     },
     {
       "name": "US",
-      "percent": 17.166696254216227,
-      "total_victims": 5633,
-      "stealer_victims": 967
+      "percent": 17.181398651047214,
+      "total_victims": 5634,
+      "stealer_victims": 968
     },
     {
       "name": "AT",
@@ -1329,8 +1329,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.605786618444846,
-      "total_victims": 553,
+      "percent": 5.575539568345324,
+      "total_victims": 556,
       "stealer_victims": 31
     },
     {
@@ -1463,8 +1463,8 @@
     },
     {
       "group": "coinbasecartel",
-      "percent": 63.005780346820806,
-      "total_victims": 173,
+      "percent": 62.28571428571429,
+      "total_victims": 175,
       "stealer_victims": 109
     },
     {
@@ -1792,16 +1792,16 @@
       "stealer_victims": 10
     },
     {
-      "group": "anubis",
-      "percent": 25.31645569620253,
-      "total_victims": 79,
-      "stealer_victims": 20
+      "group": "incransom",
+      "percent": 25.40983606557377,
+      "total_victims": 610,
+      "stealer_victims": 155
     },
     {
-      "group": "incransom",
-      "percent": 25.287356321839084,
-      "total_victims": 609,
-      "stealer_victims": 154
+      "group": "anubis",
+      "percent": 25.0,
+      "total_victims": 80,
+      "stealer_victims": 20
     },
     {
       "group": "interlock",
@@ -2248,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-05T19:00:58.212053Z"
+  "last_update": "2026-06-05T20:53:15.937945Z"
 }
