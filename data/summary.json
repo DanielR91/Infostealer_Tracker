@@ -819,8 +819,8 @@
     },
     {
       "name": "ID",
-      "percent": 48.484848484848484,
-      "total_victims": 66,
+      "percent": 47.76119402985074,
+      "total_victims": 67,
       "stealer_victims": 32
     },
     {
@@ -1492,16 +1492,16 @@
       "stealer_victims": 5
     },
     {
-      "group": "nova",
-      "percent": 55.3030303030303,
-      "total_victims": 132,
-      "stealer_victims": 73
-    },
-    {
       "group": "shinyhunters",
       "percent": 55.04587155963303,
       "total_victims": 109,
       "stealer_victims": 60
+    },
+    {
+      "group": "nova",
+      "percent": 54.88721804511278,
+      "total_victims": 133,
+      "stealer_victims": 73
     },
     {
       "group": "ALP-001",
@@ -2248,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-06T07:53:04.407297Z"
+  "last_update": "2026-06-06T10:11:50.811172Z"
 }
