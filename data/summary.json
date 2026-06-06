@@ -1329,8 +1329,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.595667870036101,
-      "total_victims": 554,
+      "percent": 5.585585585585585,
+      "total_victims": 555,
       "stealer_victims": 31
     },
     {
@@ -1510,12 +1510,6 @@
       "stealer_victims": 9
     },
     {
-      "group": "blackwater",
-      "percent": 50.0,
-      "total_victims": 6,
-      "stealer_victims": 3
-    },
-    {
       "group": "cipherforce",
       "percent": 50.0,
       "total_victims": 6,
@@ -1562,6 +1556,12 @@
       "percent": 48.333333333333336,
       "total_victims": 180,
       "stealer_victims": 87
+    },
+    {
+      "group": "blackwater",
+      "percent": 42.857142857142854,
+      "total_victims": 7,
+      "stealer_victims": 3
     },
     {
       "group": "killsec",
@@ -2248,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-06T16:12:48.726484Z"
+  "last_update": "2026-06-06T18:12:36.800650Z"
 }
