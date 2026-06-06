@@ -1209,8 +1209,8 @@
     },
     {
       "name": "GB",
-      "percent": 18.614718614718615,
-      "total_victims": 462,
+      "percent": 18.57451403887689,
+      "total_victims": 463,
       "stealer_victims": 86
     },
     {
@@ -1233,8 +1233,8 @@
     },
     {
       "name": "US",
-      "percent": 17.18694572543455,
-      "total_victims": 5638,
+      "percent": 17.183897854229475,
+      "total_victims": 5639,
       "stealer_victims": 969
     },
     {
@@ -1799,8 +1799,8 @@
     },
     {
       "group": "incransom",
-      "percent": 25.40983606557377,
-      "total_victims": 610,
+      "percent": 25.368248772504092,
+      "total_victims": 611,
       "stealer_victims": 155
     },
     {
@@ -2123,8 +2123,8 @@
     },
     {
       "group": "play",
-      "percent": 4.436229205175601,
-      "total_victims": 541,
+      "percent": 4.428044280442804,
+      "total_victims": 542,
       "stealer_victims": 24
     },
     {
@@ -2248,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-06T12:11:12.058574Z"
+  "last_update": "2026-06-06T14:47:36.131405Z"
 }
