@@ -1329,8 +1329,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.565529622980251,
-      "total_victims": 557,
+      "percent": 5.555555555555555,
+      "total_victims": 558,
       "stealer_victims": 31
     },
     {
@@ -1804,12 +1804,6 @@
       "stealer_victims": 155
     },
     {
-      "group": "anubis",
-      "percent": 25.0,
-      "total_victims": 80,
-      "stealer_victims": 20
-    },
-    {
       "group": "interlock",
       "percent": 25.0,
       "total_victims": 96,
@@ -1838,6 +1832,12 @@
       "percent": 25.0,
       "total_victims": 4,
       "stealer_victims": 1
+    },
+    {
+      "group": "anubis",
+      "percent": 24.691358024691358,
+      "total_victims": 81,
+      "stealer_victims": 20
     },
     {
       "group": "bravox",
@@ -2248,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-05T22:20:36.583632Z"
+  "last_update": "2026-06-06T00:14:32.335841Z"
 }
