@@ -1232,16 +1232,16 @@
       "stealer_victims": 4
     },
     {
-      "name": "CN",
-      "percent": 17.391304347826086,
-      "total_victims": 69,
-      "stealer_victims": 12
-    },
-    {
       "name": "US",
       "percent": 17.181398651047214,
       "total_victims": 5634,
       "stealer_victims": 968
+    },
+    {
+      "name": "CN",
+      "percent": 17.142857142857142,
+      "total_victims": 70,
+      "stealer_victims": 12
     },
     {
       "name": "AT",
@@ -1786,16 +1786,16 @@
       "stealer_victims": 13
     },
     {
-      "group": "krybit",
-      "percent": 26.190476190476193,
-      "total_victims": 42,
-      "stealer_victims": 11
-    },
-    {
       "group": "gunra",
       "percent": 25.64102564102564,
       "total_victims": 39,
       "stealer_victims": 10
+    },
+    {
+      "group": "krybit",
+      "percent": 25.581395348837212,
+      "total_victims": 43,
+      "stealer_victims": 11
     },
     {
       "group": "incransom",
@@ -2248,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-06T00:14:32.335841Z"
+  "last_update": "2026-06-06T04:58:34.714467Z"
 }
