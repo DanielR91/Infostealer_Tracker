@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "company": "Aeva Technologies, Inc.",
+    "stockticker": "AEVA",
+    "form": "8-K",
+    "file_date": "2026-06-04",
+    "cik": "0001789029",
+    "adsh": "0001193125-26-257768",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001789029/000119312526257768/0001193125-26-257768-index.htm",
+    "display_name": "Aeva Technologies, Inc.  (AEVA)  (CIK 0001789029)",
+    "item105": false,
+    "item801": true
+  }
+]
