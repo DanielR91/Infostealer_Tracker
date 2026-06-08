@@ -944,12 +944,6 @@
       "stealer_victims": 43
     },
     {
-      "name": "VN",
-      "percent": 36.666666666666664,
-      "total_victims": 30,
-      "stealer_victims": 11
-    },
-    {
       "name": "AE",
       "percent": 36.36363636363637,
       "total_victims": 77,
@@ -960,6 +954,12 @@
       "percent": 35.53719008264463,
       "total_victims": 121,
       "stealer_victims": 43
+    },
+    {
+      "name": "VN",
+      "percent": 35.483870967741936,
+      "total_victims": 31,
+      "stealer_victims": 11
     },
     {
       "name": "IN",
@@ -1329,8 +1329,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.585585585585585,
-      "total_victims": 555,
+      "percent": 5.565529622980251,
+      "total_victims": 557,
       "stealer_victims": 31
     },
     {
@@ -1696,12 +1696,6 @@
       "stealer_victims": 17
     },
     {
-      "group": "payload",
-      "percent": 32.0,
-      "total_victims": 50,
-      "stealer_victims": 16
-    },
-    {
       "group": "tridentlocker",
       "percent": 31.25,
       "total_victims": 16,
@@ -1718,6 +1712,12 @@
       "percent": 30.23255813953488,
       "total_victims": 43,
       "stealer_victims": 13
+    },
+    {
+      "group": "payload",
+      "percent": 30.18867924528302,
+      "total_victims": 53,
+      "stealer_victims": 16
     },
     {
       "group": "SilentRansomGroup",
@@ -2248,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-08T00:16:35.612412Z"
+  "last_update": "2026-06-08T05:57:26.628722Z"
 }
