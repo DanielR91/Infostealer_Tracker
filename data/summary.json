@@ -1287,8 +1287,8 @@
     },
     {
       "name": "AU",
-      "percent": 14.832535885167463,
-      "total_victims": 209,
+      "percent": 14.691943127962084,
+      "total_victims": 211,
       "stealer_victims": 31
     },
     {
@@ -2009,8 +2009,8 @@
     },
     {
       "group": "termite",
-      "percent": 14.705882352941178,
-      "total_victims": 34,
+      "percent": 14.285714285714285,
+      "total_victims": 35,
       "stealer_victims": 5
     },
     {
@@ -2117,8 +2117,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.405405405405405,
-      "total_victims": 1665,
+      "percent": 5.402160864345738,
+      "total_victims": 1666,
       "stealer_victims": 90
     },
     {
@@ -2248,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-08T21:56:00.893202Z"
+  "last_update": "2026-06-08T23:16:30.928379Z"
 }
