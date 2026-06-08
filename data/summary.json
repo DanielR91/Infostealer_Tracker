@@ -962,12 +962,6 @@
       "stealer_victims": 43
     },
     {
-      "name": "IN",
-      "percent": 33.33333333333333,
-      "total_victims": 213,
-      "stealer_victims": 71
-    },
-    {
       "name": "AR",
       "percent": 33.33333333333333,
       "total_victims": 81,
@@ -1002,6 +996,12 @@
       "percent": 33.33333333333333,
       "total_victims": 3,
       "stealer_victims": 1
+    },
+    {
+      "name": "IN",
+      "percent": 33.177570093457945,
+      "total_victims": 214,
+      "stealer_victims": 71
     },
     {
       "name": "BE",
@@ -2045,8 +2045,8 @@
     },
     {
       "group": "ransomhouse",
-      "percent": 8.974358974358974,
-      "total_victims": 78,
+      "percent": 8.860759493670885,
+      "total_victims": 79,
       "stealer_victims": 7
     },
     {
@@ -2248,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-08T19:25:42.607041Z"
+  "last_update": "2026-06-08T21:56:00.893202Z"
 }
