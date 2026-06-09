@@ -1275,8 +1275,8 @@
     },
     {
       "name": "CA",
-      "percent": 15.370018975332068,
-      "total_victims": 527,
+      "percent": 15.340909090909092,
+      "total_victims": 528,
       "stealer_victims": 81
     },
     {
@@ -2027,8 +2027,8 @@
     },
     {
       "group": "termite",
-      "percent": 13.88888888888889,
-      "total_victims": 36,
+      "percent": 13.513513513513514,
+      "total_victims": 37,
       "stealer_victims": 5
     },
     {
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-09T21:52:46.812696Z"
+  "last_update": "2026-06-09T23:21:49.879829Z"
 }
