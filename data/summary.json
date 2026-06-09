@@ -999,8 +999,8 @@
     },
     {
       "name": "IN",
-      "percent": 33.177570093457945,
-      "total_victims": 214,
+      "percent": 32.870370370370374,
+      "total_victims": 216,
       "stealer_victims": 71
     },
     {
@@ -1185,8 +1185,8 @@
     },
     {
       "name": "SE",
-      "percent": 20.28985507246377,
-      "total_victims": 69,
+      "percent": 20.0,
+      "total_victims": 70,
       "stealer_victims": 14
     },
     {
@@ -1233,8 +1233,8 @@
     },
     {
       "name": "US",
-      "percent": 17.177262263148574,
-      "total_victims": 5647,
+      "percent": 17.17118073995397,
+      "total_victims": 5649,
       "stealer_victims": 970
     },
     {
@@ -1595,8 +1595,8 @@
     },
     {
       "group": "embargo",
-      "percent": 40.909090909090914,
-      "total_victims": 22,
+      "percent": 39.130434782608695,
+      "total_victims": 23,
       "stealer_victims": 9
     },
     {
@@ -2033,8 +2033,8 @@
     },
     {
       "group": "chaos",
-      "percent": 12.5,
-      "total_victims": 56,
+      "percent": 12.280701754385964,
+      "total_victims": 57,
       "stealer_victims": 7
     },
     {
@@ -2111,8 +2111,8 @@
     },
     {
       "group": "worldleaks",
-      "percent": 5.625,
-      "total_victims": 160,
+      "percent": 5.521472392638037,
+      "total_victims": 163,
       "stealer_victims": 9
     },
     {
@@ -2248,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-09T16:08:39.182182Z"
+  "last_update": "2026-06-09T19:21:15.281315Z"
 }
