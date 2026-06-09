@@ -1,8 +1,8 @@
 {
   "totals": {
-    "domains_tracked": 2591,
+    "domains_tracked": 2592,
     "employees_exposed": 133469,
-    "users_exposed": 15629398,
+    "users_exposed": 15629467,
     "thirdparties_exposed": 101495,
     "stealer_families_count": 19
   },
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 35
+      "count": 36
     }
   ],
   "sectors": [
@@ -604,6 +604,10 @@
     {
       "name": "DM",
       "count": 2
+    },
+    {
+      "name": "BS",
+      "count": 1
     },
     {
       "name": "NE",
@@ -1233,8 +1237,8 @@
     },
     {
       "name": "US",
-      "percent": 17.180304640453418,
-      "total_victims": 5646,
+      "percent": 17.177262263148574,
+      "total_victims": 5647,
       "stealer_victims": 970
     },
     {
@@ -1292,6 +1296,12 @@
       "stealer_victims": 31
     },
     {
+      "name": "BS",
+      "percent": 14.285714285714285,
+      "total_victims": 7,
+      "stealer_victims": 1
+    },
+    {
       "name": "SJ",
       "percent": 14.285714285714285,
       "total_victims": 7,
@@ -1337,12 +1347,6 @@
       "name": "ZW",
       "percent": 0.0,
       "total_victims": 3,
-      "stealer_victims": 0
-    },
-    {
-      "name": "BS",
-      "percent": 0.0,
-      "total_victims": 6,
       "stealer_victims": 0
     },
     {
@@ -1768,6 +1772,12 @@
       "stealer_victims": 70
     },
     {
+      "group": "gunra",
+      "percent": 27.500000000000004,
+      "total_victims": 40,
+      "stealer_victims": 11
+    },
+    {
       "group": "direwolf",
       "percent": 26.76056338028169,
       "total_victims": 71,
@@ -1784,12 +1794,6 @@
       "percent": 26.53061224489796,
       "total_victims": 49,
       "stealer_victims": 13
-    },
-    {
-      "group": "gunra",
-      "percent": 25.64102564102564,
-      "total_victims": 39,
-      "stealer_victims": 10
     },
     {
       "group": "krybit",
@@ -2008,12 +2012,6 @@
       "stealer_victims": 3
     },
     {
-      "group": "termite",
-      "percent": 14.285714285714285,
-      "total_victims": 35,
-      "stealer_victims": 5
-    },
-    {
       "group": "alphalocker",
       "percent": 14.285714285714285,
       "total_victims": 14,
@@ -2024,6 +2022,12 @@
       "percent": 14.285714285714285,
       "total_victims": 7,
       "stealer_victims": 1
+    },
+    {
+      "group": "termite",
+      "percent": 13.88888888888889,
+      "total_victims": 36,
+      "stealer_victims": 5
     },
     {
       "group": "pear",
@@ -2248,5 +2252,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-08T23:16:30.928379Z"
+  "last_update": "2026-06-09T04:05:27.673555Z"
 }
