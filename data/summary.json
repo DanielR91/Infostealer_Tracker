@@ -1,8 +1,8 @@
 {
   "totals": {
-    "domains_tracked": 2592,
+    "domains_tracked": 2591,
     "employees_exposed": 133469,
-    "users_exposed": 15629467,
+    "users_exposed": 15629398,
     "thirdparties_exposed": 101495,
     "stealer_families_count": 19
   },
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 36
+      "count": 35
     }
   ],
   "sectors": [
@@ -604,10 +604,6 @@
     {
       "name": "DM",
       "count": 2
-    },
-    {
-      "name": "BS",
-      "count": 1
     },
     {
       "name": "NE",
@@ -1296,12 +1292,6 @@
       "stealer_victims": 31
     },
     {
-      "name": "BS",
-      "percent": 14.285714285714285,
-      "total_victims": 7,
-      "stealer_victims": 1
-    },
-    {
       "name": "SJ",
       "percent": 14.285714285714285,
       "total_victims": 7,
@@ -1342,6 +1332,12 @@
       "percent": 5.724508050089446,
       "total_victims": 559,
       "stealer_victims": 32
+    },
+    {
+      "name": "BS",
+      "percent": 0.0,
+      "total_victims": 7,
+      "stealer_victims": 0
     },
     {
       "name": "ZW",
@@ -1772,12 +1768,6 @@
       "stealer_victims": 70
     },
     {
-      "group": "gunra",
-      "percent": 27.500000000000004,
-      "total_victims": 40,
-      "stealer_victims": 11
-    },
-    {
       "group": "direwolf",
       "percent": 26.76056338028169,
       "total_victims": 71,
@@ -1806,6 +1796,12 @@
       "percent": 25.368248772504092,
       "total_victims": 611,
       "stealer_victims": 155
+    },
+    {
+      "group": "gunra",
+      "percent": 25.0,
+      "total_victims": 40,
+      "stealer_victims": 10
     },
     {
       "group": "interlock",
@@ -2252,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-09T04:05:27.673555Z"
+  "last_update": "2026-06-09T08:34:45.162648Z"
 }
