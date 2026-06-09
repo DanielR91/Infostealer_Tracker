@@ -1329,8 +1329,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.714285714285714,
-      "total_victims": 560,
+      "percent": 5.683836589698046,
+      "total_victims": 563,
       "stealer_victims": 32
     },
     {
@@ -1751,8 +1751,8 @@
     },
     {
       "group": "akira",
-      "percent": 28.100775193798448,
-      "total_victims": 1032,
+      "percent": 27.99227799227799,
+      "total_victims": 1036,
       "stealer_victims": 290
     },
     {
@@ -2248,5 +2248,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-09T12:10:01.219221Z"
+  "last_update": "2026-06-09T16:08:39.182182Z"
 }
