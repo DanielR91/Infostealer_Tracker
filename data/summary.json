@@ -1215,8 +1215,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.435754189944134,
-      "total_victims": 537,
+      "percent": 18.401486988847584,
+      "total_victims": 538,
       "stealer_victims": 99
     },
     {
@@ -1329,8 +1329,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.663716814159292,
-      "total_victims": 565,
+      "percent": 5.6537102473498235,
+      "total_victims": 566,
       "stealer_victims": 32
     },
     {
@@ -1450,12 +1450,6 @@
       "stealer_victims": 2
     },
     {
-      "group": "fulcrumsec",
-      "percent": 65.21739130434783,
-      "total_victims": 23,
-      "stealer_victims": 15
-    },
-    {
       "group": "ralord",
       "percent": 63.1578947368421,
       "total_victims": 19,
@@ -1466,6 +1460,12 @@
       "percent": 62.857142857142854,
       "total_victims": 175,
       "stealer_victims": 110
+    },
+    {
+      "group": "fulcrumsec",
+      "percent": 62.5,
+      "total_victims": 24,
+      "stealer_victims": 15
     },
     {
       "group": "underground",
@@ -2081,8 +2081,8 @@
     },
     {
       "group": "spacebears",
-      "percent": 7.865168539325842,
-      "total_victims": 89,
+      "percent": 7.777777777777778,
+      "total_victims": 90,
       "stealer_victims": 7
     },
     {
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-09T23:21:49.879829Z"
+  "last_update": "2026-06-10T04:17:01.212591Z"
 }
