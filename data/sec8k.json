@@ -1,13 +1,13 @@
 [
   {
-    "company": "Aeva Technologies, Inc.",
-    "stockticker": "AEVA",
+    "company": "NATIONAL FUEL GAS CO",
+    "stockticker": "NFG",
     "form": "8-K",
-    "file_date": "2026-06-04",
-    "cik": "0001789029",
-    "adsh": "0001193125-26-257768",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001789029/000119312526257768/0001193125-26-257768-index.htm",
-    "display_name": "Aeva Technologies, Inc.  (AEVA)  (CIK 0001789029)",
+    "file_date": "2026-06-10",
+    "cik": "0000070145",
+    "adsh": "0001193125-26-265249",
+    "link": "https://www.sec.gov/Archives/edgar/data/0000070145/000119312526265249/0001193125-26-265249-index.htm",
+    "display_name": "NATIONAL FUEL GAS CO  (NFG)  (CIK 0000070145)",
     "item105": false,
     "item801": true
   }

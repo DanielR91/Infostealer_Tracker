@@ -2632,6 +2632,179 @@
     "ransomnotes_count": 3,
     "url": "https://www.ransomware.live/group/nightspire"
   },
+  "lockbit5": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "lockbit5",
+    "description": "LockBit 5.0 (\"ChuongDong\") emerged in September 2025 as the group's resurgence following the February 2024 law enforcement takedown, introducing cross-platform payloads targeting Windows, Linux, and VMware ESXi with enhanced evasion capabilities and continuing the RaaS affiliate model of its predecessors.",
+    "added_date": "2025-12-04",
+    "victims": 252,
+    "firstseen": "2024-08-17T20:01:00+00:00",
+    "lastseen": "2026-05-09T11:33:00+00:00",
+    "ttps": [],
+    "vulnerabilities": [],
+    "tools": {},
+    "locations": [
+      {
+        "fqdn": "lockbitsuppyx2jegaoyiw44ica5vdho63m5ijjlmfb7omq3tfr3qhyd.onion",
+        "title": "",
+        "slug": "http://lockbitsuppyx2jegaoyiw44ica5vdho63m5ijjlmfb7omq3tfr3qhyd.onion",
+        "type": "Chat",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion",
+        "title": "",
+        "slug": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitkybiqhyv64vdaamz7uf2ymjoafyalx3e6spmmsz5xyk5nbcad.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitkybiqhyv64vdaamz7uf2ymjoafyalx3e6spmmsz5xyk5nbcad.onion",
+        "type": "DLS",
+        "available": false
+      },
+      {
+        "fqdn": "lockbityq64mwtobqqcr3iwxs5q4o7iliuv72gbx4vflggj4m4wqekad.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbityq64mwtobqqcr3iwxs5q4o7iliuv72gbx4vflggj4m4wqekad.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitynxdcxtuvma5deq5pxtnqoacftuigkk37xjq3whefozdpcuad.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitynxdcxtuvma5deq5pxtnqoacftuigkk37xjq3whefozdpcuad.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitfnszjao7hayqsd424m74k5jxc52hozvabjrut7pjfsfaaaoad.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitfnszjao7hayqsd424m74k5jxc52hozvabjrut7pjfsfaaaoad.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitnpobu6luzzlxb7br5uyqnmeruwimpjuw2kv442nvxd6sufsad.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitnpobu6luzzlxb7br5uyqnmeruwimpjuw2kv442nvxd6sufsad.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitdx4kanolaotenc3nmonlxv5enmhxdh2lk54rirvcdsljfbjyd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitdx4kanolaotenc3nmonlxv5enmhxdh2lk54rirvcdsljfbjyd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitjqfuyrkxiie6bcly6ow4sh6lmyuyvyats5hcpe5e6hbuhikyd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitjqfuyrkxiie6bcly6ow4sh6lmyuyvyats5hcpe5e6hbuhikyd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitotfzuq2lpyydzgbhelps2mcz62cpix4nzpcyaak5444iwfmqd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitotfzuq2lpyydzgbhelps2mcz62cpix4nzpcyaak5444iwfmqd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbit7tnu7whmaqnnlmvnoxzejssvr6vkcoovg35encvnp24pikvyd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbit7tnu7whmaqnnlmvnoxzejssvr6vkcoovg35encvnp24pikvyd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbity44loulvujiaoels7knti2tfsnglclnse22syaa6x3vpqp7yd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbity44loulvujiaoels7knti2tfsnglclnse22syaa6x3vpqp7yd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitabmbzz652qeqd7yztgugcihpy4s4f6zuqi3jx32rzjylsn7ad.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitabmbzz652qeqd7yztgugcihpy4s4f6zuqi3jx32rzjylsn7ad.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbithn5a2qgf4ojvut3q25yylrauvjxrz6sjdd4teas65osru2lqd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbithn5a2qgf4ojvut3q25yylrauvjxrz6sjdd4teas65osru2lqd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitf75dfwq4bsec3iaytf6z5z6dmstx3g35grn74ndxy3py2ozyd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitf75dfwq4bsec3iaytf6z5z6dmstx3g35grn74ndxy3py2ozyd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbity3v2rhjjjt6opcgvdrrlvdbrt3p2wqmxmq4cm36cchphdy6qd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbity3v2rhjjjt6opcgvdrrlvdbrt3p2wqmxmq4cm36cchphdy6qd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitqth2ij5cdqmj4cdchoh3etnlbh74utqviwqb5svvhxygnmoqd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitqth2ij5cdqmj4cdchoh3etnlbh74utqviwqb5svvhxygnmoqd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitbgtyqtgutvasrld5gx23ozo32y4xkjrby6bte3zyvjdlyoxyd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitbgtyqtgutvasrld5gx23ozo32y4xkjrby6bte3zyvjdlyoxyd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitgf43c7avhx5wesx5ambjgbormhwc2tujsy6lvg6drkjhnjryd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitgf43c7avhx5wesx5ambjgbormhwc2tujsy6lvg6drkjhnjryd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbitdzdbv5dh6ncf65c22tdgej72sty6ikiieuinibh6icnzrv4yd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbitdzdbv5dh6ncf65c22tdgej72sty6ikiieuinibh6icnzrv4yd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbit24pegjquuwbmwjlvyivmyaujf33kvlepcxyncnugm3zw73myd.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbit24pegjquuwbmwjlvyivmyaujf33kvlepcxyncnugm3zw73myd.onion",
+        "type": "DLS",
+        "available": true
+      },
+      {
+        "fqdn": "lockbit6vhrjaqzsdj6pqalyideigxv4xycfeyunpx35znogiwmojnid.onion",
+        "title": "LockBit - Leaked",
+        "slug": "http://lockbit6vhrjaqzsdj6pqalyideigxv4xycfeyunpx35znogiwmojnid.onion",
+        "type": "DLS",
+        "available": true
+      }
+    ],
+    "has_negotiations": false,
+    "negotiation_count": 0,
+    "has_ransomnote": false,
+    "ransomnotes_count": 0,
+    "url": "https://www.ransomware.live/group/lockbit5"
+  },
   "sinobi": {
     "client": "hose_chamber1d@icloud.com",
     "group": "sinobi",
@@ -2920,179 +3093,6 @@
     "has_ransomnote": true,
     "ransomnotes_count": 1,
     "url": "https://www.ransomware.live/group/sinobi"
-  },
-  "lockbit5": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "lockbit5",
-    "description": "LockBit 5.0 (\"ChuongDong\") emerged in September 2025 as the group's resurgence following the February 2024 law enforcement takedown, introducing cross-platform payloads targeting Windows, Linux, and VMware ESXi with enhanced evasion capabilities and continuing the RaaS affiliate model of its predecessors.",
-    "added_date": "2025-12-04",
-    "victims": 252,
-    "firstseen": "2024-08-17T20:01:00+00:00",
-    "lastseen": "2026-05-09T11:33:00+00:00",
-    "ttps": [],
-    "vulnerabilities": [],
-    "tools": {},
-    "locations": [
-      {
-        "fqdn": "lockbitsuppyx2jegaoyiw44ica5vdho63m5ijjlmfb7omq3tfr3qhyd.onion",
-        "title": "",
-        "slug": "http://lockbitsuppyx2jegaoyiw44ica5vdho63m5ijjlmfb7omq3tfr3qhyd.onion",
-        "type": "Chat",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion",
-        "title": "",
-        "slug": "http://lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitkybiqhyv64vdaamz7uf2ymjoafyalx3e6spmmsz5xyk5nbcad.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitkybiqhyv64vdaamz7uf2ymjoafyalx3e6spmmsz5xyk5nbcad.onion",
-        "type": "DLS",
-        "available": false
-      },
-      {
-        "fqdn": "lockbityq64mwtobqqcr3iwxs5q4o7iliuv72gbx4vflggj4m4wqekad.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbityq64mwtobqqcr3iwxs5q4o7iliuv72gbx4vflggj4m4wqekad.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitynxdcxtuvma5deq5pxtnqoacftuigkk37xjq3whefozdpcuad.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitynxdcxtuvma5deq5pxtnqoacftuigkk37xjq3whefozdpcuad.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitfnszjao7hayqsd424m74k5jxc52hozvabjrut7pjfsfaaaoad.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitfnszjao7hayqsd424m74k5jxc52hozvabjrut7pjfsfaaaoad.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitnpobu6luzzlxb7br5uyqnmeruwimpjuw2kv442nvxd6sufsad.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitnpobu6luzzlxb7br5uyqnmeruwimpjuw2kv442nvxd6sufsad.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitdx4kanolaotenc3nmonlxv5enmhxdh2lk54rirvcdsljfbjyd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitdx4kanolaotenc3nmonlxv5enmhxdh2lk54rirvcdsljfbjyd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitjqfuyrkxiie6bcly6ow4sh6lmyuyvyats5hcpe5e6hbuhikyd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitjqfuyrkxiie6bcly6ow4sh6lmyuyvyats5hcpe5e6hbuhikyd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitotfzuq2lpyydzgbhelps2mcz62cpix4nzpcyaak5444iwfmqd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitotfzuq2lpyydzgbhelps2mcz62cpix4nzpcyaak5444iwfmqd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbit7tnu7whmaqnnlmvnoxzejssvr6vkcoovg35encvnp24pikvyd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbit7tnu7whmaqnnlmvnoxzejssvr6vkcoovg35encvnp24pikvyd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbity44loulvujiaoels7knti2tfsnglclnse22syaa6x3vpqp7yd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbity44loulvujiaoels7knti2tfsnglclnse22syaa6x3vpqp7yd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitabmbzz652qeqd7yztgugcihpy4s4f6zuqi3jx32rzjylsn7ad.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitabmbzz652qeqd7yztgugcihpy4s4f6zuqi3jx32rzjylsn7ad.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbithn5a2qgf4ojvut3q25yylrauvjxrz6sjdd4teas65osru2lqd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbithn5a2qgf4ojvut3q25yylrauvjxrz6sjdd4teas65osru2lqd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitf75dfwq4bsec3iaytf6z5z6dmstx3g35grn74ndxy3py2ozyd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitf75dfwq4bsec3iaytf6z5z6dmstx3g35grn74ndxy3py2ozyd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbity3v2rhjjjt6opcgvdrrlvdbrt3p2wqmxmq4cm36cchphdy6qd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbity3v2rhjjjt6opcgvdrrlvdbrt3p2wqmxmq4cm36cchphdy6qd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitqth2ij5cdqmj4cdchoh3etnlbh74utqviwqb5svvhxygnmoqd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitqth2ij5cdqmj4cdchoh3etnlbh74utqviwqb5svvhxygnmoqd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitbgtyqtgutvasrld5gx23ozo32y4xkjrby6bte3zyvjdlyoxyd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitbgtyqtgutvasrld5gx23ozo32y4xkjrby6bte3zyvjdlyoxyd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitgf43c7avhx5wesx5ambjgbormhwc2tujsy6lvg6drkjhnjryd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitgf43c7avhx5wesx5ambjgbormhwc2tujsy6lvg6drkjhnjryd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbitdzdbv5dh6ncf65c22tdgej72sty6ikiieuinibh6icnzrv4yd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbitdzdbv5dh6ncf65c22tdgej72sty6ikiieuinibh6icnzrv4yd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbit24pegjquuwbmwjlvyivmyaujf33kvlepcxyncnugm3zw73myd.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbit24pegjquuwbmwjlvyivmyaujf33kvlepcxyncnugm3zw73myd.onion",
-        "type": "DLS",
-        "available": true
-      },
-      {
-        "fqdn": "lockbit6vhrjaqzsdj6pqalyideigxv4xycfeyunpx35znogiwmojnid.onion",
-        "title": "LockBit - Leaked",
-        "slug": "http://lockbit6vhrjaqzsdj6pqalyideigxv4xycfeyunpx35znogiwmojnid.onion",
-        "type": "DLS",
-        "available": true
-      }
-    ],
-    "has_negotiations": false,
-    "negotiation_count": 0,
-    "has_ransomnote": false,
-    "ransomnotes_count": 0,
-    "url": "https://www.ransomware.live/group/lockbit5"
   },
   "ransomhub": {
     "client": "hose_chamber1d@icloud.com",
