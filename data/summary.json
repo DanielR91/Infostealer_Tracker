@@ -1064,16 +1064,16 @@
       "stealer_victims": 3
     },
     {
-      "name": "FR",
-      "percent": 29.166666666666668,
-      "total_victims": 312,
-      "stealer_victims": 91
-    },
-    {
       "name": "ES",
       "percent": 29.166666666666668,
       "total_victims": 264,
       "stealer_victims": 77
+    },
+    {
+      "name": "FR",
+      "percent": 29.073482428115017,
+      "total_victims": 313,
+      "stealer_victims": 91
     },
     {
       "name": "MY",
@@ -1841,8 +1841,8 @@
     },
     {
       "group": "anubis",
-      "percent": 24.691358024691358,
-      "total_victims": 81,
+      "percent": 24.390243902439025,
+      "total_victims": 82,
       "stealer_victims": 20
     },
     {
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-11T21:26:32.365833Z"
+  "last_update": "2026-06-11T23:42:16.205805Z"
 }
