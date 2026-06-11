@@ -968,12 +968,6 @@
       "stealer_victims": 12
     },
     {
-      "name": "AR",
-      "percent": 33.33333333333333,
-      "total_victims": 81,
-      "stealer_victims": 27
-    },
-    {
       "name": "PY",
       "percent": 33.33333333333333,
       "total_victims": 9,
@@ -1002,6 +996,12 @@
       "percent": 33.33333333333333,
       "total_victims": 3,
       "stealer_victims": 1
+    },
+    {
+      "name": "AR",
+      "percent": 32.926829268292686,
+      "total_victims": 82,
+      "stealer_victims": 27
     },
     {
       "name": "BE",
@@ -1245,8 +1245,8 @@
     },
     {
       "name": "US",
-      "percent": 17.159971811134604,
-      "total_victims": 5676,
+      "percent": 17.1509068497975,
+      "total_victims": 5679,
       "stealer_victims": 974
     },
     {
@@ -1799,8 +1799,8 @@
     },
     {
       "group": "incransom",
-      "percent": 25.407166123778502,
-      "total_victims": 614,
+      "percent": 25.324675324675322,
+      "total_victims": 616,
       "stealer_victims": 156
     },
     {
@@ -1990,12 +1990,6 @@
       "stealer_victims": 5
     },
     {
-      "group": "m3rx",
-      "percent": 16.666666666666664,
-      "total_victims": 24,
-      "stealer_victims": 4
-    },
-    {
       "group": "brotherhood",
       "percent": 16.666666666666664,
       "total_victims": 18,
@@ -2006,6 +2000,12 @@
       "percent": 16.304347826086957,
       "total_victims": 184,
       "stealer_victims": 30
+    },
+    {
+      "group": "m3rx",
+      "percent": 15.384615384615385,
+      "total_victims": 26,
+      "stealer_victims": 4
     },
     {
       "group": "dragonforce",
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-11T18:21:30.458146Z"
+  "last_update": "2026-06-11T21:26:32.365833Z"
 }
