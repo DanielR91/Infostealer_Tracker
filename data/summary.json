@@ -1329,8 +1329,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.623901581722319,
-      "total_victims": 569,
+      "percent": 5.614035087719298,
+      "total_victims": 570,
       "stealer_victims": 32
     },
     {
@@ -1499,8 +1499,8 @@
     },
     {
       "group": "shinyhunters",
-      "percent": 55.45454545454545,
-      "total_victims": 110,
+      "percent": 54.95495495495496,
+      "total_victims": 111,
       "stealer_victims": 61
     },
     {
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-11T00:22:17.272833Z"
+  "last_update": "2026-06-11T05:56:42.000118Z"
 }
