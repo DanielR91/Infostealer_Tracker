@@ -963,8 +963,8 @@
     },
     {
       "name": "AE",
-      "percent": 35.44303797468354,
-      "total_victims": 79,
+      "percent": 35.0,
+      "total_victims": 80,
       "stealer_victims": 28
     },
     {
@@ -1083,8 +1083,8 @@
     },
     {
       "name": "MY",
-      "percent": 28.749999999999996,
-      "total_victims": 80,
+      "percent": 28.39506172839506,
+      "total_victims": 81,
       "stealer_victims": 23
     },
     {
@@ -1208,16 +1208,16 @@
       "stealer_victims": 14
     },
     {
+      "name": "DE",
+      "percent": 18.53211009174312,
+      "total_victims": 545,
+      "stealer_victims": 101
+    },
+    {
       "name": "GB",
       "percent": 18.51063829787234,
       "total_victims": 470,
       "stealer_victims": 87
-    },
-    {
-      "name": "DE",
-      "percent": 18.4981684981685,
-      "total_victims": 546,
-      "stealer_victims": 101
     },
     {
       "name": "JP",
@@ -1281,8 +1281,8 @@
     },
     {
       "name": "CA",
-      "percent": 15.500945179584122,
-      "total_victims": 529,
+      "percent": 15.471698113207546,
+      "total_victims": 530,
       "stealer_victims": 82
     },
     {
@@ -1298,16 +1298,16 @@
       "stealer_victims": 31
     },
     {
-      "name": "HK",
-      "percent": 14.285714285714285,
-      "total_victims": 70,
-      "stealer_victims": 10
-    },
-    {
       "name": "SJ",
       "percent": 14.285714285714285,
       "total_victims": 7,
       "stealer_victims": 1
+    },
+    {
+      "name": "HK",
+      "percent": 14.084507042253522,
+      "total_victims": 71,
+      "stealer_victims": 10
     },
     {
       "name": "RU",
@@ -1329,8 +1329,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.623901581722319,
-      "total_victims": 569,
+      "percent": 5.633802816901409,
+      "total_victims": 568,
       "stealer_victims": 32
     },
     {
@@ -2009,8 +2009,8 @@
     },
     {
       "group": "dragonforce",
-      "percent": 15.367965367965366,
-      "total_victims": 462,
+      "percent": 15.301724137931034,
+      "total_victims": 464,
       "stealer_victims": 71
     },
     {
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-12T13:31:50.126015Z"
+  "last_update": "2026-06-12T16:48:42.768716Z"
 }
