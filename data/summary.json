@@ -1,8 +1,8 @@
 {
   "totals": {
-    "domains_tracked": 2637,
+    "domains_tracked": 2638,
     "employees_exposed": 134362,
-    "users_exposed": 18143629,
+    "users_exposed": 18143845,
     "thirdparties_exposed": 102540,
     "stealer_families_count": 19
   },
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 81
+      "count": 82
     }
   ],
   "sectors": [
@@ -302,11 +302,11 @@
       "count": 28
     },
     {
-      "name": "MY",
-      "count": 25
+      "name": "CH",
+      "count": 26
     },
     {
-      "name": "CH",
+      "name": "MY",
       "count": 25
     },
     {
@@ -1154,16 +1154,16 @@
       "stealer_victims": 23
     },
     {
+      "name": "CH",
+      "percent": 24.528301886792452,
+      "total_victims": 106,
+      "stealer_victims": 26
+    },
+    {
       "name": "GR",
       "percent": 24.137931034482758,
       "total_victims": 29,
       "stealer_victims": 7
-    },
-    {
-      "name": "CH",
-      "percent": 23.809523809523807,
-      "total_victims": 105,
-      "stealer_victims": 25
     },
     {
       "name": "PT",
@@ -1762,6 +1762,12 @@
       "stealer_victims": 68
     },
     {
+      "group": "krybit",
+      "percent": 28.57142857142857,
+      "total_victims": 49,
+      "stealer_victims": 14
+    },
+    {
       "group": "benzona",
       "percent": 28.57142857142857,
       "total_victims": 14,
@@ -1790,12 +1796,6 @@
       "percent": 27.77777777777778,
       "total_victims": 18,
       "stealer_victims": 5
-    },
-    {
-      "group": "krybit",
-      "percent": 27.083333333333332,
-      "total_victims": 48,
-      "stealer_victims": 13
     },
     {
       "group": "cicada3301",
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-14T19:46:02.510811Z"
+  "last_update": "2026-06-14T21:20:43.062970Z"
 }
