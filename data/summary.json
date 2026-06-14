@@ -1,55 +1,55 @@
 {
   "totals": {
-    "domains_tracked": 2635,
-    "employees_exposed": 134345,
-    "users_exposed": 18142018,
-    "thirdparties_exposed": 102521,
+    "domains_tracked": 2637,
+    "employees_exposed": 134362,
+    "users_exposed": 18143629,
+    "thirdparties_exposed": 102540,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1174593
+      "count": 1174956
     },
     {
       "name": "Lumma",
-      "count": 594335
+      "count": 594771
     },
     {
       "name": "Generic Stealer",
-      "count": 463279
+      "count": 463622
     },
     {
       "name": "Raccoon",
-      "count": 312742
+      "count": 312879
     },
     {
       "name": "Azorult",
-      "count": 124423
+      "count": 124446
     },
     {
       "name": "StealC",
-      "count": 123620
+      "count": 123713
     },
     {
       "name": "Vidar",
-      "count": 120349
+      "count": 120398
     },
     {
       "name": "CRYPTBOT",
-      "count": 11617
+      "count": 11620
     },
     {
       "name": "Acreed",
-      "count": 6432
+      "count": 6442
     },
     {
       "name": "Mystic",
-      "count": 4615
+      "count": 4618
     },
     {
       "name": "Atomic",
-      "count": 3778
+      "count": 3782
     },
     {
       "name": "DarkCrystal",
@@ -57,11 +57,11 @@
     },
     {
       "name": "Taurus",
-      "count": 2680
+      "count": 2681
     },
     {
       "name": "Predator",
-      "count": 2541
+      "count": 2543
     },
     {
       "name": "Ficker",
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 79
+      "count": 81
     }
   ],
   "sectors": [
@@ -169,7 +169,7 @@
     },
     {
       "name": "Technology",
-      "count": 29745
+      "count": 29746
     },
     {
       "name": "Telecommunication",
@@ -185,7 +185,7 @@
     },
     {
       "name": "Not Found",
-      "count": 10461
+      "count": 10496
     },
     {
       "name": "Public Sector",
@@ -223,7 +223,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 976
+      "count": 977
     },
     {
       "name": "BR",
@@ -235,7 +235,7 @@
     },
     {
       "name": "FR",
-      "count": 91
+      "count": 92
     },
     {
       "name": "GB",
@@ -1083,9 +1083,9 @@
     },
     {
       "name": "FR",
-      "percent": 29.073482428115017,
-      "total_victims": 313,
-      "stealer_victims": 91
+      "percent": 29.29936305732484,
+      "total_victims": 314,
+      "stealer_victims": 92
     },
     {
       "name": "TN",
@@ -1245,9 +1245,9 @@
     },
     {
       "name": "US",
-      "percent": 17.14988578457213,
-      "total_victims": 5691,
-      "stealer_victims": 976
+      "percent": 17.164441321152495,
+      "total_victims": 5692,
+      "stealer_victims": 977
     },
     {
       "name": "BH",
@@ -1498,16 +1498,16 @@
       "stealer_victims": 5
     },
     {
+      "group": "shinyhunters",
+      "percent": 52.991452991452995,
+      "total_victims": 117,
+      "stealer_victims": 62
+    },
+    {
       "group": "ALP-001",
       "percent": 52.94117647058824,
       "total_victims": 17,
       "stealer_victims": 9
-    },
-    {
-      "group": "shinyhunters",
-      "percent": 52.58620689655172,
-      "total_victims": 116,
-      "stealer_victims": 61
     },
     {
       "group": "PrinzEugen",
@@ -2116,6 +2116,12 @@
       "stealer_victims": 2
     },
     {
+      "group": "securotrop",
+      "percent": 5.405405405405405,
+      "total_victims": 37,
+      "stealer_victims": 2
+    },
+    {
       "group": "worldleaks",
       "percent": 5.389221556886228,
       "total_victims": 167,
@@ -2137,12 +2143,6 @@
       "group": "vect",
       "percent": 4.0,
       "total_victims": 25,
-      "stealer_victims": 1
-    },
-    {
-      "group": "securotrop",
-      "percent": 2.7777777777777777,
-      "total_victims": 36,
       "stealer_victims": 1
     },
     {
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-14T00:15:00.998110Z"
+  "last_update": "2026-06-14T05:56:53.310737Z"
 }
