@@ -819,8 +819,8 @@
     },
     {
       "name": "ID",
-      "percent": 49.275362318840585,
-      "total_victims": 69,
+      "percent": 48.57142857142857,
+      "total_victims": 70,
       "stealer_victims": 34
     },
     {
@@ -1481,8 +1481,8 @@
     },
     {
       "group": "nova",
-      "percent": 55.970149253731336,
-      "total_victims": 134,
+      "percent": 55.55555555555556,
+      "total_victims": 135,
       "stealer_victims": 75
     },
     {
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-14T12:03:54.618301Z"
+  "last_update": "2026-06-14T15:10:09.367051Z"
 }
