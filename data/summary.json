@@ -1215,8 +1215,8 @@
     },
     {
       "name": "GB",
-      "percent": 18.51063829787234,
-      "total_victims": 470,
+      "percent": 18.471337579617835,
+      "total_victims": 471,
       "stealer_victims": 87
     },
     {
@@ -1245,8 +1245,8 @@
     },
     {
       "name": "US",
-      "percent": 17.164441321152495,
-      "total_victims": 5692,
+      "percent": 17.155399473222126,
+      "total_victims": 5695,
       "stealer_victims": 977
     },
     {
@@ -1329,8 +1329,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.7894736842105265,
-      "total_victims": 570,
+      "percent": 5.779334500875657,
+      "total_victims": 571,
       "stealer_victims": 33
     },
     {
@@ -2009,8 +2009,8 @@
     },
     {
       "group": "dragonforce",
-      "percent": 15.301724137931034,
-      "total_victims": 464,
+      "percent": 15.268817204301074,
+      "total_victims": 465,
       "stealer_victims": 71
     },
     {
@@ -2057,8 +2057,8 @@
     },
     {
       "group": "nightspire",
-      "percent": 8.480565371024735,
-      "total_victims": 283,
+      "percent": 8.362369337979095,
+      "total_victims": 287,
       "stealer_victims": 24
     },
     {
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-14T09:50:14.423262Z"
+  "last_update": "2026-06-14T12:03:54.618301Z"
 }
