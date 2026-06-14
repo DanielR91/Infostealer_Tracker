@@ -1041,8 +1041,8 @@
     },
     {
       "name": "SG",
-      "percent": 31.73076923076923,
-      "total_victims": 104,
+      "percent": 31.428571428571427,
+      "total_victims": 105,
       "stealer_victims": 33
     },
     {
@@ -1329,8 +1329,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.779334500875657,
-      "total_victims": 571,
+      "percent": 5.7894736842105265,
+      "total_victims": 570,
       "stealer_victims": 33
     },
     {
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-14T15:10:09.367051Z"
+  "last_update": "2026-06-14T17:26:00.855049Z"
 }
