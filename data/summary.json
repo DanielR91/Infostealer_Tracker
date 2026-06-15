@@ -1310,16 +1310,16 @@
       "stealer_victims": 10
     },
     {
-      "name": "RU",
-      "percent": 12.0,
-      "total_victims": 25,
-      "stealer_victims": 3
-    },
-    {
       "name": "IL",
       "percent": 11.594202898550725,
       "total_victims": 69,
       "stealer_victims": 8
+    },
+    {
+      "name": "RU",
+      "percent": 11.538461538461538,
+      "total_victims": 26,
+      "stealer_victims": 3
     },
     {
       "name": "UK",
@@ -1870,12 +1870,6 @@
       "stealer_victims": 4
     },
     {
-      "group": "AuditTeam",
-      "percent": 23.076923076923077,
-      "total_victims": 13,
-      "stealer_victims": 3
-    },
-    {
       "group": "genesis",
       "percent": 22.727272727272727,
       "total_victims": 88,
@@ -1904,6 +1898,12 @@
       "percent": 21.875,
       "total_victims": 32,
       "stealer_victims": 7
+    },
+    {
+      "group": "AuditTeam",
+      "percent": 21.428571428571427,
+      "total_victims": 14,
+      "stealer_victims": 3
     },
     {
       "group": "cephalus",
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-14T23:15:13.344407Z"
+  "last_update": "2026-06-15T05:03:56.417693Z"
 }
