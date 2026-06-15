@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2638,
+    "domains_tracked": 2640,
     "employees_exposed": 134362,
-    "users_exposed": 18143845,
-    "thirdparties_exposed": 102540,
+    "users_exposed": 18143926,
+    "thirdparties_exposed": 102548,
     "stealer_families_count": 19
   },
   "families": [
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 82
+      "count": 84
     }
   ],
   "sectors": [
@@ -169,7 +169,7 @@
     },
     {
       "name": "Technology",
-      "count": 29746
+      "count": 29754
     },
     {
       "name": "Telecommunication",
@@ -223,7 +223,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 977
+      "count": 978
     },
     {
       "name": "BR",
@@ -434,6 +434,10 @@
       "count": 7
     },
     {
+      "name": "BD",
+      "count": 6
+    },
+    {
       "name": "QA",
       "count": 6
     },
@@ -447,10 +451,6 @@
     },
     {
       "name": "CR",
-      "count": 5
-    },
-    {
-      "name": "BD",
       "count": 5
     },
     {
@@ -854,6 +854,12 @@
       "stealer_victims": 4
     },
     {
+      "name": "BD",
+      "percent": 42.857142857142854,
+      "total_victims": 14,
+      "stealer_victims": 6
+    },
+    {
       "name": "LB",
       "percent": 42.857142857142854,
       "total_victims": 7,
@@ -912,12 +918,6 @@
       "percent": 40.0,
       "total_victims": 5,
       "stealer_victims": 2
-    },
-    {
-      "name": "BD",
-      "percent": 38.46153846153847,
-      "total_victims": 13,
-      "stealer_victims": 5
     },
     {
       "name": "EG",
@@ -1245,9 +1245,9 @@
     },
     {
       "name": "US",
-      "percent": 17.155399473222126,
-      "total_victims": 5695,
-      "stealer_victims": 977
+      "percent": 17.166929963138493,
+      "total_victims": 5697,
+      "stealer_victims": 978
     },
     {
       "name": "BH",
@@ -1481,9 +1481,9 @@
     },
     {
       "group": "nova",
-      "percent": 55.55555555555556,
-      "total_victims": 135,
-      "stealer_victims": 75
+      "percent": 56.20437956204379,
+      "total_victims": 137,
+      "stealer_victims": 77
     },
     {
       "group": "LeakBazaar",
@@ -1762,12 +1762,6 @@
       "stealer_victims": 68
     },
     {
-      "group": "krybit",
-      "percent": 28.57142857142857,
-      "total_victims": 49,
-      "stealer_victims": 14
-    },
-    {
       "group": "benzona",
       "percent": 28.57142857142857,
       "total_victims": 14,
@@ -1778,6 +1772,12 @@
       "percent": 28.57142857142857,
       "total_victims": 7,
       "stealer_victims": 2
+    },
+    {
+      "group": "krybit",
+      "percent": 28.000000000000004,
+      "total_victims": 50,
+      "stealer_victims": 14
     },
     {
       "group": "akira",
@@ -2254,5 +2254,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-15T05:03:56.417693Z"
+  "last_update": "2026-06-15T12:29:59.700959Z"
 }
