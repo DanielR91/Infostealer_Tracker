@@ -1,27 +1,27 @@
 {
   "totals": {
-    "domains_tracked": 2671,
+    "domains_tracked": 2673,
     "employees_exposed": 135156,
-    "users_exposed": 19399278,
-    "thirdparties_exposed": 104666,
+    "users_exposed": 19399338,
+    "thirdparties_exposed": 104672,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1210612
+      "count": 1210622
     },
     {
       "name": "Lumma",
-      "count": 597376
+      "count": 597387
     },
     {
       "name": "Generic Stealer",
-      "count": 467065
+      "count": 467076
     },
     {
       "name": "Raccoon",
-      "count": 321250
+      "count": 321259
     },
     {
       "name": "Azorult",
@@ -29,11 +29,11 @@
     },
     {
       "name": "StealC",
-      "count": 124176
+      "count": 124178
     },
     {
       "name": "Vidar",
-      "count": 123649
+      "count": 123650
     },
     {
       "name": "CRYPTBOT",
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 115
+      "count": 117
     }
   ],
   "sectors": [
@@ -197,7 +197,7 @@
     },
     {
       "name": "Consumer Services",
-      "count": 8177
+      "count": 8183
     },
     {
       "name": "Healthcare",
@@ -255,7 +255,7 @@
     },
     {
       "name": "IT",
-      "count": 62
+      "count": 63
     },
     {
       "name": "TW",
@@ -287,7 +287,7 @@
     },
     {
       "name": "AU",
-      "count": 32
+      "count": 33
     },
     {
       "name": "AR",
@@ -1184,16 +1184,16 @@
       "stealer_victims": 3
     },
     {
+      "name": "IT",
+      "percent": 20.930232558139537,
+      "total_victims": 301,
+      "stealer_victims": 63
+    },
+    {
       "name": "FI",
       "percent": 20.833333333333336,
       "total_victims": 24,
       "stealer_victims": 5
-    },
-    {
-      "name": "IT",
-      "percent": 20.735785953177256,
-      "total_victims": 299,
-      "stealer_victims": 62
     },
     {
       "name": "SE",
@@ -1221,8 +1221,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.264014466546115,
-      "total_victims": 553,
+      "percent": 18.1981981981982,
+      "total_victims": 555,
       "stealer_victims": 101
     },
     {
@@ -1287,9 +1287,9 @@
     },
     {
       "name": "AU",
-      "percent": 14.953271028037381,
-      "total_victims": 214,
-      "stealer_victims": 32
+      "percent": 15.348837209302326,
+      "total_victims": 215,
+      "stealer_victims": 33
     },
     {
       "name": "HR",
@@ -1973,9 +1973,9 @@
     },
     {
       "group": "safepay",
-      "percent": 17.96008869179601,
-      "total_victims": 451,
-      "stealer_victims": 81
+      "percent": 18.201754385964914,
+      "total_victims": 456,
+      "stealer_victims": 83
     },
     {
       "group": "8base",
@@ -2260,5 +2260,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-17T19:29:37.229645Z"
+  "last_update": "2026-06-17T22:06:31.408530Z"
 }
