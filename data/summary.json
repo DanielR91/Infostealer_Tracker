@@ -1329,8 +1329,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.831903945111493,
-      "total_victims": 583,
+      "percent": 5.811965811965812,
+      "total_victims": 585,
       "stealer_victims": 34
     },
     {
@@ -1492,16 +1492,16 @@
       "stealer_victims": 5
     },
     {
-      "group": "shinyhunters",
-      "percent": 55.2,
-      "total_victims": 125,
-      "stealer_victims": 69
-    },
-    {
       "group": "nova",
       "percent": 55.00000000000001,
       "total_victims": 140,
       "stealer_victims": 77
+    },
+    {
+      "group": "shinyhunters",
+      "percent": 54.761904761904766,
+      "total_victims": 126,
+      "stealer_victims": 69
     },
     {
       "group": "ALP-001",
@@ -1744,16 +1744,16 @@
       "stealer_victims": 84
     },
     {
-      "group": "SilentRansomGroup",
-      "percent": 29.565217391304348,
-      "total_victims": 115,
-      "stealer_victims": 34
-    },
-    {
       "group": "direwolf",
       "percent": 29.333333333333332,
       "total_victims": 75,
       "stealer_victims": 22
+    },
+    {
+      "group": "SilentRansomGroup",
+      "percent": 29.310344827586203,
+      "total_victims": 116,
+      "stealer_victims": 34
     },
     {
       "group": "ransomhub",
@@ -2260,5 +2260,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-16T23:27:38.736086Z"
+  "last_update": "2026-06-17T04:48:20.743236Z"
 }
