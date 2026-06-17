@@ -1,5 +1,105 @@
 [
   {
+    "id": "R3JlZyBDcm9zc2xpbkBwbGF5",
+    "discovered": "2026-06-17T18:26:14.919445+00:00",
+    "website": "www.destinlegal.com",
+    "country": "US",
+    "activity": "Not Found",
+    "description": "United States",
+    "post_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=qExwMmXjiR18a",
+    "ransom": null,
+    "data_size": null,
+    "screenshot": "https://images.ransomware.live/victims/cc237268625160d131234a4ede0669db.png",
+    "infostealer": "",
+    "press": null,
+    "permalink": "https://www.ransomware.live/id/R3JlZyBDcm9zc2xpbkBwbGF5",
+    "attackdate": "2026-06-17T18:25:46.982801+00:00",
+    "victim": "Greg Crosslin",
+    "group": "play"
+  },
+  {
+    "id": "R3JlYXQgRm9vZHNAbGFtYXNodHU=",
+    "discovered": "2026-06-17T18:24:19.153580+00:00",
+    "website": "greatfoods.com.eg",
+    "country": "EG",
+    "activity": "Agriculture and Food Production",
+    "description": "Great Foods  is a major Egyptian food manufacturing and distribution company. Established in 1972 and a proud member of the El Naggar Group, it employs over 3,700 people and exports over 150 products to more than 40 countries.\r\n",
+    "post_url": "http://lamashtux5j74mcm7lwwgn5yrvuwtrpxjoyendif3v3hrztjesfoyayd.onion/post/02f0cba918b14eb0c57eb3a48cadc1cf",
+    "ransom": null,
+    "data_size": null,
+    "screenshot": "https://images.ransomware.live/victims/30d0d82dbed8c58fa4b54c8535e53d02.png",
+    "infostealer": {
+      "update": "2026-06-17T18:24:03",
+      "employees": 0,
+      "users": 1,
+      "thirdparties": 12,
+      "employees_url": 0,
+      "users_url": 1,
+      "last_employee_compromised": null,
+      "last_user_compromised": null,
+      "infostealer_stats": {}
+    },
+    "press": null,
+    "permalink": "https://www.ransomware.live/id/R3JlYXQgRm9vZHNAbGFtYXNodHU=",
+    "attackdate": "2026-06-17T18:24:03.204253+00:00",
+    "victim": "Great Foods",
+    "group": "lamashtu"
+  },
+  {
+    "id": "SW50ZWdyYXRlZCBUZWNobm9sb2dpZXNAcGxheQ==",
+    "discovered": "2026-06-17T17:54:59.873256+00:00",
+    "website": "www.itc4u.com",
+    "country": "",
+    "activity": "Technology",
+    "description": "United States",
+    "post_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=ebJzrPyFafAaz9",
+    "ransom": null,
+    "data_size": null,
+    "screenshot": "https://images.ransomware.live/victims/e38939cad9b3c583fc78813c0f245e68.png",
+    "infostealer": "",
+    "press": null,
+    "permalink": "https://www.ransomware.live/id/SW50ZWdyYXRlZCBUZWNobm9sb2dpZXNAcGxheQ==",
+    "attackdate": "2026-06-17T17:54:44.486469+00:00",
+    "victim": "Integrated Technologies",
+    "group": "play"
+  },
+  {
+    "id": "ZXVyT3B0aW11bUBwbGF5",
+    "discovered": "2026-06-17T17:54:25.077642+00:00",
+    "website": "www.europtimum.com",
+    "country": "DE",
+    "activity": "Technology",
+    "description": "United States",
+    "post_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion/topic.php?id=aMF8umq3LV9DKN",
+    "ransom": null,
+    "data_size": null,
+    "screenshot": "https://images.ransomware.live/victims/83c3753de5d716e91f436c06830c7681.png",
+    "infostealer": "",
+    "press": null,
+    "permalink": "https://www.ransomware.live/id/ZXVyT3B0aW11bUBwbGF5",
+    "attackdate": "2026-06-17T17:54:10.170023+00:00",
+    "victim": "eurOptimum",
+    "group": "play"
+  },
+  {
+    "id": "UHJpbmNlIEdlb3JnZSBDb3VudHlAcmFuc29taG91c2U=",
+    "discovered": "2026-06-17T17:25:25.819963+00:00",
+    "website": "www.princegeorgecountyva.gov",
+    "country": "US",
+    "activity": "Public Sector",
+    "description": "Prince George County is a local government entity focused on providing essential services and fostering community development. It offers a range of services including public safety, waste management, parks and recreation, and social services to its residents. The county aims to embrace its rural character while planning for a prosperous future. Its intended clients include local residents, businesses, and visitors seeking information and services related to the county.",
+    "post_url": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/r/d9994b0916a4c00702b707a2de2a28cb6d8b7a12",
+    "ransom": null,
+    "data_size": null,
+    "screenshot": "https://images.ransomware.live/victims/88f457efde17d0c90f79b58dbee370e3.png",
+    "infostealer": "",
+    "press": null,
+    "permalink": "https://www.ransomware.live/id/UHJpbmNlIEdlb3JnZSBDb3VudHlAcmFuc29taG91c2U=",
+    "attackdate": "2026-06-10T00:00:00+00:00",
+    "victim": "Prince George County",
+    "group": "ransomhouse"
+  },
+  {
     "id": "U21pdGggRmlsdGVyQGFraXJh",
     "discovered": "2026-06-17T12:50:24.124506+00:00",
     "website": "",
@@ -250,7 +350,6 @@
       "last_employee_compromised": "2026-04-30T13:38:35.587000+00:00",
       "last_user_compromised": "2026-05-24T21:26:30+00:00",
       "infostealer_stats": {
-        "CRYPTBOT": 1,
         "Raccoon": 18,
         "Vidar": 9,
         "Lumma": 40,
@@ -259,7 +358,8 @@
         "Acreed": 4,
         "Azorult": 2,
         "Generic Stealer": 49,
-        "RedLine": 55
+        "RedLine": 55,
+        "CRYPTBOT": 1
       }
     },
     "press": "https://databreaches.net/2026/06/15/scoop-fulcrumsec-leaks-novo-nordisk-data-after-25m-demand-goes-unpaid/",
@@ -343,22 +443,22 @@
       "last_employee_compromised": "2026-02-08T19:39:14+00:00",
       "last_user_compromised": "2026-06-12T00:00:00+00:00",
       "infostealer_stats": {
-        "Raccoon": 476,
+        "Generic Stealer": 1637,
         "DarkCrystal": 15,
+        "CRYPTBOT": 15,
         "Atomic": 19,
         "Predator": 2,
         "Lumma": 1216,
-        "Acreed": 143,
-        "Vidar": 257,
-        "RedLine": 1528,
-        "CRYPTBOT": 15,
-        "Mystic": 15,
-        "Azorult": 228,
-        "Generic Stealer": 1637,
-        "Taurus": 4,
-        "StealC": 212,
+        "Raccoon": 476,
+        "Ficker": 2,
         "UNKNOWN": 81,
-        "Ficker": 2
+        "StealC": 212,
+        "Taurus": 4,
+        "Azorult": 228,
+        "Mystic": 15,
+        "RedLine": 1528,
+        "Vidar": 257,
+        "Acreed": 143
       }
     },
     "press": null,
@@ -578,16 +678,16 @@
       "last_employee_compromised": "2024-07-25T23:15:04+00:00",
       "last_user_compromised": "2026-06-09T19:00:43.859000+00:00",
       "infostealer_stats": {
-        "CRYPTBOT": 1,
-        "UNKNOWN": 2,
-        "Raccoon": 6,
         "RedLine": 50,
-        "Vidar": 7,
-        "Generic Stealer": 3,
-        "Azorult": 7,
         "Mystic": 1,
         "racoon": 6,
-        "Lumma": 11
+        "Lumma": 11,
+        "Vidar": 7,
+        "CRYPTBOT": 1,
+        "Generic Stealer": 3,
+        "Azorult": 7,
+        "UNKNOWN": 2,
+        "Raccoon": 6
       }
     },
     "press": null,
@@ -617,18 +717,18 @@
       "last_employee_compromised": "2026-04-30T00:00:00+00:00",
       "last_user_compromised": "2026-06-10T04:39:34+00:00",
       "infostealer_stats": {
-        "Taurus": 214,
-        "Generic Stealer": 15,
-        "Vidar": 2704,
-        "Raccoon": 7353,
-        "Predator": 82,
-        "Ficker": 119,
-        "StealC": 1,
-        "UNKNOWN": 1270,
-        "CRYPTBOT": 394,
-        "KPOT": 11,
+        "Azorult": 5548,
         "RedLine": 32289,
-        "Azorult": 5548
+        "KPOT": 11,
+        "CRYPTBOT": 394,
+        "UNKNOWN": 1270,
+        "Taurus": 214,
+        "StealC": 1,
+        "Ficker": 119,
+        "Predator": 82,
+        "Raccoon": 7353,
+        "Vidar": 2704,
+        "Generic Stealer": 15
       }
     },
     "press": null,
@@ -1524,15 +1624,15 @@
       "last_employee_compromised": "2025-09-25T21:34:00+00:00",
       "last_user_compromised": "2026-05-25T19:12:20+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 102,
-        "Azorult": 23,
-        "StealC": 15,
         "Raccoon": 28,
-        "Vidar": 13,
+        "Azorult": 23,
+        "RedLine": 156,
         "Lumma": 98,
-        "UNKNOWN": 7,
+        "StealC": 15,
+        "Vidar": 13,
+        "Generic Stealer": 102,
         "Mystic": 3,
-        "RedLine": 156
+        "UNKNOWN": 7
       }
     },
     "press": null,
@@ -2507,20 +2607,20 @@
       "last_employee_compromised": "2025-11-25T00:00:00+00:00",
       "last_user_compromised": "2026-06-07T12:05:54+00:00",
       "infostealer_stats": {
-        "StealC": 93,
-        "CRYPTBOT": 3,
-        "Mystic": 3,
+        "Predator": 2,
+        "Atomic": 4,
+        "Taurus": 1,
+        "UNKNOWN": 12,
+        "Azorult": 23,
         "Vidar": 49,
+        "Mystic": 3,
+        "CRYPTBOT": 3,
+        "RedLine": 363,
+        "StealC": 93,
+        "Lumma": 436,
         "Generic Stealer": 343,
         "Acreed": 10,
-        "Azorult": 23,
-        "UNKNOWN": 12,
-        "Taurus": 1,
-        "Atomic": 4,
-        "Lumma": 436,
-        "Predator": 2,
-        "Raccoon": 137,
-        "RedLine": 363
+        "Raccoon": 137
       }
     },
     "press": null,
@@ -2624,8 +2724,8 @@
       "last_employee_compromised": "2023-05-03T00:00:00+00:00",
       "last_user_compromised": "2026-03-08T13:04:53.360000+00:00",
       "infostealer_stats": {
-        "Raccoon": 1,
-        "Lumma": 4
+        "Lumma": 4,
+        "Raccoon": 1
       }
     },
     "press": null,
@@ -2655,16 +2755,16 @@
       "last_employee_compromised": "2026-05-26T16:53:13+00:00",
       "last_user_compromised": "2026-06-10T04:39:34+00:00",
       "infostealer_stats": {
-        "CRYPTBOT": 892,
-        "RedLine": 31580,
-        "Ficker": 93,
-        "Raccoon": 7506,
-        "UNKNOWN": 1450,
-        "Vidar": 3323,
         "Azorult": 4742,
+        "RedLine": 31580,
         "Taurus": 272,
         "KPOT": 17,
-        "Predator": 125
+        "Predator": 125,
+        "UNKNOWN": 1450,
+        "Vidar": 3323,
+        "Ficker": 93,
+        "Raccoon": 7506,
+        "CRYPTBOT": 892
       }
     },
     "press": "https://www.minsimnews.com/news/articleView.html?idxno=50678",
@@ -2712,17 +2812,17 @@
       "last_employee_compromised": "2023-07-27T06:29:39+00:00",
       "last_user_compromised": "2026-05-25T11:34:47+00:00",
       "infostealer_stats": {
-        "RedLine": 224,
-        "UNKNOWN": 7,
-        "Predator": 1,
-        "StealC": 32,
         "Generic Stealer": 109,
-        "Mystic": 1,
-        "Azorult": 4,
+        "Predator": 1,
+        "UNKNOWN": 7,
         "Atomic": 1,
-        "Vidar": 17,
         "Lumma": 64,
-        "Raccoon": 58
+        "Vidar": 17,
+        "Mystic": 1,
+        "StealC": 32,
+        "Raccoon": 58,
+        "Azorult": 4,
+        "RedLine": 224
       }
     },
     "press": null,
@@ -3674,9 +3774,9 @@
       "last_employee_compromised": "2026-03-05T00:00:00+00:00",
       "last_user_compromised": "1970-01-01T00:00:00+00:00",
       "infostealer_stats": {
-        "Lumma": 1,
-        "RedLine": 6,
         "Vidar": 2,
+        "RedLine": 6,
+        "Lumma": 1,
         "Generic Stealer": 3
       }
     },
@@ -4257,22 +4357,22 @@
       "last_employee_compromised": "2026-02-08T19:39:14+00:00",
       "last_user_compromised": "2026-06-12T00:00:00+00:00",
       "infostealer_stats": {
-        "Raccoon": 476,
+        "Generic Stealer": 1637,
         "DarkCrystal": 15,
+        "CRYPTBOT": 15,
         "Atomic": 19,
         "Predator": 2,
         "Lumma": 1216,
-        "Acreed": 143,
-        "Vidar": 257,
-        "RedLine": 1528,
-        "CRYPTBOT": 15,
-        "Mystic": 15,
-        "Azorult": 228,
-        "Generic Stealer": 1637,
-        "Taurus": 4,
-        "StealC": 212,
+        "Raccoon": 476,
+        "Ficker": 2,
         "UNKNOWN": 81,
-        "Ficker": 2
+        "StealC": 212,
+        "Taurus": 4,
+        "Azorult": 228,
+        "Mystic": 15,
+        "RedLine": 1528,
+        "Vidar": 257,
+        "Acreed": 143
       }
     },
     "press": null,
@@ -4432,9 +4532,9 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2024-07-25T21:57:16+00:00",
       "infostealer_stats": {
+        "Generic Stealer": 1,
         "Raccoon": 2,
         "StealC": 1,
-        "Generic Stealer": 1,
         "RedLine": 2
       }
     },
@@ -5894,10 +5994,14 @@
       "last_employee_compromised": "2026-05-23T20:45:36+00:00",
       "last_user_compromised": "2026-06-08T04:28:18+00:00",
       "infostealer_stats": {
-        "DarkCrystal": 1,
-        "UNKNOWN": 69,
         "Predator": 5,
-        "Vidar": 160,
+        "RedLine": 1615,
+        "UNKNOWN": 69,
+        "Mystic": 7,
+        "StealC": 250,
+        "CRYPTBOT": 17,
+        "Lumma": 1186,
+        "DarkCrystal": 1,
         "Azorult": 112,
         "Raccoon": 519,
         "KPOT": 1,
@@ -5905,11 +6009,7 @@
         "Ficker": 2,
         "Taurus": 5,
         "Atomic": 10,
-        "RedLine": 1615,
-        "Mystic": 7,
-        "StealC": 250,
-        "CRYPTBOT": 17,
-        "Lumma": 1186
+        "Vidar": 160
       }
     },
     "press": "https://www.mirror.co.uk/news/uk-news/nottingham-university-cyber-attack-update-37276386",
@@ -6029,13 +6129,13 @@
       "last_employee_compromised": "2025-05-18T16:05:54+00:00",
       "last_user_compromised": "2026-05-07T00:06:56+00:00",
       "infostealer_stats": {
-        "Vidar": 1,
         "Generic Stealer": 16,
-        "Raccoon": 11,
         "RedLine": 38,
-        "StealC": 4,
         "Lumma": 11,
-        "Azorult": 1
+        "Azorult": 1,
+        "Vidar": 1,
+        "StealC": 4,
+        "Raccoon": 11
       }
     },
     "press": null,
@@ -6583,14 +6683,14 @@
       "last_employee_compromised": "2024-08-20T22:14:25+00:00",
       "last_user_compromised": "2025-06-08T23:45:31+00:00",
       "infostealer_stats": {
-        "Azorult": 4,
+        "DarkCrystal": 6,
         "RedLine": 35,
-        "StealC": 3,
         "Vidar": 1,
+        "Raccoon": 11,
+        "Azorult": 4,
         "Lumma": 9,
         "Generic Stealer": 9,
-        "DarkCrystal": 6,
-        "Raccoon": 11
+        "StealC": 3
       }
     },
     "press": null,
@@ -7066,15 +7166,15 @@
       "last_employee_compromised": "2025-10-26T05:05:06.489000+00:00",
       "last_user_compromised": "2026-05-30T07:21:00+00:00",
       "infostealer_stats": {
-        "Predator": 3,
-        "Generic Stealer": 267,
-        "Lumma": 392,
-        "RedLine": 628,
         "Taurus": 1,
+        "Azorult": 39,
+        "RedLine": 628,
+        "Generic Stealer": 267,
+        "Predator": 3,
+        "Lumma": 392,
         "StealC": 95,
         "UNKNOWN": 25,
         "Raccoon": 197,
-        "Azorult": 39,
         "Vidar": 54,
         "CRYPTBOT": 9
       }
@@ -8532,14 +8632,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-05-24T12:06:07+00:00",
       "infostealer_stats": {
-        "Lumma": 126,
-        "DarkCrystal": 1,
-        "RedLine": 25,
         "StealC": 32,
-        "Generic Stealer": 54,
+        "RedLine": 25,
+        "DarkCrystal": 1,
+        "Lumma": 126,
+        "Vidar": 8,
         "Raccoon": 1,
-        "Atomic": 1,
-        "Vidar": 8
+        "Generic Stealer": 54,
+        "Atomic": 1
       }
     },
     "press": null,
@@ -8569,14 +8669,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-05-24T12:06:07+00:00",
       "infostealer_stats": {
-        "Lumma": 126,
-        "DarkCrystal": 1,
-        "RedLine": 25,
         "StealC": 32,
-        "Generic Stealer": 54,
+        "RedLine": 25,
+        "DarkCrystal": 1,
+        "Lumma": 126,
+        "Vidar": 8,
         "Raccoon": 1,
-        "Atomic": 1,
-        "Vidar": 8
+        "Generic Stealer": 54,
+        "Atomic": 1
       }
     },
     "press": null,
@@ -10483,23 +10583,23 @@
       "last_employee_compromised": "2026-05-26T23:39:00+00:00",
       "last_user_compromised": "2026-05-26T23:50:00+00:00",
       "infostealer_stats": {
-        "DarkCrystal": 24,
+        "Acreed": 148,
+        "Taurus": 25,
         "Raccoon": 2970,
-        "Aura Stealer": 4,
-        "Predator": 7,
-        "CRYPTBOT": 78,
-        "Vidar": 1411,
-        "Azorult": 712,
-        "Lumma": 7616,
         "Atomic": 46,
         "Generic Stealer": 7181,
-        "Mystic": 46,
-        "UNKNOWN": 343,
-        "Ficker": 29,
-        "RedLine": 12240,
+        "Lumma": 7616,
+        "Predator": 7,
+        "CRYPTBOT": 78,
         "StealC": 1523,
-        "Acreed": 148,
-        "Taurus": 25
+        "RedLine": 12240,
+        "UNKNOWN": 343,
+        "Mystic": 46,
+        "Aura Stealer": 4,
+        "DarkCrystal": 24,
+        "Azorult": 712,
+        "Vidar": 1411,
+        "Ficker": 29
       }
     },
     "press": null,
@@ -10585,14 +10685,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-05-24T12:06:07+00:00",
       "infostealer_stats": {
-        "Lumma": 126,
-        "DarkCrystal": 1,
-        "RedLine": 25,
         "StealC": 32,
-        "Generic Stealer": 54,
+        "RedLine": 25,
+        "DarkCrystal": 1,
+        "Lumma": 126,
+        "Vidar": 8,
         "Raccoon": 1,
-        "Atomic": 1,
-        "Vidar": 8
+        "Generic Stealer": 54,
+        "Atomic": 1
       }
     },
     "press": null,
@@ -10622,14 +10722,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-05-24T12:06:07+00:00",
       "infostealer_stats": {
-        "Lumma": 126,
-        "DarkCrystal": 1,
-        "RedLine": 25,
         "StealC": 32,
-        "Generic Stealer": 54,
+        "RedLine": 25,
+        "DarkCrystal": 1,
+        "Lumma": 126,
+        "Vidar": 8,
         "Raccoon": 1,
-        "Atomic": 1,
-        "Vidar": 8
+        "Generic Stealer": 54,
+        "Atomic": 1
       }
     },
     "press": null,
@@ -10761,10 +10861,10 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-05-09T05:42:14+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 7,
         "Lumma": 20,
         "StealC": 4,
-        "RedLine": 10
+        "RedLine": 10,
+        "Generic Stealer": 7
       }
     },
     "press": null,
@@ -12676,8 +12776,8 @@
       "last_employee_compromised": "2026-02-25T13:35:36+00:00",
       "last_user_compromised": "1970-01-01T00:00:00+00:00",
       "infostealer_stats": {
-        "Atomic": 1,
-        "Vidar": 1
+        "Vidar": 1,
+        "Atomic": 1
       }
     },
     "press": null,
@@ -13325,24 +13425,24 @@
       "last_employee_compromised": "2026-03-14T15:44:00+00:00",
       "last_user_compromised": "2026-05-24T21:17:36+00:00",
       "infostealer_stats": {
-        "RedLine": 7975,
-        "CRYPTBOT": 54,
-        "UNKNOWN": 269,
-        "KPOT": 1,
-        "Vidar": 959,
-        "Raccoon": 2353,
-        "Predator": 15,
-        "Acreed": 221,
+        "DarkCrystal": 26,
         "Generic Stealer": 7064,
-        "Atomic": 52,
         "Aura Stealer": 4,
-        "StealC": 1581,
-        "Lumma": 9014,
         "Taurus": 12,
-        "Azorult": 382,
         "Mystic": 45,
+        "Azorult": 382,
+        "Lumma": 9014,
+        "StealC": 1581,
+        "Atomic": 52,
+        "Acreed": 221,
+        "KPOT": 1,
+        "RedLine": 7975,
         "Ficker": 15,
-        "DarkCrystal": 26
+        "Predator": 15,
+        "CRYPTBOT": 54,
+        "Raccoon": 2353,
+        "UNKNOWN": 269,
+        "Vidar": 959
       }
     },
     "press": null,
@@ -14842,11 +14942,11 @@
       "last_employee_compromised": "1990-11-03T22:24:26+00:00",
       "last_user_compromised": "2023-07-06T18:10:02+00:00",
       "infostealer_stats": {
-        "UNKNOWN": 1,
+        "Generic Stealer": 1,
         "Raccoon": 1,
-        "Azorult": 2,
         "RedLine": 1,
-        "Generic Stealer": 1
+        "UNKNOWN": 1,
+        "Azorult": 2
       }
     },
     "press": null,
@@ -14876,17 +14976,17 @@
       "last_employee_compromised": "2026-03-14T13:07:54+00:00",
       "last_user_compromised": "2026-05-20T03:03:51+00:00",
       "infostealer_stats": {
-        "Raccoon": 108,
+        "Lumma": 608,
+        "Vidar": 63,
+        "RedLine": 897,
         "Generic Stealer": 278,
-        "CRYPTBOT": 3,
+        "Mystic": 6,
         "UNKNOWN": 25,
         "StealC": 287,
+        "DarkCrystal": 13,
+        "Raccoon": 108,
         "Azorult": 7,
-        "Vidar": 63,
-        "Lumma": 608,
-        "RedLine": 897,
-        "Mystic": 6,
-        "DarkCrystal": 13
+        "CRYPTBOT": 3
       }
     },
     "press": null,
@@ -15000,15 +15100,15 @@
       "last_employee_compromised": "2025-04-23T08:35:36+00:00",
       "last_user_compromised": "2026-05-15T00:00:00+00:00",
       "infostealer_stats": {
-        "Vidar": 3,
         "UNKNOWN": 4,
-        "Azorult": 12,
-        "Lumma": 31,
-        "Raccoon": 6,
         "StealC": 12,
-        "RedLine": 42,
         "Generic Stealer": 38,
-        "Acreed": 1
+        "Raccoon": 6,
+        "Acreed": 1,
+        "Lumma": 31,
+        "Azorult": 12,
+        "Vidar": 3,
+        "RedLine": 42
       }
     },
     "press": null,
@@ -15038,17 +15138,17 @@
       "last_employee_compromised": "2026-04-30T00:00:00+00:00",
       "last_user_compromised": "2026-05-19T00:00:00+00:00",
       "infostealer_stats": {
-        "Lumma": 304,
-        "Vidar": 59,
-        "CRYPTBOT": 2,
-        "Raccoon": 101,
         "Taurus": 2,
-        "Acreed": 11,
+        "Lumma": 304,
+        "Raccoon": 101,
+        "Vidar": 59,
+        "UNKNOWN": 35,
         "Generic Stealer": 520,
-        "StealC": 27,
-        "RedLine": 441,
         "Azorult": 265,
-        "UNKNOWN": 35
+        "RedLine": 441,
+        "CRYPTBOT": 2,
+        "Acreed": 11,
+        "StealC": 27
       }
     },
     "press": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
@@ -15096,14 +15196,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-05-24T12:06:07+00:00",
       "infostealer_stats": {
-        "Lumma": 126,
-        "DarkCrystal": 1,
-        "RedLine": 25,
         "StealC": 32,
-        "Generic Stealer": 54,
+        "RedLine": 25,
+        "DarkCrystal": 1,
+        "Lumma": 126,
+        "Vidar": 8,
         "Raccoon": 1,
-        "Atomic": 1,
-        "Vidar": 8
+        "Generic Stealer": 54,
+        "Atomic": 1
       }
     },
     "press": null,
@@ -15617,14 +15717,14 @@
       "last_employee_compromised": "2026-03-18T00:00:00+00:00",
       "last_user_compromised": "2026-04-22T08:34:53+00:00",
       "infostealer_stats": {
+        "KPOT": 1,
+        "Generic Stealer": 2,
         "StealC": 10,
+        "Lumma": 19,
+        "Raccoon": 4,
         "Vidar": 2,
         "RedLine": 26,
-        "UNKNOWN": 1,
-        "KPOT": 1,
-        "Raccoon": 4,
-        "Generic Stealer": 2,
-        "Lumma": 19
+        "UNKNOWN": 1
       }
     },
     "press": null,
@@ -15682,14 +15782,14 @@
       "last_employee_compromised": "2026-05-09T09:56:44+00:00",
       "last_user_compromised": "2026-02-16T05:03:46+00:00",
       "infostealer_stats": {
-        "StealC": 10,
-        "UNKNOWN": 3,
-        "Vidar": 3,
         "Generic Stealer": 26,
-        "Lumma": 55,
         "Raccoon": 10,
+        "Lumma": 55,
+        "Azorult": 2,
+        "StealC": 10,
         "RedLine": 55,
-        "Azorult": 2
+        "UNKNOWN": 3,
+        "Vidar": 3
       }
     },
     "press": null,
@@ -16329,15 +16429,15 @@
       "last_employee_compromised": "1970-01-01T02:00:00+00:00",
       "last_user_compromised": "2026-05-15T00:00:00+00:00",
       "infostealer_stats": {
-        "Vidar": 35,
-        "Acreed": 1,
-        "Atomic": 6,
-        "UNKNOWN": 6,
-        "Generic Stealer": 191,
         "Raccoon": 104,
-        "StealC": 67,
+        "Atomic": 6,
+        "Lumma": 270,
+        "Vidar": 35,
         "RedLine": 177,
-        "Lumma": 270
+        "StealC": 67,
+        "Generic Stealer": 191,
+        "UNKNOWN": 6,
+        "Acreed": 1
       }
     },
     "press": null,
@@ -16666,14 +16766,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-04-22T08:34:53+00:00",
       "infostealer_stats": {
-        "UNKNOWN": 2,
-        "Vidar": 3,
-        "RedLine": 31,
-        "Lumma": 37,
-        "Generic Stealer": 35,
-        "Raccoon": 24,
         "StealC": 9,
-        "Azorult": 8
+        "RedLine": 31,
+        "Vidar": 3,
+        "UNKNOWN": 2,
+        "Azorult": 8,
+        "Raccoon": 24,
+        "Generic Stealer": 35,
+        "Lumma": 37
       }
     },
     "press": null,
@@ -18395,17 +18495,17 @@
       "last_employee_compromised": "2025-10-06T17:34:00+00:00",
       "last_user_compromised": "2026-05-15T00:00:00+00:00",
       "infostealer_stats": {
-        "CRYPTBOT": 1,
         "Lumma": 83,
-        "StealC": 10,
+        "CRYPTBOT": 1,
         "Raccoon": 40,
         "Generic Stealer": 110,
-        "Taurus": 1,
-        "Vidar": 21,
-        "RedLine": 180,
         "Atomic": 2,
         "UNKNOWN": 9,
-        "Azorult": 60
+        "Azorult": 60,
+        "StealC": 10,
+        "Taurus": 1,
+        "Vidar": 21,
+        "RedLine": 180
       }
     },
     "press": null,
@@ -18435,21 +18535,21 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-05-15T00:00:00+00:00",
       "infostealer_stats": {
-        "Lumma": 757,
-        "Vidar": 68,
-        "Mystic": 5,
-        "Predator": 1,
-        "Taurus": 2,
-        "UNKNOWN": 21,
-        "CRYPTBOT": 5,
-        "RedLine": 813,
-        "Azorult": 52,
-        "Acreed": 4,
-        "Raccoon": 203,
         "DarkCrystal": 12,
         "StealC": 146,
+        "Taurus": 2,
+        "Raccoon": 203,
+        "Azorult": 52,
+        "Predator": 1,
+        "Atomic": 5,
+        "Acreed": 4,
+        "UNKNOWN": 21,
         "Generic Stealer": 467,
-        "Atomic": 5
+        "Mystic": 5,
+        "Lumma": 757,
+        "RedLine": 813,
+        "CRYPTBOT": 5,
+        "Vidar": 68
       }
     },
     "press": null,
@@ -19125,14 +19225,14 @@
       "last_employee_compromised": "2026-04-23T00:00:00+00:00",
       "last_user_compromised": "2026-05-06T22:13:29+00:00",
       "infostealer_stats": {
-        "UNKNOWN": 23,
-        "CRYPTBOT": 4,
-        "Redline": 15,
-        "racoon": 14,
         "RedLine": 137,
-        "Azorult": 94,
-        "Raccoon": 48,
         "Taurus": 1,
+        "Redline": 15,
+        "Azorult": 94,
+        "racoon": 14,
+        "CRYPTBOT": 4,
+        "Raccoon": 48,
+        "UNKNOWN": 23,
         "Vidar": 23
       }
     },
@@ -19365,13 +19465,13 @@
       "last_employee_compromised": "2025-12-26T16:18:00+00:00",
       "last_user_compromised": "2026-02-27T07:50:40+00:00",
       "infostealer_stats": {
-        "Lumma": 1,
-        "Vidar": 1,
+        "Generic Stealer": 3,
         "Azorult": 1,
-        "StealC": 3,
         "RedLine": 31,
+        "Vidar": 1,
+        "Lumma": 1,
         "Raccoon": 3,
-        "Generic Stealer": 3
+        "StealC": 3
       }
     },
     "press": null,
@@ -20999,14 +21099,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-04-23T16:21:05+00:00",
       "infostealer_stats": {
-        "Vidar": 3,
-        "Lumma": 13,
-        "Mystic": 1,
+        "UNKNOWN": 3,
+        "StealC": 4,
+        "Generic Stealer": 7,
         "RedLine": 20,
         "Raccoon": 2,
-        "Generic Stealer": 7,
-        "UNKNOWN": 3,
-        "StealC": 4
+        "Vidar": 3,
+        "Lumma": 13,
+        "Mystic": 1
       }
     },
     "press": null,
@@ -21302,19 +21402,19 @@
       "last_employee_compromised": "2021-10-27T12:49:19+00:00",
       "last_user_compromised": "2026-05-08T00:07:23+00:00",
       "infostealer_stats": {
-        "Azorult": 39,
-        "Generic Stealer": 400,
-        "Lumma": 415,
-        "RedLine": 650,
+        "Predator": 1,
         "UNKNOWN": 23,
         "Raccoon": 207,
-        "StealC": 75,
-        "Predator": 1,
         "Ficker": 1,
-        "Mystic": 3,
+        "Generic Stealer": 400,
+        "StealC": 75,
+        "CRYPTBOT": 8,
         "Acreed": 3,
-        "Vidar": 87,
-        "CRYPTBOT": 8
+        "Azorult": 39,
+        "Lumma": 415,
+        "RedLine": 650,
+        "Mystic": 3,
+        "Vidar": 87
       }
     },
     "press": null,
@@ -22261,18 +22361,18 @@
       "last_employee_compromised": "2026-05-08T00:00:51+00:00",
       "last_user_compromised": "2026-04-22T08:34:53+00:00",
       "infostealer_stats": {
+        "CRYPTBOT": 4,
+        "Lumma": 187,
+        "Generic Stealer": 181,
+        "StealC": 37,
+        "UNKNOWN": 10,
+        "Acreed": 6,
         "RedLine": 268,
+        "Ficker": 1,
         "Vidar": 41,
         "Raccoon": 84,
-        "Lumma": 187,
-        "UNKNOWN": 10,
         "Taurus": 1,
-        "Azorult": 31,
-        "StealC": 37,
-        "CRYPTBOT": 4,
-        "Generic Stealer": 181,
-        "Ficker": 1,
-        "Acreed": 6
+        "Azorult": 31
       }
     },
     "press": null,
@@ -22696,9 +22796,9 @@
       "infostealer_stats": {
         "Lumma": 2,
         "Generic Stealer": 3,
-        "RedLine": 1,
+        "StealC": 1,
         "Vidar": 1,
-        "StealC": 1
+        "RedLine": 1
       }
     },
     "press": null,
@@ -22728,10 +22828,10 @@
       "last_employee_compromised": "2025-05-19T17:40:20+00:00",
       "last_user_compromised": "2022-10-26T19:55:28+00:00",
       "infostealer_stats": {
-        "StealC": 1,
-        "Vidar": 2,
         "Generic Stealer": 3,
-        "Raccoon": 1
+        "Vidar": 2,
+        "Raccoon": 1,
+        "StealC": 1
       }
     },
     "press": null,
@@ -23218,11 +23318,11 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-01-21T21:43:38.060000+00:00",
       "infostealer_stats": {
+        "Lumma": 11,
         "Generic Stealer": 9,
-        "RedLine": 32,
-        "Azorult": 2,
         "Raccoon": 5,
-        "Lumma": 11
+        "Azorult": 2,
+        "RedLine": 32
       }
     },
     "press": "https://www.24heures.ch/cyberattaque-le-groupe-3r-de-radiologie-a-nouveau-pirate-897127876847",
@@ -23438,23 +23538,23 @@
       "last_employee_compromised": "2026-04-21T00:00:00+00:00",
       "last_user_compromised": "2026-05-01T10:52:44+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 911,
         "Lumma": 655,
+        "DarkCrystal": 5,
+        "Predator": 3,
+        "Atomic": 17,
+        "Taurus": 1,
+        "Azorult": 145,
+        "Vidar": 126,
+        "Raccoon": 365,
+        "RedLine": 1167,
+        "Generic Stealer": 911,
+        "Acreed": 13,
         "CRYPTBOT": 22,
         "Mystic": 10,
         "Ficker": 3,
-        "Predator": 3,
-        "Vidar": 126,
-        "Atomic": 17,
-        "RedLine": 1167,
         "KPOT": 1,
-        "Azorult": 145,
-        "DarkCrystal": 5,
         "StealC": 178,
-        "Raccoon": 365,
-        "Taurus": 1,
-        "UNKNOWN": 48,
-        "Acreed": 13
+        "UNKNOWN": 48
       }
     },
     "press": null,
@@ -24976,22 +25076,22 @@
       "last_employee_compromised": "2025-06-18T03:15:04+00:00",
       "last_user_compromised": "2026-04-30T00:00:00+00:00",
       "infostealer_stats": {
-        "StealC": 545,
-        "Mystic": 18,
+        "UNKNOWN": 120,
+        "Predator": 20,
+        "RedLine": 3092,
+        "Azorult": 231,
+        "DarkCrystal": 1,
+        "CRYPTBOT": 29,
+        "Atomic": 7,
+        "Taurus": 2,
         "Acreed": 28,
         "Raccoon": 912,
-        "Taurus": 2,
-        "Predator": 20,
-        "Azorult": 231,
-        "UNKNOWN": 120,
-        "Atomic": 7,
-        "DarkCrystal": 1,
-        "Ficker": 13,
-        "CRYPTBOT": 29,
-        "RedLine": 3092,
-        "Lumma": 1829,
+        "Mystic": 18,
         "Generic Stealer": 1866,
-        "Vidar": 409
+        "Vidar": 409,
+        "Lumma": 1829,
+        "StealC": 545,
+        "Ficker": 13
       }
     },
     "press": null,
@@ -25309,23 +25409,23 @@
       "last_employee_compromised": "2026-05-04T20:13:45.165000+00:00",
       "last_user_compromised": "2026-05-02T10:58:14+00:00",
       "infostealer_stats": {
-        "Predator": 16,
-        "Raccoon": 1108,
-        "DarkCrystal": 9,
-        "Acreed": 35,
-        "StealC": 639,
-        "Taurus": 9,
-        "UNKNOWN": 138,
-        "Mystic": 30,
-        "Atomic": 9,
-        "Generic Stealer": 2724,
-        "Vidar": 455,
         "Ficker": 12,
+        "Predator": 16,
+        "DarkCrystal": 9,
+        "Vidar": 455,
+        "Raccoon": 1108,
+        "CRYPTBOT": 5,
+        "UNKNOWN": 138,
+        "Atomic": 9,
         "KPOT": 1,
-        "Lumma": 2129,
+        "StealC": 639,
         "Azorult": 244,
+        "Acreed": 35,
+        "Lumma": 2129,
+        "Mystic": 30,
         "RedLine": 4040,
-        "CRYPTBOT": 5
+        "Taurus": 9,
+        "Generic Stealer": 2724
       }
     },
     "press": null,
@@ -25747,13 +25847,13 @@
       "last_employee_compromised": "2025-12-26T16:18:00+00:00",
       "last_user_compromised": "2026-02-27T07:50:40+00:00",
       "infostealer_stats": {
-        "Lumma": 1,
-        "Vidar": 1,
+        "Generic Stealer": 3,
         "Azorult": 1,
-        "StealC": 3,
         "RedLine": 31,
+        "Vidar": 1,
+        "Lumma": 1,
         "Raccoon": 3,
-        "Generic Stealer": 3
+        "StealC": 3
       }
     },
     "press": null,
@@ -25857,13 +25957,13 @@
       "last_employee_compromised": "2025-06-08T23:48:59+00:00",
       "last_user_compromised": "2026-04-07T05:51:01+00:00",
       "infostealer_stats": {
+        "Mystic": 1,
+        "StealC": 9,
+        "RedLine": 110,
         "Raccoon": 29,
+        "Acreed": 3,
         "Lumma": 41,
         "Vidar": 11,
-        "Acreed": 3,
-        "StealC": 9,
-        "Mystic": 1,
-        "RedLine": 110,
         "Azorult": 8,
         "Generic Stealer": 71
       }
@@ -26181,19 +26281,19 @@
       "last_employee_compromised": "2026-04-27T08:57:52+00:00",
       "last_user_compromised": "2026-04-30T18:16:36+00:00",
       "infostealer_stats": {
-        "DarkCrystal": 13,
-        "RedLine": 2475,
-        "StealC": 127,
-        "Raccoon": 770,
-        "UNKNOWN": 132,
-        "Acreed": 22,
-        "CRYPTBOT": 19,
-        "Atomic": 3,
-        "Lumma": 1317,
+        "Mystic": 4,
         "Generic Stealer": 1128,
         "Taurus": 18,
+        "UNKNOWN": 132,
+        "Raccoon": 770,
+        "Acreed": 22,
+        "RedLine": 2475,
+        "StealC": 127,
+        "CRYPTBOT": 19,
+        "Atomic": 3,
         "Vidar": 271,
-        "Mystic": 4,
+        "Lumma": 1317,
+        "DarkCrystal": 13,
         "Azorult": 529
       }
     },
@@ -26224,12 +26324,12 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-04-10T15:01:41+00:00",
       "infostealer_stats": {
-        "RedLine": 12,
-        "Vidar": 2,
-        "StealC": 2,
-        "Lumma": 4,
+        "Generic Stealer": 1,
         "UNKNOWN": 2,
-        "Generic Stealer": 1
+        "Vidar": 2,
+        "Lumma": 4,
+        "RedLine": 12,
+        "StealC": 2
       }
     },
     "press": null,
@@ -27144,16 +27244,16 @@
       "last_employee_compromised": "2026-03-13T00:00:00+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "StealC": 45,
-        "RedLine": 156,
-        "Lumma": 116,
+        "Predator": 1,
         "Vidar": 21,
-        "Acreed": 3,
+        "Generic Stealer": 132,
+        "StealC": 45,
+        "Raccoon": 72,
+        "RedLine": 156,
         "Azorult": 6,
         "UNKNOWN": 7,
-        "Generic Stealer": 132,
-        "Predator": 1,
-        "Raccoon": 72
+        "Lumma": 116,
+        "Acreed": 3
       }
     },
     "press": "https://www.dailymaverick.co.za/article/2026-04-17-standard-bank-is-discovering-the-extent-of-the-cyberattack-in-the-daily-data-dumps/",
@@ -27498,18 +27598,18 @@
       "last_employee_compromised": "2025-01-26T15:27:44+00:00",
       "last_user_compromised": "2026-04-27T08:11:04+00:00",
       "infostealer_stats": {
-        "StealC": 25,
-        "Mystic": 1,
-        "Atomic": 1,
-        "RedLine": 303,
-        "Vidar": 22,
-        "Raccoon": 74,
-        "Acreed": 5,
-        "Generic Stealer": 253,
         "Lumma": 191,
         "Taurus": 2,
         "UNKNOWN": 16,
-        "Azorult": 48
+        "StealC": 25,
+        "Azorult": 48,
+        "Generic Stealer": 253,
+        "Acreed": 5,
+        "Raccoon": 74,
+        "Vidar": 22,
+        "RedLine": 303,
+        "Atomic": 1,
+        "Mystic": 1
       }
     },
     "press": null,
@@ -27987,14 +28087,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-04-23T16:21:05+00:00",
       "infostealer_stats": {
-        "Vidar": 3,
-        "Lumma": 13,
-        "Mystic": 1,
+        "UNKNOWN": 3,
+        "StealC": 4,
+        "Generic Stealer": 7,
         "RedLine": 20,
         "Raccoon": 2,
-        "Generic Stealer": 7,
-        "UNKNOWN": 3,
-        "StealC": 4
+        "Vidar": 3,
+        "Lumma": 13,
+        "Mystic": 1
       }
     },
     "press": null,
@@ -28098,13 +28198,13 @@
       "last_employee_compromised": "2025-07-08T18:39:29+00:00",
       "last_user_compromised": "2025-11-18T19:36:39+00:00",
       "infostealer_stats": {
-        "Azorult": 6,
-        "Lumma": 11,
-        "StealC": 1,
-        "Generic Stealer": 17,
-        "Vidar": 1,
         "RedLine": 17,
-        "Raccoon": 3
+        "Azorult": 6,
+        "Raccoon": 3,
+        "Vidar": 1,
+        "Lumma": 11,
+        "Generic Stealer": 17,
+        "StealC": 1
       }
     },
     "press": null,
@@ -28310,19 +28410,19 @@
       "last_employee_compromised": "2024-08-28T18:14:45+00:00",
       "last_user_compromised": "2026-04-23T04:48:44+00:00",
       "infostealer_stats": {
-        "UNKNOWN": 10,
-        "CRYPTBOT": 2,
-        "Atomic": 2,
-        "Ficker": 1,
         "RedLine": 244,
         "Azorult": 35,
         "Generic Stealer": 179,
         "StealC": 69,
         "Acreed": 3,
         "Lumma": 186,
-        "Mystic": 1,
+        "Vidar": 31,
         "Raccoon": 73,
-        "Vidar": 31
+        "UNKNOWN": 10,
+        "CRYPTBOT": 2,
+        "Mystic": 1,
+        "Atomic": 2,
+        "Ficker": 1
       }
     },
     "press": null,
@@ -28438,21 +28538,21 @@
       "last_employee_compromised": "2026-03-06T23:25:45.977000+00:00",
       "last_user_compromised": "2026-04-25T07:18:44+00:00",
       "infostealer_stats": {
-        "StealC": 96,
+        "RedLine": 804,
+        "Taurus": 1,
+        "CRYPTBOT": 7,
+        "Azorult": 267,
+        "DarkCrystal": 1,
         "Raccoon": 252,
         "Predator": 2,
-        "DarkCrystal": 1,
         "Atomic": 17,
-        "Azorult": 267,
-        "CRYPTBOT": 7,
-        "Taurus": 1,
-        "UNKNOWN": 40,
-        "RedLine": 804,
-        "Mystic": 1,
-        "Vidar": 138,
-        "Acreed": 16,
+        "StealC": 96,
+        "Lumma": 659,
         "Generic Stealer": 957,
-        "Lumma": 659
+        "Acreed": 16,
+        "Vidar": 138,
+        "Mystic": 1,
+        "UNKNOWN": 40
       }
     },
     "press": null,
@@ -28736,12 +28836,12 @@
       "last_employee_compromised": "2025-07-14T13:13:00+00:00",
       "last_user_compromised": "2026-04-07T15:57:41+00:00",
       "infostealer_stats": {
-        "Lumma": 34,
         "StealC": 7,
+        "Lumma": 34,
         "Raccoon": 9,
         "RedLine": 23,
-        "Mystic": 1,
-        "Generic Stealer": 12
+        "Generic Stealer": 12,
+        "Mystic": 1
       }
     },
     "press": null,
@@ -28771,23 +28871,23 @@
       "last_employee_compromised": "2022-09-25T01:43:00+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "Lumma": 1732,
-        "Ficker": 7,
         "Vidar": 257,
-        "Azorult": 129,
-        "KPOT": 2,
-        "Acreed": 29,
-        "Predator": 5,
-        "Taurus": 4,
-        "Raccoon": 801,
         "Atomic": 11,
-        "DarkCrystal": 17,
-        "Generic Stealer": 1654,
-        "Mystic": 12,
-        "UNKNOWN": 58,
-        "RedLine": 2430,
+        "Raccoon": 801,
+        "Taurus": 4,
+        "Predator": 5,
+        "Acreed": 29,
+        "KPOT": 2,
+        "Azorult": 129,
+        "Ficker": 7,
+        "CRYPTBOT": 22,
         "StealC": 391,
-        "CRYPTBOT": 22
+        "Lumma": 1732,
+        "RedLine": 2430,
+        "UNKNOWN": 58,
+        "Mystic": 12,
+        "Generic Stealer": 1654,
+        "DarkCrystal": 17
       }
     },
     "press": null,
@@ -30175,20 +30275,20 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "Acreed": 13,
-        "Azorult": 250,
-        "DarkCrystal": 2,
-        "UNKNOWN": 67,
-        "Taurus": 12,
-        "Atomic": 5,
         "Raccoon": 288,
-        "Generic Stealer": 1178,
-        "Ficker": 3,
-        "StealC": 84,
-        "Lumma": 1108,
-        "Vidar": 164,
+        "Atomic": 5,
+        "Taurus": 12,
+        "UNKNOWN": 67,
+        "DarkCrystal": 2,
+        "Azorult": 250,
+        "Acreed": 13,
+        "CRYPTBOT": 4,
         "RedLine": 2592,
-        "CRYPTBOT": 4
+        "Generic Stealer": 1178,
+        "Vidar": 164,
+        "Ficker": 3,
+        "Lumma": 1108,
+        "StealC": 84
       }
     },
     "press": null,
@@ -32930,12 +33030,12 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2025-09-04T18:02:07+00:00",
       "infostealer_stats": {
-        "CRYPTBOT": 2,
+        "StealC": 1,
+        "Vidar": 1,
         "RedLine": 12,
         "Generic Stealer": 6,
         "Lumma": 13,
-        "StealC": 1,
-        "Vidar": 1
+        "CRYPTBOT": 2
       }
     },
     "press": null,
@@ -38995,10 +39095,10 @@
       "last_employee_compromised": "2026-02-17T00:00:00+00:00",
       "last_user_compromised": "2026-03-19T00:00:00+00:00",
       "infostealer_stats": {
-        "StealC": 1,
+        "Generic Stealer": 1,
         "Lumma": 1,
         "RedLine": 5,
-        "Generic Stealer": 1
+        "StealC": 1
       }
     },
     "press": null,
@@ -39236,17 +39336,17 @@
       "last_employee_compromised": "2026-02-10T17:32:34+00:00",
       "last_user_compromised": "2026-04-21T00:00:00+00:00",
       "infostealer_stats": {
-        "StealC": 6,
         "Azorult": 55,
-        "Lumma": 59,
-        "DarkCrystal": 1,
-        "Raccoon": 15,
-        "Acreed": 2,
-        "UNKNOWN": 11,
         "Generic Stealer": 125,
-        "KPOT": 1,
+        "StealC": 6,
+        "UNKNOWN": 11,
+        "Acreed": 2,
+        "Raccoon": 15,
+        "DarkCrystal": 1,
+        "Lumma": 59,
+        "Vidar": 16,
         "RedLine": 108,
-        "Vidar": 16
+        "KPOT": 1
       }
     },
     "press": null,
@@ -40449,14 +40549,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-05-24T12:06:07+00:00",
       "infostealer_stats": {
-        "Lumma": 126,
-        "DarkCrystal": 1,
-        "RedLine": 25,
         "StealC": 32,
-        "Generic Stealer": 54,
+        "RedLine": 25,
+        "DarkCrystal": 1,
+        "Lumma": 126,
+        "Vidar": 8,
         "Raccoon": 1,
-        "Atomic": 1,
-        "Vidar": 8
+        "Generic Stealer": 54,
+        "Atomic": 1
       }
     },
     "press": null,
@@ -48741,14 +48841,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-04-10T16:17:26+00:00",
       "infostealer_stats": {
+        "RedLine": 17,
+        "StealC": 1,
+        "Generic Stealer": 10,
+        "Acreed": 1,
         "Raccoon": 1,
         "DarkCrystal": 1,
-        "Generic Stealer": 10,
-        "StealC": 1,
-        "Vidar": 1,
         "Lumma": 5,
-        "Acreed": 1,
-        "RedLine": 17
+        "Vidar": 1
       }
     },
     "press": null,
@@ -51957,19 +52057,19 @@
       "last_employee_compromised": "2025-02-20T18:32:58+00:00",
       "last_user_compromised": "2026-04-22T08:34:53+00:00",
       "infostealer_stats": {
-        "Azorult": 29,
-        "Vidar": 40,
-        "DarkCrystal": 13,
-        "Mystic": 1,
-        "CRYPTBOT": 1,
-        "StealC": 38,
         "RedLine": 273,
-        "Acreed": 2,
         "Generic Stealer": 205,
-        "Raccoon": 73,
-        "Lumma": 255,
+        "Acreed": 2,
+        "StealC": 38,
+        "UNKNOWN": 9,
+        "CRYPTBOT": 1,
         "Predator": 1,
-        "UNKNOWN": 9
+        "Lumma": 255,
+        "Raccoon": 73,
+        "Vidar": 40,
+        "Azorult": 29,
+        "DarkCrystal": 13,
+        "Mystic": 1
       }
     },
     "press": null,
@@ -52203,21 +52303,21 @@
       "last_employee_compromised": "2026-04-07T09:10:28+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "UNKNOWN": 194,
-        "DarkCrystal": 2,
-        "Azorult": 1425,
-        "StealC": 178,
-        "Aura Stealer": 1,
-        "CRYPTBOT": 16,
-        "Lumma": 1624,
-        "Acreed": 44,
         "Generic Stealer": 3614,
-        "Taurus": 15,
-        "RedLine": 3211,
+        "StealC": 178,
+        "Azorult": 1425,
+        "UNKNOWN": 194,
+        "Mystic": 5,
         "Raccoon": 742,
         "Vidar": 403,
         "Atomic": 3,
-        "Mystic": 5
+        "DarkCrystal": 2,
+        "Taurus": 15,
+        "Aura Stealer": 1,
+        "CRYPTBOT": 16,
+        "Lumma": 1624,
+        "RedLine": 3211,
+        "Acreed": 44
       }
     },
     "press": null,
@@ -55457,22 +55557,22 @@
       "last_employee_compromised": "2026-04-29T00:00:00+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 6616,
-        "UNKNOWN": 514,
+        "CRYPTBOT": 55,
         "Mystic": 89,
         "Vidar": 1303,
         "Acreed": 155,
-        "Taurus": 12,
-        "RedLine": 16110,
-        "CRYPTBOT": 55,
-        "Azorult": 262,
-        "DarkCrystal": 120,
-        "Raccoon": 4403,
-        "Predator": 12,
-        "Atomic": 8,
-        "StealC": 1927,
+        "Generic Stealer": 6616,
+        "Lumma": 10548,
         "Ficker": 15,
-        "Lumma": 10548
+        "StealC": 1927,
+        "Atomic": 8,
+        "Predator": 12,
+        "Raccoon": 4403,
+        "DarkCrystal": 120,
+        "Azorult": 262,
+        "RedLine": 16110,
+        "Taurus": 12,
+        "UNKNOWN": 514
       }
     },
     "press": null,
@@ -55742,17 +55842,17 @@
       "last_employee_compromised": "2024-01-08T20:02:53+00:00",
       "last_user_compromised": "2026-03-22T23:00:17+00:00",
       "infostealer_stats": {
-        "UNKNOWN": 1,
-        "CRYPTBOT": 1,
         "Generic Stealer": 39,
-        "Azorult": 5,
-        "DarkCrystal": 6,
+        "CRYPTBOT": 1,
         "RedLine": 43,
-        "Acreed": 1,
-        "Lumma": 56,
         "Vidar": 4,
         "Raccoon": 26,
-        "StealC": 8
+        "Acreed": 1,
+        "Azorult": 5,
+        "DarkCrystal": 6,
+        "UNKNOWN": 1,
+        "StealC": 8,
+        "Lumma": 56
       }
     },
     "press": null,
@@ -59986,8 +60086,8 @@
       "last_user_compromised": "2025-10-15T00:00:00+00:00",
       "infostealer_stats": {
         "RedLine": 3,
-        "Generic Stealer": 2,
-        "Lumma": 4
+        "Lumma": 4,
+        "Generic Stealer": 2
       }
     },
     "press": null,
@@ -61294,12 +61394,12 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-03-04T04:18:11+00:00",
       "infostealer_stats": {
+        "Lumma": 19,
         "RedLine": 27,
-        "Vidar": 5,
         "Raccoon": 6,
-        "StealC": 4,
         "Generic Stealer": 11,
-        "Lumma": 19
+        "StealC": 4,
+        "Vidar": 5
       }
     },
     "press": null,
@@ -61465,14 +61565,14 @@
       "last_employee_compromised": "2025-04-19T20:29:34+00:00",
       "last_user_compromised": "2026-03-22T20:06:59.792000+00:00",
       "infostealer_stats": {
-        "Lumma": 12,
-        "UNKNOWN": 1,
         "Vidar": 17,
-        "Generic Stealer": 17,
         "StealC": 14,
-        "Raccoon": 16,
+        "Lumma": 12,
+        "Generic Stealer": 17,
+        "Azorult": 1,
         "RedLine": 69,
-        "Azorult": 1
+        "UNKNOWN": 1,
+        "Raccoon": 16
       }
     },
     "press": null,
@@ -61788,14 +61888,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-05-24T12:06:07+00:00",
       "infostealer_stats": {
-        "Lumma": 126,
-        "DarkCrystal": 1,
-        "RedLine": 25,
         "StealC": 32,
-        "Generic Stealer": 54,
+        "RedLine": 25,
+        "DarkCrystal": 1,
+        "Lumma": 126,
+        "Vidar": 8,
         "Raccoon": 1,
-        "Atomic": 1,
-        "Vidar": 8
+        "Generic Stealer": 54,
+        "Atomic": 1
       }
     },
     "press": null,
@@ -62947,11 +63047,11 @@
       "last_user_compromised": "2026-04-03T00:00:00+00:00",
       "infostealer_stats": {
         "Acreed": 2,
+        "StealC": 2,
+        "RedLine": 1,
         "Vidar": 1,
         "Generic Stealer": 5,
-        "StealC": 2,
-        "Lumma": 6,
-        "RedLine": 1
+        "Lumma": 6
       }
     },
     "press": null,
@@ -65240,14 +65340,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-02-27T00:00:00+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 8,
-        "Azorult": 3,
-        "Lumma": 3,
-        "Atomic": 2,
+        "StealC": 1,
         "UNKNOWN": 1,
+        "Generic Stealer": 8,
+        "Lumma": 3,
+        "Azorult": 3,
+        "Atomic": 2,
         "RedLine": 6,
-        "Acreed": 1,
-        "StealC": 1
+        "Acreed": 1
       }
     },
     "press": null,
@@ -72424,14 +72524,14 @@
       "last_employee_compromised": "2024-12-04T02:06:35+00:00",
       "last_user_compromised": "2025-12-14T19:25:56.452000+00:00",
       "infostealer_stats": {
-        "Vidar": 2,
+        "Acreed": 1,
         "RedLine": 8,
-        "Generic Stealer": 14,
-        "Atomic": 1,
         "Raccoon": 3,
+        "Atomic": 1,
         "Taurus": 1,
         "Lumma": 19,
-        "Acreed": 1
+        "Generic Stealer": 14,
+        "Vidar": 2
       }
     },
     "press": null,
@@ -87997,14 +88097,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-05-24T12:06:07+00:00",
       "infostealer_stats": {
-        "Lumma": 126,
-        "DarkCrystal": 1,
-        "RedLine": 25,
         "StealC": 32,
-        "Generic Stealer": 54,
+        "RedLine": 25,
+        "DarkCrystal": 1,
+        "Lumma": 126,
+        "Vidar": 8,
         "Raccoon": 1,
-        "Atomic": 1,
-        "Vidar": 8
+        "Generic Stealer": 54,
+        "Atomic": 1
       }
     },
     "press": null,
@@ -89958,12 +90058,12 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-01-03T12:15:35+00:00",
       "infostealer_stats": {
-        "RedLine": 3,
-        "Vidar": 1,
-        "Lumma": 5,
         "StealC": 1,
+        "Vidar": 1,
+        "Raccoon": 2,
         "Generic Stealer": 14,
-        "Raccoon": 2
+        "Lumma": 5,
+        "RedLine": 3
       }
     },
     "press": null,
@@ -90581,20 +90681,20 @@
       "last_employee_compromised": "2025-11-25T00:00:00+00:00",
       "last_user_compromised": "2026-04-15T04:06:06+00:00",
       "infostealer_stats": {
-        "Ficker": 1,
         "Mystic": 2,
         "Vidar": 42,
-        "Taurus": 1,
         "Azorult": 39,
+        "Taurus": 1,
+        "UNKNOWN": 16,
         "Raccoon": 106,
         "Acreed": 2,
-        "RedLine": 348,
         "Generic Stealer": 182,
         "Lumma": 181,
         "KPOT": 1,
-        "UNKNOWN": 16,
+        "Ficker": 1,
         "StealC": 48,
-        "CRYPTBOT": 2
+        "CRYPTBOT": 2,
+        "RedLine": 348
       }
     },
     "press": null,
@@ -90662,14 +90762,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-05-24T12:06:07+00:00",
       "infostealer_stats": {
-        "Lumma": 126,
-        "DarkCrystal": 1,
-        "RedLine": 25,
         "StealC": 32,
-        "Generic Stealer": 54,
+        "RedLine": 25,
+        "DarkCrystal": 1,
+        "Lumma": 126,
+        "Vidar": 8,
         "Raccoon": 1,
-        "Atomic": 1,
-        "Vidar": 8
+        "Generic Stealer": 54,
+        "Atomic": 1
       }
     },
     "press": null,
@@ -92338,12 +92438,12 @@
       "last_user_compromised": "2026-03-31T08:05:30+00:00",
       "infostealer_stats": {
         "Generic Stealer": 12,
+        "Vidar": 2,
+        "RedLine": 52,
         "Acreed": 1,
         "StealC": 5,
         "Lumma": 12,
-        "Raccoon": 5,
-        "RedLine": 52,
-        "Vidar": 2
+        "Raccoon": 5
       }
     },
     "press": null,
@@ -92518,8 +92618,8 @@
       "last_employee_compromised": "2026-04-22T08:34:53+00:00",
       "last_user_compromised": "2025-02-19T13:08:55+00:00",
       "infostealer_stats": {
-        "Vidar": 4,
         "StealC": 4,
+        "Vidar": 4,
         "DarkCrystal": 2,
         "RedLine": 37,
         "Lumma": 9,
@@ -93737,14 +93837,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-05-24T12:06:07+00:00",
       "infostealer_stats": {
-        "Lumma": 126,
-        "DarkCrystal": 1,
-        "RedLine": 25,
         "StealC": 32,
-        "Generic Stealer": 54,
+        "RedLine": 25,
+        "DarkCrystal": 1,
+        "Lumma": 126,
+        "Vidar": 8,
         "Raccoon": 1,
-        "Atomic": 1,
-        "Vidar": 8
+        "Generic Stealer": 54,
+        "Atomic": 1
       }
     },
     "press": null,
@@ -100559,8 +100659,8 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2025-11-02T00:00:00+00:00",
       "infostealer_stats": {
-        "RedLine": 1,
-        "Generic Stealer": 1
+        "Generic Stealer": 1,
+        "RedLine": 1
       }
     },
     "press": null,
@@ -100618,21 +100718,21 @@
       "last_employee_compromised": "2026-04-11T08:26:43+00:00",
       "last_user_compromised": "2026-04-26T04:34:05+00:00",
       "infostealer_stats": {
-        "Predator": 2,
+        "Lumma": 1059,
+        "Mystic": 5,
+        "UNKNOWN": 100,
         "Azorult": 617,
         "Atomic": 34,
-        "Lumma": 1059,
-        "UNKNOWN": 100,
-        "Acreed": 25,
-        "Vidar": 197,
-        "RedLine": 1674,
+        "Predator": 2,
         "Generic Stealer": 1597,
+        "RedLine": 1674,
         "StealC": 139,
         "DarkCrystal": 1,
-        "Mystic": 5,
         "Taurus": 4,
+        "Raccoon": 409,
+        "Vidar": 197,
         "CRYPTBOT": 14,
-        "Raccoon": 409
+        "Acreed": 25
       }
     },
     "press": null,
@@ -101689,14 +101789,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-05-24T12:06:07+00:00",
       "infostealer_stats": {
-        "Lumma": 126,
-        "DarkCrystal": 1,
-        "RedLine": 25,
         "StealC": 32,
-        "Generic Stealer": 54,
+        "RedLine": 25,
+        "DarkCrystal": 1,
+        "Lumma": 126,
+        "Vidar": 8,
         "Raccoon": 1,
-        "Atomic": 1,
-        "Vidar": 8
+        "Generic Stealer": 54,
+        "Atomic": 1
       }
     },
     "press": null,
@@ -103736,8 +103836,8 @@
       "last_employee_compromised": "2021-08-09T20:21:54+00:00",
       "last_user_compromised": "1970-01-01T00:00:00+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 1,
-        "RedLine": 1
+        "RedLine": 1,
+        "Generic Stealer": 1
       }
     },
     "press": null,
@@ -108592,8 +108692,8 @@
       "last_employee_compromised": "2022-11-13T00:00:00+00:00",
       "last_user_compromised": "2023-05-20T09:34:16+00:00",
       "infostealer_stats": {
-        "RedLine": 1,
-        "Generic Stealer": 1
+        "Generic Stealer": 1,
+        "RedLine": 1
       }
     },
     "press": null,
@@ -109485,8 +109585,8 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2024-09-17T10:51:38+00:00",
       "infostealer_stats": {
-        "Lumma": 2,
-        "Raccoon": 1
+        "Raccoon": 1,
+        "Lumma": 2
       }
     },
     "press": null,
@@ -111196,9 +111296,9 @@
       "last_employee_compromised": "2025-08-22T16:47:00+00:00",
       "last_user_compromised": "2025-05-31T20:07:43+00:00",
       "infostealer_stats": {
+        "Vidar": 1,
         "Generic Stealer": 4,
         "StealC": 1,
-        "Vidar": 1,
         "Lumma": 3,
         "RedLine": 2
       }
@@ -112751,10 +112851,10 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2024-05-16T20:37:01+00:00",
       "infostealer_stats": {
-        "Lumma": 1,
         "RedLine": 7,
-        "StealC": 2,
-        "Generic Stealer": 2
+        "Generic Stealer": 2,
+        "Lumma": 1,
+        "StealC": 2
       }
     },
     "press": "https://www.escudodigital.com/ciberseguridad/notin-proveeedor-ti-notarias-ataque-ransomware.html",
@@ -116308,8 +116408,8 @@
       "last_user_compromised": "1970-01-01T00:00:00+00:00",
       "infostealer_stats": {
         "RedLine": 1,
-        "Raccoon": 1,
-        "Azorult": 1
+        "Azorult": 1,
+        "Raccoon": 1
       }
     },
     "press": null,
@@ -118273,8 +118373,8 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2023-10-04T00:00:00+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 1,
-        "Raccoon": 1
+        "Raccoon": 1,
+        "Generic Stealer": 1
       }
     },
     "press": null,
@@ -120507,9 +120607,9 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2022-01-06T11:04:18+00:00",
       "infostealer_stats": {
-        "Vidar": 1,
         "Generic Stealer": 1,
-        "RedLine": 1
+        "RedLine": 1,
+        "Vidar": 1
       }
     },
     "press": null,
@@ -121244,9 +121344,9 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2025-06-09T11:52:00+00:00",
       "infostealer_stats": {
-        "Raccoon": 1,
+        "Generic Stealer": 1,
         "Lumma": 2,
-        "Generic Stealer": 1
+        "Raccoon": 1
       }
     },
     "press": null,
@@ -123133,8 +123233,8 @@
       "last_employee_compromised": "2025-06-12T21:08:43+00:00",
       "last_user_compromised": "1970-01-01T00:00:00+00:00",
       "infostealer_stats": {
-        "Raccoon": 1,
-        "Lumma": 1
+        "Lumma": 1,
+        "Raccoon": 1
       }
     },
     "press": null,
@@ -123732,16 +123832,16 @@
       "last_employee_compromised": "2026-04-21T00:37:09+00:00",
       "last_user_compromised": "2026-01-22T00:00:00+00:00",
       "infostealer_stats": {
-        "Acreed": 1,
-        "UNKNOWN": 1,
         "Generic Stealer": 36,
+        "Vidar": 10,
+        "Acreed": 1,
         "StealC": 12,
+        "UNKNOWN": 1,
+        "Lumma": 33,
         "CRYPTBOT": 1,
         "RedLine": 52,
         "Raccoon": 27,
-        "Azorult": 3,
-        "Lumma": 33,
-        "Vidar": 10
+        "Azorult": 3
       }
     },
     "press": null,
@@ -125348,10 +125448,10 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-04-08T16:57:09+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 1,
+        "Lumma": 8,
         "StealC": 1,
-        "RedLine": 1,
-        "Lumma": 8
+        "Generic Stealer": 1,
+        "RedLine": 1
       }
     },
     "press": null,
@@ -126190,19 +126290,19 @@
       "last_employee_compromised": "2024-06-05T05:20:09+00:00",
       "last_user_compromised": "2026-04-29T00:00:00+00:00",
       "infostealer_stats": {
-        "CRYPTBOT": 1,
-        "Atomic": 3,
-        "Vidar": 42,
+        "Ficker": 1,
+        "Acreed": 7,
+        "StealC": 138,
         "Lumma": 542,
+        "Vidar": 42,
         "Azorult": 1,
         "Raccoon": 97,
         "RedLine": 673,
         "Generic Stealer": 384,
+        "Atomic": 3,
+        "Mystic": 5,
         "UNKNOWN": 18,
-        "StealC": 138,
-        "Acreed": 7,
-        "Ficker": 1,
-        "Mystic": 5
+        "CRYPTBOT": 1
       }
     },
     "press": null,
@@ -126557,11 +126657,11 @@
       "last_employee_compromised": "2026-04-22T08:34:53+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "StealC": 839,
+        "CRYPTBOT": 57,
         "Vidar": 620,
         "Atomic": 4,
         "Raccoon": 2725,
-        "CRYPTBOT": 57,
+        "StealC": 839,
         "Lumma": 5006,
         "Generic Stealer": 3346,
         "KPOT": 3,
@@ -129106,16 +129206,16 @@
       "last_employee_compromised": "2022-05-10T01:47:54+00:00",
       "last_user_compromised": "2026-03-30T12:23:04+00:00",
       "infostealer_stats": {
-        "Raccoon": 44,
+        "RedLine": 153,
+        "Vidar": 6,
+        "Lumma": 88,
+        "StealC": 21,
         "Acreed": 1,
+        "Azorult": 11,
         "Atomic": 1,
         "Generic Stealer": 58,
         "UNKNOWN": 4,
-        "RedLine": 153,
-        "Vidar": 6,
-        "StealC": 21,
-        "Lumma": 88,
-        "Azorult": 11
+        "Raccoon": 44
       }
     },
     "press": null,
@@ -131028,14 +131128,14 @@
       "last_employee_compromised": "2026-03-28T16:16:30.542000+00:00",
       "last_user_compromised": "2026-04-27T08:11:13+00:00",
       "infostealer_stats": {
-        "Azorult": 11,
-        "Vidar": 4,
-        "StealC": 3,
-        "UNKNOWN": 1,
         "Generic Stealer": 34,
+        "Vidar": 4,
+        "UNKNOWN": 1,
+        "Azorult": 11,
         "Raccoon": 11,
         "RedLine": 46,
-        "Lumma": 24
+        "Lumma": 24,
+        "StealC": 3
       }
     },
     "press": null,
@@ -131616,19 +131716,19 @@
       "last_employee_compromised": "1970-01-01T02:00:00+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "Azorult": 105,
-        "UNKNOWN": 10,
-        "Generic Stealer": 314,
         "Vidar": 36,
         "RedLine": 369,
-        "CRYPTBOT": 1,
-        "Lumma": 477,
-        "Atomic": 3,
-        "Acreed": 6,
-        "Predator": 2,
-        "StealC": 27,
+        "Raccoon": 193,
         "Mystic": 1,
-        "Raccoon": 193
+        "StealC": 27,
+        "Predator": 2,
+        "Acreed": 6,
+        "Atomic": 3,
+        "Lumma": 477,
+        "CRYPTBOT": 1,
+        "Azorult": 105,
+        "UNKNOWN": 10,
+        "Generic Stealer": 314
       }
     },
     "press": null,
@@ -131976,8 +132076,8 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2023-04-25T00:00:00+00:00",
       "infostealer_stats": {
-        "Azorult": 1,
         "Raccoon": 3,
+        "Azorult": 1,
         "RedLine": 4
       }
     },
@@ -132428,21 +132528,21 @@
       "last_employee_compromised": "1970-01-01T02:00:00+00:00",
       "last_user_compromised": "2026-04-24T21:24:27.651000+00:00",
       "infostealer_stats": {
-        "Taurus": 24,
-        "Generic Stealer": 3482,
-        "KPOT": 1,
-        "UNKNOWN": 262,
-        "StealC": 852,
-        "Atomic": 14,
-        "Vidar": 873,
-        "Mystic": 38,
-        "Raccoon": 2399,
-        "CRYPTBOT": 50,
-        "RedLine": 8469,
+        "Acreed": 46,
         "DarkCrystal": 36,
         "Azorult": 1322,
-        "Acreed": 46,
-        "Lumma": 3516
+        "Taurus": 24,
+        "UNKNOWN": 262,
+        "Atomic": 14,
+        "Raccoon": 2399,
+        "Generic Stealer": 3482,
+        "KPOT": 1,
+        "Lumma": 3516,
+        "StealC": 852,
+        "RedLine": 8469,
+        "CRYPTBOT": 50,
+        "Mystic": 38,
+        "Vidar": 873
       }
     },
     "press": null,
@@ -133610,12 +133710,12 @@
       "last_employee_compromised": "2026-02-21T00:55:46+00:00",
       "last_user_compromised": "2026-03-27T16:17:22.450000+00:00",
       "infostealer_stats": {
+        "Raccoon": 1,
+        "RedLine": 2,
+        "Vidar": 1,
         "Generic Stealer": 3,
         "Lumma": 2,
-        "Raccoon": 1,
-        "Azorult": 3,
-        "Vidar": 1,
-        "RedLine": 2
+        "Azorult": 3
       }
     },
     "press": null,
@@ -134659,11 +134759,11 @@
       "last_user_compromised": "2026-03-01T16:15:32+00:00",
       "infostealer_stats": {
         "Azorult": 1,
-        "Vidar": 1,
-        "RedLine": 17,
-        "Raccoon": 1,
+        "Generic Stealer": 3,
         "Lumma": 1,
-        "Generic Stealer": 3
+        "Raccoon": 1,
+        "RedLine": 17,
+        "Vidar": 1
       }
     },
     "press": null,
@@ -135944,8 +136044,8 @@
       "last_employee_compromised": null,
       "last_user_compromised": null,
       "infostealer_stats": {
-        "Azorult": 1,
-        "Raccoon": 1
+        "Raccoon": 1,
+        "Azorult": 1
       }
     },
     "press": null,
@@ -136519,10 +136619,10 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-01-10T23:27:19+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 1,
         "Azorult": 3,
-        "RedLine": 4,
-        "UNKNOWN": 1
+        "Generic Stealer": 1,
+        "UNKNOWN": 1,
+        "RedLine": 4
       }
     },
     "press": null,
@@ -137705,10 +137805,9 @@
       "last_employee_compromised": "2026-04-17T23:12:38+00:00",
       "last_user_compromised": "2026-04-24T21:24:27.651000+00:00",
       "infostealer_stats": {
-        "Mystic": 8,
+        "UNKNOWN": 41,
         "Azorult": 82,
         "DarkCrystal": 1,
-        "UNKNOWN": 41,
         "Taurus": 2,
         "Predator": 5,
         "Atomic": 3,
@@ -137719,9 +137818,10 @@
         "Lumma": 868,
         "KPOT": 1,
         "Ficker": 1,
-        "Vidar": 110,
+        "Mystic": 8,
+        "RedLine": 1430,
         "CRYPTBOT": 12,
-        "RedLine": 1430
+        "Vidar": 110
       }
     },
     "press": null,
@@ -137751,22 +137851,22 @@
       "last_employee_compromised": "2026-02-06T04:59:56+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "Azorult": 692,
-        "Raccoon": 2410,
-        "RedLine": 7747,
-        "Lumma": 2611,
-        "Ficker": 15,
-        "DarkCrystal": 34,
+        "Acreed": 13,
+        "Generic Stealer": 4874,
         "Atomic": 45,
-        "Predator": 8,
-        "UNKNOWN": 273,
         "CRYPTBOT": 68,
         "Mystic": 19,
-        "Acreed": 13,
         "Taurus": 16,
+        "DarkCrystal": 34,
+        "Ficker": 15,
+        "Raccoon": 2410,
         "StealC": 915,
-        "Generic Stealer": 4874,
-        "Vidar": 698
+        "Vidar": 698,
+        "Predator": 8,
+        "UNKNOWN": 273,
+        "RedLine": 7747,
+        "Lumma": 2611,
+        "Azorult": 692
       }
     },
     "press": null,
@@ -140249,14 +140349,14 @@
       "last_user_compromised": "2026-04-24T21:24:27.651000+00:00",
       "infostealer_stats": {
         "Raccoon": 16,
+        "Azorult": 8,
+        "UNKNOWN": 1,
+        "Generic Stealer": 34,
+        "Lumma": 28,
         "RedLine": 51,
         "Ficker": 1,
-        "Azorult": 8,
-        "Generic Stealer": 34,
-        "Vidar": 5,
-        "Lumma": 28,
-        "UNKNOWN": 1,
-        "StealC": 13
+        "StealC": 13,
+        "Vidar": 5
       }
     },
     "press": null,
@@ -140343,8 +140443,8 @@
       "last_user_compromised": "2025-10-29T00:00:00+00:00",
       "infostealer_stats": {
         "StealC": 4,
-        "RedLine": 6,
         "Vidar": 1,
+        "RedLine": 6,
         "Generic Stealer": 7
       }
     },
@@ -141572,13 +141672,13 @@
       "last_user_compromised": "2026-03-03T04:53:54+00:00",
       "infostealer_stats": {
         "StealC": 2,
-        "RedLine": 10,
-        "Generic Stealer": 5,
-        "Vidar": 2,
-        "Atomic": 1,
-        "UNKNOWN": 1,
+        "Lumma": 15,
         "Raccoon": 2,
-        "Lumma": 15
+        "UNKNOWN": 1,
+        "Atomic": 1,
+        "Vidar": 2,
+        "Generic Stealer": 5,
+        "RedLine": 10
       }
     },
     "press": null,
@@ -142747,17 +142847,17 @@
       "last_employee_compromised": "2025-10-21T00:00:00+00:00",
       "last_user_compromised": "2026-04-24T07:02:26+00:00",
       "infostealer_stats": {
-        "Azorult": 20,
+        "Generic Stealer": 108,
         "Acreed": 2,
         "Taurus": 1,
         "StealC": 6,
-        "UNKNOWN": 2,
-        "Generic Stealer": 108,
-        "Lumma": 116,
-        "RedLine": 70,
-        "Atomic": 2,
+        "Vidar": 12,
         "Raccoon": 13,
-        "Vidar": 12
+        "Atomic": 2,
+        "UNKNOWN": 2,
+        "RedLine": 70,
+        "Lumma": 116,
+        "Azorult": 20
       }
     },
     "press": null,
@@ -144419,10 +144519,10 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2024-05-12T01:14:41+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 1,
         "Azorult": 1,
-        "Vidar": 1,
-        "RedLine": 9
+        "Generic Stealer": 1,
+        "RedLine": 9,
+        "Vidar": 1
       }
     },
     "press": null,
@@ -145787,12 +145887,12 @@
       "last_employee_compromised": "2024-04-14T20:49:43+00:00",
       "last_user_compromised": "2025-02-07T10:00:52+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 3,
-        "Lumma": 2,
-        "UNKNOWN": 1,
         "StealC": 1,
+        "Vidar": 1,
+        "UNKNOWN": 1,
+        "Lumma": 2,
         "RedLine": 1,
-        "Vidar": 1
+        "Generic Stealer": 3
       }
     },
     "press": null,
@@ -145822,9 +145922,9 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2023-08-09T16:20:37+00:00",
       "infostealer_stats": {
-        "RedLine": 4,
+        "Lumma": 1,
         "Azorult": 1,
-        "Lumma": 1
+        "RedLine": 4
       }
     },
     "press": null,
@@ -146052,11 +146152,11 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2025-02-18T14:31:49+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 4,
+        "RedLine": 1,
+        "Vidar": 2,
         "Lumma": 2,
         "Raccoon": 2,
-        "RedLine": 1,
-        "Vidar": 2
+        "Generic Stealer": 4
       }
     },
     "press": null,
@@ -147339,20 +147439,20 @@
       "last_employee_compromised": "2020-11-15T12:17:51+00:00",
       "last_user_compromised": "2026-04-22T08:34:53+00:00",
       "infostealer_stats": {
-        "UNKNOWN": 15,
-        "Taurus": 2,
-        "Ficker": 2,
-        "Azorult": 69,
-        "Lumma": 246,
-        "StealC": 43,
-        "Acreed": 3,
-        "Generic Stealer": 292,
-        "Vidar": 39,
-        "RedLine": 340,
-        "CRYPTBOT": 4,
-        "Predator": 1,
         "Raccoon": 108,
-        "Atomic": 1
+        "CRYPTBOT": 4,
+        "RedLine": 340,
+        "Vidar": 39,
+        "Generic Stealer": 292,
+        "Acreed": 3,
+        "StealC": 43,
+        "Lumma": 246,
+        "Ficker": 2,
+        "Predator": 1,
+        "Atomic": 1,
+        "UNKNOWN": 15,
+        "Azorult": 69,
+        "Taurus": 2
       }
     },
     "press": null,
@@ -151724,14 +151824,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2025-11-14T10:19:26+00:00",
       "infostealer_stats": {
-        "Raccoon": 5,
-        "Lumma": 1,
-        "UNKNOWN": 1,
         "StealC": 2,
+        "Raccoon": 5,
+        "Vidar": 1,
         "Mystic": 1,
         "RedLine": 7,
-        "Vidar": 1,
-        "Generic Stealer": 1
+        "Generic Stealer": 1,
+        "UNKNOWN": 1,
+        "Lumma": 1
       }
     },
     "press": null,
@@ -155328,13 +155428,13 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-04-03T13:10:40+00:00",
       "infostealer_stats": {
-        "Atomic": 1,
-        "StealC": 2,
         "Generic Stealer": 6,
-        "RedLine": 14,
-        "Raccoon": 1,
+        "StealC": 2,
+        "Atomic": 1,
+        "Lumma": 13,
         "Vidar": 1,
-        "Lumma": 13
+        "RedLine": 14,
+        "Raccoon": 1
       }
     },
     "press": null,
@@ -155410,10 +155510,10 @@
       "last_employee_compromised": "2025-02-01T16:40:52+00:00",
       "last_user_compromised": "2025-09-21T21:55:00+00:00",
       "infostealer_stats": {
-        "Azorult": 1,
-        "RedLine": 10,
         "Generic Stealer": 3,
-        "Lumma": 2
+        "Lumma": 2,
+        "RedLine": 10,
+        "Azorult": 1
       }
     },
     "press": null,
@@ -159336,13 +159436,13 @@
       "last_employee_compromised": "2026-02-18T06:36:02+00:00",
       "last_user_compromised": "2026-02-05T14:14:36+00:00",
       "infostealer_stats": {
-        "Vidar": 1,
-        "UNKNOWN": 2,
-        "StealC": 1,
-        "Generic Stealer": 17,
         "RedLine": 8,
+        "StealC": 1,
+        "Vidar": 1,
         "Lumma": 13,
-        "Raccoon": 4
+        "Generic Stealer": 17,
+        "Raccoon": 4,
+        "UNKNOWN": 2
       }
     },
     "press": null,
@@ -160593,10 +160693,10 @@
       "last_employee_compromised": "2024-12-29T04:02:10+00:00",
       "last_user_compromised": "2025-05-21T00:00:00+00:00",
       "infostealer_stats": {
-        "Raccoon": 2,
         "Lumma": 3,
-        "Generic Stealer": 3,
-        "RedLine": 1
+        "Raccoon": 2,
+        "RedLine": 1,
+        "Generic Stealer": 3
       }
     },
     "press": null,
@@ -160744,9 +160844,9 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2022-01-06T11:04:18+00:00",
       "infostealer_stats": {
-        "Vidar": 1,
         "Generic Stealer": 1,
-        "RedLine": 1
+        "RedLine": 1,
+        "Vidar": 1
       }
     },
     "press": null,
@@ -162474,11 +162574,11 @@
       "last_employee_compromised": "2025-04-27T00:00:00+00:00",
       "last_user_compromised": "2025-12-25T18:06:29+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 4,
-        "Vidar": 1,
         "Azorult": 3,
-        "RedLine": 4,
+        "Vidar": 1,
         "Lumma": 4,
+        "RedLine": 4,
+        "Generic Stealer": 4,
         "StealC": 3
       }
     },
@@ -162731,10 +162831,10 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2023-10-28T00:06:12.325000+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 4,
-        "Raccoon": 1,
         "Lumma": 3,
-        "UNKNOWN": 1
+        "UNKNOWN": 1,
+        "Raccoon": 1,
+        "Generic Stealer": 4
       }
     },
     "press": null,
@@ -162960,24 +163060,24 @@
       "last_employee_compromised": "2025-09-18T08:28:00+00:00",
       "last_user_compromised": "2026-04-29T00:00:00+00:00",
       "infostealer_stats": {
-        "Predator": 22,
-        "CRYPTBOT": 195,
-        "Aura Stealer": 3,
-        "DarkCrystal": 55,
-        "Raccoon": 5118,
-        "Atomic": 90,
-        "RedLine": 15011,
-        "Lumma": 12356,
-        "Acreed": 282,
-        "StealC": 2385,
-        "Ficker": 37,
-        "UNKNOWN": 634,
+        "Taurus": 36,
         "KPOT": 2,
         "Mystic": 54,
         "Generic Stealer": 10582,
         "Vidar": 2096,
-        "Taurus": 36,
-        "Azorult": 1042
+        "Azorult": 1042,
+        "DarkCrystal": 55,
+        "Atomic": 90,
+        "Lumma": 12356,
+        "Ficker": 37,
+        "CRYPTBOT": 195,
+        "Aura Stealer": 3,
+        "Acreed": 282,
+        "Predator": 22,
+        "UNKNOWN": 634,
+        "StealC": 2385,
+        "RedLine": 15011,
+        "Raccoon": 5118
       }
     },
     "press": null,
@@ -163042,14 +163142,14 @@
       "last_employee_compromised": "2024-06-04T13:24:39+00:00",
       "last_user_compromised": "2026-02-03T08:35:43+00:00",
       "infostealer_stats": {
-        "Vidar": 6,
         "StealC": 4,
-        "Azorult": 6,
-        "UNKNOWN": 1,
-        "Lumma": 25,
+        "Raccoon": 6,
         "Generic Stealer": 19,
+        "UNKNOWN": 1,
+        "Vidar": 6,
         "RedLine": 23,
-        "Raccoon": 6
+        "Azorult": 6,
+        "Lumma": 25
       }
     },
     "press": null,
@@ -163385,16 +163485,16 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "Lumma": 32,
         "Generic Stealer": 52,
-        "UNKNOWN": 1,
-        "Acreed": 1,
-        "StealC": 3,
-        "Atomic": 1,
-        "Vidar": 5,
         "RedLine": 64,
+        "Atomic": 1,
+        "StealC": 3,
+        "UNKNOWN": 1,
+        "Lumma": 32,
         "Azorult": 1,
-        "Raccoon": 17
+        "Acreed": 1,
+        "Raccoon": 17,
+        "Vidar": 5
       }
     },
     "press": null,
@@ -163520,11 +163620,11 @@
       "last_user_compromised": "2024-04-05T06:41:39+00:00",
       "infostealer_stats": {
         "Atomic": 1,
-        "Generic Stealer": 4,
         "Raccoon": 1,
+        "Generic Stealer": 4,
         "StealC": 1,
-        "Lumma": 5,
-        "RedLine": 5
+        "RedLine": 5,
+        "Lumma": 5
       }
     },
     "press": null,
@@ -163923,20 +164023,20 @@
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
         "UNKNOWN": 336,
-        "Vidar": 616,
+        "Lumma": 3872,
+        "DarkCrystal": 16,
+        "Mystic": 16,
         "StealC": 400,
         "Ficker": 1,
-        "RedLine": 5113,
-        "Atomic": 36,
-        "CRYPTBOT": 38,
-        "Raccoon": 1238,
-        "Lumma": 3872,
+        "Vidar": 616,
         "Acreed": 138,
-        "Generic Stealer": 5597,
-        "Mystic": 16,
-        "Taurus": 9,
         "Azorult": 1887,
-        "DarkCrystal": 16
+        "Atomic": 36,
+        "Raccoon": 1238,
+        "CRYPTBOT": 38,
+        "RedLine": 5113,
+        "Taurus": 9,
+        "Generic Stealer": 5597
       }
     },
     "press": null,
@@ -164106,7 +164206,9 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-04-23T00:00:00+00:00",
       "infostealer_stats": {
-        "CRYPTBOT": 2,
+        "Taurus": 2,
+        "Raccoon": 146,
+        "Azorult": 121,
         "Atomic": 14,
         "Acreed": 2,
         "UNKNOWN": 20,
@@ -164114,11 +164216,9 @@
         "Mystic": 2,
         "Lumma": 541,
         "RedLine": 633,
-        "DarkCrystal": 9,
+        "CRYPTBOT": 2,
         "Vidar": 68,
-        "Raccoon": 146,
-        "Taurus": 2,
-        "Azorult": 121,
+        "DarkCrystal": 9,
         "StealC": 63
       }
     },
@@ -164389,21 +164489,21 @@
       "last_employee_compromised": "2025-11-24T13:43:00+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "Vidar": 276,
-        "Aura Stealer": 1,
-        "Acreed": 71,
         "Lumma": 1409,
+        "UNKNOWN": 114,
+        "Acreed": 71,
+        "RedLine": 2136,
         "CRYPTBOT": 10,
-        "Mystic": 8,
+        "Aura Stealer": 1,
         "StealC": 147,
         "DarkCrystal": 2,
-        "Raccoon": 535,
-        "UNKNOWN": 114,
         "Azorult": 841,
         "Atomic": 22,
-        "Generic Stealer": 2274,
+        "Mystic": 8,
+        "Raccoon": 535,
         "Taurus": 4,
-        "RedLine": 2136
+        "Generic Stealer": 2274,
+        "Vidar": 276
       }
     },
     "press": null,
@@ -164830,8 +164930,7 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-04-22T08:34:53+00:00",
       "infostealer_stats": {
-        "Azorult": 241,
-        "Mystic": 7,
+        "Vidar": 95,
         "UNKNOWN": 56,
         "Raccoon": 287,
         "Ficker": 5,
@@ -164839,12 +164938,13 @@
         "Acreed": 14,
         "DarkCrystal": 2,
         "Lumma": 807,
-        "Vidar": 95,
-        "Atomic": 2,
-        "StealC": 113,
-        "Predator": 1,
         "RedLine": 923,
-        "Generic Stealer": 728
+        "Generic Stealer": 728,
+        "Azorult": 241,
+        "Mystic": 7,
+        "Predator": 1,
+        "StealC": 113,
+        "Atomic": 2
       }
     },
     "press": null,
@@ -164874,17 +164974,17 @@
       "last_employee_compromised": "2026-01-03T15:34:33.648000+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "Atomic": 5,
-        "Mystic": 2,
-        "StealC": 53,
-        "Generic Stealer": 306,
-        "Raccoon": 33,
-        "RedLine": 188,
         "Acreed": 6,
         "UNKNOWN": 2,
         "Lumma": 334,
         "DarkCrystal": 4,
-        "Vidar": 19
+        "Atomic": 5,
+        "StealC": 53,
+        "Generic Stealer": 306,
+        "Raccoon": 33,
+        "Mystic": 2,
+        "Vidar": 19,
+        "RedLine": 188
       }
     },
     "press": null,
@@ -164914,22 +165014,22 @@
       "last_employee_compromised": "2026-03-14T11:21:43+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "Taurus": 26,
+        "Atomic": 135,
+        "Vidar": 1567,
+        "CRYPTBOT": 69,
         "DarkCrystal": 50,
         "Predator": 6,
         "Raccoon": 3104,
         "Aura Stealer": 5,
         "Generic Stealer": 13609,
-        "Azorult": 4702,
-        "Mystic": 17,
         "UNKNOWN": 736,
-        "CRYPTBOT": 69,
         "RedLine": 12794,
+        "Taurus": 26,
+        "Mystic": 17,
         "Acreed": 293,
-        "Vidar": 1567,
         "Lumma": 8522,
         "StealC": 889,
-        "Atomic": 135
+        "Azorult": 4702
       }
     },
     "press": null,
@@ -165162,20 +165262,20 @@
       "last_employee_compromised": "2026-03-07T19:39:04+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "Lumma": 563,
-        "CRYPTBOT": 4,
         "Vidar": 128,
-        "Atomic": 8,
-        "Mystic": 3,
-        "StealC": 67,
-        "Raccoon": 165,
-        "UNKNOWN": 55,
-        "Acreed": 31,
-        "DarkCrystal": 1,
-        "Generic Stealer": 1065,
-        "Taurus": 2,
         "Azorult": 392,
-        "RedLine": 855
+        "RedLine": 855,
+        "Generic Stealer": 1065,
+        "Lumma": 563,
+        "UNKNOWN": 55,
+        "Taurus": 2,
+        "DarkCrystal": 1,
+        "Acreed": 31,
+        "StealC": 67,
+        "Mystic": 3,
+        "Raccoon": 165,
+        "Atomic": 8,
+        "CRYPTBOT": 4
       }
     },
     "press": null,
@@ -165279,23 +165379,23 @@
       "last_employee_compromised": "2026-03-08T23:24:31+00:00",
       "last_user_compromised": "2026-04-26T04:41:45+00:00",
       "infostealer_stats": {
+        "Azorult": 408,
         "Vidar": 216,
         "RedLine": 1472,
-        "Mystic": 5,
-        "DarkCrystal": 6,
-        "Atomic": 10,
-        "Aura Stealer": 1,
-        "Acreed": 63,
-        "UNKNOWN": 65,
-        "Generic Stealer": 1611,
-        "CRYPTBOT": 13,
         "Predator": 4,
-        "Lumma": 1091,
-        "Azorult": 408,
-        "Raccoon": 426,
+        "Aura Stealer": 1,
         "Ficker": 1,
         "Taurus": 2,
-        "StealC": 147
+        "Atomic": 10,
+        "DarkCrystal": 6,
+        "StealC": 147,
+        "Generic Stealer": 1611,
+        "Acreed": 63,
+        "UNKNOWN": 65,
+        "CRYPTBOT": 13,
+        "Mystic": 5,
+        "Raccoon": 426,
+        "Lumma": 1091
       }
     },
     "press": null,
@@ -165408,8 +165508,8 @@
       "last_user_compromised": "2024-03-09T08:24:53+00:00",
       "infostealer_stats": {
         "Azorult": 1,
-        "Lumma": 1,
-        "Generic Stealer": 3
+        "Generic Stealer": 3,
+        "Lumma": 1
       }
     },
     "press": null,
@@ -167173,12 +167273,12 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-03-09T02:35:27.960000+00:00",
       "infostealer_stats": {
-        "Lumma": 8,
-        "UNKNOWN": 1,
         "Vidar": 4,
-        "StealC": 5,
-        "RedLine": 14,
+        "Lumma": 8,
         "Generic Stealer": 10,
+        "RedLine": 14,
+        "StealC": 5,
+        "UNKNOWN": 1,
         "Azorult": 17
       }
     },
@@ -167211,9 +167311,9 @@
       "infostealer_stats": {
         "Generic Stealer": 1,
         "RedLine": 1,
+        "Azorult": 1,
         "StealC": 1,
-        "Raccoon": 2,
-        "Azorult": 1
+        "Raccoon": 2
       }
     },
     "press": null,
@@ -167593,17 +167693,17 @@
       "last_employee_compromised": "2025-10-14T00:00:00+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "Acreed": 5,
-        "RedLine": 192,
-        "CRYPTBOT": 3,
-        "Raccoon": 78,
-        "Vidar": 17,
-        "Atomic": 1,
-        "Generic Stealer": 140,
         "UNKNOWN": 7,
-        "StealC": 12,
+        "Atomic": 1,
+        "RedLine": 192,
+        "Lumma": 148,
         "Azorult": 36,
-        "Lumma": 148
+        "Raccoon": 78,
+        "CRYPTBOT": 3,
+        "StealC": 12,
+        "Acreed": 5,
+        "Vidar": 17,
+        "Generic Stealer": 140
       }
     },
     "press": null,
@@ -167679,14 +167779,14 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-04-22T08:34:53+00:00",
       "infostealer_stats": {
-        "Lumma": 62,
-        "StealC": 10,
-        "UNKNOWN": 6,
+        "Generic Stealer": 91,
         "Raccoon": 32,
         "RedLine": 114,
         "Vidar": 22,
         "Azorult": 30,
-        "Generic Stealer": 91
+        "StealC": 10,
+        "UNKNOWN": 6,
+        "Lumma": 62
       }
     },
     "press": null,
@@ -169428,9 +169528,9 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2025-10-14T11:14:30.548000+00:00",
       "infostealer_stats": {
-        "RedLine": 8,
         "Raccoon": 2,
         "Lumma": 5,
+        "RedLine": 8,
         "Generic Stealer": 4
       }
     },
@@ -177279,10 +177379,11 @@
       "last_employee_compromised": "2026-02-07T18:14:19+00:00",
       "last_user_compromised": "2026-04-21T00:00:00+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 821,
+        "CRYPTBOT": 19,
         "Predator": 7,
         "Atomic": 3,
         "Mystic": 17,
+        "Generic Stealer": 821,
         "StealC": 313,
         "Ficker": 1,
         "UNKNOWN": 48,
@@ -177292,8 +177393,7 @@
         "Raccoon": 422,
         "Lumma": 889,
         "Azorult": 45,
-        "Acreed": 1,
-        "CRYPTBOT": 19
+        "Acreed": 1
       }
     },
     "press": null,
@@ -180518,8 +180618,8 @@
       "last_employee_compromised": "2020-05-06T11:43:57+00:00",
       "last_user_compromised": "2021-04-17T14:36:24+00:00",
       "infostealer_stats": {
-        "Raccoon": 1,
-        "RedLine": 2
+        "RedLine": 2,
+        "Raccoon": 1
       }
     },
     "press": null,
@@ -182608,23 +182708,23 @@
       "last_employee_compromised": "2026-03-08T23:24:31+00:00",
       "last_user_compromised": "2026-04-26T04:41:45+00:00",
       "infostealer_stats": {
+        "Azorult": 408,
         "Vidar": 216,
         "RedLine": 1472,
-        "Mystic": 5,
-        "DarkCrystal": 6,
-        "Atomic": 10,
-        "Aura Stealer": 1,
-        "Acreed": 63,
-        "UNKNOWN": 65,
-        "Generic Stealer": 1611,
-        "CRYPTBOT": 13,
         "Predator": 4,
-        "Lumma": 1091,
-        "Azorult": 408,
-        "Raccoon": 426,
+        "Aura Stealer": 1,
         "Ficker": 1,
         "Taurus": 2,
-        "StealC": 147
+        "Atomic": 10,
+        "DarkCrystal": 6,
+        "StealC": 147,
+        "Generic Stealer": 1611,
+        "Acreed": 63,
+        "UNKNOWN": 65,
+        "CRYPTBOT": 13,
+        "Mystic": 5,
+        "Raccoon": 426,
+        "Lumma": 1091
       }
     },
     "press": null,
@@ -188964,16 +189064,16 @@
       "last_user_compromised": "2026-04-22T08:34:53+00:00",
       "infostealer_stats": {
         "DarkCrystal": 1,
-        "Raccoon": 23,
-        "RedLine": 74,
-        "Azorult": 7,
-        "StealC": 7,
-        "Generic Stealer": 28,
-        "Lumma": 49,
-        "Atomic": 1,
-        "CRYPTBOT": 2,
+        "Vidar": 16,
         "UNKNOWN": 3,
-        "Vidar": 16
+        "CRYPTBOT": 2,
+        "Atomic": 1,
+        "Lumma": 49,
+        "Generic Stealer": 28,
+        "StealC": 7,
+        "Azorult": 7,
+        "RedLine": 74,
+        "Raccoon": 23
       }
     },
     "press": null,
@@ -190443,90 +190543,6 @@
     "group": "akira"
   },
   {
-    "id": "QXVyb3JhIEFpciBQcm9kdWN0c0Bha2lyYQ==",
-    "discovered": "2025-08-11T15:39:22.727254+00:00",
-    "website": "auroraair.com",
-    "country": "US",
-    "activity": "Manufacturing",
-    "description": "In summer 2025 our team managed to crack IT defenses of a large number of companies. Data of some of them hasn't been leaked, so we will just list company names.",
-    "post_url": "",
-    "ransom": null,
-    "data_size": null,
-    "screenshot": "",
-    "infostealer": {
-      "update": "2025-08-11T18:33:32",
-      "employees": 0,
-      "users": 0,
-      "thirdparties": 0,
-      "employees_url": 0,
-      "users_url": 0,
-      "last_employee_compromised": null,
-      "last_user_compromised": null,
-      "infostealer_stats": {}
-    },
-    "press": null,
-    "permalink": "https://www.ransomware.live/id/QXVyb3JhIEFpciBQcm9kdWN0c0Bha2lyYQ==",
-    "attackdate": "2025-08-11T00:00:00+00:00",
-    "victim": "Aurora Air Products",
-    "group": "akira"
-  },
-  {
-    "id": "R1dVLVVtd2VsdHRlY2huaWsgR21iSEBha2lyYQ==",
-    "discovered": "2025-08-11T15:39:22.727254+00:00",
-    "website": "gwu-umwelttechnik.de",
-    "country": "DE",
-    "activity": "Energy",
-    "description": "In summer 2025 our team managed to crack IT defenses of a large number of companies. Data of some of them hasn't been leaked, so we will just list company names.",
-    "post_url": "",
-    "ransom": null,
-    "data_size": null,
-    "screenshot": "",
-    "infostealer": {
-      "update": "2025-08-11T18:14:27",
-      "employees": 0,
-      "users": 0,
-      "thirdparties": 0,
-      "employees_url": 0,
-      "users_url": 0,
-      "last_employee_compromised": null,
-      "last_user_compromised": null,
-      "infostealer_stats": {}
-    },
-    "press": null,
-    "permalink": "https://www.ransomware.live/id/R1dVLVVtd2VsdHRlY2huaWsgR21iSEBha2lyYQ==",
-    "attackdate": "2025-08-11T00:00:00+00:00",
-    "victim": "GWU-Umwelttechnik GmbH",
-    "group": "akira"
-  },
-  {
-    "id": "U1BFRURMT0dJU1RJS0Bha2lyYQ==",
-    "discovered": "2025-08-11T15:39:22.727254+00:00",
-    "website": "speedlogistik.com",
-    "country": "IT",
-    "activity": "Transportation/Logistics",
-    "description": "In summer 2025 our team managed to crack IT defenses of a large number of companies. Data of some of them hasn't been leaked, so we will just list company names.",
-    "post_url": "",
-    "ransom": null,
-    "data_size": null,
-    "screenshot": "",
-    "infostealer": {
-      "update": "2025-08-11T18:34:30",
-      "employees": 0,
-      "users": 0,
-      "thirdparties": 0,
-      "employees_url": 0,
-      "users_url": 0,
-      "last_employee_compromised": null,
-      "last_user_compromised": null,
-      "infostealer_stats": {}
-    },
-    "press": null,
-    "permalink": "https://www.ransomware.live/id/U1BFRURMT0dJU1RJS0Bha2lyYQ==",
-    "attackdate": "2025-08-11T00:00:00+00:00",
-    "victim": "SPEEDLOGISTIK",
-    "group": "akira"
-  },
-  {
     "id": "TWljcm9jb3NtQGFraXJh",
     "discovered": "2025-08-11T15:39:22.727254+00:00",
     "website": "microcosm.com",
@@ -190583,6 +190599,174 @@
     "group": "akira"
   },
   {
+    "id": "U2FmdGkgRmlyc3RAYWtpcmE=",
+    "discovered": "2025-08-11T15:39:22.727254+00:00",
+    "website": "safti.com",
+    "country": "US",
+    "activity": "Manufacturing",
+    "description": "In summer 2025 our team managed to crack IT defenses of a large number of companies. Data of some of them hasn't been leaked, so we will just list company names.",
+    "post_url": "",
+    "ransom": null,
+    "data_size": null,
+    "screenshot": "",
+    "infostealer": {
+      "update": "2025-08-11T18:33:58",
+      "employees": 0,
+      "users": 0,
+      "thirdparties": 0,
+      "employees_url": 0,
+      "users_url": 0,
+      "last_employee_compromised": null,
+      "last_user_compromised": null,
+      "infostealer_stats": {}
+    },
+    "press": null,
+    "permalink": "https://www.ransomware.live/id/U2FmdGkgRmlyc3RAYWtpcmE=",
+    "attackdate": "2025-08-11T00:00:00+00:00",
+    "victim": "Safti First",
+    "group": "akira"
+  },
+  {
+    "id": "VE9QIFNoaXBzQGFraXJh",
+    "discovered": "2025-08-11T15:39:22.727254+00:00",
+    "website": "topships.org",
+    "country": "GR",
+    "activity": "Transportation/Logistics",
+    "description": "In summer 2025 our team managed to crack IT defenses of a large number of companies. Data of some of them hasn't been leaked, so we will just list company names.",
+    "post_url": "",
+    "ransom": null,
+    "data_size": null,
+    "screenshot": "",
+    "infostealer": {
+      "update": "2025-08-11T18:34:52",
+      "employees": 0,
+      "users": 0,
+      "thirdparties": 0,
+      "employees_url": 0,
+      "users_url": 0,
+      "last_employee_compromised": null,
+      "last_user_compromised": null,
+      "infostealer_stats": {}
+    },
+    "press": null,
+    "permalink": "https://www.ransomware.live/id/VE9QIFNoaXBzQGFraXJh",
+    "attackdate": "2025-08-11T00:00:00+00:00",
+    "victim": "TOP Ships",
+    "group": "akira"
+  },
+  {
+    "id": "U1BFRURMT0dJU1RJS0Bha2lyYQ==",
+    "discovered": "2025-08-11T15:39:22.727254+00:00",
+    "website": "speedlogistik.com",
+    "country": "IT",
+    "activity": "Transportation/Logistics",
+    "description": "In summer 2025 our team managed to crack IT defenses of a large number of companies. Data of some of them hasn't been leaked, so we will just list company names.",
+    "post_url": "",
+    "ransom": null,
+    "data_size": null,
+    "screenshot": "",
+    "infostealer": {
+      "update": "2025-08-11T18:34:30",
+      "employees": 0,
+      "users": 0,
+      "thirdparties": 0,
+      "employees_url": 0,
+      "users_url": 0,
+      "last_employee_compromised": null,
+      "last_user_compromised": null,
+      "infostealer_stats": {}
+    },
+    "press": null,
+    "permalink": "https://www.ransomware.live/id/U1BFRURMT0dJU1RJS0Bha2lyYQ==",
+    "attackdate": "2025-08-11T00:00:00+00:00",
+    "victim": "SPEEDLOGISTIK",
+    "group": "akira"
+  },
+  {
+    "id": "R1dVLVVtd2VsdHRlY2huaWsgR21iSEBha2lyYQ==",
+    "discovered": "2025-08-11T15:39:22.727254+00:00",
+    "website": "gwu-umwelttechnik.de",
+    "country": "DE",
+    "activity": "Energy",
+    "description": "In summer 2025 our team managed to crack IT defenses of a large number of companies. Data of some of them hasn't been leaked, so we will just list company names.",
+    "post_url": "",
+    "ransom": null,
+    "data_size": null,
+    "screenshot": "",
+    "infostealer": {
+      "update": "2025-08-11T18:14:27",
+      "employees": 0,
+      "users": 0,
+      "thirdparties": 0,
+      "employees_url": 0,
+      "users_url": 0,
+      "last_employee_compromised": null,
+      "last_user_compromised": null,
+      "infostealer_stats": {}
+    },
+    "press": null,
+    "permalink": "https://www.ransomware.live/id/R1dVLVVtd2VsdHRlY2huaWsgR21iSEBha2lyYQ==",
+    "attackdate": "2025-08-11T00:00:00+00:00",
+    "victim": "GWU-Umwelttechnik GmbH",
+    "group": "akira"
+  },
+  {
+    "id": "QXVyb3JhIEFpciBQcm9kdWN0c0Bha2lyYQ==",
+    "discovered": "2025-08-11T15:39:22.727254+00:00",
+    "website": "auroraair.com",
+    "country": "US",
+    "activity": "Manufacturing",
+    "description": "In summer 2025 our team managed to crack IT defenses of a large number of companies. Data of some of them hasn't been leaked, so we will just list company names.",
+    "post_url": "",
+    "ransom": null,
+    "data_size": null,
+    "screenshot": "",
+    "infostealer": {
+      "update": "2025-08-11T18:33:32",
+      "employees": 0,
+      "users": 0,
+      "thirdparties": 0,
+      "employees_url": 0,
+      "users_url": 0,
+      "last_employee_compromised": null,
+      "last_user_compromised": null,
+      "infostealer_stats": {}
+    },
+    "press": null,
+    "permalink": "https://www.ransomware.live/id/QXVyb3JhIEFpciBQcm9kdWN0c0Bha2lyYQ==",
+    "attackdate": "2025-08-11T00:00:00+00:00",
+    "victim": "Aurora Air Products",
+    "group": "akira"
+  },
+  {
+    "id": "U3RlcmxpbmcgQ2FyZCBTb2x1dGlvbnNAYWtpcmE=",
+    "discovered": "2025-08-11T15:39:22.727254+00:00",
+    "website": "sterlingcardsolutions.com",
+    "country": "US",
+    "activity": "Technology",
+    "description": "In summer 2025 our team managed to crack IT defenses of a large number of companies. Data of some of them hasn't been leaked, so we will just list company names.",
+    "post_url": "",
+    "ransom": null,
+    "data_size": null,
+    "screenshot": "",
+    "infostealer": {
+      "update": "2025-08-11T18:19:48",
+      "employees": 0,
+      "users": 0,
+      "thirdparties": 0,
+      "employees_url": 0,
+      "users_url": 0,
+      "last_employee_compromised": null,
+      "last_user_compromised": null,
+      "infostealer_stats": {}
+    },
+    "press": null,
+    "permalink": "https://www.ransomware.live/id/U3RlcmxpbmcgQ2FyZCBTb2x1dGlvbnNAYWtpcmE=",
+    "attackdate": "2025-08-11T00:00:00+00:00",
+    "victim": "Sterling Card Solutions",
+    "group": "akira"
+  },
+  {
     "id": "U3VtbWVyIHJlc3VsdHNAYWtpcmE=",
     "discovered": "2025-08-11T15:39:22.727254+00:00",
     "website": "",
@@ -190598,34 +190782,6 @@
     "permalink": "https://www.ransomware.live/id/U3VtbWVyIHJlc3VsdHNAYWtpcmE=",
     "attackdate": "2025-08-11T00:00:00+00:00",
     "victim": "Summer results",
-    "group": "akira"
-  },
-  {
-    "id": "VGhlIExhdyBPZmZpY2VzIG9mIEhpY2tzICYgRGVtcHNAYWtpcmE=",
-    "discovered": "2025-08-11T15:39:22.727254+00:00",
-    "website": "hg.org",
-    "country": "US",
-    "activity": "Business Services",
-    "description": "In summer 2025 our team managed to crack IT defenses of a large number of companies. Data of some of them hasn't been leaked, so we will just list company names.",
-    "post_url": "",
-    "ransom": null,
-    "data_size": null,
-    "screenshot": "",
-    "infostealer": {
-      "update": "2026-04-30T01:54:09",
-      "employees": 0,
-      "users": 118,
-      "thirdparties": 4,
-      "employees_url": 0,
-      "users_url": 10,
-      "last_employee_compromised": null,
-      "last_user_compromised": null,
-      "infostealer_stats": {}
-    },
-    "press": null,
-    "permalink": "https://www.ransomware.live/id/VGhlIExhdyBPZmZpY2VzIG9mIEhpY2tzICYgRGVtcHNAYWtpcmE=",
-    "attackdate": "2025-08-11T00:00:00+00:00",
-    "victim": "The Law Offices of Hicks & Demps",
     "group": "akira"
   },
   {
@@ -190685,87 +190841,31 @@
     "group": "akira"
   },
   {
-    "id": "U2FmdGkgRmlyc3RAYWtpcmE=",
+    "id": "VGhlIExhdyBPZmZpY2VzIG9mIEhpY2tzICYgRGVtcHNAYWtpcmE=",
     "discovered": "2025-08-11T15:39:22.727254+00:00",
-    "website": "safti.com",
+    "website": "hg.org",
     "country": "US",
-    "activity": "Manufacturing",
+    "activity": "Business Services",
     "description": "In summer 2025 our team managed to crack IT defenses of a large number of companies. Data of some of them hasn't been leaked, so we will just list company names.",
     "post_url": "",
     "ransom": null,
     "data_size": null,
     "screenshot": "",
     "infostealer": {
-      "update": "2025-08-11T18:33:58",
+      "update": "2026-04-30T01:54:09",
       "employees": 0,
-      "users": 0,
-      "thirdparties": 0,
+      "users": 118,
+      "thirdparties": 4,
       "employees_url": 0,
-      "users_url": 0,
+      "users_url": 10,
       "last_employee_compromised": null,
       "last_user_compromised": null,
       "infostealer_stats": {}
     },
     "press": null,
-    "permalink": "https://www.ransomware.live/id/U2FmdGkgRmlyc3RAYWtpcmE=",
+    "permalink": "https://www.ransomware.live/id/VGhlIExhdyBPZmZpY2VzIG9mIEhpY2tzICYgRGVtcHNAYWtpcmE=",
     "attackdate": "2025-08-11T00:00:00+00:00",
-    "victim": "Safti First",
-    "group": "akira"
-  },
-  {
-    "id": "U3RlcmxpbmcgQ2FyZCBTb2x1dGlvbnNAYWtpcmE=",
-    "discovered": "2025-08-11T15:39:22.727254+00:00",
-    "website": "sterlingcardsolutions.com",
-    "country": "US",
-    "activity": "Technology",
-    "description": "In summer 2025 our team managed to crack IT defenses of a large number of companies. Data of some of them hasn't been leaked, so we will just list company names.",
-    "post_url": "",
-    "ransom": null,
-    "data_size": null,
-    "screenshot": "",
-    "infostealer": {
-      "update": "2025-08-11T18:19:48",
-      "employees": 0,
-      "users": 0,
-      "thirdparties": 0,
-      "employees_url": 0,
-      "users_url": 0,
-      "last_employee_compromised": null,
-      "last_user_compromised": null,
-      "infostealer_stats": {}
-    },
-    "press": null,
-    "permalink": "https://www.ransomware.live/id/U3RlcmxpbmcgQ2FyZCBTb2x1dGlvbnNAYWtpcmE=",
-    "attackdate": "2025-08-11T00:00:00+00:00",
-    "victim": "Sterling Card Solutions",
-    "group": "akira"
-  },
-  {
-    "id": "VE9QIFNoaXBzQGFraXJh",
-    "discovered": "2025-08-11T15:39:22.727254+00:00",
-    "website": "topships.org",
-    "country": "GR",
-    "activity": "Transportation/Logistics",
-    "description": "In summer 2025 our team managed to crack IT defenses of a large number of companies. Data of some of them hasn't been leaked, so we will just list company names.",
-    "post_url": "",
-    "ransom": null,
-    "data_size": null,
-    "screenshot": "",
-    "infostealer": {
-      "update": "2025-08-11T18:34:52",
-      "employees": 0,
-      "users": 0,
-      "thirdparties": 0,
-      "employees_url": 0,
-      "users_url": 0,
-      "last_employee_compromised": null,
-      "last_user_compromised": null,
-      "infostealer_stats": {}
-    },
-    "press": null,
-    "permalink": "https://www.ransomware.live/id/VE9QIFNoaXBzQGFraXJh",
-    "attackdate": "2025-08-11T00:00:00+00:00",
-    "victim": "TOP Ships",
+    "victim": "The Law Offices of Hicks & Demps",
     "group": "akira"
   },
   {
@@ -195257,22 +195357,22 @@
       "last_employee_compromised": "2026-04-17T20:11:00+00:00",
       "last_user_compromised": "2026-04-29T00:00:00+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 8453,
-        "Mystic": 82,
-        "Atomic": 52,
+        "RedLine": 19577,
         "StealC": 2182,
-        "Predator": 50,
-        "KPOT": 7,
+        "CRYPTBOT": 193,
         "Ficker": 34,
         "Raccoon": 6907,
-        "UNKNOWN": 810,
-        "RedLine": 19577,
-        "Vidar": 1821,
-        "CRYPTBOT": 193,
         "Lumma": 8175,
         "Azorult": 1548,
         "Taurus": 38,
-        "DarkCrystal": 71
+        "UNKNOWN": 810,
+        "Vidar": 1821,
+        "Generic Stealer": 8453,
+        "DarkCrystal": 71,
+        "Mystic": 82,
+        "KPOT": 7,
+        "Predator": 50,
+        "Atomic": 52
       }
     },
     "press": null,
@@ -198141,16 +198241,16 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-03-26T19:24:12.756000+00:00",
       "infostealer_stats": {
-        "UNKNOWN": 5,
-        "RedLine": 29,
-        "Azorult": 3,
         "Vidar": 6,
-        "Generic Stealer": 21,
+        "Azorult": 3,
+        "RedLine": 29,
+        "Raccoon": 19,
         "Taurus": 1,
+        "StealC": 4,
+        "Generic Stealer": 21,
         "Ficker": 1,
         "Lumma": 39,
-        "StealC": 4,
-        "Raccoon": 19
+        "UNKNOWN": 5
       }
     },
     "press": null,
@@ -198254,13 +198354,13 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-04-22T08:34:53+00:00",
       "infostealer_stats": {
-        "UNKNOWN": 1,
-        "Generic Stealer": 22,
-        "Vidar": 1,
         "RedLine": 18,
         "Raccoon": 11,
-        "Lumma": 21,
-        "Azorult": 6
+        "Azorult": 6,
+        "UNKNOWN": 1,
+        "Vidar": 1,
+        "Generic Stealer": 22,
+        "Lumma": 21
       }
     },
     "press": null,
@@ -198826,13 +198926,13 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2025-11-23T18:11:30+00:00",
       "infostealer_stats": {
-        "Vidar": 1,
-        "Azorult": 3,
-        "Lumma": 6,
         "RedLine": 2,
         "StealC": 4,
+        "Raccoon": 6,
         "Generic Stealer": 6,
-        "Raccoon": 6
+        "Vidar": 1,
+        "Azorult": 3,
+        "Lumma": 6
       }
     },
     "press": null,
@@ -200143,19 +200243,19 @@
       "last_employee_compromised": "2026-04-09T19:24:26+00:00",
       "last_user_compromised": "2026-04-22T08:34:53+00:00",
       "infostealer_stats": {
-        "Lumma": 298,
-        "Vidar": 63,
-        "Generic Stealer": 286,
-        "RedLine": 635,
-        "Predator": 4,
-        "Azorult": 28,
-        "Raccoon": 200,
-        "UNKNOWN": 17,
-        "Ficker": 2,
         "Atomic": 2,
-        "StealC": 114,
+        "RedLine": 635,
+        "Lumma": 298,
+        "Raccoon": 200,
         "CRYPTBOT": 5,
-        "Mystic": 6
+        "Generic Stealer": 286,
+        "Predator": 4,
+        "Mystic": 6,
+        "UNKNOWN": 17,
+        "Azorult": 28,
+        "StealC": 114,
+        "Ficker": 2,
+        "Vidar": 63
       }
     },
     "press": null,
@@ -202206,12 +202306,12 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-04-23T00:00:00+00:00",
       "infostealer_stats": {
-        "Raccoon": 7,
         "StealC": 3,
         "Vidar": 3,
-        "Lumma": 84,
         "RedLine": 21,
-        "Generic Stealer": 24
+        "Generic Stealer": 24,
+        "Lumma": 84,
+        "Raccoon": 7
       }
     },
     "press": null,
@@ -203341,14 +203441,14 @@
       "last_employee_compromised": "2025-11-22T00:27:00+00:00",
       "last_user_compromised": "2026-04-22T23:44:37+00:00",
       "infostealer_stats": {
-        "Vidar": 4,
         "Azorult": 6,
+        "StealC": 3,
+        "Lumma": 26,
         "Generic Stealer": 39,
+        "Raccoon": 4,
         "UNKNOWN": 2,
         "RedLine": 37,
-        "Lumma": 26,
-        "StealC": 3,
-        "Raccoon": 4
+        "Vidar": 4
       }
     },
     "press": null,
@@ -203381,8 +203481,8 @@
         "RedLine": 16,
         "UNKNOWN": 2,
         "Lumma": 13,
-        "Generic Stealer": 4,
-        "Vidar": 1
+        "Vidar": 1,
+        "Generic Stealer": 4
       }
     },
     "press": null,
@@ -203444,16 +203544,16 @@
       "last_user_compromised": "2026-04-15T11:21:33+00:00",
       "infostealer_stats": {
         "RedLine": 136,
-        "Generic Stealer": 60,
-        "Vidar": 19,
-        "Taurus": 1,
-        "Lumma": 84,
-        "CRYPTBOT": 5,
-        "Predator": 2,
         "StealC": 18,
-        "UNKNOWN": 7,
-        "Azorult": 19,
         "Raccoon": 40,
+        "Taurus": 1,
+        "UNKNOWN": 7,
+        "Lumma": 84,
+        "Vidar": 19,
+        "Predator": 2,
+        "Azorult": 19,
+        "Generic Stealer": 60,
+        "CRYPTBOT": 5,
         "Ficker": 2
       }
     },
@@ -204897,15 +204997,15 @@
       "last_employee_compromised": "2025-08-17T18:23:34+00:00",
       "last_user_compromised": "2026-03-06T15:01:42+00:00",
       "infostealer_stats": {
-        "Azorult": 22,
-        "Vidar": 4,
-        "StealC": 3,
         "UNKNOWN": 2,
-        "Lumma": 21,
-        "RedLine": 41,
-        "CRYPTBOT": 1,
+        "Vidar": 4,
+        "Raccoon": 15,
         "Generic Stealer": 50,
-        "Raccoon": 15
+        "CRYPTBOT": 1,
+        "RedLine": 41,
+        "Azorult": 22,
+        "StealC": 3,
+        "Lumma": 21
       }
     },
     "press": null,
@@ -207452,10 +207552,10 @@
       "last_employee_compromised": "2025-05-24T10:26:48+00:00",
       "last_user_compromised": "2026-03-31T00:00:00+00:00",
       "infostealer_stats": {
-        "Lumma": 4,
-        "Generic Stealer": 6,
         "RedLine": 13,
-        "Raccoon": 3
+        "Lumma": 4,
+        "Raccoon": 3,
+        "Generic Stealer": 6
       }
     },
     "press": null,
@@ -211744,9 +211844,9 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2024-03-26T22:41:54+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 3,
+        "RedLine": 1,
         "StealC": 1,
-        "RedLine": 1
+        "Generic Stealer": 3
       }
     },
     "press": null,
@@ -216309,22 +216409,22 @@
       "last_employee_compromised": "2026-04-28T00:00:00+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "UNKNOWN": 30,
-        "Azorult": 94,
-        "DarkCrystal": 18,
-        "Vidar": 135,
-        "Mystic": 7,
-        "Raccoon": 359,
-        "RedLine": 1106,
-        "CRYPTBOT": 14,
         "StealC": 161,
-        "Atomic": 1,
-        "KPOT": 1,
-        "Ficker": 2,
-        "Generic Stealer": 574,
-        "Acreed": 12,
         "Lumma": 654,
-        "Predator": 7
+        "Generic Stealer": 574,
+        "Ficker": 2,
+        "KPOT": 1,
+        "CRYPTBOT": 14,
+        "RedLine": 1106,
+        "Mystic": 7,
+        "Vidar": 135,
+        "DarkCrystal": 18,
+        "Predator": 7,
+        "Azorult": 94,
+        "UNKNOWN": 30,
+        "Acreed": 12,
+        "Atomic": 1,
+        "Raccoon": 359
       }
     },
     "press": null,
@@ -216938,13 +217038,13 @@
       "last_employee_compromised": "2025-08-20T03:04:00+00:00",
       "last_user_compromised": "2026-03-31T00:00:00+00:00",
       "infostealer_stats": {
+        "Vidar": 3,
+        "Raccoon": 8,
+        "StealC": 6,
         "Lumma": 16,
         "UNKNOWN": 1,
         "RedLine": 45,
-        "Generic Stealer": 3,
-        "Raccoon": 8,
-        "StealC": 6,
-        "Vidar": 3
+        "Generic Stealer": 3
       }
     },
     "press": null,
@@ -218258,18 +218358,18 @@
       "last_user_compromised": "2026-04-27T08:09:15+00:00",
       "infostealer_stats": {
         "Azorult": 27,
+        "Vidar": 38,
+        "UNKNOWN": 6,
+        "Lumma": 161,
         "Acreed": 3,
         "Generic Stealer": 174,
-        "Mystic": 1,
-        "Predator": 1,
-        "Lumma": 161,
-        "CRYPTBOT": 1,
         "RedLine": 250,
+        "StealC": 53,
+        "Mystic": 1,
+        "CRYPTBOT": 1,
+        "Predator": 1,
         "Raccoon": 112,
-        "Vidar": 38,
-        "Atomic": 1,
-        "UNKNOWN": 6,
-        "StealC": 53
+        "Atomic": 1
       }
     },
     "press": null,
@@ -223812,11 +223912,11 @@
       "last_employee_compromised": "2024-07-19T01:47:55+00:00",
       "last_user_compromised": "2026-03-14T08:04:38+00:00",
       "infostealer_stats": {
-        "Lumma": 3,
+        "RedLine": 2,
         "Generic Stealer": 4,
-        "UNKNOWN": 2,
         "Vidar": 3,
-        "RedLine": 2
+        "Lumma": 3,
+        "UNKNOWN": 2
       }
     },
     "press": null,
@@ -225723,9 +225823,9 @@
       "last_user_compromised": "2025-12-04T00:17:02+00:00",
       "infostealer_stats": {
         "Vidar": 1,
+        "Lumma": 2,
         "Generic Stealer": 2,
         "RedLine": 2,
-        "Lumma": 2,
         "Raccoon": 1
       }
     },
@@ -227120,12 +227220,12 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2025-09-24T18:01:00+00:00",
       "infostealer_stats": {
-        "RedLine": 17,
         "Generic Stealer": 5,
         "Raccoon": 17,
-        "Vidar": 2,
-        "StealC": 3,
+        "RedLine": 17,
         "Lumma": 9,
+        "StealC": 3,
+        "Vidar": 2,
         "Azorult": 2
       }
     },
@@ -239061,9 +239161,9 @@
       "last_employee_compromised": "2025-12-26T23:16:21+00:00",
       "last_user_compromised": "2025-11-18T19:36:39+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 3,
         "Azorult": 1,
-        "Lumma": 5
+        "Lumma": 5,
+        "Generic Stealer": 3
       }
     },
     "press": null,
@@ -239729,11 +239829,11 @@
       "last_user_compromised": "2026-04-22T08:34:53+00:00",
       "infostealer_stats": {
         "Generic Stealer": 7,
+        "Vidar": 1,
+        "RedLine": 11,
         "StealC": 3,
         "Raccoon": 6,
-        "Vidar": 1,
-        "Lumma": 11,
-        "RedLine": 11
+        "Lumma": 11
       }
     },
     "press": null,
@@ -255175,24 +255275,24 @@
       "last_employee_compromised": "2026-04-22T08:34:53+00:00",
       "last_user_compromised": "2026-04-29T00:00:00+00:00",
       "infostealer_stats": {
+        "Aura Stealer": 5,
+        "Predator": 42,
+        "Azorult": 737,
+        "Vidar": 1910,
+        "RedLine": 16760,
         "Taurus": 14,
         "UNKNOWN": 440,
-        "Mystic": 137,
+        "KPOT": 1,
+        "StealC": 2453,
         "CRYPTBOT": 174,
-        "Ficker": 35,
-        "DarkCrystal": 39,
-        "Raccoon": 4430,
-        "Acreed": 437,
-        "RedLine": 16760,
         "Lumma": 12838,
+        "Mystic": 137,
+        "Acreed": 437,
         "Generic Stealer": 9515,
         "Atomic": 33,
-        "Aura Stealer": 5,
-        "StealC": 2453,
-        "Predator": 42,
-        "KPOT": 1,
-        "Azorult": 737,
-        "Vidar": 1910
+        "Raccoon": 4430,
+        "DarkCrystal": 39,
+        "Ficker": 35
       }
     },
     "press": null,
@@ -255383,8 +255483,8 @@
       "last_employee_compromised": "2024-10-25T11:51:30+00:00",
       "last_user_compromised": "1970-01-01T00:00:00+00:00",
       "infostealer_stats": {
-        "Lumma": 1,
-        "Generic Stealer": 2
+        "Generic Stealer": 2,
+        "Lumma": 1
       }
     },
     "press": null,
@@ -255734,17 +255834,17 @@
       "last_employee_compromised": "2025-07-15T01:46:44+00:00",
       "last_user_compromised": "2026-02-05T16:45:26+00:00",
       "infostealer_stats": {
-        "RedLine": 64,
-        "CRYPTBOT": 2,
-        "DarkCrystal": 2,
-        "Vidar": 9,
-        "Raccoon": 25,
-        "Azorult": 10,
-        "Generic Stealer": 51,
-        "UNKNOWN": 3,
-        "Mystic": 4,
         "Lumma": 44,
-        "StealC": 12
+        "Vidar": 9,
+        "Azorult": 10,
+        "StealC": 12,
+        "Mystic": 4,
+        "Generic Stealer": 51,
+        "DarkCrystal": 2,
+        "CRYPTBOT": 2,
+        "Raccoon": 25,
+        "RedLine": 64,
+        "UNKNOWN": 3
       }
     },
     "press": null,
@@ -261698,22 +261798,22 @@
       "last_employee_compromised": "2026-04-24T21:24:27.651000+00:00",
       "last_user_compromised": "2026-04-29T00:00:00+00:00",
       "infostealer_stats": {
-        "Predator": 89,
-        "DarkCrystal": 9,
-        "Generic Stealer": 6481,
-        "Ficker": 23,
-        "StealC": 1329,
-        "Lumma": 10646,
-        "KPOT": 6,
-        "Mystic": 13,
         "CRYPTBOT": 194,
-        "RedLine": 21226,
-        "Vidar": 1832,
         "UNKNOWN": 559,
-        "Azorult": 1300,
         "Taurus": 28,
+        "Predator": 89,
+        "KPOT": 6,
         "Atomic": 1,
-        "Raccoon": 6264
+        "Raccoon": 6264,
+        "Vidar": 1832,
+        "Generic Stealer": 6481,
+        "Mystic": 13,
+        "StealC": 1329,
+        "RedLine": 21226,
+        "Ficker": 23,
+        "Azorult": 1300,
+        "Lumma": 10646,
+        "DarkCrystal": 9
       }
     },
     "press": null,
@@ -262467,14 +262567,14 @@
       "last_user_compromised": "2026-04-05T17:16:45+00:00",
       "infostealer_stats": {
         "StealC": 15,
-        "RedLine": 54,
+        "Mystic": 1,
         "Azorult": 6,
+        "Lumma": 19,
+        "Raccoon": 16,
         "Generic Stealer": 25,
         "UNKNOWN": 1,
-        "Raccoon": 16,
         "Vidar": 4,
-        "Lumma": 19,
-        "Mystic": 1
+        "RedLine": 54
       }
     },
     "press": null,
@@ -262770,24 +262870,24 @@
       "last_employee_compromised": "2024-09-03T22:42:51+00:00",
       "last_user_compromised": "2026-04-29T00:00:00+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 9511,
         "Ficker": 104,
+        "Generic Stealer": 9511,
         "RedLine": 17709,
         "Taurus": 42,
         "DarkCrystal": 41,
         "Lumma": 8723,
         "Acreed": 155,
-        "Vidar": 2419,
-        "Raccoon": 5088,
-        "Atomic": 82,
-        "Aura Stealer": 3,
-        "CRYPTBOT": 268,
-        "StealC": 2760,
-        "Azorult": 2041,
-        "KPOT": 15,
-        "UNKNOWN": 853,
+        "Predator": 130,
         "Mystic": 56,
-        "Predator": 130
+        "UNKNOWN": 853,
+        "KPOT": 15,
+        "Azorult": 2041,
+        "StealC": 2760,
+        "CRYPTBOT": 268,
+        "Aura Stealer": 3,
+        "Atomic": 82,
+        "Raccoon": 5088,
+        "Vidar": 2419
       }
     },
     "press": null,
@@ -264104,23 +264204,23 @@
       "last_employee_compromised": "2026-03-30T00:00:00+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "Azorult": 21,
-        "Aura Stealer": 1,
-        "UNKNOWN": 308,
+        "RedLine": 17593,
         "Vidar": 1358,
-        "DarkCrystal": 122,
-        "Taurus": 1,
-        "Mystic": 82,
-        "Generic Stealer": 6149,
-        "Predator": 1,
+        "Aura Stealer": 1,
+        "Azorult": 21,
         "StealC": 1852,
-        "CRYPTBOT": 10,
+        "Lumma": 5623,
+        "Generic Stealer": 6149,
+        "Taurus": 1,
+        "DarkCrystal": 122,
         "Ficker": 4,
+        "CRYPTBOT": 10,
+        "UNKNOWN": 308,
+        "Mystic": 82,
+        "Predator": 1,
         "Acreed": 173,
         "Raccoon": 2990,
-        "RedLine": 17593,
-        "Atomic": 8,
-        "Lumma": 5623
+        "Atomic": 8
       }
     },
     "press": null,
@@ -266179,17 +266279,17 @@
       "last_employee_compromised": "2025-06-14T14:34:00+00:00",
       "last_user_compromised": "2026-04-29T00:00:00+00:00",
       "infostealer_stats": {
-        "Atomic": 24,
-        "Lumma": 8747,
-        "Acreed": 59,
-        "Mystic": 45,
-        "Raccoon": 743,
         "Vidar": 285,
+        "Acreed": 59,
+        "RedLine": 4455,
+        "Lumma": 8747,
+        "Raccoon": 743,
         "Generic Stealer": 3930,
-        "DarkCrystal": 26,
-        "StealC": 1583,
+        "Mystic": 45,
         "UNKNOWN": 67,
-        "RedLine": 4455
+        "StealC": 1583,
+        "DarkCrystal": 26,
+        "Atomic": 24
       }
     },
     "press": null,
@@ -266247,10 +266347,10 @@
       "last_employee_compromised": "2022-01-18T01:43:32+00:00",
       "last_user_compromised": "2025-09-11T15:20:17.235000+00:00",
       "infostealer_stats": {
-        "Lumma": 1,
-        "RedLine": 3,
+        "Azorult": 2,
         "Generic Stealer": 3,
-        "Azorult": 2
+        "RedLine": 3,
+        "Lumma": 1
       }
     },
     "press": null,
@@ -271244,8 +271344,8 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-02-15T11:25:16+00:00",
       "infostealer_stats": {
-        "Raccoon": 1,
-        "Lumma": 2
+        "Lumma": 2,
+        "Raccoon": 1
       }
     },
     "press": null,
@@ -284142,13 +284242,13 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-03-14T13:55:06.617000+00:00",
       "infostealer_stats": {
+        "RedLine": 23,
         "Lumma": 13,
         "StealC": 3,
-        "UNKNOWN": 5,
-        "Raccoon": 7,
-        "Azorult": 2,
-        "RedLine": 23,
         "Vidar": 1,
+        "Azorult": 2,
+        "Raccoon": 7,
+        "UNKNOWN": 5,
         "Generic Stealer": 14
       }
     },
@@ -286859,11 +286959,11 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2025-09-15T20:34:53+00:00",
       "infostealer_stats": {
-        "RedLine": 3,
         "Raccoon": 1,
-        "Azorult": 2,
         "StealC": 2,
+        "RedLine": 3,
         "Generic Stealer": 4,
+        "Azorult": 2,
         "Lumma": 4
       }
     },
@@ -287080,10 +287180,10 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2024-08-27T08:43:16+00:00",
       "infostealer_stats": {
-        "RedLine": 3,
         "Generic Stealer": 1,
-        "Azorult": 1,
-        "Lumma": 1
+        "RedLine": 3,
+        "Lumma": 1,
+        "Azorult": 1
       }
     },
     "press": null,
@@ -292349,14 +292449,14 @@
       "last_employee_compromised": "2024-07-25T20:13:24+00:00",
       "last_user_compromised": "2026-03-16T00:00:00+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 6,
+        "StealC": 3,
         "Raccoon": 1,
         "Atomic": 1,
-        "RedLine": 12,
-        "UNKNOWN": 1,
-        "StealC": 3,
         "Lumma": 10,
-        "Azorult": 1
+        "Azorult": 1,
+        "Generic Stealer": 6,
+        "RedLine": 12,
+        "UNKNOWN": 1
       }
     },
     "press": null,
@@ -292692,21 +292792,21 @@
       "last_employee_compromised": "2026-04-22T08:34:53+00:00",
       "last_user_compromised": "2026-04-22T08:34:53+00:00",
       "infostealer_stats": {
+        "RedLine": 634,
+        "Predator": 1,
+        "Vidar": 93,
+        "Lumma": 456,
+        "Atomic": 3,
         "StealC": 153,
-        "Generic Stealer": 389,
+        "Mystic": 2,
+        "CRYPTBOT": 7,
         "Acreed": 1,
+        "Generic Stealer": 389,
+        "Raccoon": 199,
+        "Ficker": 4,
         "Taurus": 1,
         "UNKNOWN": 21,
-        "Azorult": 7,
-        "RedLine": 634,
-        "Raccoon": 199,
-        "CRYPTBOT": 7,
-        "Mystic": 2,
-        "Predator": 1,
-        "Lumma": 456,
-        "Vidar": 93,
-        "Atomic": 3,
-        "Ficker": 4
+        "Azorult": 7
       }
     },
     "press": null,
@@ -298345,24 +298445,6 @@
     "group": "rhysida"
   },
   {
-    "id": "VGFraW5nIHN0b2NrIG9mIDIwMjQgfCBQYXJ0IDFAYWtpcmE=",
-    "discovered": "2025-01-31T16:48:37.057512+00:00",
-    "website": "",
-    "country": "",
-    "activity": "Manufacturing",
-    "description": "Our team was able to breach the IT defenses of a huge number of companies over the past year. Among them are: worldfabricinc.com, JFGV.ca, atlanticelectrics.com, cannara.ca, njcar.org, yhti.com, dkgrar.com, calfaucets.com, atr.com, simcointeriors.com, madisonforms.com, scrantonrealtors.org, isisecurity.com, sgbllp.com, ad.snadc.com, clarkpower.com, allbrightcotton.com, idrefjall.com, swissit.cz, irisib.com, foxconstructiongroup.co.uk, elf.uk.com, farmatodo.com, omniflow.com, rqsi.com, teligentems.com, centerracoop.com, andrewlauren.com, garcesfruit.com, ibp.com, empereon-constar.com, rightofwayequipment.net, adhydraclean.com, vanguardpaints.com. We always act honestly and try not to disclose the fact of data leakage until the very last moment. Therefore, it is in your best interest not to be on this list and contact us immediately.",
-    "post_url": "",
-    "ransom": null,
-    "data_size": null,
-    "screenshot": "",
-    "infostealer": "",
-    "press": null,
-    "permalink": "https://www.ransomware.live/id/VGFraW5nIHN0b2NrIG9mIDIwMjQgfCBQYXJ0IDFAYWtpcmE=",
-    "attackdate": "2025-01-31T16:48:37.057512+00:00",
-    "victim": "Taking stock of 2024 | Part 1",
-    "group": "akira"
-  },
-  {
     "id": "dmFuZ3VhcmRwYWludHMuY29tQGFraXJh",
     "discovered": "2025-01-31T16:48:37.057512+00:00",
     "website": "vanguardpaints.com",
@@ -298388,6 +298470,24 @@
     "permalink": "https://www.ransomware.live/id/dmFuZ3VhcmRwYWludHMuY29tQGFraXJh",
     "attackdate": "2025-01-31T16:48:37.057512+00:00",
     "victim": "vanguardpaints.com",
+    "group": "akira"
+  },
+  {
+    "id": "VGFraW5nIHN0b2NrIG9mIDIwMjQgfCBQYXJ0IDFAYWtpcmE=",
+    "discovered": "2025-01-31T16:48:37.057512+00:00",
+    "website": "",
+    "country": "",
+    "activity": "Manufacturing",
+    "description": "Our team was able to breach the IT defenses of a huge number of companies over the past year. Among them are: worldfabricinc.com, JFGV.ca, atlanticelectrics.com, cannara.ca, njcar.org, yhti.com, dkgrar.com, calfaucets.com, atr.com, simcointeriors.com, madisonforms.com, scrantonrealtors.org, isisecurity.com, sgbllp.com, ad.snadc.com, clarkpower.com, allbrightcotton.com, idrefjall.com, swissit.cz, irisib.com, foxconstructiongroup.co.uk, elf.uk.com, farmatodo.com, omniflow.com, rqsi.com, teligentems.com, centerracoop.com, andrewlauren.com, garcesfruit.com, ibp.com, empereon-constar.com, rightofwayequipment.net, adhydraclean.com, vanguardpaints.com. We always act honestly and try not to disclose the fact of data leakage until the very last moment. Therefore, it is in your best interest not to be on this list and contact us immediately.",
+    "post_url": "",
+    "ransom": null,
+    "data_size": null,
+    "screenshot": "",
+    "infostealer": "",
+    "press": null,
+    "permalink": "https://www.ransomware.live/id/VGFraW5nIHN0b2NrIG9mIDIwMjQgfCBQYXJ0IDFAYWtpcmE=",
+    "attackdate": "2025-01-31T16:48:37.057512+00:00",
+    "victim": "Taking stock of 2024 | Part 1",
     "group": "akira"
   },
   {
@@ -299868,8 +299968,8 @@
         "Acreed": 1,
         "StealC": 1,
         "RedLine": 4,
-        "Lumma": 7,
-        "Generic Stealer": 4
+        "Generic Stealer": 4,
+        "Lumma": 7
       }
     },
     "press": null,
@@ -305731,8 +305831,8 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-02-02T18:48:42.224000+00:00",
       "infostealer_stats": {
-        "StealC": 1,
-        "Lumma": 4
+        "Lumma": 4,
+        "StealC": 1
       }
     },
     "press": null,
@@ -307548,9 +307648,9 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2026-01-08T15:41:44+00:00",
       "infostealer_stats": {
-        "Azorult": 1,
         "Lumma": 1,
-        "Generic Stealer": 2
+        "Generic Stealer": 2,
+        "Azorult": 1
       }
     },
     "press": null,
@@ -307950,14 +308050,14 @@
       "last_employee_compromised": "2026-04-22T08:34:53+00:00",
       "last_user_compromised": "2025-07-29T00:42:30+00:00",
       "infostealer_stats": {
+        "Azorult": 2,
+        "RedLine": 8,
+        "Raccoon": 9,
+        "Lumma": 13,
+        "Vidar": 2,
         "StealC": 1,
         "UNKNOWN": 1,
-        "Generic Stealer": 10,
-        "Vidar": 2,
-        "Lumma": 13,
-        "Azorult": 2,
-        "Raccoon": 9,
-        "RedLine": 8
+        "Generic Stealer": 10
       }
     },
     "press": null,
@@ -308097,10 +308197,10 @@
       "last_employee_compromised": "2022-07-11T11:20:48+00:00",
       "last_user_compromised": "2023-05-23T00:00:00+00:00",
       "infostealer_stats": {
-        "Generic Stealer": 1,
+        "Vidar": 1,
         "RedLine": 1,
-        "Raccoon": 3,
-        "Vidar": 1
+        "Generic Stealer": 1,
+        "Raccoon": 3
       }
     },
     "press": null,
@@ -308610,10 +308710,10 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2025-10-21T17:19:10.947000+00:00",
       "infostealer_stats": {
+        "Raccoon": 1,
         "UNKNOWN": 1,
-        "RedLine": 9,
         "Ficker": 1,
-        "Raccoon": 1
+        "RedLine": 9
       }
     },
     "press": null,
@@ -308755,12 +308855,12 @@
       "last_employee_compromised": "2024-09-04T23:53:07+00:00",
       "last_user_compromised": "2026-04-22T08:34:53+00:00",
       "infostealer_stats": {
-        "RedLine": 19,
-        "StealC": 4,
-        "Vidar": 1,
+        "Generic Stealer": 15,
         "Lumma": 30,
-        "Raccoon": 4,
-        "Generic Stealer": 15
+        "RedLine": 19,
+        "Vidar": 1,
+        "StealC": 4,
+        "Raccoon": 4
       }
     },
     "press": null,
@@ -310317,14 +310417,14 @@
       "last_employee_compromised": "2025-08-12T20:57:43+00:00",
       "last_user_compromised": "2026-04-24T21:24:27.651000+00:00",
       "infostealer_stats": {
-        "Raccoon": 13,
-        "Lumma": 30,
-        "StealC": 9,
-        "Vidar": 2,
-        "Azorult": 1,
-        "Generic Stealer": 22,
         "RedLine": 33,
-        "Predator": 1
+        "Azorult": 1,
+        "Predator": 1,
+        "Raccoon": 13,
+        "StealC": 9,
+        "Lumma": 30,
+        "Generic Stealer": 22,
+        "Vidar": 2
       }
     },
     "press": null,
@@ -310484,8 +310584,8 @@
       "last_employee_compromised": "1970-01-01T00:00:00+00:00",
       "last_user_compromised": "2023-03-04T17:17:56+00:00",
       "infostealer_stats": {
-        "UNKNOWN": 2,
         "Azorult": 1,
+        "UNKNOWN": 2,
         "Raccoon": 3
       }
     },
@@ -310516,15 +310616,15 @@
       "last_employee_compromised": "2026-02-11T12:36:28+00:00",
       "last_user_compromised": "2026-04-28T00:00:00+00:00",
       "infostealer_stats": {
-        "RedLine": 47,
-        "Atomic": 1,
-        "Lumma": 38,
-        "StealC": 10,
-        "Generic Stealer": 30,
         "Raccoon": 19,
         "Vidar": 4,
+        "Azorult": 7,
+        "RedLine": 47,
         "UNKNOWN": 2,
-        "Azorult": 7
+        "Generic Stealer": 30,
+        "StealC": 10,
+        "Lumma": 38,
+        "Atomic": 1
       }
     },
     "press": null,
@@ -311450,10 +311550,10 @@
       "last_user_compromised": "2025-11-25T00:00:00+00:00",
       "infostealer_stats": {
         "Raccoon": 2,
-        "Lumma": 1,
-        "RedLine": 4,
+        "Generic Stealer": 3,
         "StealC": 1,
-        "Generic Stealer": 3
+        "RedLine": 4,
+        "Lumma": 1
       }
     },
     "press": null,
