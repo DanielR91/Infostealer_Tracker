@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2666,
-    "employees_exposed": 135151,
+    "domains_tracked": 2667,
+    "employees_exposed": 135153,
     "users_exposed": 19399274,
-    "thirdparties_exposed": 104645,
+    "thirdparties_exposed": 104648,
     "stealer_families_count": 19
   },
   "families": [
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 110
+      "count": 111
     }
   ],
   "sectors": [
@@ -177,7 +177,7 @@
     },
     {
       "name": "Business Services",
-      "count": 14935
+      "count": 14940
     },
     {
       "name": "Transportation/Logistics",
@@ -227,7 +227,7 @@
     },
     {
       "name": "BR",
-      "count": 110
+      "count": 111
     },
     {
       "name": "DE",
@@ -819,9 +819,9 @@
     },
     {
       "name": "BR",
-      "percent": 46.808510638297875,
-      "total_victims": 235,
-      "stealer_victims": 110
+      "percent": 47.03389830508475,
+      "total_victims": 236,
+      "stealer_victims": 111
     },
     {
       "name": "EC",
@@ -1492,16 +1492,16 @@
       "stealer_victims": 5
     },
     {
+      "group": "shinyhunters",
+      "percent": 55.2,
+      "total_victims": 125,
+      "stealer_victims": 69
+    },
+    {
       "group": "nova",
       "percent": 55.00000000000001,
       "total_victims": 140,
       "stealer_victims": 77
-    },
-    {
-      "group": "shinyhunters",
-      "percent": 54.761904761904766,
-      "total_victims": 126,
-      "stealer_victims": 69
     },
     {
       "group": "ALP-001",
@@ -1750,16 +1750,16 @@
       "stealer_victims": 22
     },
     {
-      "group": "SilentRansomGroup",
-      "percent": 29.310344827586203,
-      "total_victims": 116,
-      "stealer_victims": 34
-    },
-    {
       "group": "ransomhub",
       "percent": 29.184549356223176,
       "total_victims": 233,
       "stealer_victims": 68
+    },
+    {
+      "group": "SilentRansomGroup",
+      "percent": 29.059829059829063,
+      "total_victims": 117,
+      "stealer_victims": 34
     },
     {
       "group": "benzona",
@@ -2062,6 +2062,12 @@
       "stealer_victims": 7
     },
     {
+      "group": "spacebears",
+      "percent": 8.60215053763441,
+      "total_victims": 93,
+      "stealer_victims": 8
+    },
+    {
       "group": "teamxxx",
       "percent": 8.333333333333332,
       "total_victims": 12,
@@ -2084,12 +2090,6 @@
       "percent": 7.6923076923076925,
       "total_victims": 39,
       "stealer_victims": 3
-    },
-    {
-      "group": "spacebears",
-      "percent": 7.608695652173914,
-      "total_victims": 92,
-      "stealer_victims": 7
     },
     {
       "group": "weyhro",
@@ -2260,5 +2260,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-17T04:48:20.743236Z"
+  "last_update": "2026-06-17T09:57:45.259402Z"
 }
