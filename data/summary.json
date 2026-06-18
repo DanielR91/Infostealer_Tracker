@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2673,
-    "employees_exposed": 135156,
-    "users_exposed": 19399338,
-    "thirdparties_exposed": 104672,
+    "domains_tracked": 2674,
+    "employees_exposed": 135157,
+    "users_exposed": 19399345,
+    "thirdparties_exposed": 104674,
     "stealer_families_count": 19
   },
   "families": [
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 117
+      "count": 118
     }
   ],
   "sectors": [
@@ -185,7 +185,7 @@
     },
     {
       "name": "Not Found",
-      "count": 10499
+      "count": 10502
     },
     {
       "name": "Public Sector",
@@ -231,7 +231,7 @@
     },
     {
       "name": "DE",
-      "count": 101
+      "count": 102
     },
     {
       "name": "FR",
@@ -1221,9 +1221,9 @@
     },
     {
       "name": "DE",
-      "percent": 18.1981981981982,
-      "total_victims": 555,
-      "stealer_victims": 101
+      "percent": 18.345323741007196,
+      "total_victims": 556,
+      "stealer_victims": 102
     },
     {
       "name": "HU",
@@ -1257,8 +1257,8 @@
     },
     {
       "name": "US",
-      "percent": 17.30164278224397,
-      "total_victims": 5722,
+      "percent": 17.29559748427673,
+      "total_victims": 5724,
       "stealer_victims": 990
     },
     {
@@ -1492,16 +1492,16 @@
       "stealer_victims": 5
     },
     {
-      "group": "shinyhunters",
-      "percent": 55.2,
-      "total_victims": 125,
-      "stealer_victims": 69
-    },
-    {
       "group": "nova",
       "percent": 55.00000000000001,
       "total_victims": 140,
       "stealer_victims": 77
+    },
+    {
+      "group": "shinyhunters",
+      "percent": 54.330708661417326,
+      "total_victims": 127,
+      "stealer_victims": 69
     },
     {
       "group": "ALP-001",
@@ -1817,9 +1817,9 @@
     },
     {
       "group": "incransom",
-      "percent": 25.363489499192244,
-      "total_victims": 619,
-      "stealer_victims": 157
+      "percent": 25.483870967741932,
+      "total_victims": 620,
+      "stealer_victims": 158
     },
     {
       "group": "interlock",
@@ -2260,5 +2260,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-18T00:20:01.769357Z"
+  "last_update": "2026-06-18T06:01:07.635014Z"
 }
