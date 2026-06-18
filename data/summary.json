@@ -1070,12 +1070,6 @@
       "stealer_victims": 3
     },
     {
-      "name": "MY",
-      "percent": 29.761904761904763,
-      "total_victims": 84,
-      "stealer_victims": 25
-    },
-    {
       "name": "DK",
       "percent": 29.545454545454547,
       "total_victims": 44,
@@ -1092,6 +1086,12 @@
       "percent": 29.47761194029851,
       "total_victims": 268,
       "stealer_victims": 79
+    },
+    {
+      "name": "MY",
+      "percent": 29.411764705882355,
+      "total_victims": 85,
+      "stealer_victims": 25
     },
     {
       "name": "TN",
@@ -1221,8 +1221,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.345323741007196,
-      "total_victims": 556,
+      "percent": 18.31238779174147,
+      "total_victims": 557,
       "stealer_victims": 102
     },
     {
@@ -1257,8 +1257,8 @@
     },
     {
       "name": "US",
-      "percent": 17.288904396371247,
-      "total_victims": 5732,
+      "percent": 17.28287408440879,
+      "total_victims": 5734,
       "stealer_victims": 991
     },
     {
@@ -2075,8 +2075,8 @@
     },
     {
       "group": "nightspire",
-      "percent": 8.19112627986348,
-      "total_victims": 293,
+      "percent": 8.135593220338983,
+      "total_victims": 295,
       "stealer_victims": 24
     },
     {
@@ -2117,8 +2117,8 @@
     },
     {
       "group": "cloak",
-      "percent": 5.88235294117647,
-      "total_victims": 51,
+      "percent": 5.769230769230769,
+      "total_victims": 52,
       "stealer_victims": 3
     },
     {
@@ -2135,8 +2135,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.3097345132743365,
-      "total_victims": 1695,
+      "percent": 5.306603773584905,
+      "total_victims": 1696,
       "stealer_victims": 90
     },
     {
@@ -2260,5 +2260,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-18T18:09:11.419602Z"
+  "last_update": "2026-06-18T21:24:44.088031Z"
 }
