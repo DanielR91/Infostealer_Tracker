@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2674,
+    "domains_tracked": 2675,
     "employees_exposed": 135157,
     "users_exposed": 19399345,
-    "thirdparties_exposed": 104674,
+    "thirdparties_exposed": 104675,
     "stealer_families_count": 19
   },
   "families": [
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 118
+      "count": 119
     }
   ],
   "sectors": [
@@ -169,7 +169,7 @@
     },
     {
       "name": "Technology",
-      "count": 29901
+      "count": 29902
     },
     {
       "name": "Telecommunication",
@@ -223,7 +223,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 990
+      "count": 991
     },
     {
       "name": "BR",
@@ -926,16 +926,16 @@
       "stealer_victims": 13
     },
     {
-      "name": "CL",
-      "percent": 38.46153846153847,
-      "total_victims": 39,
-      "stealer_victims": 15
-    },
-    {
       "name": "EG",
       "percent": 38.297872340425535,
       "total_victims": 47,
       "stealer_victims": 18
+    },
+    {
+      "name": "CL",
+      "percent": 37.5,
+      "total_victims": 40,
+      "stealer_victims": 15
     },
     {
       "name": "UY",
@@ -1118,12 +1118,6 @@
       "stealer_victims": 8
     },
     {
-      "name": "SI",
-      "percent": 25.0,
-      "total_victims": 8,
-      "stealer_victims": 2
-    },
-    {
       "name": "PA",
       "percent": 25.0,
       "total_victims": 12,
@@ -1154,22 +1148,28 @@
       "stealer_victims": 26
     },
     {
-      "name": "TR",
-      "percent": 24.210526315789473,
-      "total_victims": 95,
-      "stealer_victims": 23
-    },
-    {
       "name": "GR",
       "percent": 24.137931034482758,
       "total_victims": 29,
       "stealer_victims": 7
     },
     {
+      "name": "TR",
+      "percent": 23.958333333333336,
+      "total_victims": 96,
+      "stealer_victims": 23
+    },
+    {
       "name": "PT",
       "percent": 22.5,
       "total_victims": 40,
       "stealer_victims": 9
+    },
+    {
+      "name": "SI",
+      "percent": 22.22222222222222,
+      "total_victims": 9,
+      "stealer_victims": 2
     },
     {
       "name": "CY",
@@ -1257,9 +1257,9 @@
     },
     {
       "name": "US",
-      "percent": 17.28653745416448,
-      "total_victims": 5727,
-      "stealer_victims": 990
+      "percent": 17.288904396371247,
+      "total_victims": 5732,
+      "stealer_victims": 991
     },
     {
       "name": "BH",
@@ -1329,8 +1329,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.772495755517826,
-      "total_victims": 589,
+      "percent": 5.762711864406779,
+      "total_victims": 590,
       "stealer_victims": 34
     },
     {
@@ -1499,9 +1499,9 @@
     },
     {
       "group": "shinyhunters",
-      "percent": 54.330708661417326,
-      "total_victims": 127,
-      "stealer_victims": 69
+      "percent": 54.6875,
+      "total_victims": 128,
+      "stealer_victims": 70
     },
     {
       "group": "ALP-001",
@@ -1673,8 +1673,8 @@
     },
     {
       "group": "rhysida",
-      "percent": 33.94495412844037,
-      "total_victims": 109,
+      "percent": 33.63636363636363,
+      "total_victims": 110,
       "stealer_victims": 37
     },
     {
@@ -2026,16 +2026,16 @@
       "stealer_victims": 1
     },
     {
-      "group": "pear",
-      "percent": 14.130434782608695,
-      "total_victims": 92,
-      "stealer_victims": 13
-    },
-    {
       "group": "chaos",
       "percent": 14.035087719298245,
       "total_victims": 57,
       "stealer_victims": 8
+    },
+    {
+      "group": "pear",
+      "percent": 13.684210526315791,
+      "total_victims": 95,
+      "stealer_victims": 13
     },
     {
       "group": "termite",
@@ -2135,8 +2135,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.322294500295683,
-      "total_victims": 1691,
+      "percent": 5.3097345132743365,
+      "total_victims": 1695,
       "stealer_victims": 90
     },
     {
@@ -2260,5 +2260,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-18T14:15:57.044349Z"
+  "last_update": "2026-06-18T18:09:11.419602Z"
 }
