@@ -1,13 +1,13 @@
 [
   {
-    "company": "Assertio Holdings, Inc.",
-    "stockticker": "ASRT",
+    "company": "QXO, Inc.",
+    "stockticker": "QXO, QXO-PB",
     "form": "8-K",
-    "file_date": "2026-06-16",
-    "cik": "0001808665",
-    "adsh": "0001104659-26-074619",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001808665/000110465926074619/0001104659-26-074619-index.htm",
-    "display_name": "Assertio Holdings, Inc.  (ASRT)  (CIK 0001808665)",
+    "file_date": "2026-06-17",
+    "cik": "0001236275",
+    "adsh": "0000950142-26-001816",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001236275/000095014226001816/0000950142-26-001816-index.htm",
+    "display_name": "QXO, Inc.  (QXO, QXO-PB)  (CIK 0001236275)",
     "item105": false,
     "item801": true
   }

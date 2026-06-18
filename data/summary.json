@@ -1257,8 +1257,8 @@
     },
     {
       "name": "US",
-      "percent": 17.29559748427673,
-      "total_victims": 5724,
+      "percent": 17.28955640936081,
+      "total_victims": 5726,
       "stealer_victims": 990
     },
     {
@@ -1817,8 +1817,8 @@
     },
     {
       "group": "incransom",
-      "percent": 25.483870967741932,
-      "total_victims": 620,
+      "percent": 25.442834138486315,
+      "total_victims": 621,
       "stealer_victims": 158
     },
     {
@@ -1912,16 +1912,16 @@
       "stealer_victims": 4
     },
     {
-      "group": "lynx",
-      "percent": 20.307692307692307,
-      "total_victims": 325,
-      "stealer_victims": 66
-    },
-    {
       "group": "kairos",
       "percent": 20.27027027027027,
       "total_victims": 74,
       "stealer_victims": 15
+    },
+    {
+      "group": "lynx",
+      "percent": 20.245398773006134,
+      "total_victims": 326,
+      "stealer_victims": 66
     },
     {
       "group": "0day Syndicate",
@@ -2260,5 +2260,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-18T06:01:07.635014Z"
+  "last_update": "2026-06-18T10:45:07.338020Z"
 }
