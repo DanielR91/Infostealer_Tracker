@@ -969,8 +969,8 @@
     },
     {
       "name": "AE",
-      "percent": 35.0,
-      "total_victims": 80,
+      "percent": 35.44303797468354,
+      "total_victims": 79,
       "stealer_victims": 28
     },
     {
@@ -1041,8 +1041,8 @@
     },
     {
       "name": "SG",
-      "percent": 31.48148148148148,
-      "total_victims": 108,
+      "percent": 31.19266055045872,
+      "total_victims": 109,
       "stealer_victims": 34
     },
     {
@@ -1257,8 +1257,8 @@
     },
     {
       "name": "US",
-      "percent": 17.28955640936081,
-      "total_victims": 5726,
+      "percent": 17.28653745416448,
+      "total_victims": 5727,
       "stealer_victims": 990
     },
     {
@@ -1275,8 +1275,8 @@
     },
     {
       "name": "CA",
-      "percent": 15.413533834586465,
-      "total_victims": 532,
+      "percent": 15.384615384615385,
+      "total_victims": 533,
       "stealer_victims": 82
     },
     {
@@ -1329,8 +1329,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.792163543441227,
-      "total_victims": 587,
+      "percent": 5.772495755517826,
+      "total_victims": 589,
       "stealer_victims": 34
     },
     {
@@ -1781,15 +1781,9 @@
     },
     {
       "group": "akira",
-      "percent": 27.83109404990403,
-      "total_victims": 1042,
-      "stealer_victims": 290
-    },
-    {
-      "group": "bravox",
       "percent": 27.77777777777778,
-      "total_victims": 18,
-      "stealer_victims": 5
+      "total_victims": 1044,
+      "stealer_victims": 290
     },
     {
       "group": "abyss",
@@ -1808,6 +1802,12 @@
       "percent": 26.53061224489796,
       "total_victims": 49,
       "stealer_victims": 13
+    },
+    {
+      "group": "bravox",
+      "percent": 26.31578947368421,
+      "total_victims": 19,
+      "stealer_victims": 5
     },
     {
       "group": "gunra",
@@ -1919,8 +1919,8 @@
     },
     {
       "group": "lynx",
-      "percent": 20.245398773006134,
-      "total_victims": 326,
+      "percent": 20.121951219512198,
+      "total_victims": 328,
       "stealer_victims": 66
     },
     {
@@ -2153,8 +2153,8 @@
     },
     {
       "group": "handala",
-      "percent": 1.6260162601626018,
-      "total_victims": 123,
+      "percent": 1.639344262295082,
+      "total_victims": 122,
       "stealer_victims": 2
     },
     {
@@ -2260,5 +2260,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-18T10:45:07.338020Z"
+  "last_update": "2026-06-18T14:15:57.044349Z"
 }
