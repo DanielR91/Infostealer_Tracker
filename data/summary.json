@@ -1329,8 +1329,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.743243243243244,
-      "total_victims": 592,
+      "percent": 5.733558178752108,
+      "total_victims": 593,
       "stealer_victims": 34
     },
     {
@@ -1588,16 +1588,16 @@
       "stealer_victims": 17
     },
     {
-      "group": "BrainCipher",
-      "percent": 42.42424242424242,
-      "total_victims": 33,
-      "stealer_victims": 14
-    },
-    {
       "group": "medusalocker",
       "percent": 41.66666666666667,
       "total_victims": 24,
       "stealer_victims": 10
+    },
+    {
+      "group": "BrainCipher",
+      "percent": 41.17647058823529,
+      "total_victims": 34,
+      "stealer_victims": 14
     },
     {
       "group": "embargo",
@@ -2266,5 +2266,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-19T21:14:29.589116Z"
+  "last_update": "2026-06-19T23:04:33.895511Z"
 }
