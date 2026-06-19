@@ -1089,8 +1089,8 @@
     },
     {
       "name": "MY",
-      "percent": 29.411764705882355,
-      "total_victims": 85,
+      "percent": 29.069767441860467,
+      "total_victims": 86,
       "stealer_victims": 25
     },
     {
@@ -1110,12 +1110,6 @@
       "percent": 26.08695652173913,
       "total_victims": 46,
       "stealer_victims": 12
-    },
-    {
-      "name": "IE",
-      "percent": 25.0,
-      "total_victims": 32,
-      "stealer_victims": 8
     },
     {
       "name": "PA",
@@ -1146,6 +1140,12 @@
       "percent": 24.528301886792452,
       "total_victims": 106,
       "stealer_victims": 26
+    },
+    {
+      "name": "IE",
+      "percent": 24.242424242424242,
+      "total_victims": 33,
+      "stealer_victims": 8
     },
     {
       "name": "GR",
@@ -1221,8 +1221,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.31238779174147,
-      "total_victims": 557,
+      "percent": 18.27956989247312,
+      "total_victims": 558,
       "stealer_victims": 102
     },
     {
@@ -1257,8 +1257,8 @@
     },
     {
       "name": "US",
-      "percent": 17.294281729428175,
-      "total_victims": 5736,
+      "percent": 17.291267212829002,
+      "total_victims": 5737,
       "stealer_victims": 992
     },
     {
@@ -1732,12 +1732,6 @@
       "stealer_victims": 29
     },
     {
-      "group": "stormous",
-      "percent": 30.76923076923077,
-      "total_victims": 52,
-      "stealer_victims": 16
-    },
-    {
       "group": "blackshrantac",
       "percent": 30.23255813953488,
       "total_victims": 43,
@@ -1748,6 +1742,12 @@
       "percent": 30.215827338129497,
       "total_victims": 278,
       "stealer_victims": 84
+    },
+    {
+      "group": "stormous",
+      "percent": 30.18867924528302,
+      "total_victims": 53,
+      "stealer_victims": 16
     },
     {
       "group": "direwolf",
@@ -2141,8 +2141,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.303476723629935,
-      "total_victims": 1697,
+      "percent": 5.294117647058823,
+      "total_victims": 1700,
       "stealer_victims": 90
     },
     {
@@ -2266,5 +2266,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-19T16:34:47.374771Z"
+  "last_update": "2026-06-19T19:01:49.945698Z"
 }
