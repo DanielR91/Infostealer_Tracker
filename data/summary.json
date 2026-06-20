@@ -1,23 +1,23 @@
 {
   "totals": {
-    "domains_tracked": 2708,
+    "domains_tracked": 2707,
     "employees_exposed": 135270,
-    "users_exposed": 19410030,
+    "users_exposed": 19410019,
     "thirdparties_exposed": 104901,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1214443
+      "count": 1214442
     },
     {
       "name": "Lumma",
-      "count": 599043
+      "count": 599040
     },
     {
       "name": "Generic Stealer",
-      "count": 468831
+      "count": 468825
     },
     {
       "name": "Raccoon",
@@ -29,7 +29,7 @@
     },
     {
       "name": "StealC",
-      "count": 124882
+      "count": 124881
     },
     {
       "name": "Vidar",
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 150
+      "count": 149
     }
   ],
   "sectors": [
@@ -243,7 +243,7 @@
     },
     {
       "name": "CA",
-      "count": 83
+      "count": 82
     },
     {
       "name": "ES",
@@ -1267,8 +1267,8 @@
     },
     {
       "name": "US",
-      "percent": 17.308027163503397,
-      "total_victims": 5743,
+      "percent": 17.305013927576603,
+      "total_victims": 5744,
       "stealer_victims": 994
     },
     {
@@ -1285,9 +1285,9 @@
     },
     {
       "name": "CA",
-      "percent": 15.456238361266294,
-      "total_victims": 537,
-      "stealer_victims": 83
+      "percent": 15.298507462686567,
+      "total_victims": 536,
+      "stealer_victims": 82
     },
     {
       "name": "HK",
@@ -1514,12 +1514,6 @@
       "stealer_victims": 9
     },
     {
-      "group": "Icarus",
-      "percent": 50.0,
-      "total_victims": 4,
-      "stealer_victims": 2
-    },
-    {
       "group": "PrinzEugen",
       "percent": 50.0,
       "total_victims": 4,
@@ -1694,6 +1688,12 @@
       "stealer_victims": 104
     },
     {
+      "group": "Icarus",
+      "percent": 33.33333333333333,
+      "total_victims": 3,
+      "stealer_victims": 1
+    },
+    {
       "group": "threeam",
       "percent": 33.33333333333333,
       "total_victims": 36,
@@ -1827,8 +1827,8 @@
     },
     {
       "group": "incransom",
-      "percent": 25.442834138486315,
-      "total_victims": 621,
+      "percent": 25.401929260450164,
+      "total_victims": 622,
       "stealer_victims": 158
     },
     {
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-20T18:17:50.336615Z"
+  "last_update": "2026-06-20T20:19:50.532524Z"
 }
