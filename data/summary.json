@@ -1087,8 +1087,8 @@
     },
     {
       "name": "DK",
-      "percent": 29.545454545454547,
-      "total_victims": 44,
+      "percent": 28.888888888888886,
+      "total_victims": 45,
       "stealer_victims": 13
     },
     {
@@ -1327,8 +1327,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.0402684563758395,
-      "total_victims": 596,
+      "percent": 6.030150753768844,
+      "total_victims": 597,
       "stealer_victims": 36
     },
     {
@@ -1503,8 +1503,8 @@
     },
     {
       "group": "nova",
-      "percent": 54.60992907801418,
-      "total_victims": 141,
+      "percent": 53.84615384615385,
+      "total_victims": 143,
       "stealer_victims": 77
     },
     {
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-20T11:22:03.769604Z"
+  "last_update": "2026-06-20T14:17:06.888877Z"
 }
