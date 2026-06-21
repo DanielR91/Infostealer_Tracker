@@ -1327,8 +1327,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.990016638935108,
-      "total_victims": 601,
+      "percent": 5.980066445182724,
+      "total_victims": 602,
       "stealer_victims": 36
     },
     {
@@ -1755,8 +1755,8 @@
     },
     {
       "group": "stormous",
-      "percent": 30.18867924528302,
-      "total_victims": 53,
+      "percent": 29.629629629629626,
+      "total_victims": 54,
       "stealer_victims": 16
     },
     {
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-21T13:11:08.326717Z"
+  "last_update": "2026-06-21T15:58:45.407101Z"
 }
