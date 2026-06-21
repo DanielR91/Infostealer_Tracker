@@ -1039,8 +1039,8 @@
     },
     {
       "name": "MX",
-      "percent": 31.690140845070424,
-      "total_victims": 142,
+      "percent": 31.46853146853147,
+      "total_victims": 143,
       "stealer_victims": 45
     },
     {
@@ -1827,8 +1827,8 @@
     },
     {
       "group": "incransom",
-      "percent": 25.401929260450164,
-      "total_victims": 622,
+      "percent": 25.36115569823435,
+      "total_victims": 623,
       "stealer_victims": 158
     },
     {
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-21T10:35:00.328764Z"
+  "last_update": "2026-06-21T13:11:08.326717Z"
 }
