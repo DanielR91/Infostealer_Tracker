@@ -1267,8 +1267,8 @@
     },
     {
       "name": "US",
-      "percent": 17.305013927576603,
-      "total_victims": 5744,
+      "percent": 17.302001740644037,
+      "total_victims": 5745,
       "stealer_victims": 994
     },
     {
@@ -1327,8 +1327,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.0,
-      "total_victims": 600,
+      "percent": 5.990016638935108,
+      "total_victims": 601,
       "stealer_victims": 36
     },
     {
@@ -1509,8 +1509,8 @@
     },
     {
       "group": "nova",
-      "percent": 52.73972602739726,
-      "total_victims": 146,
+      "percent": 52.38095238095239,
+      "total_victims": 147,
       "stealer_victims": 77
     },
     {
@@ -2079,8 +2079,8 @@
     },
     {
       "group": "nightspire",
-      "percent": 8.47457627118644,
-      "total_victims": 295,
+      "percent": 8.445945945945946,
+      "total_victims": 296,
       "stealer_victims": 25
     },
     {
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-21T06:08:55.273301Z"
+  "last_update": "2026-06-21T10:35:00.328764Z"
 }
