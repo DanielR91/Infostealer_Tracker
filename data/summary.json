@@ -852,16 +852,16 @@
       "stealer_victims": 13
     },
     {
-      "name": "VN",
-      "percent": 44.44444444444444,
-      "total_victims": 36,
-      "stealer_victims": 16
-    },
-    {
       "name": "BO",
       "percent": 44.44444444444444,
       "total_victims": 9,
       "stealer_victims": 4
+    },
+    {
+      "name": "VN",
+      "percent": 43.24324324324324,
+      "total_victims": 37,
+      "stealer_victims": 16
     },
     {
       "name": "BD",
@@ -1502,16 +1502,16 @@
       "stealer_victims": 70
     },
     {
-      "group": "nova",
-      "percent": 53.103448275862064,
-      "total_victims": 145,
-      "stealer_victims": 77
-    },
-    {
       "group": "ALP-001",
       "percent": 52.94117647058824,
       "total_victims": 17,
       "stealer_victims": 9
+    },
+    {
+      "group": "nova",
+      "percent": 52.73972602739726,
+      "total_victims": 146,
+      "stealer_victims": 77
     },
     {
       "group": "PrinzEugen",
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-20T22:15:35.342894Z"
+  "last_update": "2026-06-21T00:14:42.493475Z"
 }
