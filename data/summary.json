@@ -1021,8 +1021,8 @@
     },
     {
       "name": "IN",
-      "percent": 32.57918552036199,
-      "total_victims": 221,
+      "percent": 32.432432432432435,
+      "total_victims": 222,
       "stealer_victims": 72
     },
     {
@@ -1255,8 +1255,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.14946619217082,
-      "total_victims": 562,
+      "percent": 18.117229129662523,
+      "total_victims": 563,
       "stealer_victims": 102
     },
     {
@@ -1267,8 +1267,8 @@
     },
     {
       "name": "US",
-      "percent": 17.289963471908155,
-      "total_victims": 5749,
+      "percent": 17.28395061728395,
+      "total_victims": 5751,
       "stealer_victims": 994
     },
     {
@@ -1327,8 +1327,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.950413223140496,
-      "total_victims": 605,
+      "percent": 5.911330049261084,
+      "total_victims": 609,
       "stealer_victims": 36
     },
     {
@@ -1688,12 +1688,6 @@
       "stealer_victims": 104
     },
     {
-      "group": "Icarus",
-      "percent": 33.33333333333333,
-      "total_victims": 3,
-      "stealer_victims": 1
-    },
-    {
       "group": "threeam",
       "percent": 33.33333333333333,
       "total_victims": 36,
@@ -1983,8 +1977,8 @@
     },
     {
       "group": "safepay",
-      "percent": 18.201754385964914,
-      "total_victims": 456,
+      "percent": 18.161925601750546,
+      "total_victims": 457,
       "stealer_victims": 83
     },
     {
@@ -2048,6 +2042,12 @@
       "stealer_victims": 5
     },
     {
+      "group": "Icarus",
+      "percent": 12.5,
+      "total_victims": 8,
+      "stealer_victims": 1
+    },
+    {
       "group": "aurora",
       "percent": 10.526315789473683,
       "total_victims": 19,
@@ -2066,12 +2066,6 @@
       "stealer_victims": 9
     },
     {
-      "group": "cmdorganization",
-      "percent": 8.695652173913043,
-      "total_victims": 23,
-      "stealer_victims": 2
-    },
-    {
       "group": "ransomhouse",
       "percent": 8.641975308641975,
       "total_victims": 81,
@@ -2082,6 +2076,12 @@
       "percent": 8.445945945945946,
       "total_victims": 296,
       "stealer_victims": 25
+    },
+    {
+      "group": "cmdorganization",
+      "percent": 8.333333333333332,
+      "total_victims": 24,
+      "stealer_victims": 2
     },
     {
       "group": "teamxxx",
@@ -2145,8 +2145,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.275498241500586,
-      "total_victims": 1706,
+      "percent": 5.272407732864675,
+      "total_victims": 1707,
       "stealer_victims": 90
     },
     {
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-22T20:56:20.847879Z"
+  "last_update": "2026-06-22T22:51:22.186250Z"
 }
