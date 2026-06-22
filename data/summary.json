@@ -1230,21 +1230,21 @@
       "stealer_victims": 14
     },
     {
-      "name": "NL",
-      "percent": 18.571428571428573,
-      "total_victims": 70,
-      "stealer_victims": 13
-    },
-    {
       "name": "GB",
       "percent": 18.43220338983051,
       "total_victims": 472,
       "stealer_victims": 87
     },
     {
+      "name": "NL",
+      "percent": 18.30985915492958,
+      "total_victims": 71,
+      "stealer_victims": 13
+    },
+    {
       "name": "DE",
-      "percent": 18.21428571428571,
-      "total_victims": 560,
+      "percent": 18.181818181818183,
+      "total_victims": 561,
       "stealer_victims": 102
     },
     {
@@ -1267,8 +1267,8 @@
     },
     {
       "name": "US",
-      "percent": 17.292971468336813,
-      "total_victims": 5748,
+      "percent": 17.289963471908155,
+      "total_victims": 5749,
       "stealer_victims": 994
     },
     {
@@ -1327,8 +1327,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.980066445182724,
-      "total_victims": 602,
+      "percent": 5.970149253731343,
+      "total_victims": 603,
       "stealer_victims": 36
     },
     {
@@ -2049,8 +2049,8 @@
     },
     {
       "group": "aurora",
-      "percent": 13.333333333333334,
-      "total_victims": 15,
+      "percent": 11.11111111111111,
+      "total_victims": 18,
       "stealer_victims": 2
     },
     {
@@ -2067,8 +2067,8 @@
     },
     {
       "group": "cmdorganization",
-      "percent": 9.090909090909092,
-      "total_victims": 22,
+      "percent": 8.695652173913043,
+      "total_victims": 23,
       "stealer_victims": 2
     },
     {
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-22T05:04:39.815968Z"
+  "last_update": "2026-06-22T12:16:26.597433Z"
 }
