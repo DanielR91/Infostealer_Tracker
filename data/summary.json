@@ -1044,16 +1044,16 @@
       "stealer_victims": 45
     },
     {
+      "name": "SG",
+      "percent": 30.909090909090907,
+      "total_victims": 110,
+      "stealer_victims": 34
+    },
+    {
       "name": "LK",
       "percent": 30.76923076923077,
       "total_victims": 13,
       "stealer_victims": 4
-    },
-    {
-      "name": "SG",
-      "percent": 30.630630630630627,
-      "total_victims": 111,
-      "stealer_victims": 34
     },
     {
       "name": "KR",
@@ -1267,8 +1267,8 @@
     },
     {
       "name": "US",
-      "percent": 17.28094575799722,
-      "total_victims": 5752,
+      "percent": 17.277941943333914,
+      "total_victims": 5753,
       "stealer_victims": 994
     },
     {
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-23T21:03:42.745296Z"
+  "last_update": "2026-06-23T23:13:04.031560Z"
 }
