@@ -1044,16 +1044,16 @@
       "stealer_victims": 45
     },
     {
-      "name": "SG",
-      "percent": 30.909090909090907,
-      "total_victims": 110,
-      "stealer_victims": 34
-    },
-    {
       "name": "LK",
       "percent": 30.76923076923077,
       "total_victims": 13,
       "stealer_victims": 4
+    },
+    {
+      "name": "SG",
+      "percent": 30.630630630630627,
+      "total_victims": 111,
+      "stealer_victims": 34
     },
     {
       "name": "KR",
@@ -1237,8 +1237,8 @@
     },
     {
       "name": "GB",
-      "percent": 18.39323467230444,
-      "total_victims": 473,
+      "percent": 18.354430379746837,
+      "total_victims": 474,
       "stealer_victims": 87
     },
     {
@@ -1412,12 +1412,6 @@
       "stealer_victims": 65
     },
     {
-      "group": "lapsus$",
-      "percent": 75.0,
-      "total_victims": 20,
-      "stealer_victims": 15
-    },
-    {
       "group": "exitium",
       "percent": 75.0,
       "total_victims": 4,
@@ -1428,6 +1422,12 @@
       "percent": 75.0,
       "total_victims": 8,
       "stealer_victims": 6
+    },
+    {
+      "group": "lapsus$",
+      "percent": 71.42857142857143,
+      "total_victims": 21,
+      "stealer_victims": 15
     },
     {
       "group": "funksec",
@@ -2078,16 +2078,16 @@
       "stealer_victims": 1
     },
     {
-      "group": "cmdorganization",
-      "percent": 8.333333333333332,
-      "total_victims": 24,
-      "stealer_victims": 2
-    },
-    {
       "group": "teamxxx",
       "percent": 8.333333333333332,
       "total_victims": 12,
       "stealer_victims": 1
+    },
+    {
+      "group": "cmdorganization",
+      "percent": 8.0,
+      "total_victims": 25,
+      "stealer_victims": 2
     },
     {
       "group": "kraken",
@@ -2145,8 +2145,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.272407732864675,
-      "total_victims": 1707,
+      "percent": 5.269320843091335,
+      "total_victims": 1708,
       "stealer_victims": 90
     },
     {
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-23T18:05:00.778856Z"
+  "last_update": "2026-06-23T21:03:42.745296Z"
 }
