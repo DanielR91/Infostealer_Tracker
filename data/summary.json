@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2710,
-    "employees_exposed": 136421,
-    "users_exposed": 19413383,
-    "thirdparties_exposed": 106334,
+    "domains_tracked": 2713,
+    "employees_exposed": 136464,
+    "users_exposed": 19413723,
+    "thirdparties_exposed": 106394,
     "stealer_families_count": 19
   },
   "families": [
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 152
+      "count": 155
     }
   ],
   "sectors": [
@@ -185,11 +185,11 @@
     },
     {
       "name": "Not Found",
-      "count": 10521
+      "count": 10558
     },
     {
       "name": "Public Sector",
-      "count": 10045
+      "count": 10059
     },
     {
       "name": "Energy",
@@ -197,7 +197,7 @@
     },
     {
       "name": "Consumer Services",
-      "count": 8183
+      "count": 8235
     },
     {
       "name": "Healthcare",
@@ -227,7 +227,7 @@
     },
     {
       "name": "BR",
-      "count": 114
+      "count": 115
     },
     {
       "name": "DE",
@@ -274,20 +274,20 @@
       "count": 36
     },
     {
+      "name": "ID",
+      "count": 35
+    },
+    {
       "name": "JP",
       "count": 35
     },
     {
+      "name": "AU",
+      "count": 34
+    },
+    {
       "name": "SG",
       "count": 34
-    },
-    {
-      "name": "ID",
-      "count": 34
-    },
-    {
-      "name": "AU",
-      "count": 33
     },
     {
       "name": "CO",
@@ -817,15 +817,15 @@
     },
     {
       "name": "ID",
-      "percent": 48.57142857142857,
-      "total_victims": 70,
-      "stealer_victims": 34
+      "percent": 49.29577464788733,
+      "total_victims": 71,
+      "stealer_victims": 35
     },
     {
       "name": "BR",
-      "percent": 46.913580246913575,
-      "total_victims": 243,
-      "stealer_victims": 114
+      "percent": 47.13114754098361,
+      "total_victims": 244,
+      "stealer_victims": 115
     },
     {
       "name": "EC",
@@ -1284,6 +1284,12 @@
       "stealer_victims": 7
     },
     {
+      "name": "AU",
+      "percent": 15.59633027522936,
+      "total_victims": 218,
+      "stealer_victims": 34
+    },
+    {
       "name": "CA",
       "percent": 15.427509293680297,
       "total_victims": 538,
@@ -1294,12 +1300,6 @@
       "percent": 15.277777777777779,
       "total_victims": 72,
       "stealer_victims": 11
-    },
-    {
-      "name": "AU",
-      "percent": 15.207373271889402,
-      "total_victims": 217,
-      "stealer_victims": 33
     },
     {
       "name": "HR",
@@ -1407,9 +1407,9 @@
     },
     {
       "group": "apt73",
-      "percent": 76.82926829268293,
-      "total_victims": 82,
-      "stealer_victims": 63
+      "percent": 77.38095238095238,
+      "total_victims": 84,
+      "stealer_victims": 65
     },
     {
       "group": "lapsus$",
@@ -1820,16 +1820,16 @@
       "stealer_victims": 11
     },
     {
+      "group": "interlock",
+      "percent": 25.773195876288657,
+      "total_victims": 97,
+      "stealer_victims": 25
+    },
+    {
       "group": "incransom",
       "percent": 25.320512820512818,
       "total_victims": 624,
       "stealer_victims": 158
-    },
-    {
-      "group": "interlock",
-      "percent": 25.0,
-      "total_victims": 96,
-      "stealer_victims": 24
     },
     {
       "group": "radar",
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-23T12:38:46.913199Z"
+  "last_update": "2026-06-23T15:55:41.490559Z"
 }
