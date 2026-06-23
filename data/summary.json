@@ -1333,8 +1333,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.834683954619125,
-      "total_victims": 617,
+      "percent": 5.825242718446602,
+      "total_victims": 618,
       "stealer_victims": 36
     },
     {
@@ -1509,8 +1509,8 @@
     },
     {
       "group": "nova",
-      "percent": 52.02702702702703,
-      "total_victims": 148,
+      "percent": 51.67785234899329,
+      "total_victims": 149,
       "stealer_victims": 77
     },
     {
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-23T15:55:41.490559Z"
+  "last_update": "2026-06-23T18:05:00.778856Z"
 }
