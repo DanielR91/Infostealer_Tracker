@@ -4364,39 +4364,6 @@
     "has_ransomnote": true,
     "ransomnotes_count": 3
   },
-  "killsec": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "killsec",
-    "description": "KillSec originated as a hacktivist group aligned with the Anonymous movement before pivoting to ransomware operations in October 2023, officially launching a RaaS platform in June 2024 with an affiliate-friendly 88% revenue split, primarily targeting healthcare, financial services, and government sectors with over 250 documented victims as of late 2025.",
-    "added_date": null,
-    "victims": 279,
-    "firstseen": "2024-02-21T10:00:00+00:00",
-    "lastseen": "2026-05-14T02:53:09.750608+00:00",
-    "ttps": [],
-    "vulnerabilities": [],
-    "tools": {},
-    "locations": [
-      {
-        "fqdn": "kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion",
-        "title": "Kill Security 2.0",
-        "slug": "http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion",
-        "type": "DLS",
-        "available": false
-      },
-      {
-        "fqdn": "ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion",
-        "title": "KillSec",
-        "slug": "http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php",
-        "type": "DLS",
-        "available": true
-      }
-    ],
-    "has_negotiations": false,
-    "negotiation_count": 0,
-    "has_ransomnote": false,
-    "ransomnotes_count": 0,
-    "url": "https://www.ransomware.live/group/killsec"
-  },
   "nova": {
     "client": "hose_chamber1d@icloud.com",
     "group": "nova",
@@ -4478,6 +4445,39 @@
     "has_ransomnote": true,
     "ransomnotes_count": 1,
     "url": "https://www.ransomware.live/group/nova"
+  },
+  "killsec": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "killsec",
+    "description": "KillSec originated as a hacktivist group aligned with the Anonymous movement before pivoting to ransomware operations in October 2023, officially launching a RaaS platform in June 2024 with an affiliate-friendly 88% revenue split, primarily targeting healthcare, financial services, and government sectors with over 250 documented victims as of late 2025.",
+    "added_date": null,
+    "victims": 279,
+    "firstseen": "2024-02-21T10:00:00+00:00",
+    "lastseen": "2026-05-14T02:53:09.750608+00:00",
+    "ttps": [],
+    "vulnerabilities": [],
+    "tools": {},
+    "locations": [
+      {
+        "fqdn": "kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion",
+        "title": "Kill Security 2.0",
+        "slug": "http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion",
+        "type": "DLS",
+        "available": false
+      },
+      {
+        "fqdn": "ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion",
+        "title": "KillSec",
+        "slug": "http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php",
+        "type": "DLS",
+        "available": true
+      }
+    ],
+    "has_negotiations": false,
+    "negotiation_count": 0,
+    "has_ransomnote": false,
+    "ransomnotes_count": 0,
+    "url": "https://www.ransomware.live/group/killsec"
   },
   "shinyhunters": {
     "client": "hose_chamber1d@icloud.com",

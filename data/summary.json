@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2709,
-    "employees_exposed": 136408,
-    "users_exposed": 19413190,
-    "thirdparties_exposed": 106331,
+    "domains_tracked": 2710,
+    "employees_exposed": 136421,
+    "users_exposed": 19413383,
+    "thirdparties_exposed": 106334,
     "stealer_families_count": 19
   },
   "families": [
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 151
+      "count": 152
     }
   ],
   "sectors": [
@@ -181,7 +181,7 @@
     },
     {
       "name": "Transportation/Logistics",
-      "count": 11439
+      "count": 11455
     },
     {
       "name": "Not Found",
@@ -358,6 +358,10 @@
       "count": 14
     },
     {
+      "name": "AT",
+      "count": 13
+    },
+    {
       "name": "NL",
       "count": 13
     },
@@ -368,10 +372,6 @@
     {
       "name": "NO",
       "count": 13
-    },
-    {
-      "name": "AT",
-      "count": 12
     },
     {
       "name": "RO",
@@ -1230,6 +1230,12 @@
       "stealer_victims": 14
     },
     {
+      "name": "AT",
+      "percent": 18.571428571428573,
+      "total_victims": 70,
+      "stealer_victims": 13
+    },
+    {
       "name": "GB",
       "percent": 18.39323467230444,
       "total_victims": 473,
@@ -1258,12 +1264,6 @@
       "percent": 18.117229129662523,
       "total_victims": 563,
       "stealer_victims": 102
-    },
-    {
-      "name": "AT",
-      "percent": 17.391304347826086,
-      "total_victims": 69,
-      "stealer_victims": 12
     },
     {
       "name": "US",
@@ -1326,16 +1326,16 @@
       "stealer_victims": 3
     },
     {
-      "name": "Unknown",
-      "percent": 5.901639344262295,
-      "total_victims": 610,
-      "stealer_victims": 36
-    },
-    {
       "name": "UK",
       "percent": 5.88235294117647,
       "total_victims": 34,
       "stealer_victims": 2
+    },
+    {
+      "name": "Unknown",
+      "percent": 5.834683954619125,
+      "total_victims": 617,
+      "stealer_victims": 36
     },
     {
       "name": "BS",
@@ -1407,9 +1407,9 @@
     },
     {
       "group": "apt73",
-      "percent": 76.5432098765432,
-      "total_victims": 81,
-      "stealer_victims": 62
+      "percent": 76.82926829268293,
+      "total_victims": 82,
+      "stealer_victims": 63
     },
     {
       "group": "lapsus$",
@@ -1509,8 +1509,8 @@
     },
     {
       "group": "nova",
-      "percent": 52.38095238095239,
-      "total_victims": 147,
+      "percent": 52.02702702702703,
+      "total_victims": 148,
       "stealer_victims": 77
     },
     {
@@ -1791,8 +1791,8 @@
     },
     {
       "group": "akira",
-      "percent": 27.751196172248804,
-      "total_victims": 1045,
+      "percent": 27.6981852913085,
+      "total_victims": 1047,
       "stealer_victims": 290
     },
     {
@@ -2042,12 +2042,6 @@
       "stealer_victims": 5
     },
     {
-      "group": "Icarus",
-      "percent": 12.5,
-      "total_victims": 8,
-      "stealer_victims": 1
-    },
-    {
       "group": "aurora",
       "percent": 10.0,
       "total_victims": 20,
@@ -2076,6 +2070,12 @@
       "percent": 8.445945945945946,
       "total_victims": 296,
       "stealer_victims": 25
+    },
+    {
+      "group": "Icarus",
+      "percent": 8.333333333333332,
+      "total_victims": 12,
+      "stealer_victims": 1
     },
     {
       "group": "cmdorganization",
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-23T09:54:29.266026Z"
+  "last_update": "2026-06-23T12:38:46.913199Z"
 }
