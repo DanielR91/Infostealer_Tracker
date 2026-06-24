@@ -1,8 +1,8 @@
 {
   "totals": {
-    "domains_tracked": 2715,
+    "domains_tracked": 2717,
     "employees_exposed": 136469,
-    "users_exposed": 19413725,
+    "users_exposed": 19413732,
     "thirdparties_exposed": 106403,
     "stealer_families_count": 19
   },
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 157
+      "count": 159
     }
   ],
   "sectors": [
@@ -263,7 +263,7 @@
     },
     {
       "name": "MX",
-      "count": 45
+      "count": 46
     },
     {
       "name": "TW",
@@ -271,7 +271,7 @@
     },
     {
       "name": "Unknown",
-      "count": 36
+      "count": 37
     },
     {
       "name": "ID",
@@ -1026,6 +1026,12 @@
       "stealer_victims": 72
     },
     {
+      "name": "MX",
+      "percent": 31.944444444444443,
+      "total_victims": 144,
+      "stealer_victims": 46
+    },
+    {
       "name": "BE",
       "percent": 31.818181818181817,
       "total_victims": 66,
@@ -1036,12 +1042,6 @@
       "percent": 31.818181818181817,
       "total_victims": 44,
       "stealer_victims": 14
-    },
-    {
-      "name": "MX",
-      "percent": 31.46853146853147,
-      "total_victims": 143,
-      "stealer_victims": 45
     },
     {
       "name": "SG",
@@ -1093,8 +1093,8 @@
     },
     {
       "name": "MY",
-      "percent": 28.735632183908045,
-      "total_victims": 87,
+      "percent": 28.40909090909091,
+      "total_victims": 88,
       "stealer_victims": 25
     },
     {
@@ -1195,8 +1195,8 @@
     },
     {
       "name": "IT",
-      "percent": 20.930232558139537,
-      "total_victims": 301,
+      "percent": 20.792079207920793,
+      "total_victims": 303,
       "stealer_victims": 63
     },
     {
@@ -1326,16 +1326,16 @@
       "stealer_victims": 3
     },
     {
+      "name": "Unknown",
+      "percent": 5.92,
+      "total_victims": 625,
+      "stealer_victims": 37
+    },
+    {
       "name": "UK",
       "percent": 5.88235294117647,
       "total_victims": 34,
       "stealer_victims": 2
-    },
-    {
-      "name": "Unknown",
-      "percent": 5.787781350482315,
-      "total_victims": 622,
-      "stealer_victims": 36
     },
     {
       "name": "BS",
@@ -1497,8 +1497,8 @@
     },
     {
       "group": "shinyhunters",
-      "percent": 54.6875,
-      "total_victims": 128,
+      "percent": 54.263565891472865,
+      "total_victims": 129,
       "stealer_victims": 70
     },
     {
@@ -1749,9 +1749,9 @@
     },
     {
       "group": "stormous",
-      "percent": 29.629629629629626,
-      "total_victims": 54,
-      "stealer_victims": 16
+      "percent": 30.0,
+      "total_victims": 60,
+      "stealer_victims": 18
     },
     {
       "group": "direwolf",
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-24T17:09:45.283854Z"
+  "last_update": "2026-06-24T19:54:51.447053Z"
 }
