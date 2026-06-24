@@ -1327,8 +1327,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.92,
-      "total_victims": 625,
+      "percent": 5.9105431309904155,
+      "total_victims": 626,
       "stealer_victims": 37
     },
     {
@@ -1857,8 +1857,8 @@
     },
     {
       "group": "anubis",
-      "percent": 23.809523809523807,
-      "total_victims": 84,
+      "percent": 23.52941176470588,
+      "total_victims": 85,
       "stealer_victims": 20
     },
     {
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-24T21:28:09.265339Z"
+  "last_update": "2026-06-24T23:11:49.192271Z"
 }
