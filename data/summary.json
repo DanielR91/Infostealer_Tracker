@@ -823,8 +823,8 @@
     },
     {
       "name": "BR",
-      "percent": 47.13114754098361,
-      "total_victims": 244,
+      "percent": 46.93877551020408,
+      "total_victims": 245,
       "stealer_victims": 115
     },
     {
@@ -1267,8 +1267,8 @@
     },
     {
       "name": "US",
-      "percent": 17.277941943333914,
-      "total_victims": 5753,
+      "percent": 17.27493917274939,
+      "total_victims": 5754,
       "stealer_victims": 994
     },
     {
@@ -1808,12 +1808,6 @@
       "stealer_victims": 13
     },
     {
-      "group": "bravox",
-      "percent": 26.31578947368421,
-      "total_victims": 19,
-      "stealer_victims": 5
-    },
-    {
       "group": "gunra",
       "percent": 26.190476190476193,
       "total_victims": 42,
@@ -1827,9 +1821,15 @@
     },
     {
       "group": "incransom",
-      "percent": 25.320512820512818,
-      "total_victims": 624,
+      "percent": 25.28,
+      "total_victims": 625,
       "stealer_victims": 158
+    },
+    {
+      "group": "bravox",
+      "percent": 25.0,
+      "total_victims": 20,
+      "stealer_victims": 5
     },
     {
       "group": "radar",
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-23T23:13:04.031560Z"
+  "last_update": "2026-06-24T04:06:30.181728Z"
 }
