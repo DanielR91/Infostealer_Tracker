@@ -1267,8 +1267,8 @@
     },
     {
       "name": "US",
-      "percent": 17.271937445699393,
-      "total_victims": 5755,
+      "percent": 17.26593712002779,
+      "total_victims": 5757,
       "stealer_victims": 994
     },
     {
@@ -1291,8 +1291,8 @@
     },
     {
       "name": "CA",
-      "percent": 15.398886827458256,
-      "total_victims": 539,
+      "percent": 15.37037037037037,
+      "total_victims": 540,
       "stealer_victims": 83
     },
     {
@@ -1815,8 +1815,8 @@
     },
     {
       "group": "interlock",
-      "percent": 25.773195876288657,
-      "total_victims": 97,
+      "percent": 25.510204081632654,
+      "total_victims": 98,
       "stealer_victims": 25
     },
     {
@@ -2013,8 +2013,8 @@
     },
     {
       "group": "chaos",
-      "percent": 15.254237288135593,
-      "total_victims": 59,
+      "percent": 15.0,
+      "total_victims": 60,
       "stealer_victims": 9
     },
     {
@@ -2174,15 +2174,15 @@
       "stealer_victims": 3
     },
     {
-      "group": "Black X",
+      "group": "insomnia",
       "percent": 0.0,
-      "total_victims": 5,
+      "total_victims": 37,
       "stealer_victims": 0
     },
     {
-      "group": "insomnia",
+      "group": "Black X",
       "percent": 0.0,
-      "total_victims": 36,
+      "total_victims": 5,
       "stealer_victims": 0
     },
     {
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-25T14:43:41.746404Z"
+  "last_update": "2026-06-25T17:18:37.324648Z"
 }
