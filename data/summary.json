@@ -1261,8 +1261,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.117229129662523,
-      "total_victims": 563,
+      "percent": 18.085106382978726,
+      "total_victims": 564,
       "stealer_victims": 102
     },
     {
@@ -1856,12 +1856,6 @@
       "stealer_victims": 1
     },
     {
-      "group": "anubis",
-      "percent": 23.52941176470588,
-      "total_victims": 85,
-      "stealer_victims": 20
-    },
-    {
       "group": "kawa4096",
       "percent": 23.52941176470588,
       "total_victims": 17,
@@ -1872,6 +1866,12 @@
       "percent": 23.52941176470588,
       "total_victims": 17,
       "stealer_victims": 4
+    },
+    {
+      "group": "anubis",
+      "percent": 23.25581395348837,
+      "total_victims": 86,
+      "stealer_victims": 20
     },
     {
       "group": "genesis",
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-25T17:18:37.324648Z"
+  "last_update": "2026-06-25T20:10:23.038566Z"
 }
