@@ -1,39 +1,39 @@
 {
   "totals": {
-    "domains_tracked": 2717,
+    "domains_tracked": 2718,
     "employees_exposed": 136469,
-    "users_exposed": 19413732,
-    "thirdparties_exposed": 106403,
+    "users_exposed": 19413749,
+    "thirdparties_exposed": 106412,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1215230
+      "count": 1215233
     },
     {
       "name": "Lumma",
-      "count": 600027
+      "count": 600033
     },
     {
       "name": "Generic Stealer",
-      "count": 469799
+      "count": 469803
     },
     {
       "name": "Raccoon",
-      "count": 322374
+      "count": 322375
     },
     {
       "name": "Azorult",
-      "count": 130739
+      "count": 130740
     },
     {
       "name": "StealC",
-      "count": 125070
+      "count": 125071
     },
     {
       "name": "Vidar",
-      "count": 124227
+      "count": 124229
     },
     {
       "name": "CRYPTBOT",
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 159
+      "count": 160
     }
   ],
   "sectors": [
@@ -165,7 +165,7 @@
     },
     {
       "name": "Education",
-      "count": 37395
+      "count": 37404
     },
     {
       "name": "Technology",
@@ -315,7 +315,7 @@
     },
     {
       "name": "PE",
-      "count": 22
+      "count": 23
     },
     {
       "name": "PL",
@@ -786,16 +786,16 @@
       "stealer_victims": 4
     },
     {
+      "name": "PE",
+      "percent": 53.48837209302325,
+      "total_victims": 43,
+      "stealer_victims": 23
+    },
+    {
       "name": "VE",
       "percent": 52.63157894736842,
       "total_victims": 19,
       "stealer_victims": 10
-    },
-    {
-      "name": "PE",
-      "percent": 52.38095238095239,
-      "total_victims": 42,
-      "stealer_victims": 22
     },
     {
       "name": "GH",
@@ -1321,14 +1321,14 @@
     },
     {
       "name": "RU",
-      "percent": 11.11111111111111,
-      "total_victims": 27,
+      "percent": 10.714285714285714,
+      "total_victims": 28,
       "stealer_victims": 3
     },
     {
       "name": "Unknown",
-      "percent": 5.9105431309904155,
-      "total_victims": 626,
+      "percent": 5.88235294117647,
+      "total_victims": 629,
       "stealer_victims": 37
     },
     {
@@ -1712,16 +1712,16 @@
       "stealer_victims": 2
     },
     {
+      "group": "krybit",
+      "percent": 32.142857142857146,
+      "total_victims": 56,
+      "stealer_victims": 18
+    },
+    {
       "group": "cactus",
       "percent": 32.075471698113205,
       "total_victims": 53,
       "stealer_victims": 17
-    },
-    {
-      "group": "morpheus",
-      "percent": 31.57894736842105,
-      "total_victims": 19,
-      "stealer_victims": 6
     },
     {
       "group": "tridentlocker",
@@ -1736,16 +1736,16 @@
       "stealer_victims": 29
     },
     {
-      "group": "krybit",
-      "percent": 30.909090909090907,
-      "total_victims": 55,
-      "stealer_victims": 17
-    },
-    {
       "group": "blackshrantac",
       "percent": 30.23255813953488,
       "total_victims": 43,
       "stealer_victims": 13
+    },
+    {
+      "group": "morpheus",
+      "percent": 30.0,
+      "total_victims": 20,
+      "stealer_victims": 6
     },
     {
       "group": "stormous",
@@ -1791,8 +1791,8 @@
     },
     {
       "group": "akira",
-      "percent": 27.645376549094376,
-      "total_victims": 1049,
+      "percent": 27.59276879162702,
+      "total_victims": 1051,
       "stealer_victims": 290
     },
     {
@@ -1904,12 +1904,6 @@
       "stealer_victims": 7
     },
     {
-      "group": "AuditTeam",
-      "percent": 21.428571428571427,
-      "total_victims": 14,
-      "stealer_victims": 3
-    },
-    {
       "group": "cephalus",
       "percent": 21.052631578947366,
       "total_victims": 19,
@@ -1932,6 +1926,12 @@
       "percent": 20.116054158607348,
       "total_victims": 517,
       "stealer_victims": 104
+    },
+    {
+      "group": "AuditTeam",
+      "percent": 20.0,
+      "total_victims": 15,
+      "stealer_victims": 3
     },
     {
       "group": "0day Syndicate",
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-25T04:06:49.002500Z"
+  "last_update": "2026-06-25T14:43:41.746404Z"
 }
