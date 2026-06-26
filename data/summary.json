@@ -1267,8 +1267,8 @@
     },
     {
       "name": "US",
-      "percent": 17.26593712002779,
-      "total_victims": 5757,
+      "percent": 17.262938520319558,
+      "total_victims": 5758,
       "stealer_victims": 994
     },
     {
@@ -2151,8 +2151,8 @@
     },
     {
       "group": "play",
-      "percent": 4.387568555758683,
-      "total_victims": 547,
+      "percent": 4.37956204379562,
+      "total_victims": 548,
       "stealer_victims": 24
     },
     {
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-26T15:27:27.258015Z"
+  "last_update": "2026-06-26T17:56:04.388279Z"
 }
