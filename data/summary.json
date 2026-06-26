@@ -1326,16 +1326,16 @@
       "stealer_victims": 3
     },
     {
-      "name": "Unknown",
-      "percent": 5.88235294117647,
-      "total_victims": 629,
-      "stealer_victims": 37
-    },
-    {
       "name": "UK",
       "percent": 5.88235294117647,
       "total_victims": 34,
       "stealer_victims": 2
+    },
+    {
+      "name": "Unknown",
+      "percent": 5.873015873015873,
+      "total_victims": 630,
+      "stealer_victims": 37
     },
     {
       "name": "BS",
@@ -1592,12 +1592,6 @@
       "stealer_victims": 10
     },
     {
-      "group": "PrinzEugen",
-      "percent": 40.0,
-      "total_victims": 5,
-      "stealer_victims": 2
-    },
-    {
       "group": "embargo",
       "percent": 39.130434782608695,
       "total_victims": 23,
@@ -1686,6 +1680,12 @@
       "percent": 33.440514469453376,
       "total_victims": 311,
       "stealer_victims": 104
+    },
+    {
+      "group": "PrinzEugen",
+      "percent": 33.33333333333333,
+      "total_victims": 6,
+      "stealer_victims": 2
     },
     {
       "group": "krybit",
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-26T00:16:27.039358Z"
+  "last_update": "2026-06-26T05:14:20.910036Z"
 }
