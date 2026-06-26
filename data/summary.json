@@ -1326,16 +1326,16 @@
       "stealer_victims": 3
     },
     {
-      "name": "Unknown",
-      "percent": 5.88235294117647,
-      "total_victims": 629,
-      "stealer_victims": 37
-    },
-    {
       "name": "UK",
       "percent": 5.88235294117647,
       "total_victims": 34,
       "stealer_victims": 2
+    },
+    {
+      "name": "Unknown",
+      "percent": 5.873015873015873,
+      "total_victims": 630,
+      "stealer_victims": 37
     },
     {
       "name": "BS",
@@ -1791,8 +1791,8 @@
     },
     {
       "group": "akira",
-      "percent": 27.59276879162702,
-      "total_victims": 1051,
+      "percent": 27.566539923954377,
+      "total_victims": 1052,
       "stealer_victims": 290
     },
     {
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-26T12:17:05.389897Z"
+  "last_update": "2026-06-26T15:27:27.258015Z"
 }
