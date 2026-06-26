@@ -756,12 +756,6 @@
       "stealer_victims": 2
     },
     {
-      "name": "CR",
-      "percent": 62.5,
-      "total_victims": 8,
-      "stealer_victims": 5
-    },
-    {
       "name": "IQ",
       "percent": 62.5,
       "total_victims": 8,
@@ -784,6 +778,12 @@
       "percent": 57.14285714285714,
       "total_victims": 7,
       "stealer_victims": 4
+    },
+    {
+      "name": "CR",
+      "percent": 55.55555555555556,
+      "total_victims": 9,
+      "stealer_victims": 5
     },
     {
       "name": "PE",
@@ -1285,8 +1285,8 @@
     },
     {
       "name": "AU",
-      "percent": 15.59633027522936,
-      "total_victims": 218,
+      "percent": 15.454545454545453,
+      "total_victims": 220,
       "stealer_victims": 34
     },
     {
@@ -1327,8 +1327,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.901116427432217,
-      "total_victims": 627,
+      "percent": 5.88235294117647,
+      "total_victims": 629,
       "stealer_victims": 37
     },
     {
@@ -1509,8 +1509,8 @@
     },
     {
       "group": "nova",
-      "percent": 50.641025641025635,
-      "total_victims": 156,
+      "percent": 50.0,
+      "total_victims": 158,
       "stealer_victims": 79
     },
     {
@@ -1670,12 +1670,6 @@
       "stealer_victims": 14
     },
     {
-      "group": "payload",
-      "percent": 33.89830508474576,
-      "total_victims": 59,
-      "stealer_victims": 20
-    },
-    {
       "group": "rhysida",
       "percent": 33.63636363636363,
       "total_victims": 110,
@@ -1716,6 +1710,12 @@
       "percent": 33.33333333333333,
       "total_victims": 6,
       "stealer_victims": 2
+    },
+    {
+      "group": "payload",
+      "percent": 32.25806451612903,
+      "total_victims": 62,
+      "stealer_victims": 20
     },
     {
       "group": "cactus",
@@ -2270,5 +2270,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-26T09:39:09.950176Z"
+  "last_update": "2026-06-26T12:17:05.389897Z"
 }
