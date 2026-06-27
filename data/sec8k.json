@@ -1,13 +1,13 @@
 [
   {
-    "company": "ESS Tech, Inc.",
-    "stockticker": "GWH, GWH-WT",
+    "company": "ENERGY FUELS INC",
+    "stockticker": "UUUU",
     "form": "8-K",
-    "file_date": "2026-06-23",
-    "cik": "0001819438",
-    "adsh": "0001819438-26-000053",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001819438/000181943826000053/0001819438-26-000053-index.htm",
-    "display_name": "ESS Tech, Inc.  (GWH, GWH-WT)  (CIK 0001819438)",
+    "file_date": "2026-06-26",
+    "cik": "0001385849",
+    "adsh": "0001062993-26-003385",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001385849/000106299326003385/0001062993-26-003385-index.htm",
+    "display_name": "ENERGY FUELS INC  (UUUU)  (CIK 0001385849)",
     "item105": false,
     "item801": true
   }
