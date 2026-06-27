@@ -1265,8 +1265,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.053097345132745,
-      "total_victims": 565,
+      "percent": 17.989417989417987,
+      "total_victims": 567,
       "stealer_victims": 102
     },
     {
@@ -1331,8 +1331,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.9870550161812295,
-      "total_victims": 618,
+      "percent": 5.977382875605816,
+      "total_victims": 619,
       "stealer_victims": 37
     },
     {
@@ -1981,8 +1981,8 @@
     },
     {
       "group": "safepay",
-      "percent": 18.161925601750546,
-      "total_victims": 457,
+      "percent": 18.12227074235808,
+      "total_victims": 458,
       "stealer_victims": 83
     },
     {
@@ -2155,8 +2155,8 @@
     },
     {
       "group": "play",
-      "percent": 4.37956204379562,
-      "total_victims": 548,
+      "percent": 4.363636363636364,
+      "total_victims": 550,
       "stealer_victims": 24
     },
     {
@@ -2274,5 +2274,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-27T18:09:59.146491Z"
+  "last_update": "2026-06-27T20:13:04.755995Z"
 }
