@@ -1,8 +1,8 @@
 {
   "totals": {
-    "domains_tracked": 2727,
-    "employees_exposed": 136487,
-    "users_exposed": 19414055,
+    "domains_tracked": 2728,
+    "employees_exposed": 136488,
+    "users_exposed": 19414059,
     "thirdparties_exposed": 106525,
     "stealer_families_count": 19
   },
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 169
+      "count": 170
     }
   ],
   "sectors": [
@@ -169,7 +169,7 @@
     },
     {
       "name": "Technology",
-      "count": 29902
+      "count": 29903
     },
     {
       "name": "Telecommunication",
@@ -223,7 +223,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 997
+      "count": 998
     },
     {
       "name": "BR",
@@ -1271,9 +1271,9 @@
     },
     {
       "name": "US",
-      "percent": 17.285020804438282,
-      "total_victims": 5768,
-      "stealer_victims": 997
+      "percent": 17.299358641012308,
+      "total_victims": 5769,
+      "stealer_victims": 998
     },
     {
       "name": "BH",
@@ -2005,9 +2005,9 @@
     },
     {
       "group": "dragonforce",
-      "percent": 15.598290598290598,
-      "total_victims": 468,
-      "stealer_victims": 73
+      "percent": 15.778251599147122,
+      "total_victims": 469,
+      "stealer_victims": 74
     },
     {
       "group": "m3rx",
@@ -2274,5 +2274,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-26T23:14:04.472948Z"
+  "last_update": "2026-06-27T03:59:43.968986Z"
 }
