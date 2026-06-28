@@ -1,39 +1,39 @@
 {
   "totals": {
-    "domains_tracked": 2728,
-    "employees_exposed": 136488,
-    "users_exposed": 19414059,
-    "thirdparties_exposed": 106525,
+    "domains_tracked": 2730,
+    "employees_exposed": 136496,
+    "users_exposed": 19414151,
+    "thirdparties_exposed": 106545,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1215393
+      "count": 1215440
     },
     {
       "name": "Lumma",
-      "count": 600049
+      "count": 600069
     },
     {
       "name": "Generic Stealer",
-      "count": 469837
+      "count": 469851
     },
     {
       "name": "Raccoon",
-      "count": 322395
+      "count": 322399
     },
     {
       "name": "Azorult",
-      "count": 130742
+      "count": 130743
     },
     {
       "name": "StealC",
-      "count": 125084
+      "count": 125088
     },
     {
       "name": "Vidar",
-      "count": 124239
+      "count": 124242
     },
     {
       "name": "CRYPTBOT",
@@ -155,13 +155,13 @@
     },
     {
       "month": "2026-06",
-      "count": 170
+      "count": 172
     }
   ],
   "sectors": [
     {
       "name": "Financial Services",
-      "count": 67202
+      "count": 67204
     },
     {
       "name": "Education",
@@ -201,7 +201,7 @@
     },
     {
       "name": "Healthcare",
-      "count": 5061
+      "count": 5087
     },
     {
       "name": "Manufacturing",
@@ -223,7 +223,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 998
+      "count": 1000
     },
     {
       "name": "BR",
@@ -1271,9 +1271,9 @@
     },
     {
       "name": "US",
-      "percent": 17.299358641012308,
-      "total_victims": 5769,
-      "stealer_victims": 998
+      "percent": 17.325017325017324,
+      "total_victims": 5772,
+      "stealer_victims": 1000
     },
     {
       "name": "BH",
@@ -1331,8 +1331,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.977382875605816,
-      "total_victims": 619,
+      "percent": 5.9870550161812295,
+      "total_victims": 618,
       "stealer_victims": 37
     },
     {
@@ -2274,5 +2274,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-28T05:21:49.248064Z"
+  "last_update": "2026-06-28T14:02:05.072087Z"
 }
