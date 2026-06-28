@@ -929,8 +929,8 @@
     },
     {
       "name": "CO",
-      "percent": 39.50617283950617,
-      "total_victims": 81,
+      "percent": 39.02439024390244,
+      "total_victims": 82,
       "stealer_victims": 32
     },
     {
@@ -2094,16 +2094,16 @@
       "stealer_victims": 2
     },
     {
-      "group": "cmdorganization",
-      "percent": 7.6923076923076925,
-      "total_victims": 26,
-      "stealer_victims": 2
-    },
-    {
       "group": "AiLock",
       "percent": 7.5,
       "total_victims": 40,
       "stealer_victims": 3
+    },
+    {
+      "group": "cmdorganization",
+      "percent": 7.4074074074074066,
+      "total_victims": 27,
+      "stealer_victims": 2
     },
     {
       "group": "weyhro",
@@ -2274,5 +2274,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-28T14:02:05.072087Z"
+  "last_update": "2026-06-28T16:19:10.685434Z"
 }
