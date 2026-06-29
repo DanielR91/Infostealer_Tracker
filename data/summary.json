@@ -1271,8 +1271,8 @@
     },
     {
       "name": "US",
-      "percent": 17.370242214532873,
-      "total_victims": 5780,
+      "percent": 17.367237502162254,
+      "total_victims": 5781,
       "stealer_victims": 1004
     },
     {
@@ -1283,8 +1283,8 @@
     },
     {
       "name": "CZ",
-      "percent": 15.909090909090908,
-      "total_victims": 44,
+      "percent": 15.555555555555555,
+      "total_victims": 45,
       "stealer_victims": 7
     },
     {
@@ -1331,8 +1331,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.929487179487179,
-      "total_victims": 624,
+      "percent": 5.92,
+      "total_victims": 625,
       "stealer_victims": 37
     },
     {
@@ -1692,12 +1692,6 @@
       "stealer_victims": 14
     },
     {
-      "group": "payload",
-      "percent": 33.87096774193548,
-      "total_victims": 62,
-      "stealer_victims": 21
-    },
-    {
       "group": "rhysida",
       "percent": 33.63636363636363,
       "total_victims": 110,
@@ -1708,6 +1702,12 @@
       "percent": 33.440514469453376,
       "total_victims": 311,
       "stealer_victims": 104
+    },
+    {
+      "group": "payload",
+      "percent": 33.33333333333333,
+      "total_victims": 63,
+      "stealer_victims": 21
     },
     {
       "group": "moneymessage",
@@ -2155,8 +2155,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.257009345794392,
-      "total_victims": 1712,
+      "percent": 5.250875145857643,
+      "total_victims": 1714,
       "stealer_victims": 90
     },
     {
@@ -2280,5 +2280,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-29T00:13:39.257390Z"
+  "last_update": "2026-06-29T05:55:25.859597Z"
 }
