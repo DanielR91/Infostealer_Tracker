@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2742,
-    "employees_exposed": 139853,
+    "domains_tracked": 2743,
+    "employees_exposed": 139855,
     "users_exposed": 19447725,
-    "thirdparties_exposed": 110490,
+    "thirdparties_exposed": 110491,
     "stealer_families_count": 19
   },
   "families": [
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 184
+      "count": 185
     }
   ],
   "sectors": [
@@ -205,7 +205,7 @@
     },
     {
       "name": "Manufacturing",
-      "count": 4940
+      "count": 4943
     },
     {
       "name": "Agriculture and Food Production",
@@ -258,16 +258,16 @@
       "count": 63
     },
     {
+      "name": "TW",
+      "count": 48
+    },
+    {
       "name": "MX",
       "count": 48
     },
     {
       "name": "TH",
       "count": 48
-    },
-    {
-      "name": "TW",
-      "count": 47
     },
     {
       "name": "Unknown",
@@ -940,16 +940,16 @@
       "stealer_victims": 18
     },
     {
+      "name": "TW",
+      "percent": 37.79527559055118,
+      "total_victims": 127,
+      "stealer_victims": 48
+    },
+    {
       "name": "UY",
       "percent": 37.5,
       "total_victims": 8,
       "stealer_victims": 3
-    },
-    {
-      "name": "TW",
-      "percent": 37.301587301587304,
-      "total_victims": 126,
-      "stealer_victims": 47
     },
     {
       "name": "AE",
@@ -1331,8 +1331,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.92,
-      "total_victims": 625,
+      "percent": 5.958132045088567,
+      "total_victims": 621,
       "stealer_victims": 37
     },
     {
@@ -1752,6 +1752,12 @@
       "stealer_victims": 13
     },
     {
+      "group": "stormous",
+      "percent": 30.158730158730158,
+      "total_victims": 63,
+      "stealer_victims": 19
+    },
+    {
       "group": "morpheus",
       "percent": 30.0,
       "total_victims": 20,
@@ -1786,12 +1792,6 @@
       "percent": 28.57142857142857,
       "total_victims": 7,
       "stealer_victims": 2
-    },
-    {
-      "group": "stormous",
-      "percent": 28.35820895522388,
-      "total_victims": 67,
-      "stealer_victims": 19
     },
     {
       "group": "abyss",
@@ -2280,5 +2280,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-29T05:55:25.859597Z"
+  "last_update": "2026-06-29T11:11:55.168741Z"
 }
