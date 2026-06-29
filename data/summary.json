@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2747,
-    "employees_exposed": 139889,
-    "users_exposed": 19447860,
-    "thirdparties_exposed": 110562,
+    "domains_tracked": 2748,
+    "employees_exposed": 139909,
+    "users_exposed": 19447869,
+    "thirdparties_exposed": 110571,
     "stealer_families_count": 19
   },
   "families": [
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 189
+      "count": 190
     }
   ],
   "sectors": [
@@ -193,7 +193,7 @@
     },
     {
       "name": "Public Sector",
-      "count": 10060
+      "count": 10089
     },
     {
       "name": "Energy",
@@ -346,6 +346,10 @@
       "count": 15
     },
     {
+      "name": "NO",
+      "count": 14
+    },
+    {
       "name": "CN",
       "count": 14
     },
@@ -371,10 +375,6 @@
     },
     {
       "name": "DK",
-      "count": 13
-    },
-    {
-      "name": "NO",
       "count": 13
     },
     {
@@ -838,6 +838,12 @@
       "stealer_victims": 115
     },
     {
+      "name": "NO",
+      "percent": 46.666666666666664,
+      "total_victims": 30,
+      "stealer_victims": 14
+    },
+    {
       "name": "EC",
       "percent": 46.666666666666664,
       "total_victims": 15,
@@ -848,12 +854,6 @@
       "percent": 46.15384615384615,
       "total_victims": 13,
       "stealer_victims": 6
-    },
-    {
-      "name": "NO",
-      "percent": 44.827586206896555,
-      "total_victims": 29,
-      "stealer_victims": 13
     },
     {
       "name": "DO",
@@ -989,8 +989,8 @@
     },
     {
       "name": "AR",
-      "percent": 34.090909090909086,
-      "total_victims": 88,
+      "percent": 33.70786516853933,
+      "total_victims": 89,
       "stealer_victims": 30
     },
     {
@@ -1084,16 +1084,16 @@
       "stealer_victims": 3
     },
     {
-      "name": "FR",
-      "percent": 29.780564263322884,
-      "total_victims": 319,
-      "stealer_victims": 95
-    },
-    {
       "name": "ES",
       "percent": 29.739776951672862,
       "total_victims": 269,
       "stealer_victims": 80
+    },
+    {
+      "name": "FR",
+      "percent": 29.6875,
+      "total_victims": 320,
+      "stealer_victims": 95
     },
     {
       "name": "MY",
@@ -1222,16 +1222,16 @@
       "stealer_victims": 1
     },
     {
-      "name": "JP",
-      "percent": 18.91891891891892,
-      "total_victims": 185,
-      "stealer_victims": 35
-    },
-    {
       "name": "CN",
       "percent": 18.91891891891892,
       "total_victims": 74,
       "stealer_victims": 14
+    },
+    {
+      "name": "JP",
+      "percent": 18.817204301075268,
+      "total_victims": 186,
+      "stealer_victims": 35
     },
     {
       "name": "AT",
@@ -1265,8 +1265,8 @@
     },
     {
       "name": "DE",
-      "percent": 17.95774647887324,
-      "total_victims": 568,
+      "percent": 17.894736842105264,
+      "total_victims": 570,
       "stealer_victims": 102
     },
     {
@@ -2052,6 +2052,12 @@
       "stealer_victims": 5
     },
     {
+      "group": "cmdorganization",
+      "percent": 10.344827586206897,
+      "total_victims": 29,
+      "stealer_victims": 3
+    },
+    {
       "group": "aurora",
       "percent": 10.0,
       "total_victims": 20,
@@ -2106,12 +2112,6 @@
       "stealer_victims": 3
     },
     {
-      "group": "cmdorganization",
-      "percent": 7.142857142857142,
-      "total_victims": 28,
-      "stealer_victims": 2
-    },
-    {
       "group": "weyhro",
       "percent": 7.142857142857142,
       "total_victims": 14,
@@ -2155,8 +2155,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.241700640652301,
-      "total_victims": 1717,
+      "percent": 5.229517722254503,
+      "total_victims": 1721,
       "stealer_victims": 90
     },
     {
@@ -2280,5 +2280,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-29T15:56:59.189499Z"
+  "last_update": "2026-06-29T18:17:09.962621Z"
 }
