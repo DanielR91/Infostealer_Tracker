@@ -1246,12 +1246,6 @@
       "stealer_victims": 13
     },
     {
-      "name": "GB",
-      "percent": 18.200836820083683,
-      "total_victims": 478,
-      "stealer_victims": 87
-    },
-    {
       "name": "HU",
       "percent": 18.181818181818183,
       "total_victims": 11,
@@ -1264,6 +1258,12 @@
       "stealer_victims": 4
     },
     {
+      "name": "GB",
+      "percent": 18.16283924843424,
+      "total_victims": 479,
+      "stealer_victims": 87
+    },
+    {
       "name": "DE",
       "percent": 17.894736842105264,
       "total_victims": 570,
@@ -1271,8 +1271,8 @@
     },
     {
       "name": "US",
-      "percent": 17.37551867219917,
-      "total_victims": 5784,
+      "percent": 17.369512616660906,
+      "total_victims": 5786,
       "stealer_victims": 1005
     },
     {
@@ -1626,16 +1626,16 @@
       "stealer_victims": 13
     },
     {
-      "group": "payoutsking",
-      "percent": 38.0,
-      "total_victims": 100,
-      "stealer_victims": 38
-    },
-    {
       "group": "VanHelsing",
       "percent": 37.5,
       "total_victims": 8,
       "stealer_victims": 3
+    },
+    {
+      "group": "payoutsking",
+      "percent": 37.254901960784316,
+      "total_victims": 102,
+      "stealer_victims": 38
     },
     {
       "group": "warlock",
@@ -1668,12 +1668,6 @@
       "stealer_victims": 17
     },
     {
-      "group": "threeam",
-      "percent": 35.13513513513514,
-      "total_victims": 37,
-      "stealer_victims": 13
-    },
-    {
       "group": "medusa",
       "percent": 34.59119496855346,
       "total_victims": 159,
@@ -1684,6 +1678,12 @@
       "percent": 34.48275862068966,
       "total_victims": 58,
       "stealer_victims": 20
+    },
+    {
+      "group": "threeam",
+      "percent": 34.21052631578947,
+      "total_victims": 38,
+      "stealer_victims": 13
     },
     {
       "group": "lockbit3",
@@ -2280,5 +2280,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-29T20:51:35.976549Z"
+  "last_update": "2026-06-29T22:13:21.752629Z"
 }
