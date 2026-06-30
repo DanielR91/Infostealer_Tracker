@@ -1271,8 +1271,8 @@
     },
     {
       "name": "US",
-      "percent": 17.369512616660906,
-      "total_victims": 5786,
+      "percent": 17.366511145671332,
+      "total_victims": 5787,
       "stealer_victims": 1005
     },
     {
@@ -1608,12 +1608,6 @@
       "stealer_victims": 2
     },
     {
-      "group": "embargo",
-      "percent": 39.130434782608695,
-      "total_victims": 23,
-      "stealer_victims": 9
-    },
-    {
       "group": "BrainCipher",
       "percent": 38.88888888888889,
       "total_victims": 36,
@@ -1624,6 +1618,12 @@
       "percent": 38.23529411764706,
       "total_victims": 34,
       "stealer_victims": 13
+    },
+    {
+      "group": "embargo",
+      "percent": 37.5,
+      "total_victims": 24,
+      "stealer_victims": 9
     },
     {
       "group": "VanHelsing",
@@ -2280,5 +2280,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-30T00:11:37.813599Z"
+  "last_update": "2026-06-30T05:09:54.062631Z"
 }
