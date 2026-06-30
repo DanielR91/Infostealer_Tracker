@@ -1271,14 +1271,14 @@
     },
     {
       "name": "DE",
-      "percent": 18.006993006993007,
-      "total_victims": 572,
+      "percent": 17.975567190226876,
+      "total_victims": 573,
       "stealer_victims": 103
     },
     {
       "name": "US",
-      "percent": 17.371053993444885,
-      "total_victims": 5797,
+      "percent": 17.368057951017594,
+      "total_victims": 5798,
       "stealer_victims": 1007
     },
     {
@@ -2058,12 +2058,6 @@
       "stealer_victims": 5
     },
     {
-      "group": "aurora",
-      "percent": 10.0,
-      "total_victims": 20,
-      "stealer_victims": 2
-    },
-    {
       "group": "Deadlock",
       "percent": 10.0,
       "total_victims": 10,
@@ -2080,6 +2074,12 @@
       "percent": 9.574468085106384,
       "total_victims": 94,
       "stealer_victims": 9
+    },
+    {
+      "group": "aurora",
+      "percent": 9.523809523809524,
+      "total_victims": 21,
+      "stealer_victims": 2
     },
     {
       "group": "ransomhouse",
@@ -2167,8 +2167,8 @@
     },
     {
       "group": "play",
-      "percent": 4.363636363636364,
-      "total_victims": 550,
+      "percent": 4.3557168784029034,
+      "total_victims": 551,
       "stealer_victims": 24
     },
     {
@@ -2286,5 +2286,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-30T18:02:37.284092Z"
+  "last_update": "2026-06-30T20:59:45.958875Z"
 }
