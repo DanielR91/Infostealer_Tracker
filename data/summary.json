@@ -994,6 +994,12 @@
       "stealer_victims": 30
     },
     {
+      "name": "GE",
+      "percent": 33.33333333333333,
+      "total_victims": 3,
+      "stealer_victims": 1
+    },
+    {
       "name": "TN",
       "percent": 33.33333333333333,
       "total_victims": 12,
@@ -1271,8 +1277,8 @@
     },
     {
       "name": "US",
-      "percent": 17.366511145671332,
-      "total_victims": 5787,
+      "percent": 17.363510711817554,
+      "total_victims": 5788,
       "stealer_victims": 1005
     },
     {
@@ -1331,8 +1337,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.958132045088567,
-      "total_victims": 621,
+      "percent": 5.94855305466238,
+      "total_victims": 622,
       "stealer_victims": 37
     },
     {
@@ -1902,12 +1908,6 @@
       "stealer_victims": 2
     },
     {
-      "group": "blacknevas",
-      "percent": 21.875,
-      "total_victims": 32,
-      "stealer_victims": 7
-    },
-    {
       "group": "blacklock",
       "percent": 21.875,
       "total_victims": 64,
@@ -1917,6 +1917,12 @@
       "group": "bianlian",
       "percent": 21.875,
       "total_victims": 32,
+      "stealer_victims": 7
+    },
+    {
+      "group": "blacknevas",
+      "percent": 21.21212121212121,
+      "total_victims": 33,
       "stealer_victims": 7
     },
     {
@@ -2052,12 +2058,6 @@
       "stealer_victims": 5
     },
     {
-      "group": "cmdorganization",
-      "percent": 10.344827586206897,
-      "total_victims": 29,
-      "stealer_victims": 3
-    },
-    {
       "group": "aurora",
       "percent": 10.0,
       "total_victims": 20,
@@ -2068,6 +2068,12 @@
       "percent": 10.0,
       "total_victims": 10,
       "stealer_victims": 1
+    },
+    {
+      "group": "cmdorganization",
+      "percent": 9.67741935483871,
+      "total_victims": 31,
+      "stealer_victims": 3
     },
     {
       "group": "spacebears",
@@ -2280,5 +2286,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-30T05:09:54.062631Z"
+  "last_update": "2026-06-30T09:51:39.028417Z"
 }
