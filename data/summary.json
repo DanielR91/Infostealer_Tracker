@@ -1,8 +1,8 @@
 {
   "totals": {
-    "domains_tracked": 2748,
+    "domains_tracked": 2751,
     "employees_exposed": 139909,
-    "users_exposed": 19447869,
+    "users_exposed": 19447906,
     "thirdparties_exposed": 110571,
     "stealer_families_count": 19
   },
@@ -155,7 +155,7 @@
     },
     {
       "month": "2026-06",
-      "count": 190
+      "count": 193
     }
   ],
   "sectors": [
@@ -223,7 +223,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 1005
+      "count": 1006
     },
     {
       "name": "BR",
@@ -271,7 +271,7 @@
     },
     {
       "name": "Unknown",
-      "count": 37
+      "count": 39
     },
     {
       "name": "SG",
@@ -1097,8 +1097,8 @@
     },
     {
       "name": "FR",
-      "percent": 29.6875,
-      "total_victims": 320,
+      "percent": 29.595015576323984,
+      "total_victims": 321,
       "stealer_victims": 95
     },
     {
@@ -1277,9 +1277,9 @@
     },
     {
       "name": "US",
-      "percent": 17.363510711817554,
-      "total_victims": 5788,
-      "stealer_victims": 1005
+      "percent": 17.374784110535405,
+      "total_victims": 5790,
+      "stealer_victims": 1006
     },
     {
       "name": "BH",
@@ -1337,9 +1337,9 @@
     },
     {
       "name": "Unknown",
-      "percent": 5.94855305466238,
-      "total_victims": 622,
-      "stealer_victims": 37
+      "percent": 6.239999999999999,
+      "total_victims": 625,
+      "stealer_victims": 39
     },
     {
       "name": "UK",
@@ -1416,12 +1416,6 @@
       "stealer_victims": 5
     },
     {
-      "group": "settra",
-      "percent": 81.81818181818183,
-      "total_victims": 11,
-      "stealer_victims": 9
-    },
-    {
       "group": "apt73",
       "percent": 77.38095238095238,
       "total_victims": 84,
@@ -1432,6 +1426,12 @@
       "percent": 76.19047619047619,
       "total_victims": 21,
       "stealer_victims": 16
+    },
+    {
+      "group": "settra",
+      "percent": 75.0,
+      "total_victims": 16,
+      "stealer_victims": 12
     },
     {
       "group": "exitium",
@@ -1807,8 +1807,8 @@
     },
     {
       "group": "akira",
-      "percent": 27.756653992395435,
-      "total_victims": 1052,
+      "percent": 27.730294396961064,
+      "total_victims": 1053,
       "stealer_victims": 292
     },
     {
@@ -2286,5 +2286,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-06-30T09:51:39.028417Z"
+  "last_update": "2026-06-30T12:15:20.802809Z"
 }
