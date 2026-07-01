@@ -1261,8 +1261,8 @@
     },
     {
       "name": "GB",
-      "percent": 18.25726141078838,
-      "total_victims": 482,
+      "percent": 18.219461697722565,
+      "total_victims": 483,
       "stealer_victims": 88
     },
     {
@@ -1285,8 +1285,8 @@
     },
     {
       "name": "US",
-      "percent": 17.38382099827883,
-      "total_victims": 5810,
+      "percent": 17.380829461366375,
+      "total_victims": 5811,
       "stealer_victims": 1010
     },
     {
@@ -1345,8 +1345,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.190476190476191,
-      "total_victims": 630,
+      "percent": 6.180665610142631,
+      "total_victims": 631,
       "stealer_victims": 39
     },
     {
@@ -1766,16 +1766,16 @@
       "stealer_victims": 13
     },
     {
-      "group": "stormous",
-      "percent": 30.158730158730158,
-      "total_victims": 63,
-      "stealer_victims": 19
-    },
-    {
       "group": "morpheus",
       "percent": 30.0,
       "total_victims": 20,
       "stealer_victims": 6
+    },
+    {
+      "group": "stormous",
+      "percent": 29.6875,
+      "total_victims": 64,
+      "stealer_victims": 19
     },
     {
       "group": "direwolf",
@@ -1845,8 +1845,8 @@
     },
     {
       "group": "incransom",
-      "percent": 25.158227848101266,
-      "total_victims": 632,
+      "percent": 25.118483412322274,
+      "total_victims": 633,
       "stealer_victims": 159
     },
     {
@@ -1995,8 +1995,8 @@
     },
     {
       "group": "safepay",
-      "percent": 18.12227074235808,
-      "total_victims": 458,
+      "percent": 18.082788671023962,
+      "total_victims": 459,
       "stealer_victims": 83
     },
     {
@@ -2294,5 +2294,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-01T18:03:11.744630Z"
+  "last_update": "2026-07-01T20:50:24.635601Z"
 }
