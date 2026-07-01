@@ -1277,8 +1277,8 @@
     },
     {
       "name": "US",
-      "percent": 17.365062941886535,
-      "total_victims": 5799,
+      "percent": 17.359076021375625,
+      "total_victims": 5801,
       "stealer_victims": 1007
     },
     {
@@ -1513,8 +1513,8 @@
     },
     {
       "group": "shinyhunters",
-      "percent": 54.263565891472865,
-      "total_victims": 129,
+      "percent": 53.43511450381679,
+      "total_victims": 131,
       "stealer_victims": 70
     },
     {
@@ -2286,5 +2286,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-01T10:00:27.703946Z"
+  "last_update": "2026-07-01T12:43:38.908397Z"
 }
