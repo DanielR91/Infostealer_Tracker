@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2760,
+    "domains_tracked": 2761,
     "employees_exposed": 139877,
     "users_exposed": 19448953,
-    "thirdparties_exposed": 110749,
+    "thirdparties_exposed": 110750,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 5
+      "count": 6
     }
   ],
   "sectors": [
@@ -197,7 +197,7 @@
     },
     {
       "name": "Public Sector",
-      "count": 10089
+      "count": 10090
     },
     {
       "name": "Energy",
@@ -235,7 +235,7 @@
     },
     {
       "name": "DE",
-      "count": 103
+      "count": 104
     },
     {
       "name": "FR",
@@ -1279,9 +1279,9 @@
     },
     {
       "name": "DE",
-      "percent": 17.975567190226876,
-      "total_victims": 573,
-      "stealer_victims": 103
+      "percent": 18.086956521739133,
+      "total_victims": 575,
+      "stealer_victims": 104
     },
     {
       "name": "US",
@@ -1995,9 +1995,9 @@
     },
     {
       "group": "safepay",
-      "percent": 18.082788671023962,
-      "total_victims": 459,
-      "stealer_victims": 83
+      "percent": 18.22125813449024,
+      "total_victims": 461,
+      "stealer_victims": 84
     },
     {
       "group": "blacknevas",
@@ -2294,5 +2294,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-01T20:50:24.635601Z"
+  "last_update": "2026-07-01T22:22:14.357633Z"
 }
