@@ -1285,14 +1285,14 @@
     },
     {
       "name": "DE",
-      "percent": 18.072289156626507,
-      "total_victims": 581,
+      "percent": 18.04123711340206,
+      "total_victims": 582,
       "stealer_victims": 105
     },
     {
       "name": "US",
-      "percent": 17.371134020618555,
-      "total_victims": 5820,
+      "percent": 17.368149802439444,
+      "total_victims": 5821,
       "stealer_victims": 1011
     },
     {
@@ -1718,12 +1718,6 @@
       "stealer_victims": 104
     },
     {
-      "group": "payload",
-      "percent": 33.33333333333333,
-      "total_victims": 63,
-      "stealer_victims": 21
-    },
-    {
       "group": "moneymessage",
       "percent": 33.33333333333333,
       "total_victims": 6,
@@ -1740,6 +1734,12 @@
       "percent": 33.33333333333333,
       "total_victims": 6,
       "stealer_victims": 2
+    },
+    {
+      "group": "payload",
+      "percent": 32.8125,
+      "total_victims": 64,
+      "stealer_victims": 21
     },
     {
       "group": "medusalocker",
@@ -2084,16 +2084,16 @@
       "stealer_victims": 3
     },
     {
-      "group": "spacebears",
-      "percent": 9.574468085106384,
-      "total_victims": 94,
-      "stealer_victims": 9
-    },
-    {
       "group": "aurora",
       "percent": 9.523809523809524,
       "total_victims": 21,
       "stealer_victims": 2
+    },
+    {
+      "group": "spacebears",
+      "percent": 9.473684210526317,
+      "total_victims": 95,
+      "stealer_victims": 9
     },
     {
       "group": "ransomhouse",
@@ -2300,5 +2300,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-02T05:03:05.048026Z"
+  "last_update": "2026-07-02T09:23:18.372255Z"
 }
