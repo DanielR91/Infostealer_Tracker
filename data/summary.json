@@ -1309,8 +1309,8 @@
     },
     {
       "name": "AU",
-      "percent": 15.52511415525114,
-      "total_victims": 219,
+      "percent": 15.454545454545453,
+      "total_victims": 220,
       "stealer_victims": 34
     },
     {
@@ -1351,8 +1351,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.151419558359621,
-      "total_victims": 634,
+      "percent": 6.141732283464567,
+      "total_victims": 635,
       "stealer_victims": 39
     },
     {
@@ -1718,12 +1718,6 @@
       "stealer_victims": 104
     },
     {
-      "group": "moneymessage",
-      "percent": 33.33333333333333,
-      "total_victims": 6,
-      "stealer_victims": 2
-    },
-    {
       "group": "obscura",
       "percent": 33.33333333333333,
       "total_victims": 33,
@@ -1800,6 +1794,12 @@
       "percent": 29.059829059829063,
       "total_victims": 117,
       "stealer_victims": 34
+    },
+    {
+      "group": "moneymessage",
+      "percent": 28.57142857142857,
+      "total_victims": 7,
+      "stealer_victims": 2
     },
     {
       "group": "benzona",
@@ -2175,8 +2175,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.205320994794679,
-      "total_victims": 1729,
+      "percent": 5.202312138728324,
+      "total_victims": 1730,
       "stealer_victims": 90
     },
     {
@@ -2300,5 +2300,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-02T09:23:18.372255Z"
+  "last_update": "2026-07-02T12:12:24.923653Z"
 }
