@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2789,
+    "domains_tracked": 2791,
     "employees_exposed": 140894,
     "users_exposed": 19475504,
-    "thirdparties_exposed": 111859,
+    "thirdparties_exposed": 111861,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 34
+      "count": 36
     }
   ],
   "sectors": [
@@ -193,7 +193,7 @@
     },
     {
       "name": "Not Found",
-      "count": 10676
+      "count": 10677
     },
     {
       "name": "Public Sector",
@@ -209,7 +209,7 @@
     },
     {
       "name": "Manufacturing",
-      "count": 5050
+      "count": 5051
     },
     {
       "name": "Agriculture and Food Production",
@@ -278,12 +278,12 @@
       "count": 39
     },
     {
-      "name": "JP",
+      "name": "SG",
       "count": 36
     },
     {
-      "name": "SG",
-      "count": 35
+      "name": "JP",
+      "count": 36
     },
     {
       "name": "ID",
@@ -315,7 +315,7 @@
     },
     {
       "name": "TR",
-      "count": 24
+      "count": 25
     },
     {
       "name": "PL",
@@ -1051,9 +1051,9 @@
     },
     {
       "name": "SG",
-      "percent": 31.818181818181817,
-      "total_victims": 110,
-      "stealer_victims": 35
+      "percent": 32.432432432432435,
+      "total_victims": 111,
+      "stealer_victims": 36
     },
     {
       "name": "ZA",
@@ -1140,6 +1140,12 @@
       "stealer_victims": 12
     },
     {
+      "name": "TR",
+      "percent": 25.252525252525253,
+      "total_victims": 99,
+      "stealer_victims": 25
+    },
+    {
       "name": "PA",
       "percent": 25.0,
       "total_victims": 12,
@@ -1156,12 +1162,6 @@
       "percent": 25.0,
       "total_victims": 4,
       "stealer_victims": 1
-    },
-    {
-      "name": "TR",
-      "percent": 24.489795918367346,
-      "total_victims": 98,
-      "stealer_victims": 24
     },
     {
       "name": "IE",
@@ -1291,8 +1291,8 @@
     },
     {
       "name": "US",
-      "percent": 17.373390557939913,
-      "total_victims": 5825,
+      "percent": 17.370408513559905,
+      "total_victims": 5826,
       "stealer_victims": 1012
     },
     {
@@ -1431,9 +1431,9 @@
     },
     {
       "group": "apt73",
-      "percent": 77.01149425287356,
-      "total_victims": 87,
-      "stealer_victims": 67
+      "percent": 77.27272727272727,
+      "total_victims": 88,
+      "stealer_victims": 68
     },
     {
       "group": "lapsus$",
@@ -2042,6 +2042,12 @@
       "stealer_victims": 4
     },
     {
+      "group": "pear",
+      "percent": 14.85148514851485,
+      "total_victims": 101,
+      "stealer_victims": 15
+    },
+    {
       "group": "chaos",
       "percent": 14.516129032258066,
       "total_victims": 62,
@@ -2058,12 +2064,6 @@
       "percent": 14.285714285714285,
       "total_victims": 7,
       "stealer_victims": 1
-    },
-    {
-      "group": "pear",
-      "percent": 14.14141414141414,
-      "total_victims": 99,
-      "stealer_victims": 14
     },
     {
       "group": "termite",
@@ -2300,5 +2300,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-03T10:43:54.345250Z"
+  "last_update": "2026-07-03T13:00:40.059762Z"
 }
