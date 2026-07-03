@@ -1,8 +1,8 @@
 {
   "totals": {
-    "domains_tracked": 2791,
-    "employees_exposed": 140894,
-    "users_exposed": 19475504,
+    "domains_tracked": 2792,
+    "employees_exposed": 140895,
+    "users_exposed": 19475505,
     "thirdparties_exposed": 111861,
     "stealer_families_count": 19
   },
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 36
+      "count": 37
     }
   ],
   "sectors": [
@@ -209,7 +209,7 @@
     },
     {
       "name": "Manufacturing",
-      "count": 5051
+      "count": 5052
     },
     {
       "name": "Agriculture and Food Production",
@@ -231,7 +231,7 @@
     },
     {
       "name": "BR",
-      "count": 120
+      "count": 121
     },
     {
       "name": "DE",
@@ -847,9 +847,9 @@
     },
     {
       "name": "BR",
-      "percent": 47.43083003952569,
-      "total_victims": 253,
-      "stealer_victims": 120
+      "percent": 47.63779527559055,
+      "total_victims": 254,
+      "stealer_victims": 121
     },
     {
       "name": "NO",
@@ -2300,5 +2300,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-03T13:00:40.059762Z"
+  "last_update": "2026-07-03T15:21:22.052289Z"
 }
