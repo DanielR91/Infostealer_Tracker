@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2787,
+    "domains_tracked": 2789,
     "employees_exposed": 140894,
-    "users_exposed": 19475486,
-    "thirdparties_exposed": 111851,
+    "users_exposed": 19475504,
+    "thirdparties_exposed": 111859,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 32
+      "count": 34
     }
   ],
   "sectors": [
@@ -193,7 +193,7 @@
     },
     {
       "name": "Not Found",
-      "count": 10668
+      "count": 10676
     },
     {
       "name": "Public Sector",
@@ -271,7 +271,7 @@
     },
     {
       "name": "MX",
-      "count": 48
+      "count": 49
     },
     {
       "name": "Unknown",
@@ -311,7 +311,7 @@
     },
     {
       "name": "MY",
-      "count": 25
+      "count": 26
     },
     {
       "name": "TR",
@@ -1002,6 +1002,12 @@
       "stealer_victims": 30
     },
     {
+      "name": "MX",
+      "percent": 33.33333333333333,
+      "total_victims": 147,
+      "stealer_victims": 49
+    },
+    {
       "name": "IN",
       "percent": 33.33333333333333,
       "total_victims": 228,
@@ -1042,12 +1048,6 @@
       "percent": 33.33333333333333,
       "total_victims": 3,
       "stealer_victims": 1
-    },
-    {
-      "name": "MX",
-      "percent": 32.87671232876712,
-      "total_victims": 146,
-      "stealer_victims": 48
     },
     {
       "name": "SG",
@@ -1104,16 +1104,16 @@
       "stealer_victims": 3
     },
     {
+      "name": "MY",
+      "percent": 29.88505747126437,
+      "total_victims": 87,
+      "stealer_victims": 26
+    },
+    {
       "name": "FR",
       "percent": 29.878048780487802,
       "total_victims": 328,
       "stealer_victims": 98
-    },
-    {
-      "name": "MY",
-      "percent": 29.069767441860467,
-      "total_victims": 86,
-      "stealer_victims": 25
     },
     {
       "name": "DK",
@@ -1676,6 +1676,12 @@
       "stealer_victims": 4
     },
     {
+      "group": "krybit",
+      "percent": 36.231884057971016,
+      "total_victims": 69,
+      "stealer_victims": 25
+    },
+    {
       "group": "hunters",
       "percent": 36.17021276595745,
       "total_victims": 47,
@@ -1686,12 +1692,6 @@
       "percent": 34.59119496855346,
       "total_victims": 159,
       "stealer_victims": 55
-    },
-    {
-      "group": "krybit",
-      "percent": 34.32835820895522,
-      "total_victims": 67,
-      "stealer_victims": 23
     },
     {
       "group": "threeam",
@@ -2300,5 +2300,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-03T07:28:40.999842Z"
+  "last_update": "2026-07-03T10:43:54.345250Z"
 }
