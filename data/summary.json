@@ -858,12 +858,6 @@
       "stealer_victims": 14
     },
     {
-      "name": "EC",
-      "percent": 46.666666666666664,
-      "total_victims": 15,
-      "stealer_victims": 7
-    },
-    {
       "name": "NG",
       "percent": 46.15384615384615,
       "total_victims": 13,
@@ -880,6 +874,12 @@
       "percent": 44.44444444444444,
       "total_victims": 9,
       "stealer_victims": 4
+    },
+    {
+      "name": "EC",
+      "percent": 43.75,
+      "total_victims": 16,
+      "stealer_victims": 7
     },
     {
       "name": "VN",
@@ -1291,8 +1291,8 @@
     },
     {
       "name": "US",
-      "percent": 17.34431291816778,
-      "total_victims": 5829,
+      "percent": 17.341337907375642,
+      "total_victims": 5830,
       "stealer_victims": 1011
     },
     {
@@ -1716,6 +1716,12 @@
       "percent": 33.440514469453376,
       "total_victims": 311,
       "stealer_victims": 104
+    },
+    {
+      "group": "Wallstreet",
+      "percent": 33.33333333333333,
+      "total_victims": 3,
+      "stealer_victims": 1
     },
     {
       "group": "payload",
@@ -2300,5 +2306,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-04T17:13:20.347976Z"
+  "last_update": "2026-07-04T19:22:56.092463Z"
 }
