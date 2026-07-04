@@ -1291,8 +1291,8 @@
     },
     {
       "name": "US",
-      "percent": 17.364447494852435,
-      "total_victims": 5828,
+      "percent": 17.361468519471607,
+      "total_victims": 5829,
       "stealer_victims": 1012
     },
     {
@@ -1309,8 +1309,8 @@
     },
     {
       "name": "AU",
-      "percent": 15.454545454545453,
-      "total_victims": 220,
+      "percent": 15.384615384615385,
+      "total_victims": 221,
       "stealer_victims": 34
     },
     {
@@ -2181,8 +2181,8 @@
     },
     {
       "group": "play",
-      "percent": 4.3557168784029034,
-      "total_victims": 551,
+      "percent": 4.3399638336347195,
+      "total_victims": 553,
       "stealer_victims": 24
     },
     {
@@ -2300,5 +2300,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-04T06:52:14.509632Z"
+  "last_update": "2026-07-04T09:27:05.282181Z"
 }
