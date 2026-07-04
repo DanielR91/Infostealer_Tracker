@@ -1291,8 +1291,8 @@
     },
     {
       "name": "US",
-      "percent": 17.341337907375642,
-      "total_victims": 5830,
+      "percent": 17.33539094650206,
+      "total_victims": 5832,
       "stealer_victims": 1011
     },
     {
@@ -1718,12 +1718,6 @@
       "stealer_victims": 104
     },
     {
-      "group": "Wallstreet",
-      "percent": 33.33333333333333,
-      "total_victims": 3,
-      "stealer_victims": 1
-    },
-    {
       "group": "payload",
       "percent": 33.33333333333333,
       "total_victims": 63,
@@ -1962,6 +1956,12 @@
       "percent": 20.121951219512198,
       "total_victims": 328,
       "stealer_victims": 66
+    },
+    {
+      "group": "Wallstreet",
+      "percent": 20.0,
+      "total_victims": 5,
+      "stealer_victims": 1
     },
     {
       "group": "AuditTeam",
@@ -2306,5 +2306,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-04T19:22:56.092463Z"
+  "last_update": "2026-07-04T21:04:35.968988Z"
 }
