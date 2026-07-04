@@ -1285,8 +1285,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.010291595197256,
-      "total_victims": 583,
+      "percent": 17.97945205479452,
+      "total_victims": 584,
       "stealer_victims": 105
     },
     {
@@ -2300,5 +2300,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-04T09:27:05.282181Z"
+  "last_update": "2026-07-04T11:38:19.925972Z"
 }
