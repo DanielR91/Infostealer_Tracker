@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2792,
-    "employees_exposed": 141249,
-    "users_exposed": 19479519,
-    "thirdparties_exposed": 112389,
+    "domains_tracked": 2796,
+    "employees_exposed": 141253,
+    "users_exposed": 19479520,
+    "thirdparties_exposed": 112391,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 38
+      "count": 42
     }
   ],
   "sectors": [
@@ -193,7 +193,7 @@
     },
     {
       "name": "Not Found",
-      "count": 10677
+      "count": 10678
     },
     {
       "name": "Public Sector",
@@ -205,11 +205,11 @@
     },
     {
       "name": "Healthcare",
-      "count": 5097
+      "count": 5101
     },
     {
       "name": "Manufacturing",
-      "count": 5052
+      "count": 5053
     },
     {
       "name": "Agriculture and Food Production",
@@ -227,7 +227,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 1011
+      "count": 1014
     },
     {
       "name": "BR",
@@ -307,7 +307,7 @@
     },
     {
       "name": "CH",
-      "count": 27
+      "count": 28
     },
     {
       "name": "MY",
@@ -1146,6 +1146,12 @@
       "stealer_victims": 25
     },
     {
+      "name": "CH",
+      "percent": 25.225225225225223,
+      "total_victims": 111,
+      "stealer_victims": 28
+    },
+    {
       "name": "PA",
       "percent": 25.0,
       "total_victims": 12,
@@ -1162,12 +1168,6 @@
       "percent": 25.0,
       "total_victims": 4,
       "stealer_victims": 1
-    },
-    {
-      "name": "CH",
-      "percent": 24.324324324324326,
-      "total_victims": 111,
-      "stealer_victims": 27
     },
     {
       "name": "IE",
@@ -1219,8 +1219,8 @@
     },
     {
       "name": "IT",
-      "percent": 20.64516129032258,
-      "total_victims": 310,
+      "percent": 20.578778135048232,
+      "total_victims": 311,
       "stealer_victims": 64
     },
     {
@@ -1291,9 +1291,9 @@
     },
     {
       "name": "US",
-      "percent": 17.33539094650206,
-      "total_victims": 5832,
-      "stealer_victims": 1011
+      "percent": 17.354098921786754,
+      "total_victims": 5843,
+      "stealer_victims": 1014
     },
     {
       "name": "CZ",
@@ -1351,8 +1351,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.122448979591836,
-      "total_victims": 637,
+      "percent": 6.132075471698113,
+      "total_victims": 636,
       "stealer_victims": 39
     },
     {
@@ -1592,6 +1592,12 @@
       "stealer_victims": 87
     },
     {
+      "group": "moneymessage",
+      "percent": 42.857142857142854,
+      "total_victims": 7,
+      "stealer_victims": 3
+    },
+    {
       "group": "blackwater",
       "percent": 42.857142857142854,
       "total_victims": 7,
@@ -1718,12 +1724,6 @@
       "stealer_victims": 104
     },
     {
-      "group": "payload",
-      "percent": 33.33333333333333,
-      "total_victims": 63,
-      "stealer_victims": 21
-    },
-    {
       "group": "obscura",
       "percent": 33.33333333333333,
       "total_victims": 33,
@@ -1740,6 +1740,12 @@
       "percent": 32.35294117647059,
       "total_victims": 34,
       "stealer_victims": 11
+    },
+    {
+      "group": "payload",
+      "percent": 32.30769230769231,
+      "total_victims": 65,
+      "stealer_victims": 21
     },
     {
       "group": "cactus",
@@ -1794,12 +1800,6 @@
       "percent": 29.059829059829063,
       "total_victims": 117,
       "stealer_victims": 34
-    },
-    {
-      "group": "moneymessage",
-      "percent": 28.57142857142857,
-      "total_victims": 7,
-      "stealer_victims": 2
     },
     {
       "group": "benzona",
@@ -1886,6 +1886,12 @@
       "stealer_victims": 1
     },
     {
+      "group": "anubis",
+      "percent": 24.175824175824175,
+      "total_victims": 91,
+      "stealer_victims": 22
+    },
+    {
       "group": "kawa4096",
       "percent": 23.52941176470588,
       "total_victims": 17,
@@ -1898,16 +1904,10 @@
       "stealer_victims": 4
     },
     {
-      "group": "anubis",
-      "percent": 23.076923076923077,
-      "total_victims": 91,
-      "stealer_victims": 21
-    },
-    {
       "group": "genesis",
-      "percent": 23.076923076923077,
-      "total_victims": 91,
-      "stealer_victims": 21
+      "percent": 23.0,
+      "total_victims": 100,
+      "stealer_victims": 23
     },
     {
       "group": "d4rk4rmy",
@@ -2306,5 +2306,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-05T12:21:01.033245Z"
+  "last_update": "2026-07-05T22:07:23.477296Z"
 }
