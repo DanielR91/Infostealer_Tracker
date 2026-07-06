@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2808,
+    "domains_tracked": 2810,
     "employees_exposed": 141287,
-    "users_exposed": 19481680,
-    "thirdparties_exposed": 112479,
+    "users_exposed": 19481696,
+    "thirdparties_exposed": 112481,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 54
+      "count": 56
     }
   ],
   "sectors": [
@@ -181,7 +181,7 @@
     },
     {
       "name": "Business Services",
-      "count": 15336
+      "count": 15338
     },
     {
       "name": "Consumer Services",
@@ -227,7 +227,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 1017
+      "count": 1018
     },
     {
       "name": "BR",
@@ -235,7 +235,7 @@
     },
     {
       "name": "DE",
-      "count": 106
+      "count": 107
     },
     {
       "name": "FR",
@@ -1279,21 +1279,21 @@
     },
     {
       "name": "DE",
-      "percent": 18.15068493150685,
-      "total_victims": 584,
-      "stealer_victims": 106
+      "percent": 18.104906937394247,
+      "total_victims": 591,
+      "stealer_victims": 107
     },
     {
       "name": "GB",
-      "percent": 18.069815195071868,
-      "total_victims": 487,
+      "percent": 18.0327868852459,
+      "total_victims": 488,
       "stealer_victims": 88
     },
     {
       "name": "US",
-      "percent": 17.381644163390874,
-      "total_victims": 5851,
-      "stealer_victims": 1017
+      "percent": 17.392790022210832,
+      "total_victims": 5853,
+      "stealer_victims": 1018
     },
     {
       "name": "CZ",
@@ -2019,9 +2019,9 @@
     },
     {
       "group": "safepay",
-      "percent": 18.22125813449024,
-      "total_victims": 461,
-      "stealer_victims": 84
+      "percent": 18.29787234042553,
+      "total_victims": 470,
+      "stealer_victims": 86
     },
     {
       "group": "blacknevas",
@@ -2066,12 +2066,6 @@
       "stealer_victims": 15
     },
     {
-      "group": "chaos",
-      "percent": 14.285714285714285,
-      "total_victims": 63,
-      "stealer_victims": 9
-    },
-    {
       "group": "alphalocker",
       "percent": 14.285714285714285,
       "total_victims": 14,
@@ -2082,6 +2076,12 @@
       "percent": 14.285714285714285,
       "total_victims": 7,
       "stealer_victims": 1
+    },
+    {
+      "group": "chaos",
+      "percent": 14.0625,
+      "total_victims": 64,
+      "stealer_victims": 9
     },
     {
       "group": "termite",
@@ -2318,5 +2318,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-06T17:48:12.099458Z"
+  "last_update": "2026-07-06T20:06:13.099375Z"
 }
