@@ -1285,8 +1285,8 @@
     },
     {
       "name": "GB",
-      "percent": 18.144329896907216,
-      "total_victims": 485,
+      "percent": 18.106995884773664,
+      "total_victims": 486,
       "stealer_victims": 88
     },
     {
@@ -2097,8 +2097,8 @@
     },
     {
       "group": "spacebears",
-      "percent": 9.473684210526317,
-      "total_victims": 95,
+      "percent": 9.375,
+      "total_victims": 96,
       "stealer_victims": 9
     },
     {
@@ -2306,5 +2306,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-06T00:12:39.077787Z"
+  "last_update": "2026-07-06T05:17:49.545651Z"
 }
