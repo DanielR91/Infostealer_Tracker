@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2810,
+    "domains_tracked": 2811,
     "employees_exposed": 141287,
     "users_exposed": 19481696,
-    "thirdparties_exposed": 112481,
+    "thirdparties_exposed": 112482,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 56
+      "count": 57
     }
   ],
   "sectors": [
@@ -173,7 +173,7 @@
     },
     {
       "name": "Technology",
-      "count": 31665
+      "count": 31666
     },
     {
       "name": "Telecommunication",
@@ -231,7 +231,7 @@
     },
     {
       "name": "BR",
-      "count": 122
+      "count": 123
     },
     {
       "name": "DE",
@@ -853,9 +853,9 @@
     },
     {
       "name": "BR",
-      "percent": 47.84313725490196,
-      "total_victims": 255,
-      "stealer_victims": 122
+      "percent": 48.046875,
+      "total_victims": 256,
+      "stealer_victims": 123
     },
     {
       "name": "NO",
@@ -1279,8 +1279,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.104906937394247,
-      "total_victims": 591,
+      "percent": 18.074324324324326,
+      "total_victims": 592,
       "stealer_victims": 107
     },
     {
@@ -1291,8 +1291,8 @@
     },
     {
       "name": "US",
-      "percent": 17.392790022210832,
-      "total_victims": 5853,
+      "percent": 17.389818927229246,
+      "total_victims": 5854,
       "stealer_victims": 1018
     },
     {
@@ -1857,9 +1857,9 @@
     },
     {
       "group": "incransom",
-      "percent": 25.429017160686428,
-      "total_victims": 641,
-      "stealer_victims": 163
+      "percent": 25.505443234836704,
+      "total_victims": 643,
+      "stealer_victims": 164
     },
     {
       "group": "bravox",
@@ -2109,8 +2109,8 @@
     },
     {
       "group": "spacebears",
-      "percent": 9.375,
-      "total_victims": 96,
+      "percent": 9.278350515463918,
+      "total_victims": 97,
       "stealer_victims": 9
     },
     {
@@ -2318,5 +2318,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-07T00:14:20.800313Z"
+  "last_update": "2026-07-07T04:57:49.436947Z"
 }
