@@ -1,55 +1,55 @@
 {
   "totals": {
-    "domains_tracked": 2811,
-    "employees_exposed": 141287,
-    "users_exposed": 19481696,
-    "thirdparties_exposed": 112482,
+    "domains_tracked": 2814,
+    "employees_exposed": 141319,
+    "users_exposed": 19482679,
+    "thirdparties_exposed": 112734,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1232992
+      "count": 1233124
     },
     {
       "name": "Lumma",
-      "count": 613658
+      "count": 613795
     },
     {
       "name": "Generic Stealer",
-      "count": 484741
+      "count": 484955
     },
     {
       "name": "Raccoon",
-      "count": 326841
+      "count": 326884
     },
     {
       "name": "Azorult",
-      "count": 131977
+      "count": 132031
     },
     {
       "name": "StealC",
-      "count": 130653
+      "count": 130667
     },
     {
       "name": "Vidar",
-      "count": 126476
+      "count": 126512
     },
     {
       "name": "CRYPTBOT",
-      "count": 12370
+      "count": 12371
     },
     {
       "name": "Acreed",
-      "count": 7241
+      "count": 7246
     },
     {
       "name": "Mystic",
-      "count": 4757
+      "count": 4758
     },
     {
       "name": "Atomic",
-      "count": 3952
+      "count": 3953
     },
     {
       "name": "DarkCrystal",
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 57
+      "count": 60
     }
   ],
   "sectors": [
@@ -181,7 +181,7 @@
     },
     {
       "name": "Business Services",
-      "count": 15338
+      "count": 15339
     },
     {
       "name": "Consumer Services",
@@ -193,7 +193,7 @@
     },
     {
       "name": "Not Found",
-      "count": 10686
+      "count": 10969
     },
     {
       "name": "Public Sector",
@@ -227,7 +227,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 1018
+      "count": 1019
     },
     {
       "name": "BR",
@@ -247,7 +247,7 @@
     },
     {
       "name": "CA",
-      "count": 84
+      "count": 85
     },
     {
       "name": "ES",
@@ -275,7 +275,7 @@
     },
     {
       "name": "Unknown",
-      "count": 39
+      "count": 40
     },
     {
       "name": "SG",
@@ -1291,9 +1291,9 @@
     },
     {
       "name": "US",
-      "percent": 17.389818927229246,
-      "total_victims": 5854,
-      "stealer_victims": 1018
+      "percent": 17.400956284153004,
+      "total_victims": 5856,
+      "stealer_victims": 1019
     },
     {
       "name": "CZ",
@@ -1308,16 +1308,16 @@
       "stealer_victims": 1
     },
     {
+      "name": "CA",
+      "percent": 15.51094890510949,
+      "total_victims": 548,
+      "stealer_victims": 85
+    },
+    {
       "name": "AU",
       "percent": 15.384615384615385,
       "total_victims": 221,
       "stealer_victims": 34
-    },
-    {
-      "name": "CA",
-      "percent": 15.356489945155394,
-      "total_victims": 547,
-      "stealer_victims": 84
     },
     {
       "name": "HK",
@@ -1351,9 +1351,9 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.132075471698113,
-      "total_victims": 636,
-      "stealer_victims": 39
+      "percent": 6.279434850863422,
+      "total_victims": 637,
+      "stealer_victims": 40
     },
     {
       "name": "UK",
@@ -1706,6 +1706,12 @@
       "stealer_victims": 55
     },
     {
+      "group": "medusalocker",
+      "percent": 34.285714285714285,
+      "total_victims": 35,
+      "stealer_victims": 12
+    },
+    {
       "group": "threeam",
       "percent": 34.21052631578947,
       "total_victims": 38,
@@ -1746,12 +1752,6 @@
       "percent": 33.33333333333333,
       "total_victims": 6,
       "stealer_victims": 2
-    },
-    {
-      "group": "medusalocker",
-      "percent": 32.35294117647059,
-      "total_victims": 34,
-      "stealer_victims": 11
     },
     {
       "group": "payload",
@@ -2042,16 +2042,16 @@
       "stealer_victims": 3
     },
     {
+      "group": "dragonforce",
+      "percent": 16.386554621848738,
+      "total_victims": 476,
+      "stealer_victims": 78
+    },
+    {
       "group": "devman",
       "percent": 16.304347826086957,
       "total_victims": 184,
       "stealer_victims": 30
-    },
-    {
-      "group": "dragonforce",
-      "percent": 16.033755274261605,
-      "total_victims": 474,
-      "stealer_victims": 76
     },
     {
       "group": "m3rx",
@@ -2145,8 +2145,8 @@
     },
     {
       "group": "AiLock",
-      "percent": 7.5,
-      "total_victims": 40,
+      "percent": 7.317073170731707,
+      "total_victims": 41,
       "stealer_victims": 3
     },
     {
@@ -2318,5 +2318,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-07T04:57:49.436947Z"
+  "last_update": "2026-07-07T08:32:42.472730Z"
 }
