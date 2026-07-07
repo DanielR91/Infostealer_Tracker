@@ -1146,10 +1146,10 @@
       "stealer_victims": 12
     },
     {
-      "name": "CH",
+      "name": "TR",
       "percent": 25.0,
-      "total_victims": 112,
-      "stealer_victims": 28
+      "total_victims": 100,
+      "stealer_victims": 25
     },
     {
       "name": "PA",
@@ -1170,10 +1170,10 @@
       "stealer_victims": 1
     },
     {
-      "name": "TR",
-      "percent": 24.752475247524753,
-      "total_victims": 101,
-      "stealer_victims": 25
+      "name": "CH",
+      "percent": 24.778761061946902,
+      "total_victims": 113,
+      "stealer_victims": 28
     },
     {
       "name": "IE",
@@ -1225,8 +1225,8 @@
     },
     {
       "name": "IT",
-      "percent": 20.51282051282051,
-      "total_victims": 312,
+      "percent": 20.447284345047922,
+      "total_victims": 313,
       "stealer_victims": 64
     },
     {
@@ -1544,6 +1544,12 @@
       "stealer_victims": 80
     },
     {
+      "group": "blackwater",
+      "percent": 50.0,
+      "total_victims": 6,
+      "stealer_victims": 3
+    },
+    {
       "group": "cipherforce",
       "percent": 50.0,
       "total_victims": 6,
@@ -1599,12 +1605,6 @@
     },
     {
       "group": "moneymessage",
-      "percent": 42.857142857142854,
-      "total_victims": 7,
-      "stealer_victims": 3
-    },
-    {
-      "group": "blackwater",
       "percent": 42.857142857142854,
       "total_victims": 7,
       "stealer_victims": 3
@@ -1862,12 +1862,6 @@
       "stealer_victims": 164
     },
     {
-      "group": "bravox",
-      "percent": 25.0,
-      "total_victims": 20,
-      "stealer_victims": 5
-    },
-    {
       "group": "radar",
       "percent": 25.0,
       "total_victims": 24,
@@ -1896,6 +1890,12 @@
       "percent": 24.175824175824175,
       "total_victims": 91,
       "stealer_victims": 22
+    },
+    {
+      "group": "bravox",
+      "percent": 23.809523809523807,
+      "total_victims": 21,
+      "stealer_victims": 5
     },
     {
       "group": "kawa4096",
@@ -2145,8 +2145,8 @@
     },
     {
       "group": "AiLock",
-      "percent": 7.317073170731707,
-      "total_victims": 41,
+      "percent": 7.142857142857142,
+      "total_victims": 42,
       "stealer_victims": 3
     },
     {
@@ -2318,5 +2318,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-07T08:32:42.472730Z"
+  "last_update": "2026-07-07T11:56:52.281915Z"
 }
