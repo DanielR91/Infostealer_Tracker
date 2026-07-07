@@ -1,8 +1,8 @@
 {
   "totals": {
-    "domains_tracked": 2814,
-    "employees_exposed": 141319,
-    "users_exposed": 19482679,
+    "domains_tracked": 2815,
+    "employees_exposed": 141325,
+    "users_exposed": 19482694,
     "thirdparties_exposed": 112734,
     "stealer_families_count": 19
   },
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 60
+      "count": 61
     }
   ],
   "sectors": [
@@ -197,7 +197,7 @@
     },
     {
       "name": "Public Sector",
-      "count": 10090
+      "count": 10096
     },
     {
       "name": "Energy",
@@ -458,6 +458,10 @@
       "count": 6
     },
     {
+      "name": "BO",
+      "count": 5
+    },
+    {
       "name": "JM",
       "count": 5
     },
@@ -475,10 +479,6 @@
     },
     {
       "name": "PY",
-      "count": 4
-    },
-    {
-      "name": "BO",
       "count": 4
     },
     {
@@ -822,6 +822,12 @@
       "stealer_victims": 8
     },
     {
+      "name": "BO",
+      "percent": 50.0,
+      "total_victims": 10,
+      "stealer_victims": 5
+    },
+    {
       "name": "DZ",
       "percent": 50.0,
       "total_victims": 6,
@@ -874,12 +880,6 @@
       "percent": 44.44444444444444,
       "total_victims": 18,
       "stealer_victims": 8
-    },
-    {
-      "name": "BO",
-      "percent": 44.44444444444444,
-      "total_victims": 9,
-      "stealer_victims": 4
     },
     {
       "name": "EC",
@@ -1291,8 +1291,8 @@
     },
     {
       "name": "US",
-      "percent": 17.400956284153004,
-      "total_victims": 5856,
+      "percent": 17.395015363605324,
+      "total_victims": 5858,
       "stealer_victims": 1019
     },
     {
@@ -1309,8 +1309,8 @@
     },
     {
       "name": "CA",
-      "percent": 15.51094890510949,
-      "total_victims": 548,
+      "percent": 15.482695810564662,
+      "total_victims": 549,
       "stealer_victims": 85
     },
     {
@@ -1351,8 +1351,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.279434850863422,
-      "total_victims": 637,
+      "percent": 6.25,
+      "total_victims": 640,
       "stealer_victims": 40
     },
     {
@@ -1670,6 +1670,12 @@
       "stealer_victims": 29
     },
     {
+      "group": "krybit",
+      "percent": 37.142857142857146,
+      "total_victims": 70,
+      "stealer_victims": 26
+    },
+    {
       "group": "J",
       "percent": 36.58536585365854,
       "total_victims": 41,
@@ -1686,12 +1692,6 @@
       "percent": 36.36363636363637,
       "total_victims": 11,
       "stealer_victims": 4
-    },
-    {
-      "group": "krybit",
-      "percent": 36.231884057971016,
-      "total_victims": 69,
-      "stealer_victims": 25
     },
     {
       "group": "hunters",
@@ -1827,8 +1827,8 @@
     },
     {
       "group": "akira",
-      "percent": 27.677725118483416,
-      "total_victims": 1055,
+      "percent": 27.57318224740321,
+      "total_victims": 1059,
       "stealer_victims": 292
     },
     {
@@ -2096,16 +2096,16 @@
       "stealer_victims": 1
     },
     {
-      "group": "cmdorganization",
-      "percent": 9.67741935483871,
-      "total_victims": 31,
-      "stealer_victims": 3
-    },
-    {
       "group": "aurora",
       "percent": 9.523809523809524,
       "total_victims": 21,
       "stealer_victims": 2
+    },
+    {
+      "group": "cmdorganization",
+      "percent": 9.375,
+      "total_victims": 32,
+      "stealer_victims": 3
     },
     {
       "group": "spacebears",
@@ -2193,8 +2193,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.223880597014925,
-      "total_victims": 1742,
+      "percent": 5.220883534136546,
+      "total_victims": 1743,
       "stealer_victims": 91
     },
     {
@@ -2318,5 +2318,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-07T11:56:52.281915Z"
+  "last_update": "2026-07-07T14:56:18.831364Z"
 }
