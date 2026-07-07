@@ -1291,8 +1291,8 @@
     },
     {
       "name": "US",
-      "percent": 17.395015363605324,
-      "total_victims": 5858,
+      "percent": 17.39204642430449,
+      "total_victims": 5859,
       "stealer_victims": 1019
     },
     {
@@ -1345,8 +1345,8 @@
     },
     {
       "name": "RU",
-      "percent": 10.714285714285714,
-      "total_victims": 28,
+      "percent": 10.344827586206897,
+      "total_victims": 29,
       "stealer_victims": 3
     },
     {
@@ -1850,16 +1850,16 @@
       "stealer_victims": 13
     },
     {
-      "group": "interlock",
-      "percent": 25.510204081632654,
-      "total_victims": 98,
-      "stealer_victims": 25
-    },
-    {
       "group": "incransom",
       "percent": 25.505443234836704,
       "total_victims": 643,
       "stealer_victims": 164
+    },
+    {
+      "group": "interlock",
+      "percent": 25.252525252525253,
+      "total_victims": 99,
+      "stealer_victims": 25
     },
     {
       "group": "radar",
@@ -1964,12 +1964,6 @@
       "stealer_victims": 66
     },
     {
-      "group": "Booba Project",
-      "percent": 20.0,
-      "total_victims": 5,
-      "stealer_victims": 1
-    },
-    {
       "group": "Wallstreet",
       "percent": 20.0,
       "total_victims": 5,
@@ -2034,6 +2028,12 @@
       "percent": 17.24137931034483,
       "total_victims": 29,
       "stealer_victims": 5
+    },
+    {
+      "group": "Booba Project",
+      "percent": 16.666666666666664,
+      "total_victims": 6,
+      "stealer_victims": 1
     },
     {
       "group": "brotherhood",
@@ -2318,5 +2318,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-07T14:56:18.831364Z"
+  "last_update": "2026-07-07T17:23:53.644503Z"
 }
