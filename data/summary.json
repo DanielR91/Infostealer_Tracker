@@ -1291,8 +1291,8 @@
     },
     {
       "name": "US",
-      "percent": 17.40835464620631,
-      "total_victims": 5865,
+      "percent": 17.4053869757927,
+      "total_victims": 5866,
       "stealer_victims": 1021
     },
     {
@@ -1851,8 +1851,8 @@
     },
     {
       "group": "incransom",
-      "percent": 25.505443234836704,
-      "total_victims": 643,
+      "percent": 25.465838509316768,
+      "total_victims": 644,
       "stealer_victims": 164
     },
     {
@@ -2318,5 +2318,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-07T20:04:38.172303Z"
+  "last_update": "2026-07-07T22:15:25.026446Z"
 }
