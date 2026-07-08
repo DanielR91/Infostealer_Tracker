@@ -1,138 +1,90 @@
 {
   "totals": {
-    "domains_tracked": 2830,
-    "employees_exposed": 141327,
-    "users_exposed": 19601156,
-    "thirdparties_exposed": 112755,
+    "domains_tracked": 1042,
+    "employees_exposed": 36581,
+    "users_exposed": 7748297,
+    "thirdparties_exposed": 53129,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1258291
+      "count": 476343
     },
     {
       "name": "Lumma",
-      "count": 619010
+      "count": 203632
     },
     {
       "name": "Generic Stealer",
-      "count": 493904
+      "count": 178494
     },
     {
       "name": "Raccoon",
-      "count": 331861
-    },
-    {
-      "name": "Azorult",
-      "count": 132676
-    },
-    {
-      "name": "StealC",
-      "count": 132517
+      "count": 126628
     },
     {
       "name": "Vidar",
-      "count": 128292
+      "count": 47921
+    },
+    {
+      "name": "StealC",
+      "count": 44639
+    },
+    {
+      "name": "Azorult",
+      "count": 39776
     },
     {
       "name": "CRYPTBOT",
-      "count": 12452
+      "count": 4582
     },
     {
       "name": "Acreed",
-      "count": 7624
+      "count": 3425
     },
     {
       "name": "Mystic",
-      "count": 4829
-    },
-    {
-      "name": "Atomic",
-      "count": 3970
+      "count": 1811
     },
     {
       "name": "DarkCrystal",
-      "count": 3720
+      "count": 1445
     },
     {
       "name": "Taurus",
-      "count": 2995
+      "count": 1362
     },
     {
-      "name": "Predator",
-      "count": 2739
+      "name": "Atomic",
+      "count": 1127
     },
     {
       "name": "Ficker",
-      "count": 2622
+      "count": 1089
     },
     {
-      "name": "racoon",
-      "count": 426
+      "name": "Predator",
+      "count": 1017
     },
     {
       "name": "KPOT",
-      "count": 348
+      "count": 118
+    },
+    {
+      "name": "racoon",
+      "count": 51
     },
     {
       "name": "Aura Stealer",
-      "count": 56
+      "count": 21
     },
     {
       "name": "Redline",
-      "count": 21
+      "count": 18
     }
   ],
   "monthly": [
-    {
-      "month": "2025-01",
-      "count": 220
-    },
-    {
-      "month": "2025-02",
-      "count": 237
-    },
-    {
-      "month": "2025-03",
-      "count": 240
-    },
-    {
-      "month": "2025-04",
-      "count": 128
-    },
-    {
-      "month": "2025-05",
-      "count": 122
-    },
-    {
-      "month": "2025-06",
-      "count": 94
-    },
-    {
-      "month": "2025-07",
-      "count": 92
-    },
-    {
-      "month": "2025-08",
-      "count": 83
-    },
-    {
-      "month": "2025-09",
-      "count": 131
-    },
-    {
-      "month": "2025-10",
-      "count": 156
-    },
-    {
-      "month": "2025-11",
-      "count": 122
-    },
-    {
-      "month": "2025-12",
-      "count": 163
-    },
     {
       "month": "2026-01",
       "count": 106
@@ -164,369 +116,273 @@
   ],
   "sectors": [
     {
-      "name": "Financial Services",
-      "count": 68095
-    },
-    {
       "name": "Education",
-      "count": 37406
-    },
-    {
-      "name": "Technology",
-      "count": 31673
+      "count": 19697
     },
     {
       "name": "Telecommunication",
-      "count": 28405
+      "count": 18628
     },
     {
       "name": "Business Services",
-      "count": 15340
+      "count": 13332
     },
     {
       "name": "Consumer Services",
-      "count": 15279
+      "count": 8175
+    },
+    {
+      "name": "Technology",
+      "count": 7141
     },
     {
       "name": "Transportation/Logistics",
-      "count": 11475
+      "count": 5408
     },
     {
       "name": "Not Found",
-      "count": 10969
+      "count": 4564
     },
     {
       "name": "Public Sector",
-      "count": 10099
-    },
-    {
-      "name": "Energy",
-      "count": 8398
-    },
-    {
-      "name": "Healthcare",
-      "count": 5101
-    },
-    {
-      "name": "Manufacturing",
-      "count": 5097
+      "count": 2495
     },
     {
       "name": "Agriculture and Food Production",
-      "count": 2929
+      "count": 2100
     },
     {
-      "name": "Hospitality and Tourism",
-      "count": 2289
+      "name": "Financial Services",
+      "count": 2038
+    },
+    {
+      "name": "Energy",
+      "count": 1871
+    },
+    {
+      "name": "Healthcare",
+      "count": 1588
+    },
+    {
+      "name": "Manufacturing",
+      "count": 1492
     },
     {
       "name": "Construction",
-      "count": 1527
+      "count": 856
+    },
+    {
+      "name": "Hospitality and Tourism",
+      "count": 325
     }
   ],
   "countries": [
     {
       "name": "US",
-      "count": 1021
+      "count": 330
     },
     {
       "name": "BR",
-      "count": 123
+      "count": 47
     },
     {
       "name": "DE",
-      "count": 109
+      "count": 43
     },
     {
       "name": "FR",
-      "count": 100
+      "count": 41
     },
     {
       "name": "GB",
-      "count": 88
-    },
-    {
-      "name": "CA",
-      "count": 85
+      "count": 31
     },
     {
       "name": "ES",
-      "count": 83
-    },
-    {
-      "name": "IN",
-      "count": 79
-    },
-    {
-      "name": "IT",
-      "count": 64
-    },
-    {
-      "name": "TW",
-      "count": 51
-    },
-    {
-      "name": "MX",
-      "count": 50
-    },
-    {
-      "name": "TH",
-      "count": 50
-    },
-    {
-      "name": "Unknown",
-      "count": 40
-    },
-    {
-      "name": "SG",
-      "count": 37
-    },
-    {
-      "name": "JP",
-      "count": 36
-    },
-    {
-      "name": "ID",
-      "count": 35
-    },
-    {
-      "name": "AU",
-      "count": 34
-    },
-    {
-      "name": "AR",
-      "count": 32
-    },
-    {
-      "name": "AE",
-      "count": 32
-    },
-    {
-      "name": "CO",
-      "count": 32
-    },
-    {
-      "name": "CH",
-      "count": 28
-    },
-    {
-      "name": "MY",
       "count": 27
     },
     {
-      "name": "TR",
+      "name": "CA",
+      "count": 26
+    },
+    {
+      "name": "TH",
+      "count": 26
+    },
+    {
+      "name": "MX",
       "count": 25
     },
     {
-      "name": "PL",
+      "name": "IT",
       "count": 23
     },
     {
-      "name": "KR",
-      "count": 23
+      "name": "TW",
+      "count": 22
     },
     {
-      "name": "PE",
-      "count": 23
-    },
-    {
-      "name": "BE",
+      "name": "IN",
       "count": 21
     },
     {
-      "name": "EG",
-      "count": 19
+      "name": "Unknown",
+      "count": 18
     },
     {
-      "name": "VN",
-      "count": 16
+      "name": "AE",
+      "count": 18
     },
     {
-      "name": "CL",
+      "name": "ID",
       "count": 15
     },
     {
-      "name": "SE",
-      "count": 15
-    },
-    {
-      "name": "AT",
+      "name": "SG",
       "count": 14
     },
     {
-      "name": "PK",
+      "name": "PL",
       "count": 14
     },
     {
-      "name": "NO",
-      "count": 14
-    },
-    {
-      "name": "CN",
-      "count": 14
-    },
-    {
-      "name": "SA",
-      "count": 14
-    },
-    {
-      "name": "ZA",
-      "count": 14
-    },
-    {
-      "name": "PH",
+      "name": "MY",
       "count": 13
     },
     {
-      "name": "NL",
+      "name": "AU",
       "count": 13
     },
     {
-      "name": "DK",
-      "count": 13
-    },
-    {
-      "name": "RO",
+      "name": "AR",
       "count": 12
     },
     {
-      "name": "VE",
+      "name": "CH",
+      "count": 12
+    },
+    {
+      "name": "JP",
+      "count": 12
+    },
+    {
+      "name": "TR",
       "count": 11
     },
     {
-      "name": "HK",
-      "count": 11
-    },
-    {
-      "name": "PT",
+      "name": "VN",
       "count": 10
     },
     {
-      "name": "KE",
+      "name": "PE",
+      "count": 9
+    },
+    {
+      "name": "CO",
+      "count": 9
+    },
+    {
+      "name": "KR",
       "count": 8
     },
     {
-      "name": "CZ",
+      "name": "CN",
       "count": 8
     },
     {
-      "name": "DO",
+      "name": "BE",
       "count": 8
     },
     {
-      "name": "IE",
-      "count": 8
+      "name": "EG",
+      "count": 7
     },
     {
-      "name": "IL",
-      "count": 8
+      "name": "PH",
+      "count": 7
+    },
+    {
+      "name": "AT",
+      "count": 7
+    },
+    {
+      "name": "NL",
+      "count": 7
+    },
+    {
+      "name": "HK",
+      "count": 6
+    },
+    {
+      "name": "SE",
+      "count": 6
+    },
+    {
+      "name": "PK",
+      "count": 5
+    },
+    {
+      "name": "VE",
+      "count": 5
+    },
+    {
+      "name": "NO",
+      "count": 5
     },
     {
       "name": "MA",
-      "count": 8
-    },
-    {
-      "name": "EC",
-      "count": 7
-    },
-    {
-      "name": "GR",
-      "count": 7
-    },
-    {
-      "name": "JO",
-      "count": 7
-    },
-    {
-      "name": "CR",
-      "count": 6
-    },
-    {
-      "name": "FI",
-      "count": 6
-    },
-    {
-      "name": "BD",
-      "count": 6
-    },
-    {
-      "name": "QA",
-      "count": 6
-    },
-    {
-      "name": "NG",
-      "count": 6
+      "count": 5
     },
     {
       "name": "PY",
-      "count": 5
-    },
-    {
-      "name": "BO",
-      "count": 5
-    },
-    {
-      "name": "JM",
-      "count": 5
-    },
-    {
-      "name": "IQ",
-      "count": 5
-    },
-    {
-      "name": "OM",
       "count": 4
     },
     {
-      "name": "IR",
+      "name": "KE",
       "count": 4
+    },
+    {
+      "name": "PT",
+      "count": 4
+    },
+    {
+      "name": "DO",
+      "count": 4
+    },
+    {
+      "name": "DK",
+      "count": 4
+    },
+    {
+      "name": "CL",
+      "count": 4
+    },
+    {
+      "name": "BD",
+      "count": 4
+    },
+    {
+      "name": "RO",
+      "count": 4
+    },
+    {
+      "name": "SA",
+      "count": 4
+    },
+    {
+      "name": "ZA",
+      "count": 4
+    },
+    {
+      "name": "CZ",
+      "count": 3
     },
     {
       "name": "TN",
-      "count": 4
-    },
-    {
-      "name": "LK",
-      "count": 4
-    },
-    {
-      "name": "NZ",
-      "count": 4
-    },
-    {
-      "name": "RS",
-      "count": 4
-    },
-    {
-      "name": "SK",
-      "count": 4
-    },
-    {
-      "name": "DZ",
       "count": 3
     },
     {
-      "name": "BW",
-      "count": 3
-    },
-    {
-      "name": "PR",
-      "count": 3
-    },
-    {
-      "name": "UY",
-      "count": 3
-    },
-    {
-      "name": "RU",
-      "count": 3
-    },
-    {
-      "name": "GT",
-      "count": 3
-    },
-    {
-      "name": "LB",
+      "name": "IE",
       "count": 3
     },
     {
@@ -534,27 +390,31 @@
       "count": 3
     },
     {
-      "name": "BG",
+      "name": "QA",
       "count": 3
     },
     {
-      "name": "PA",
+      "name": "RS",
       "count": 3
     },
     {
-      "name": "LA",
+      "name": "BO",
       "count": 2
     },
     {
-      "name": "CY",
+      "name": "CR",
       "count": 2
     },
     {
-      "name": "MK",
+      "name": "UY",
       "count": 2
     },
     {
-      "name": "UA",
+      "name": "GT",
+      "count": 2
+    },
+    {
+      "name": "LB",
       "count": 2
     },
     {
@@ -562,11 +422,23 @@
       "count": 2
     },
     {
-      "name": "IS",
+      "name": "BG",
       "count": 2
     },
     {
-      "name": "ZM",
+      "name": "NG",
+      "count": 2
+    },
+    {
+      "name": "IL",
+      "count": 2
+    },
+    {
+      "name": "LK",
+      "count": 2
+    },
+    {
+      "name": "NZ",
       "count": 2
     },
     {
@@ -574,52 +446,20 @@
       "count": 2
     },
     {
-      "name": "HR",
-      "count": 2
+      "name": "OM",
+      "count": 1
     },
     {
-      "name": "EU",
-      "count": 2
+      "name": "DZ",
+      "count": 1
     },
     {
-      "name": "NA",
-      "count": 2
+      "name": "IR",
+      "count": 1
     },
     {
-      "name": "TZ",
-      "count": 2
-    },
-    {
-      "name": "UK",
-      "count": 2
-    },
-    {
-      "name": "LV",
-      "count": 2
-    },
-    {
-      "name": "HU",
-      "count": 2
-    },
-    {
-      "name": "MT",
-      "count": 2
-    },
-    {
-      "name": "PW",
-      "count": 2
-    },
-    {
-      "name": "BY",
-      "count": 2
-    },
-    {
-      "name": "MN",
-      "count": 2
-    },
-    {
-      "name": "DM",
-      "count": 2
+      "name": "LA",
+      "count": 1
     },
     {
       "name": "ME",
@@ -630,7 +470,31 @@
       "count": 1
     },
     {
+      "name": "FI",
+      "count": 1
+    },
+    {
+      "name": "BW",
+      "count": 1
+    },
+    {
+      "name": "PR",
+      "count": 1
+    },
+    {
       "name": "HN",
+      "count": 1
+    },
+    {
+      "name": "CY",
+      "count": 1
+    },
+    {
+      "name": "JM",
+      "count": 1
+    },
+    {
+      "name": "RU",
       "count": 1
     },
     {
@@ -638,7 +502,23 @@
       "count": 1
     },
     {
+      "name": "MK",
+      "count": 1
+    },
+    {
+      "name": "UA",
+      "count": 1
+    },
+    {
       "name": "PG",
+      "count": 1
+    },
+    {
+      "name": "IS",
+      "count": 1
+    },
+    {
+      "name": "ZM",
       "count": 1
     },
     {
@@ -646,7 +526,35 @@
       "count": 1
     },
     {
+      "name": "SK",
+      "count": 1
+    },
+    {
       "name": "SC",
+      "count": 1
+    },
+    {
+      "name": "PA",
+      "count": 1
+    },
+    {
+      "name": "HR",
+      "count": 1
+    },
+    {
+      "name": "EC",
+      "count": 1
+    },
+    {
+      "name": "IQ",
+      "count": 1
+    },
+    {
+      "name": "EU",
+      "count": 1
+    },
+    {
+      "name": "NA",
       "count": 1
     },
     {
@@ -658,678 +566,466 @@
       "count": 1
     },
     {
+      "name": "TZ",
+      "count": 1
+    },
+    {
       "name": "SJ",
+      "count": 1
+    },
+    {
+      "name": "GR",
       "count": 1
     },
     {
       "name": "AL",
       "count": 1
-    },
-    {
-      "name": "LS",
-      "count": 1
-    },
-    {
-      "name": "CI",
-      "count": 1
-    },
-    {
-      "name": "TO",
-      "count": 1
-    },
-    {
-      "name": "SN",
-      "count": 1
-    },
-    {
-      "name": "VG",
-      "count": 1
-    },
-    {
-      "name": "TT",
-      "count": 1
-    },
-    {
-      "name": "GE",
-      "count": 1
-    },
-    {
-      "name": "AZ",
-      "count": 1
-    },
-    {
-      "name": "MU",
-      "count": 1
-    },
-    {
-      "name": "CM",
-      "count": 1
-    },
-    {
-      "name": "EE",
-      "count": 1
-    },
-    {
-      "name": "RW",
-      "count": 1
-    },
-    {
-      "name": "UZ",
-      "count": 1
-    },
-    {
-      "name": "KY",
-      "count": 1
-    },
-    {
-      "name": "KI",
-      "count": 1
-    },
-    {
-      "name": "MC",
-      "count": 1
-    },
-    {
-      "name": "MO",
-      "count": 1
-    },
-    {
-      "name": "UG",
-      "count": 1
-    },
-    {
-      "name": "SV",
-      "count": 1
     }
   ],
   "countries_pct": [
     {
-      "name": "BW",
+      "name": "PK",
+      "percent": 83.33333333333334,
+      "total_victims": 6,
+      "stealer_victims": 5
+    },
+    {
+      "name": "QA",
       "percent": 75.0,
       "total_victims": 4,
       "stealer_victims": 3
     },
     {
-      "name": "JM",
-      "percent": 71.42857142857143,
-      "total_victims": 7,
-      "stealer_victims": 5
+      "name": "RS",
+      "percent": 75.0,
+      "total_victims": 4,
+      "stealer_victims": 3
     },
     {
-      "name": "LA",
+      "name": "BO",
       "percent": 66.66666666666666,
       "total_victims": 3,
       "stealer_victims": 2
     },
     {
-      "name": "CR",
+      "name": "KE",
       "percent": 66.66666666666666,
-      "total_victims": 9,
-      "stealer_victims": 6
+      "total_victims": 6,
+      "stealer_victims": 4
     },
     {
-      "name": "BY",
-      "percent": 66.66666666666666,
-      "total_victims": 3,
-      "stealer_victims": 2
-    },
-    {
-      "name": "MN",
+      "name": "GT",
       "percent": 66.66666666666666,
       "total_victims": 3,
       "stealer_victims": 2
     },
     {
-      "name": "IQ",
+      "name": "LB",
+      "percent": 66.66666666666666,
+      "total_victims": 3,
+      "stealer_victims": 2
+    },
+    {
+      "name": "VN",
+      "percent": 62.5,
+      "total_victims": 16,
+      "stealer_victims": 10
+    },
+    {
+      "name": "MA",
       "percent": 62.5,
       "total_victims": 8,
       "stealer_victims": 5
     },
     {
-      "name": "QA",
+      "name": "GH",
       "percent": 60.0,
-      "total_victims": 10,
-      "stealer_victims": 6
+      "total_victims": 5,
+      "stealer_victims": 3
     },
     {
-      "name": "JO",
-      "percent": 58.333333333333336,
-      "total_victims": 12,
-      "stealer_victims": 7
+      "name": "DO",
+      "percent": 57.14285714285714,
+      "total_victims": 7,
+      "stealer_victims": 4
     },
     {
-      "name": "RS",
+      "name": "BD",
       "percent": 57.14285714285714,
       "total_victims": 7,
       "stealer_victims": 4
     },
     {
       "name": "VE",
-      "percent": 55.00000000000001,
-      "total_victims": 20,
-      "stealer_victims": 11
-    },
-    {
-      "name": "PE",
-      "percent": 53.48837209302325,
-      "total_victims": 43,
-      "stealer_victims": 23
-    },
-    {
-      "name": "KE",
-      "percent": 53.333333333333336,
-      "total_victims": 15,
-      "stealer_victims": 8
-    },
-    {
-      "name": "BO",
-      "percent": 50.0,
-      "total_victims": 10,
+      "percent": 55.55555555555556,
+      "total_victims": 9,
       "stealer_victims": 5
     },
     {
-      "name": "DZ",
+      "name": "ID",
+      "percent": 55.55555555555556,
+      "total_victims": 27,
+      "stealer_victims": 15
+    },
+    {
+      "name": "AE",
+      "percent": 52.94117647058824,
+      "total_victims": 34,
+      "stealer_victims": 18
+    },
+    {
+      "name": "TN",
       "percent": 50.0,
       "total_victims": 6,
       "stealer_victims": 3
     },
     {
-      "name": "PK",
-      "percent": 50.0,
-      "total_victims": 28,
-      "stealer_victims": 14
-    },
-    {
-      "name": "GH",
-      "percent": 50.0,
-      "total_victims": 6,
-      "stealer_victims": 3
-    },
-    {
-      "name": "LV",
+      "name": "UY",
       "percent": 50.0,
       "total_victims": 4,
       "stealer_victims": 2
     },
     {
-      "name": "ID",
-      "percent": 49.29577464788733,
-      "total_victims": 71,
-      "stealer_victims": 35
-    },
-    {
-      "name": "BR",
-      "percent": 48.046875,
-      "total_victims": 256,
-      "stealer_victims": 123
-    },
-    {
-      "name": "NO",
-      "percent": 46.666666666666664,
-      "total_victims": 30,
-      "stealer_victims": 14
+      "name": "PE",
+      "percent": 50.0,
+      "total_victims": 18,
+      "stealer_victims": 9
     },
     {
       "name": "NG",
-      "percent": 46.15384615384615,
-      "total_victims": 13,
-      "stealer_victims": 6
-    },
-    {
-      "name": "DO",
-      "percent": 44.44444444444444,
-      "total_victims": 18,
-      "stealer_victims": 8
-    },
-    {
-      "name": "EC",
-      "percent": 43.75,
-      "total_victims": 16,
-      "stealer_victims": 7
-    },
-    {
-      "name": "VN",
-      "percent": 43.24324324324324,
-      "total_victims": 37,
-      "stealer_victims": 16
-    },
-    {
-      "name": "BD",
-      "percent": 42.857142857142854,
-      "total_victims": 14,
-      "stealer_victims": 6
-    },
-    {
-      "name": "LB",
-      "percent": 42.857142857142854,
-      "total_victims": 7,
-      "stealer_victims": 3
-    },
-    {
-      "name": "MA",
-      "percent": 42.10526315789473,
-      "total_victims": 19,
-      "stealer_victims": 8
-    },
-    {
-      "name": "UA",
-      "percent": 40.0,
-      "total_victims": 5,
-      "stealer_victims": 2
-    },
-    {
-      "name": "ZM",
-      "percent": 40.0,
-      "total_victims": 5,
+      "percent": 50.0,
+      "total_victims": 4,
       "stealer_victims": 2
     },
     {
       "name": "PS",
-      "percent": 40.0,
-      "total_victims": 5,
+      "percent": 50.0,
+      "total_victims": 4,
       "stealer_victims": 2
     },
     {
-      "name": "TZ",
-      "percent": 40.0,
-      "total_victims": 5,
-      "stealer_victims": 2
-    },
-    {
-      "name": "EU",
-      "percent": 40.0,
-      "total_victims": 5,
-      "stealer_victims": 2
-    },
-    {
-      "name": "EG",
-      "percent": 39.58333333333333,
-      "total_victims": 48,
-      "stealer_victims": 19
-    },
-    {
-      "name": "CO",
-      "percent": 39.02439024390244,
-      "total_victims": 82,
-      "stealer_victims": 32
-    },
-    {
-      "name": "TW",
-      "percent": 38.63636363636363,
-      "total_victims": 132,
-      "stealer_victims": 51
-    },
-    {
-      "name": "PY",
-      "percent": 38.46153846153847,
-      "total_victims": 13,
-      "stealer_victims": 5
-    },
-    {
-      "name": "AE",
-      "percent": 38.095238095238095,
-      "total_victims": 84,
-      "stealer_victims": 32
-    },
-    {
-      "name": "TH",
-      "percent": 37.3134328358209,
-      "total_victims": 134,
-      "stealer_victims": 50
-    },
-    {
-      "name": "CL",
-      "percent": 36.58536585365854,
-      "total_victims": 41,
-      "stealer_victims": 15
-    },
-    {
-      "name": "OM",
-      "percent": 36.36363636363637,
-      "total_victims": 11,
-      "stealer_victims": 4
-    },
-    {
-      "name": "SA",
-      "percent": 35.8974358974359,
-      "total_victims": 39,
-      "stealer_victims": 14
-    },
-    {
-      "name": "AR",
-      "percent": 35.16483516483517,
-      "total_victims": 91,
-      "stealer_victims": 32
+      "name": "BR",
+      "percent": 45.63106796116505,
+      "total_victims": 103,
+      "stealer_victims": 47
     },
     {
       "name": "PL",
-      "percent": 34.32835820895522,
-      "total_victims": 67,
-      "stealer_victims": 23
+      "percent": 42.42424242424242,
+      "total_victims": 33,
+      "stealer_victims": 14
     },
     {
-      "name": "IN",
-      "percent": 34.1991341991342,
-      "total_victims": 231,
-      "stealer_victims": 79
+      "name": "NO",
+      "percent": 41.66666666666667,
+      "total_victims": 12,
+      "stealer_victims": 5
+    },
+    {
+      "name": "PY",
+      "percent": 40.0,
+      "total_victims": 10,
+      "stealer_victims": 4
+    },
+    {
+      "name": "SI",
+      "percent": 40.0,
+      "total_victims": 5,
+      "stealer_victims": 2
+    },
+    {
+      "name": "BG",
+      "percent": 40.0,
+      "total_victims": 5,
+      "stealer_victims": 2
+    },
+    {
+      "name": "AR",
+      "percent": 37.5,
+      "total_victims": 32,
+      "stealer_victims": 12
+    },
+    {
+      "name": "BE",
+      "percent": 36.36363636363637,
+      "total_victims": 22,
+      "stealer_victims": 8
     },
     {
       "name": "MX",
-      "percent": 33.78378378378378,
-      "total_victims": 148,
-      "stealer_victims": 50
+      "percent": 36.231884057971016,
+      "total_victims": 69,
+      "stealer_victims": 25
     },
     {
-      "name": "UY",
+      "name": "TW",
+      "percent": 36.0655737704918,
+      "total_victims": 61,
+      "stealer_victims": 22
+    },
+    {
+      "name": "TH",
+      "percent": 35.13513513513514,
+      "total_victims": 74,
+      "stealer_victims": 26
+    },
+    {
+      "name": "MY",
+      "percent": 34.21052631578947,
+      "total_victims": 38,
+      "stealer_victims": 13
+    },
+    {
+      "name": "LK",
       "percent": 33.33333333333333,
-      "total_victims": 9,
-      "stealer_victims": 3
+      "total_victims": 6,
+      "stealer_victims": 2
     },
     {
-      "name": "GE",
+      "name": "BH",
       "percent": 33.33333333333333,
       "total_victims": 3,
       "stealer_victims": 1
     },
     {
-      "name": "RO",
+      "name": "JM",
       "percent": 33.33333333333333,
-      "total_victims": 36,
-      "stealer_victims": 12
+      "total_victims": 3,
+      "stealer_victims": 1
     },
     {
-      "name": "MT",
+      "name": "UA",
       "percent": 33.33333333333333,
-      "total_victims": 6,
-      "stealer_victims": 2
+      "total_victims": 3,
+      "stealer_victims": 1
     },
     {
       "name": "NA",
-      "percent": 33.33333333333333,
-      "total_victims": 6,
-      "stealer_victims": 2
-    },
-    {
-      "name": "MC",
       "percent": 33.33333333333333,
       "total_victims": 3,
       "stealer_victims": 1
     },
     {
       "name": "SG",
-      "percent": 33.035714285714285,
-      "total_victims": 112,
-      "stealer_victims": 37
-    },
-    {
-      "name": "ZA",
-      "percent": 31.818181818181817,
-      "total_victims": 44,
+      "percent": 32.55813953488372,
+      "total_victims": 43,
       "stealer_victims": 14
     },
     {
-      "name": "BE",
-      "percent": 31.343283582089555,
-      "total_victims": 67,
-      "stealer_victims": 21
+      "name": "CO",
+      "percent": 31.03448275862069,
+      "total_victims": 29,
+      "stealer_victims": 9
     },
     {
-      "name": "SK",
+      "name": "SA",
       "percent": 30.76923076923077,
       "total_victims": 13,
       "stealer_victims": 4
-    },
-    {
-      "name": "TN",
-      "percent": 30.76923076923077,
-      "total_victims": 13,
-      "stealer_victims": 4
-    },
-    {
-      "name": "MY",
-      "percent": 30.681818181818183,
-      "total_victims": 88,
-      "stealer_victims": 27
-    },
-    {
-      "name": "KR",
-      "percent": 30.666666666666664,
-      "total_victims": 75,
-      "stealer_victims": 23
-    },
-    {
-      "name": "ES",
-      "percent": 30.4029304029304,
-      "total_victims": 273,
-      "stealer_victims": 83
-    },
-    {
-      "name": "FR",
-      "percent": 30.303030303030305,
-      "total_victims": 330,
-      "stealer_victims": 100
-    },
-    {
-      "name": "GT",
-      "percent": 30.0,
-      "total_victims": 10,
-      "stealer_victims": 3
     },
     {
       "name": "DK",
-      "percent": 28.888888888888886,
-      "total_victims": 45,
-      "stealer_victims": 13
+      "percent": 30.76923076923077,
+      "total_victims": 13,
+      "stealer_victims": 4
     },
     {
-      "name": "LK",
+      "name": "EG",
+      "percent": 30.434782608695656,
+      "total_victims": 23,
+      "stealer_victims": 7
+    },
+    {
+      "name": "PH",
+      "percent": 30.434782608695656,
+      "total_victims": 23,
+      "stealer_victims": 7
+    },
+    {
+      "name": "SE",
+      "percent": 30.0,
+      "total_victims": 20,
+      "stealer_victims": 6
+    },
+    {
+      "name": "FR",
+      "percent": 29.078014184397162,
+      "total_victims": 141,
+      "stealer_victims": 41
+    },
+    {
+      "name": "PT",
       "percent": 28.57142857142857,
       "total_victims": 14,
       "stealer_victims": 4
     },
     {
-      "name": "BG",
+      "name": "IE",
       "percent": 27.27272727272727,
       "total_victims": 11,
       "stealer_victims": 3
     },
     {
-      "name": "PH",
-      "percent": 27.083333333333332,
-      "total_victims": 48,
-      "stealer_victims": 13
-    },
-    {
-      "name": "IR",
-      "percent": 26.666666666666668,
-      "total_victims": 15,
-      "stealer_victims": 4
-    },
-    {
-      "name": "TR",
-      "percent": 25.0,
-      "total_victims": 100,
-      "stealer_victims": 25
-    },
-    {
-      "name": "PA",
-      "percent": 25.0,
-      "total_victims": 12,
-      "stealer_victims": 3
-    },
-    {
-      "name": "EE",
-      "percent": 25.0,
-      "total_victims": 4,
-      "stealer_victims": 1
-    },
-    {
-      "name": "SV",
-      "percent": 25.0,
-      "total_victims": 4,
-      "stealer_victims": 1
-    },
-    {
       "name": "CH",
-      "percent": 24.778761061946902,
-      "total_victims": 113,
-      "stealer_victims": 28
+      "percent": 26.666666666666668,
+      "total_victims": 45,
+      "stealer_victims": 12
     },
     {
-      "name": "IE",
-      "percent": 24.242424242424242,
-      "total_victims": 33,
+      "name": "KR",
+      "percent": 26.666666666666668,
+      "total_victims": 30,
       "stealer_victims": 8
     },
     {
-      "name": "GR",
-      "percent": 24.137931034482758,
-      "total_victims": 29,
-      "stealer_victims": 7
-    },
-    {
-      "name": "FI",
-      "percent": 24.0,
-      "total_victims": 25,
-      "stealer_victims": 6
-    },
-    {
-      "name": "PT",
-      "percent": 23.25581395348837,
-      "total_victims": 43,
-      "stealer_victims": 10
-    },
-    {
-      "name": "SI",
-      "percent": 22.22222222222222,
-      "total_victims": 9,
-      "stealer_victims": 2
-    },
-    {
-      "name": "CY",
-      "percent": 22.22222222222222,
-      "total_victims": 9,
-      "stealer_victims": 2
-    },
-    {
-      "name": "PR",
-      "percent": 21.428571428571427,
-      "total_victims": 14,
-      "stealer_victims": 3
-    },
-    {
-      "name": "SE",
-      "percent": 20.54794520547945,
-      "total_victims": 73,
-      "stealer_victims": 15
-    },
-    {
-      "name": "IT",
-      "percent": 20.382165605095544,
-      "total_victims": 314,
-      "stealer_victims": 64
-    },
-    {
-      "name": "MU",
-      "percent": 20.0,
-      "total_victims": 5,
-      "stealer_victims": 1
-    },
-    {
-      "name": "SN",
-      "percent": 20.0,
-      "total_victims": 5,
-      "stealer_victims": 1
-    },
-    {
-      "name": "JP",
-      "percent": 19.25133689839572,
-      "total_victims": 187,
-      "stealer_victims": 36
-    },
-    {
-      "name": "AT",
-      "percent": 19.17808219178082,
-      "total_victims": 73,
-      "stealer_victims": 14
-    },
-    {
-      "name": "CN",
-      "percent": 18.91891891891892,
-      "total_victims": 74,
-      "stealer_victims": 14
+      "name": "ES",
+      "percent": 26.47058823529412,
+      "total_victims": 102,
+      "stealer_victims": 27
     },
     {
       "name": "NL",
-      "percent": 18.30985915492958,
-      "total_victims": 71,
-      "stealer_victims": 13
+      "percent": 25.925925925925924,
+      "total_victims": 27,
+      "stealer_victims": 7
     },
     {
-      "name": "DE",
-      "percent": 18.257956448911223,
-      "total_victims": 597,
-      "stealer_victims": 109
+      "name": "OM",
+      "percent": 25.0,
+      "total_victims": 4,
+      "stealer_victims": 1
     },
     {
-      "name": "HU",
-      "percent": 18.181818181818183,
-      "total_victims": 11,
-      "stealer_victims": 2
+      "name": "HR",
+      "percent": 25.0,
+      "total_victims": 4,
+      "stealer_victims": 1
     },
     {
-      "name": "NZ",
-      "percent": 18.181818181818183,
-      "total_victims": 22,
+      "name": "RO",
+      "percent": 25.0,
+      "total_victims": 16,
       "stealer_victims": 4
     },
     {
-      "name": "GB",
-      "percent": 17.995910020449898,
-      "total_victims": 489,
-      "stealer_victims": 88
+      "name": "NZ",
+      "percent": 25.0,
+      "total_victims": 8,
+      "stealer_victims": 2
+    },
+    {
+      "name": "IN",
+      "percent": 23.076923076923077,
+      "total_victims": 91,
+      "stealer_victims": 21
+    },
+    {
+      "name": "TR",
+      "percent": 22.916666666666664,
+      "total_victims": 48,
+      "stealer_victims": 11
+    },
+    {
+      "name": "CN",
+      "percent": 22.857142857142858,
+      "total_victims": 35,
+      "stealer_victims": 8
+    },
+    {
+      "name": "ZA",
+      "percent": 22.22222222222222,
+      "total_victims": 18,
+      "stealer_victims": 4
+    },
+    {
+      "name": "AT",
+      "percent": 20.588235294117645,
+      "total_victims": 34,
+      "stealer_victims": 7
+    },
+    {
+      "name": "SK",
+      "percent": 20.0,
+      "total_victims": 5,
+      "stealer_victims": 1
+    },
+    {
+      "name": "PA",
+      "percent": 20.0,
+      "total_victims": 5,
+      "stealer_victims": 1
+    },
+    {
+      "name": "HK",
+      "percent": 19.35483870967742,
+      "total_victims": 31,
+      "stealer_victims": 6
+    },
+    {
+      "name": "CL",
+      "percent": 19.047619047619047,
+      "total_victims": 21,
+      "stealer_victims": 4
+    },
+    {
+      "name": "IT",
+      "percent": 17.037037037037038,
+      "total_victims": 135,
+      "stealer_victims": 23
+    },
+    {
+      "name": "DE",
+      "percent": 16.99604743083004,
+      "total_victims": 253,
+      "stealer_victims": 43
     },
     {
       "name": "US",
-      "percent": 17.4053869757927,
-      "total_victims": 5866,
-      "stealer_victims": 1021
+      "percent": 16.69195751138088,
+      "total_victims": 1977,
+      "stealer_victims": 330
     },
     {
-      "name": "BH",
+      "name": "EC",
       "percent": 16.666666666666664,
       "total_victims": 6,
       "stealer_victims": 1
     },
     {
-      "name": "CZ",
-      "percent": 16.3265306122449,
-      "total_victims": 49,
-      "stealer_victims": 8
+      "name": "PR",
+      "percent": 16.666666666666664,
+      "total_victims": 6,
+      "stealer_victims": 1
+    },
+    {
+      "name": "JP",
+      "percent": 16.43835616438356,
+      "total_victims": 73,
+      "stealer_victims": 12
     },
     {
       "name": "CA",
-      "percent": 15.482695810564662,
-      "total_victims": 549,
-      "stealer_victims": 85
+      "percent": 15.853658536585366,
+      "total_victims": 164,
+      "stealer_victims": 26
     },
     {
       "name": "AU",
-      "percent": 15.384615384615385,
-      "total_victims": 221,
-      "stealer_victims": 34
+      "percent": 15.476190476190476,
+      "total_victims": 84,
+      "stealer_victims": 13
     },
     {
-      "name": "HK",
-      "percent": 15.068493150684931,
-      "total_victims": 73,
-      "stealer_victims": 11
+      "name": "GB",
+      "percent": 14.691943127962084,
+      "total_victims": 211,
+      "stealer_victims": 31
     },
     {
-      "name": "HR",
+      "name": "IR",
       "percent": 14.285714285714285,
-      "total_victims": 14,
-      "stealer_victims": 2
+      "total_victims": 7,
+      "stealer_victims": 1
     },
     {
       "name": "SJ",
@@ -1338,81 +1034,75 @@
       "stealer_victims": 1
     },
     {
-      "name": "IL",
-      "percent": 11.594202898550725,
-      "total_victims": 69,
-      "stealer_victims": 8
-    },
-    {
-      "name": "RU",
-      "percent": 10.344827586206897,
-      "total_victims": 29,
+      "name": "CZ",
+      "percent": 13.636363636363635,
+      "total_victims": 22,
       "stealer_victims": 3
     },
     {
-      "name": "Unknown",
-      "percent": 6.2208398133748055,
-      "total_victims": 643,
-      "stealer_victims": 40
+      "name": "FI",
+      "percent": 12.5,
+      "total_victims": 8,
+      "stealer_victims": 1
     },
     {
-      "name": "UK",
-      "percent": 5.88235294117647,
-      "total_victims": 34,
+      "name": "GR",
+      "percent": 11.11111111111111,
+      "total_victims": 9,
+      "stealer_victims": 1
+    },
+    {
+      "name": "RU",
+      "percent": 8.333333333333332,
+      "total_victims": 12,
+      "stealer_victims": 1
+    },
+    {
+      "name": "IL",
+      "percent": 7.4074074074074066,
+      "total_victims": 27,
       "stealer_victims": 2
     },
     {
-      "name": "BS",
-      "percent": 0.0,
-      "total_victims": 7,
-      "stealer_victims": 0
+      "name": "Unknown",
+      "percent": 6.25,
+      "total_victims": 288,
+      "stealer_victims": 18
     },
     {
-      "name": "ZW",
+      "name": "MU",
       "percent": 0.0,
       "total_victims": 3,
       "stealer_victims": 0
     },
     {
-      "name": "KW",
-      "percent": 0.0,
-      "total_victims": 10,
-      "stealer_victims": 0
-    },
-    {
-      "name": "KH",
+      "name": "SN",
       "percent": 0.0,
       "total_victims": 4,
       "stealer_victims": 0
     },
     {
-      "name": "QC",
+      "name": "BS",
       "percent": 0.0,
-      "total_victims": 3,
+      "total_victims": 5,
       "stealer_victims": 0
     },
     {
-      "name": "BA",
+      "name": "KW",
       "percent": 0.0,
-      "total_victims": 3,
+      "total_victims": 4,
       "stealer_victims": 0
     },
     {
-      "name": "FJ",
+      "name": "HU",
       "percent": 0.0,
-      "total_victims": 3,
+      "total_victims": 4,
       "stealer_victims": 0
     },
     {
-      "name": "LU",
+      "name": "UK",
       "percent": 0.0,
-      "total_victims": 8,
-      "stealer_victims": 0
-    },
-    {
-      "name": "BB",
-      "percent": 0.0,
-      "total_victims": 8,
+      "total_victims": 17,
       "stealer_victims": 0
     }
   ],
@@ -1420,20 +1110,14 @@
     {
       "group": "ransomexx",
       "percent": 100.0,
-      "total_victims": 7,
-      "stealer_victims": 7
-    },
-    {
-      "group": "arkana",
-      "percent": 83.33333333333334,
-      "total_victims": 6,
-      "stealer_victims": 5
+      "total_victims": 3,
+      "stealer_victims": 3
     },
     {
       "group": "apt73",
-      "percent": 78.26086956521739,
-      "total_victims": 92,
-      "stealer_victims": 72
+      "percent": 78.75,
+      "total_victims": 80,
+      "stealer_victims": 63
     },
     {
       "group": "lapsus$",
@@ -1448,31 +1132,13 @@
       "stealer_victims": 3
     },
     {
-      "group": "blackbasta",
-      "percent": 75.0,
-      "total_victims": 8,
-      "stealer_victims": 6
-    },
-    {
-      "group": "funksec",
-      "percent": 70.58823529411765,
-      "total_victims": 68,
-      "stealer_victims": 48
-    },
-    {
-      "group": "hellcat",
-      "percent": 69.23076923076923,
-      "total_victims": 13,
-      "stealer_victims": 9
+      "group": "coinbasecartel",
+      "percent": 72.41379310344827,
+      "total_victims": 116,
+      "stealer_victims": 84
     },
     {
       "group": "mnt6",
-      "percent": 66.66666666666666,
-      "total_victims": 3,
-      "stealer_victims": 2
-    },
-    {
-      "group": "rebornvc",
       "percent": 66.66666666666666,
       "total_victims": 3,
       "stealer_victims": 2
@@ -1490,58 +1156,16 @@
       "stealer_victims": 14
     },
     {
-      "group": "ralord",
-      "percent": 63.1578947368421,
-      "total_victims": 19,
-      "stealer_victims": 12
-    },
-    {
-      "group": "coinbasecartel",
-      "percent": 62.14689265536724,
-      "total_victims": 177,
-      "stealer_victims": 110
-    },
-    {
-      "group": "underground",
-      "percent": 60.0,
-      "total_victims": 5,
-      "stealer_victims": 3
-    },
-    {
-      "group": "fog",
-      "percent": 58.252427184466015,
-      "total_victims": 103,
-      "stealer_victims": 60
-    },
-    {
       "group": "LeakBazaar",
       "percent": 55.55555555555556,
       "total_victims": 9,
       "stealer_victims": 5
     },
     {
-      "group": "kazu",
-      "percent": 55.55555555555556,
-      "total_victims": 9,
-      "stealer_victims": 5
-    },
-    {
-      "group": "shinyhunters",
-      "percent": 54.961832061068705,
-      "total_victims": 131,
-      "stealer_victims": 72
-    },
-    {
       "group": "ALP-001",
       "percent": 52.94117647058824,
       "total_victims": 17,
       "stealer_victims": 9
-    },
-    {
-      "group": "nova",
-      "percent": 50.955414012738856,
-      "total_victims": 157,
-      "stealer_victims": 80
     },
     {
       "group": "blackwater",
@@ -1556,76 +1180,70 @@
       "stealer_victims": 3
     },
     {
-      "group": "datacarry",
-      "percent": 50.0,
-      "total_victims": 16,
-      "stealer_victims": 8
-    },
-    {
-      "group": "skira",
-      "percent": 50.0,
-      "total_victims": 8,
-      "stealer_victims": 4
-    },
-    {
-      "group": "daixin",
-      "percent": 50.0,
-      "total_victims": 4,
-      "stealer_victims": 2
-    },
-    {
-      "group": "metaencryptor",
-      "percent": 50.0,
-      "total_victims": 4,
-      "stealer_victims": 2
-    },
-    {
-      "group": "crazyhunter",
-      "percent": 50.0,
-      "total_victims": 10,
-      "stealer_victims": 5
-    },
-    {
-      "group": "ElDorado",
+      "group": "medusa",
       "percent": 50.0,
       "total_victims": 6,
       "stealer_victims": 3
     },
     {
-      "group": "babuk2",
-      "percent": 48.333333333333336,
-      "total_victims": 180,
-      "stealer_victims": 87
+      "group": "obscura",
+      "percent": 50.0,
+      "total_victims": 6,
+      "stealer_victims": 3
     },
     {
-      "group": "arcusmedia",
-      "percent": 43.90243902439025,
-      "total_victims": 41,
-      "stealer_victims": 18
+      "group": "payoutsking",
+      "percent": 45.90163934426229,
+      "total_victims": 61,
+      "stealer_victims": 28
     },
     {
-      "group": "moneymessage",
+      "group": "everest",
+      "percent": 44.776119402985074,
+      "total_victims": 67,
+      "stealer_victims": 30
+    },
+    {
+      "group": "rhysida",
+      "percent": 43.75,
+      "total_victims": 16,
+      "stealer_victims": 7
+    },
+    {
+      "group": "direwolf",
+      "percent": 43.75,
+      "total_victims": 16,
+      "stealer_victims": 7
+    },
+    {
+      "group": "threeam",
+      "percent": 43.47826086956522,
+      "total_victims": 23,
+      "stealer_victims": 10
+    },
+    {
+      "group": "shinyhunters",
+      "percent": 43.02325581395349,
+      "total_victims": 86,
+      "stealer_victims": 37
+    },
+    {
+      "group": "blackshrantac",
       "percent": 42.857142857142854,
       "total_victims": 7,
       "stealer_victims": 3
     },
     {
-      "group": "killsec",
-      "percent": 42.567567567567565,
-      "total_victims": 148,
-      "stealer_victims": 63
-    },
-    {
-      "group": "everest",
-      "percent": 42.5287356321839,
-      "total_victims": 174,
-      "stealer_victims": 74
+      "group": "stormous",
+      "percent": 41.66666666666667,
+      "total_victims": 24,
+      "stealer_victims": 10
     },
     {
       "group": "BrainCipher",
-      "percent": 42.5,
-      "total_victims": 40,
-      "stealer_victims": 17
+      "percent": 40.909090909090914,
+      "total_victims": 22,
+      "stealer_victims": 9
     },
     {
       "group": "Doommageddon",
@@ -1640,34 +1258,16 @@
       "stealer_victims": 2
     },
     {
+      "group": "nova",
+      "percent": 40.0,
+      "total_victims": 75,
+      "stealer_victims": 30
+    },
+    {
       "group": "lamashtu",
       "percent": 38.23529411764706,
       "total_victims": 34,
       "stealer_victims": 13
-    },
-    {
-      "group": "payoutsking",
-      "percent": 37.5,
-      "total_victims": 104,
-      "stealer_victims": 39
-    },
-    {
-      "group": "embargo",
-      "percent": 37.5,
-      "total_victims": 24,
-      "stealer_victims": 9
-    },
-    {
-      "group": "VanHelsing",
-      "percent": 37.5,
-      "total_victims": 8,
-      "stealer_victims": 3
-    },
-    {
-      "group": "warlock",
-      "percent": 37.17948717948718,
-      "total_victims": 78,
-      "stealer_victims": 29
     },
     {
       "group": "krybit",
@@ -1676,10 +1276,10 @@
       "stealer_victims": 26
     },
     {
-      "group": "J",
-      "percent": 36.58536585365854,
-      "total_victims": 41,
-      "stealer_victims": 15
+      "group": "medusalocker",
+      "percent": 37.03703703703704,
+      "total_victims": 27,
+      "stealer_victims": 10
     },
     {
       "group": "shadowbyt3$",
@@ -1688,67 +1288,13 @@
       "stealer_victims": 4
     },
     {
-      "group": "apos",
-      "percent": 36.36363636363637,
-      "total_victims": 11,
-      "stealer_victims": 4
-    },
-    {
-      "group": "hunters",
-      "percent": 36.17021276595745,
-      "total_victims": 47,
-      "stealer_victims": 17
-    },
-    {
-      "group": "medusa",
-      "percent": 34.59119496855346,
-      "total_victims": 159,
-      "stealer_victims": 55
-    },
-    {
-      "group": "medusalocker",
-      "percent": 34.285714285714285,
-      "total_victims": 35,
-      "stealer_victims": 12
-    },
-    {
-      "group": "threeam",
-      "percent": 34.21052631578947,
-      "total_victims": 38,
-      "stealer_victims": 13
-    },
-    {
-      "group": "lockbit3",
-      "percent": 34.146341463414636,
-      "total_victims": 41,
-      "stealer_victims": 14
-    },
-    {
-      "group": "rhysida",
-      "percent": 33.63636363636363,
-      "total_victims": 110,
-      "stealer_victims": 37
-    },
-    {
-      "group": "lockbit5",
-      "percent": 33.440514469453376,
-      "total_victims": 311,
-      "stealer_victims": 104
-    },
-    {
-      "group": "morpheus",
+      "group": "moneymessage",
       "percent": 33.33333333333333,
-      "total_victims": 21,
-      "stealer_victims": 7
+      "total_victims": 3,
+      "stealer_victims": 1
     },
     {
-      "group": "obscura",
-      "percent": 33.33333333333333,
-      "total_victims": 33,
-      "stealer_victims": 11
-    },
-    {
-      "group": "silent",
+      "group": "benzona",
       "percent": 33.33333333333333,
       "total_victims": 6,
       "stealer_victims": 2
@@ -1760,136 +1306,70 @@
       "stealer_victims": 21
     },
     {
-      "group": "cactus",
-      "percent": 32.075471698113205,
-      "total_victims": 53,
-      "stealer_victims": 17
-    },
-    {
-      "group": "tridentlocker",
-      "percent": 31.25,
-      "total_victims": 16,
-      "stealer_victims": 5
-    },
-    {
-      "group": "sarcoma",
-      "percent": 31.182795698924732,
-      "total_victims": 93,
-      "stealer_victims": 29
-    },
-    {
-      "group": "blackshrantac",
-      "percent": 30.23255813953488,
-      "total_victims": 43,
-      "stealer_victims": 13
-    },
-    {
-      "group": "stormous",
-      "percent": 29.6875,
-      "total_victims": 64,
-      "stealer_victims": 19
-    },
-    {
-      "group": "direwolf",
-      "percent": 29.333333333333332,
-      "total_victims": 75,
-      "stealer_victims": 22
-    },
-    {
-      "group": "ransomhub",
-      "percent": 29.184549356223176,
-      "total_victims": 233,
-      "stealer_victims": 68
+      "group": "lockbit5",
+      "percent": 31.5,
+      "total_victims": 200,
+      "stealer_victims": 63
     },
     {
       "group": "SilentRansomGroup",
-      "percent": 29.059829059829063,
-      "total_victims": 117,
-      "stealer_victims": 34
+      "percent": 30.555555555555557,
+      "total_victims": 36,
+      "stealer_victims": 11
     },
     {
-      "group": "benzona",
+      "group": "kairos",
       "percent": 28.57142857142857,
-      "total_victims": 14,
-      "stealer_victims": 4
-    },
-    {
-      "group": "bert",
-      "percent": 28.57142857142857,
-      "total_victims": 7,
-      "stealer_victims": 2
-    },
-    {
-      "group": "abyss",
-      "percent": 27.77777777777778,
-      "total_victims": 18,
-      "stealer_victims": 5
-    },
-    {
-      "group": "akira",
-      "percent": 27.57318224740321,
-      "total_victims": 1059,
-      "stealer_victims": 292
-    },
-    {
-      "group": "gunra",
-      "percent": 26.666666666666668,
-      "total_victims": 45,
-      "stealer_victims": 12
-    },
-    {
-      "group": "cicada3301",
-      "percent": 26.666666666666668,
-      "total_victims": 30,
-      "stealer_victims": 8
-    },
-    {
-      "group": "tengu",
-      "percent": 26.53061224489796,
-      "total_victims": 49,
-      "stealer_victims": 13
-    },
-    {
-      "group": "incransom",
-      "percent": 25.465838509316768,
-      "total_victims": 644,
-      "stealer_victims": 164
-    },
-    {
-      "group": "interlock",
-      "percent": 25.252525252525253,
-      "total_victims": 99,
-      "stealer_victims": 25
-    },
-    {
-      "group": "radar",
-      "percent": 25.0,
-      "total_victims": 24,
+      "total_victims": 21,
       "stealer_victims": 6
     },
     {
-      "group": "linkc",
-      "percent": 25.0,
-      "total_victims": 4,
-      "stealer_victims": 1
+      "group": "tengu",
+      "percent": 27.500000000000004,
+      "total_victims": 40,
+      "stealer_victims": 11
     },
     {
-      "group": "radiant",
+      "group": "thegentlemen",
+      "percent": 26.6,
+      "total_victims": 500,
+      "stealer_victims": 133
+    },
+    {
+      "group": "genesis",
+      "percent": 26.31578947368421,
+      "total_victims": 76,
+      "stealer_victims": 20
+    },
+    {
+      "group": "akira",
+      "percent": 25.88996763754045,
+      "total_victims": 309,
+      "stealer_victims": 80
+    },
+    {
+      "group": "blacknevas",
+      "percent": 25.0,
+      "total_victims": 12,
+      "stealer_victims": 3
+    },
+    {
+      "group": "embargo",
       "percent": 25.0,
       "total_victims": 8,
       "stealer_victims": 2
     },
     {
-      "group": "desolator",
+      "group": "tridentlocker",
       "percent": 25.0,
       "total_victims": 4,
       "stealer_victims": 1
     },
     {
       "group": "anubis",
-      "percent": 24.175824175824175,
-      "total_victims": 91,
-      "stealer_victims": 22
+      "percent": 24.0,
+      "total_victims": 50,
+      "stealer_victims": 12
     },
     {
       "group": "bravox",
@@ -1898,70 +1378,16 @@
       "stealer_victims": 5
     },
     {
-      "group": "kawa4096",
-      "percent": 23.52941176470588,
-      "total_victims": 17,
-      "stealer_victims": 4
+      "group": "incransom",
+      "percent": 22.265625,
+      "total_victims": 256,
+      "stealer_victims": 57
     },
     {
-      "group": "monti",
-      "percent": 23.52941176470588,
-      "total_victims": 17,
-      "stealer_victims": 4
-    },
-    {
-      "group": "thegentlemen",
-      "percent": 23.448275862068964,
-      "total_victims": 580,
-      "stealer_victims": 136
-    },
-    {
-      "group": "genesis",
-      "percent": 23.0,
-      "total_victims": 100,
-      "stealer_victims": 23
-    },
-    {
-      "group": "d4rk4rmy",
-      "percent": 22.22222222222222,
-      "total_victims": 18,
-      "stealer_victims": 4
-    },
-    {
-      "group": "blackbyte",
+      "group": "morpheus",
       "percent": 22.22222222222222,
       "total_victims": 9,
       "stealer_victims": 2
-    },
-    {
-      "group": "blacklock",
-      "percent": 21.875,
-      "total_victims": 64,
-      "stealer_victims": 14
-    },
-    {
-      "group": "bianlian",
-      "percent": 21.875,
-      "total_victims": 32,
-      "stealer_victims": 7
-    },
-    {
-      "group": "cephalus",
-      "percent": 21.052631578947366,
-      "total_victims": 19,
-      "stealer_victims": 4
-    },
-    {
-      "group": "kairos",
-      "percent": 20.27027027027027,
-      "total_victims": 74,
-      "stealer_victims": 15
-    },
-    {
-      "group": "lynx",
-      "percent": 20.121951219512198,
-      "total_victims": 328,
-      "stealer_victims": 66
     },
     {
       "group": "Wallstreet",
@@ -1976,6 +1402,12 @@
       "stealer_victims": 3
     },
     {
+      "group": "abyss",
+      "percent": 20.0,
+      "total_victims": 5,
+      "stealer_victims": 1
+    },
+    {
       "group": "0day Syndicate",
       "percent": 20.0,
       "total_victims": 5,
@@ -1988,46 +1420,22 @@
       "stealer_victims": 1
     },
     {
-      "group": "bqtlock",
-      "percent": 20.0,
-      "total_victims": 5,
-      "stealer_victims": 1
+      "group": "dragonforce",
+      "percent": 18.03921568627451,
+      "total_victims": 255,
+      "stealer_victims": 46
     },
     {
-      "group": "frag",
-      "percent": 20.0,
-      "total_victims": 30,
-      "stealer_victims": 6
-    },
-    {
-      "group": "GDLockerSec",
-      "percent": 20.0,
-      "total_victims": 5,
-      "stealer_victims": 1
-    },
-    {
-      "group": "crypto24",
-      "percent": 19.565217391304348,
-      "total_victims": 46,
-      "stealer_victims": 9
+      "group": "lynx",
+      "percent": 17.24137931034483,
+      "total_victims": 58,
+      "stealer_victims": 10
     },
     {
       "group": "safepay",
-      "percent": 18.29787234042553,
-      "total_victims": 470,
-      "stealer_victims": 86
-    },
-    {
-      "group": "blacknevas",
-      "percent": 17.647058823529413,
-      "total_victims": 34,
-      "stealer_victims": 6
-    },
-    {
-      "group": "8base",
-      "percent": 17.24137931034483,
-      "total_victims": 29,
-      "stealer_victims": 5
+      "percent": 17.02127659574468,
+      "total_victims": 94,
+      "stealer_victims": 16
     },
     {
       "group": "Booba Project",
@@ -2036,22 +1444,16 @@
       "stealer_victims": 1
     },
     {
-      "group": "brotherhood",
-      "percent": 16.666666666666664,
-      "total_victims": 18,
-      "stealer_victims": 3
-    },
-    {
-      "group": "dragonforce",
-      "percent": 16.386554621848738,
-      "total_victims": 476,
-      "stealer_victims": 78
-    },
-    {
       "group": "devman",
-      "percent": 16.304347826086957,
-      "total_victims": 184,
-      "stealer_victims": 30
+      "percent": 15.625,
+      "total_victims": 32,
+      "stealer_victims": 5
+    },
+    {
+      "group": "interlock",
+      "percent": 15.384615384615385,
+      "total_victims": 26,
+      "stealer_victims": 4
     },
     {
       "group": "m3rx",
@@ -2060,40 +1462,52 @@
       "stealer_victims": 4
     },
     {
-      "group": "pear",
-      "percent": 14.85148514851485,
-      "total_victims": 101,
-      "stealer_victims": 15
+      "group": "chaos",
+      "percent": 15.151515151515152,
+      "total_victims": 33,
+      "stealer_victims": 5
     },
     {
-      "group": "alphalocker",
-      "percent": 14.285714285714285,
-      "total_victims": 14,
-      "stealer_victims": 2
-    },
-    {
-      "group": "trinity",
-      "percent": 14.285714285714285,
-      "total_victims": 7,
+      "group": "cloak",
+      "percent": 12.5,
+      "total_victims": 8,
       "stealer_victims": 1
     },
     {
-      "group": "chaos",
-      "percent": 14.0625,
-      "total_victims": 64,
-      "stealer_victims": 9
+      "group": "pear",
+      "percent": 12.0,
+      "total_victims": 50,
+      "stealer_victims": 6
     },
     {
-      "group": "termite",
-      "percent": 13.513513513513514,
-      "total_victims": 37,
-      "stealer_victims": 5
+      "group": "gunra",
+      "percent": 12.0,
+      "total_victims": 25,
+      "stealer_victims": 3
+    },
+    {
+      "group": "spacebears",
+      "percent": 11.76470588235294,
+      "total_victims": 34,
+      "stealer_victims": 4
+    },
+    {
+      "group": "securotrop",
+      "percent": 11.11111111111111,
+      "total_victims": 9,
+      "stealer_victims": 1
     },
     {
       "group": "Deadlock",
       "percent": 10.0,
       "total_victims": 10,
       "stealer_victims": 1
+    },
+    {
+      "group": "killsec",
+      "percent": 10.0,
+      "total_victims": 20,
+      "stealer_victims": 2
     },
     {
       "group": "aurora",
@@ -2108,22 +1522,10 @@
       "stealer_victims": 3
     },
     {
-      "group": "spacebears",
-      "percent": 9.278350515463918,
-      "total_victims": 97,
-      "stealer_victims": 9
-    },
-    {
-      "group": "ransomhouse",
-      "percent": 8.536585365853659,
-      "total_victims": 82,
-      "stealer_victims": 7
-    },
-    {
-      "group": "nightspire",
-      "percent": 8.417508417508419,
-      "total_victims": 297,
-      "stealer_victims": 25
+      "group": "worldleaks",
+      "percent": 8.47457627118644,
+      "total_victims": 59,
+      "stealer_victims": 5
     },
     {
       "group": "Icarus",
@@ -2132,76 +1534,16 @@
       "stealer_victims": 1
     },
     {
-      "group": "teamxxx",
-      "percent": 8.333333333333332,
-      "total_victims": 12,
-      "stealer_victims": 1
-    },
-    {
-      "group": "kraken",
-      "percent": 8.0,
-      "total_victims": 25,
-      "stealer_victims": 2
-    },
-    {
       "group": "AiLock",
       "percent": 7.142857142857142,
       "total_victims": 42,
       "stealer_victims": 3
     },
     {
-      "group": "weyhro",
-      "percent": 7.142857142857142,
-      "total_victims": 14,
-      "stealer_victims": 1
-    },
-    {
       "group": "sinobi",
-      "percent": 6.934306569343065,
-      "total_victims": 274,
-      "stealer_victims": 19
-    },
-    {
-      "group": "nitrogen",
       "percent": 6.896551724137931,
-      "total_victims": 29,
-      "stealer_victims": 2
-    },
-    {
-      "group": "global",
-      "percent": 6.25,
-      "total_victims": 32,
-      "stealer_victims": 2
-    },
-    {
-      "group": "worldleaks",
-      "percent": 5.780346820809249,
-      "total_victims": 173,
-      "stealer_victims": 10
-    },
-    {
-      "group": "cloak",
-      "percent": 5.769230769230769,
-      "total_victims": 52,
-      "stealer_victims": 3
-    },
-    {
-      "group": "securotrop",
-      "percent": 5.405405405405405,
-      "total_victims": 37,
-      "stealer_victims": 2
-    },
-    {
-      "group": "qilin",
-      "percent": 5.211912943871707,
-      "total_victims": 1746,
-      "stealer_victims": 91
-    },
-    {
-      "group": "play",
-      "percent": 4.316546762589928,
-      "total_victims": 556,
-      "stealer_victims": 24
+      "total_victims": 87,
+      "stealer_victims": 6
     },
     {
       "group": "vect",
@@ -2211,15 +1553,33 @@
     },
     {
       "group": "handala",
-      "percent": 1.639344262295082,
-      "total_victims": 122,
-      "stealer_victims": 2
+      "percent": 1.7543859649122806,
+      "total_victims": 57,
+      "stealer_victims": 1
     },
     {
-      "group": "clop",
-      "percent": 0.46367851622874806,
-      "total_victims": 647,
+      "group": "nightspire",
+      "percent": 1.5384615384615385,
+      "total_victims": 195,
       "stealer_victims": 3
+    },
+    {
+      "group": "qilin",
+      "percent": 1.1627906976744187,
+      "total_victims": 688,
+      "stealer_victims": 8
+    },
+    {
+      "group": "play",
+      "percent": 0.0,
+      "total_victims": 165,
+      "stealer_victims": 0
+    },
+    {
+      "group": "ransomhouse",
+      "percent": 0.0,
+      "total_victims": 27,
+      "stealer_victims": 0
     },
     {
       "group": "insomnia",
@@ -2234,6 +1594,18 @@
       "stealer_victims": 0
     },
     {
+      "group": "termite",
+      "percent": 0.0,
+      "total_victims": 16,
+      "stealer_victims": 0
+    },
+    {
+      "group": "nitrogen",
+      "percent": 0.0,
+      "total_victims": 10,
+      "stealer_victims": 0
+    },
+    {
       "group": "titan",
       "percent": 0.0,
       "total_victims": 9,
@@ -2242,17 +1614,29 @@
     {
       "group": "beast",
       "percent": 0.0,
-      "total_victims": 70,
+      "total_victims": 24,
       "stealer_victims": 0
     },
     {
-      "group": "ms13089",
+      "group": "clop",
       "percent": 0.0,
-      "total_victims": 4,
+      "total_victims": 129,
+      "stealer_victims": 0
+    },
+    {
+      "group": "crypto24",
+      "percent": 0.0,
+      "total_victims": 11,
       "stealer_victims": 0
     },
     {
       "group": "TiMc",
+      "percent": 0.0,
+      "total_victims": 3,
+      "stealer_victims": 0
+    },
+    {
+      "group": "linkc",
       "percent": 0.0,
       "total_victims": 3,
       "stealer_victims": 0
@@ -2264,59 +1648,11 @@
       "stealer_victims": 0
     },
     {
-      "group": "ciphbit",
-      "percent": 0.0,
-      "total_victims": 13,
-      "stealer_victims": 0
-    },
-    {
-      "group": "minteye",
-      "percent": 0.0,
-      "total_victims": 5,
-      "stealer_victims": 0
-    },
-    {
-      "group": "kryptos",
-      "percent": 0.0,
-      "total_victims": 5,
-      "stealer_victims": 0
-    },
-    {
-      "group": "IMNCrew",
-      "percent": 0.0,
-      "total_victims": 12,
-      "stealer_victims": 0
-    },
-    {
-      "group": "yurei",
+      "group": "sarcoma",
       "percent": 0.0,
       "total_victims": 3,
       "stealer_victims": 0
-    },
-    {
-      "group": "RunSomeWares",
-      "percent": 0.0,
-      "total_victims": 6,
-      "stealer_victims": 0
-    },
-    {
-      "group": "flocker",
-      "percent": 0.0,
-      "total_victims": 36,
-      "stealer_victims": 0
-    },
-    {
-      "group": "satanlockv2",
-      "percent": 0.0,
-      "total_victims": 4,
-      "stealer_victims": 0
-    },
-    {
-      "group": "blacksuit",
-      "percent": 0.0,
-      "total_victims": 9,
-      "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-08T00:03:06.346340Z"
+  "last_update": "2026-07-08T04:19:27.094656Z"
 }
