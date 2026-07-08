@@ -859,8 +859,8 @@
     },
     {
       "name": "BR",
-      "percent": 48.046875,
-      "total_victims": 256,
+      "percent": 47.85992217898833,
+      "total_victims": 257,
       "stealer_victims": 123
     },
     {
@@ -1015,8 +1015,8 @@
     },
     {
       "name": "MX",
-      "percent": 33.78378378378378,
-      "total_victims": 148,
+      "percent": 33.557046979865774,
+      "total_victims": 149,
       "stealer_victims": 50
     },
     {
@@ -1255,8 +1255,8 @@
     },
     {
       "name": "CN",
-      "percent": 18.91891891891892,
-      "total_victims": 74,
+      "percent": 18.666666666666668,
+      "total_victims": 75,
       "stealer_victims": 14
     },
     {
@@ -1285,14 +1285,14 @@
     },
     {
       "name": "GB",
-      "percent": 17.995910020449898,
-      "total_victims": 489,
+      "percent": 17.959183673469386,
+      "total_victims": 490,
       "stealer_victims": 88
     },
     {
       "name": "US",
-      "percent": 17.39649003237349,
-      "total_victims": 5869,
+      "percent": 17.39352640545145,
+      "total_victims": 5870,
       "stealer_victims": 1021
     },
     {
@@ -1670,12 +1670,6 @@
       "stealer_victims": 29
     },
     {
-      "group": "krybit",
-      "percent": 37.142857142857146,
-      "total_victims": 70,
-      "stealer_victims": 26
-    },
-    {
       "group": "J",
       "percent": 36.58536585365854,
       "total_victims": 41,
@@ -1698,6 +1692,12 @@
       "percent": 36.17021276595745,
       "total_victims": 47,
       "stealer_victims": 17
+    },
+    {
+      "group": "krybit",
+      "percent": 36.11111111111111,
+      "total_victims": 72,
+      "stealer_victims": 26
     },
     {
       "group": "medusa",
@@ -1827,8 +1827,8 @@
     },
     {
       "group": "akira",
-      "percent": 27.57318224740321,
-      "total_victims": 1059,
+      "percent": 27.547169811320753,
+      "total_victims": 1060,
       "stealer_victims": 292
     },
     {
@@ -2121,8 +2121,8 @@
     },
     {
       "group": "nightspire",
-      "percent": 8.417508417508419,
-      "total_victims": 297,
+      "percent": 8.389261744966444,
+      "total_victims": 298,
       "stealer_victims": 25
     },
     {
@@ -2193,8 +2193,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.211912943871707,
-      "total_victims": 1746,
+      "percent": 5.208929593589009,
+      "total_victims": 1747,
       "stealer_victims": 91
     },
     {
@@ -2318,5 +2318,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-08T12:24:40.297276Z"
+  "last_update": "2026-07-08T21:14:21.816030Z"
 }
