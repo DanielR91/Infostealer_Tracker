@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2830,
+    "domains_tracked": 2831,
     "employees_exposed": 141327,
     "users_exposed": 19601156,
-    "thirdparties_exposed": 112755,
+    "thirdparties_exposed": 112758,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 76
+      "count": 77
     }
   ],
   "sectors": [
@@ -205,7 +205,7 @@
     },
     {
       "name": "Healthcare",
-      "count": 5101
+      "count": 5104
     },
     {
       "name": "Manufacturing",
@@ -227,7 +227,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 1021
+      "count": 1022
     },
     {
       "name": "BR",
@@ -1015,8 +1015,8 @@
     },
     {
       "name": "MX",
-      "percent": 33.557046979865774,
-      "total_victims": 149,
+      "percent": 33.33333333333333,
+      "total_victims": 150,
       "stealer_victims": 50
     },
     {
@@ -1069,8 +1069,8 @@
     },
     {
       "name": "BE",
-      "percent": 31.343283582089555,
-      "total_victims": 67,
+      "percent": 30.88235294117647,
+      "total_victims": 68,
       "stealer_victims": 21
     },
     {
@@ -1267,8 +1267,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.257956448911223,
-      "total_victims": 597,
+      "percent": 18.22742474916388,
+      "total_victims": 598,
       "stealer_victims": 109
     },
     {
@@ -1291,9 +1291,9 @@
     },
     {
       "name": "US",
-      "percent": 17.37576582709326,
-      "total_victims": 5876,
-      "stealer_victims": 1021
+      "percent": 17.383908828031977,
+      "total_victims": 5879,
+      "stealer_victims": 1022
     },
     {
       "name": "BH",
@@ -1351,8 +1351,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.2208398133748055,
-      "total_victims": 643,
+      "percent": 6.211180124223603,
+      "total_victims": 644,
       "stealer_victims": 40
     },
     {
@@ -1484,12 +1484,6 @@
       "stealer_victims": 16
     },
     {
-      "group": "settra",
-      "percent": 63.63636363636363,
-      "total_victims": 22,
-      "stealer_victims": 14
-    },
-    {
       "group": "ralord",
       "percent": 63.1578947368421,
       "total_victims": 19,
@@ -1500,6 +1494,12 @@
       "percent": 62.14689265536724,
       "total_victims": 177,
       "stealer_victims": 110
+    },
+    {
+      "group": "settra",
+      "percent": 60.86956521739131,
+      "total_victims": 23,
+      "stealer_victims": 14
     },
     {
       "group": "underground",
@@ -2030,6 +2030,12 @@
       "stealer_victims": 5
     },
     {
+      "group": "CRPxO",
+      "percent": 16.666666666666664,
+      "total_victims": 6,
+      "stealer_victims": 1
+    },
+    {
       "group": "Booba Project",
       "percent": 16.666666666666664,
       "total_victims": 6,
@@ -2144,16 +2150,16 @@
       "stealer_victims": 2
     },
     {
-      "group": "AiLock",
-      "percent": 7.142857142857142,
-      "total_victims": 42,
-      "stealer_victims": 3
-    },
-    {
       "group": "weyhro",
       "percent": 7.142857142857142,
       "total_victims": 14,
       "stealer_victims": 1
+    },
+    {
+      "group": "AiLock",
+      "percent": 6.976744186046512,
+      "total_victims": 43,
+      "stealer_victims": 3
     },
     {
       "group": "sinobi",
@@ -2193,8 +2199,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.205949656750572,
-      "total_victims": 1748,
+      "percent": 5.191100969766115,
+      "total_victims": 1753,
       "stealer_victims": 91
     },
     {
@@ -2220,12 +2226,6 @@
       "percent": 0.46367851622874806,
       "total_victims": 647,
       "stealer_victims": 3
-    },
-    {
-      "group": "CRPxO",
-      "percent": 0.0,
-      "total_victims": 6,
-      "stealer_victims": 0
     },
     {
       "group": "insomnia",
@@ -2324,5 +2324,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-09T07:42:41.794548Z"
+  "last_update": "2026-07-09T11:10:39.323248Z"
 }
