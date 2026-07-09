@@ -1255,8 +1255,8 @@
     },
     {
       "name": "CN",
-      "percent": 18.666666666666668,
-      "total_victims": 75,
+      "percent": 18.421052631578945,
+      "total_victims": 76,
       "stealer_victims": 14
     },
     {
@@ -1291,8 +1291,8 @@
     },
     {
       "name": "US",
-      "percent": 17.39352640545145,
-      "total_victims": 5870,
+      "percent": 17.37576582709326,
+      "total_victims": 5876,
       "stealer_victims": 1021
     },
     {
@@ -2193,8 +2193,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.208929593589009,
-      "total_victims": 1747,
+      "percent": 5.205949656750572,
+      "total_victims": 1748,
       "stealer_victims": 91
     },
     {
@@ -2220,6 +2220,12 @@
       "percent": 0.46367851622874806,
       "total_victims": 647,
       "stealer_victims": 3
+    },
+    {
+      "group": "CRPxO",
+      "percent": 0.0,
+      "total_victims": 6,
+      "stealer_victims": 0
     },
     {
       "group": "insomnia",
@@ -2318,5 +2324,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-09T03:51:01.295414Z"
+  "last_update": "2026-07-09T07:42:41.794548Z"
 }
