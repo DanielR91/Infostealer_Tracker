@@ -1285,8 +1285,8 @@
     },
     {
       "name": "GB",
-      "percent": 17.922606924643585,
-      "total_victims": 491,
+      "percent": 17.88617886178862,
+      "total_victims": 492,
       "stealer_victims": 88
     },
     {
@@ -2108,16 +2108,16 @@
       "stealer_victims": 2
     },
     {
-      "group": "cmdorganization",
-      "percent": 9.375,
-      "total_victims": 32,
-      "stealer_victims": 3
-    },
-    {
       "group": "spacebears",
       "percent": 9.183673469387756,
       "total_victims": 98,
       "stealer_victims": 9
+    },
+    {
+      "group": "cmdorganization",
+      "percent": 9.090909090909092,
+      "total_victims": 33,
+      "stealer_victims": 3
     },
     {
       "group": "ransomhouse",
@@ -2324,5 +2324,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-09T18:01:35.903925Z"
+  "last_update": "2026-07-09T20:50:46.787181Z"
 }
