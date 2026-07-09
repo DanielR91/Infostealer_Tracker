@@ -1291,8 +1291,8 @@
     },
     {
       "name": "US",
-      "percent": 17.39795918367347,
-      "total_victims": 5880,
+      "percent": 17.392043522611356,
+      "total_victims": 5882,
       "stealer_victims": 1023
     },
     {
@@ -1351,8 +1351,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.211180124223603,
-      "total_victims": 644,
+      "percent": 6.2015503875969,
+      "total_victims": 645,
       "stealer_victims": 40
     },
     {
@@ -1604,12 +1604,6 @@
       "stealer_victims": 18
     },
     {
-      "group": "moneymessage",
-      "percent": 42.857142857142854,
-      "total_victims": 7,
-      "stealer_victims": 3
-    },
-    {
       "group": "killsec",
       "percent": 42.567567567567565,
       "total_victims": 148,
@@ -1623,8 +1617,8 @@
     },
     {
       "group": "BrainCipher",
-      "percent": 42.5,
-      "total_victims": 40,
+      "percent": 40.476190476190474,
+      "total_victims": 42,
       "stealer_victims": 17
     },
     {
@@ -1644,6 +1638,12 @@
       "percent": 38.23529411764706,
       "total_victims": 34,
       "stealer_victims": 13
+    },
+    {
+      "group": "moneymessage",
+      "percent": 37.5,
+      "total_victims": 8,
+      "stealer_victims": 3
     },
     {
       "group": "payoutsking",
@@ -2324,5 +2324,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-09T15:22:24.487066Z"
+  "last_update": "2026-07-09T18:01:35.903925Z"
 }
