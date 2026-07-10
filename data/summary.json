@@ -1351,8 +1351,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.2015503875969,
-      "total_victims": 645,
+      "percent": 6.191950464396285,
+      "total_victims": 646,
       "stealer_victims": 40
     },
     {
@@ -1622,12 +1622,6 @@
       "stealer_victims": 17
     },
     {
-      "group": "Doommageddon",
-      "percent": 40.0,
-      "total_victims": 5,
-      "stealer_victims": 2
-    },
-    {
       "group": "PrinzEugen",
       "percent": 40.0,
       "total_victims": 5,
@@ -1734,6 +1728,12 @@
       "percent": 33.440514469453376,
       "total_victims": 311,
       "stealer_victims": 104
+    },
+    {
+      "group": "Doommageddon",
+      "percent": 33.33333333333333,
+      "total_victims": 6,
+      "stealer_victims": 2
     },
     {
       "group": "payload",
@@ -2324,5 +2324,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-10T04:56:56.394171Z"
+  "last_update": "2026-07-10T08:29:48.135529Z"
 }
