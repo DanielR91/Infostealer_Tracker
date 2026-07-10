@@ -1,27 +1,27 @@
 {
   "totals": {
-    "domains_tracked": 2833,
-    "employees_exposed": 141327,
-    "users_exposed": 19601156,
-    "thirdparties_exposed": 112760,
+    "domains_tracked": 2848,
+    "employees_exposed": 141400,
+    "users_exposed": 19601260,
+    "thirdparties_exposed": 112853,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1258291
+      "count": 1258338
     },
     {
       "name": "Lumma",
-      "count": 619010
+      "count": 619048
     },
     {
       "name": "Generic Stealer",
-      "count": 493904
+      "count": 493923
     },
     {
       "name": "Raccoon",
-      "count": 331861
+      "count": 331874
     },
     {
       "name": "Azorult",
@@ -29,11 +29,11 @@
     },
     {
       "name": "StealC",
-      "count": 132517
+      "count": 132523
     },
     {
       "name": "Vidar",
-      "count": 128292
+      "count": 128299
     },
     {
       "name": "CRYPTBOT",
@@ -147,7 +147,7 @@
     },
     {
       "month": "2026-04",
-      "count": 222
+      "count": 223
     },
     {
       "month": "2026-05",
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 79
+      "count": 93
     }
   ],
   "sectors": [
@@ -181,19 +181,19 @@
     },
     {
       "name": "Business Services",
-      "count": 15341
+      "count": 15354
     },
     {
       "name": "Consumer Services",
-      "count": 15279
+      "count": 15307
     },
     {
       "name": "Transportation/Logistics",
-      "count": 11475
+      "count": 11480
     },
     {
       "name": "Not Found",
-      "count": 10969
+      "count": 10977
     },
     {
       "name": "Public Sector",
@@ -201,7 +201,7 @@
     },
     {
       "name": "Energy",
-      "count": 8398
+      "count": 8399
     },
     {
       "name": "Healthcare",
@@ -213,7 +213,7 @@
     },
     {
       "name": "Agriculture and Food Production",
-      "count": 2929
+      "count": 3037
     },
     {
       "name": "Hospitality and Tourism",
@@ -221,17 +221,17 @@
     },
     {
       "name": "Construction",
-      "count": 1527
+      "count": 1530
     }
   ],
   "countries": [
     {
       "name": "US",
-      "count": 1023
+      "count": 1024
     },
     {
       "name": "BR",
-      "count": 123
+      "count": 124
     },
     {
       "name": "DE",
@@ -246,28 +246,28 @@
       "count": 88
     },
     {
+      "name": "ES",
+      "count": 85
+    },
+    {
       "name": "CA",
       "count": 85
     },
     {
-      "name": "ES",
-      "count": 83
-    },
-    {
       "name": "IN",
-      "count": 79
+      "count": 80
     },
     {
       "name": "IT",
-      "count": 64
+      "count": 65
+    },
+    {
+      "name": "MX",
+      "count": 51
     },
     {
       "name": "TW",
       "count": 51
-    },
-    {
-      "name": "MX",
-      "count": 50
     },
     {
       "name": "TH",
@@ -295,7 +295,7 @@
     },
     {
       "name": "AR",
-      "count": 32
+      "count": 33
     },
     {
       "name": "AE",
@@ -315,7 +315,7 @@
     },
     {
       "name": "TR",
-      "count": 25
+      "count": 26
     },
     {
       "name": "PL",
@@ -350,6 +350,10 @@
       "count": 15
     },
     {
+      "name": "DK",
+      "count": 14
+    },
+    {
       "name": "AT",
       "count": 14
     },
@@ -379,10 +383,6 @@
     },
     {
       "name": "NL",
-      "count": 13
-    },
-    {
-      "name": "DK",
       "count": 13
     },
     {
@@ -474,6 +474,14 @@
       "count": 5
     },
     {
+      "name": "UY",
+      "count": 4
+    },
+    {
+      "name": "BG",
+      "count": 4
+    },
+    {
       "name": "OM",
       "count": 4
     },
@@ -502,6 +510,10 @@
       "count": 4
     },
     {
+      "name": "HU",
+      "count": 3
+    },
+    {
       "name": "DZ",
       "count": 3
     },
@@ -511,10 +523,6 @@
     },
     {
       "name": "PR",
-      "count": 3
-    },
-    {
-      "name": "UY",
       "count": 3
     },
     {
@@ -531,10 +539,6 @@
     },
     {
       "name": "GH",
-      "count": 3
-    },
-    {
-      "name": "BG",
       "count": 3
     },
     {
@@ -598,10 +602,6 @@
       "count": 2
     },
     {
-      "name": "HU",
-      "count": 2
-    },
-    {
       "name": "MT",
       "count": 2
     },
@@ -620,6 +620,14 @@
     {
       "name": "DM",
       "count": 2
+    },
+    {
+      "name": "AO",
+      "count": 1
+    },
+    {
+      "name": "GA",
+      "count": 1
     },
     {
       "name": "ME",
@@ -859,21 +867,21 @@
     },
     {
       "name": "BR",
-      "percent": 47.85992217898833,
-      "total_victims": 257,
-      "stealer_victims": 123
-    },
-    {
-      "name": "NO",
-      "percent": 46.666666666666664,
-      "total_victims": 30,
-      "stealer_victims": 14
+      "percent": 47.69230769230769,
+      "total_victims": 260,
+      "stealer_victims": 124
     },
     {
       "name": "NG",
       "percent": 46.15384615384615,
       "total_victims": 13,
       "stealer_victims": 6
+    },
+    {
+      "name": "NO",
+      "percent": 45.16129032258064,
+      "total_victims": 31,
+      "stealer_victims": 14
     },
     {
       "name": "DO",
@@ -912,6 +920,12 @@
       "stealer_victims": 8
     },
     {
+      "name": "UY",
+      "percent": 40.0,
+      "total_victims": 10,
+      "stealer_victims": 4
+    },
+    {
       "name": "UA",
       "percent": 40.0,
       "total_victims": 5,
@@ -948,16 +962,16 @@
       "stealer_victims": 19
     },
     {
-      "name": "CO",
-      "percent": 39.02439024390244,
-      "total_victims": 82,
-      "stealer_victims": 32
-    },
-    {
       "name": "TW",
       "percent": 38.63636363636363,
       "total_victims": 132,
       "stealer_victims": 51
+    },
+    {
+      "name": "CO",
+      "percent": 38.55421686746988,
+      "total_victims": 83,
+      "stealer_victims": 32
     },
     {
       "name": "PY",
@@ -966,16 +980,16 @@
       "stealer_victims": 5
     },
     {
-      "name": "AE",
-      "percent": 37.64705882352941,
-      "total_victims": 85,
-      "stealer_victims": 32
-    },
-    {
       "name": "TH",
       "percent": 37.3134328358209,
       "total_victims": 134,
       "stealer_victims": 50
+    },
+    {
+      "name": "AE",
+      "percent": 37.2093023255814,
+      "total_victims": 86,
+      "stealer_victims": 32
     },
     {
       "name": "CL",
@@ -997,33 +1011,21 @@
     },
     {
       "name": "AR",
-      "percent": 35.16483516483517,
-      "total_victims": 91,
-      "stealer_victims": 32
-    },
-    {
-      "name": "PL",
-      "percent": 34.32835820895522,
-      "total_victims": 67,
-      "stealer_victims": 23
+      "percent": 34.73684210526316,
+      "total_victims": 95,
+      "stealer_victims": 33
     },
     {
       "name": "IN",
-      "percent": 34.1991341991342,
-      "total_victims": 231,
-      "stealer_victims": 79
+      "percent": 34.48275862068966,
+      "total_victims": 232,
+      "stealer_victims": 80
     },
     {
-      "name": "MX",
+      "name": "BG",
       "percent": 33.33333333333333,
-      "total_victims": 150,
-      "stealer_victims": 50
-    },
-    {
-      "name": "UY",
-      "percent": 33.33333333333333,
-      "total_victims": 9,
-      "stealer_victims": 3
+      "total_victims": 12,
+      "stealer_victims": 4
     },
     {
       "name": "GE",
@@ -1056,16 +1058,28 @@
       "stealer_victims": 1
     },
     {
-      "name": "SG",
-      "percent": 32.432432432432435,
-      "total_victims": 111,
-      "stealer_victims": 36
+      "name": "MX",
+      "percent": 33.116883116883116,
+      "total_victims": 154,
+      "stealer_victims": 51
     },
     {
       "name": "ZA",
       "percent": 31.818181818181817,
       "total_victims": 44,
       "stealer_victims": 14
+    },
+    {
+      "name": "SG",
+      "percent": 31.57894736842105,
+      "total_victims": 114,
+      "stealer_victims": 36
+    },
+    {
+      "name": "PL",
+      "percent": 31.506849315068493,
+      "total_victims": 73,
+      "stealer_victims": 23
     },
     {
       "name": "BE",
@@ -1104,10 +1118,16 @@
       "stealer_victims": 101
     },
     {
+      "name": "DK",
+      "percent": 30.434782608695656,
+      "total_victims": 46,
+      "stealer_victims": 14
+    },
+    {
       "name": "ES",
-      "percent": 30.29197080291971,
-      "total_victims": 274,
-      "stealer_victims": 83
+      "percent": 30.2491103202847,
+      "total_victims": 281,
+      "stealer_victims": 85
     },
     {
       "name": "GT",
@@ -1116,28 +1136,10 @@
       "stealer_victims": 3
     },
     {
-      "name": "DK",
-      "percent": 28.888888888888886,
-      "total_victims": 45,
-      "stealer_victims": 13
-    },
-    {
       "name": "LK",
       "percent": 28.57142857142857,
       "total_victims": 14,
       "stealer_victims": 4
-    },
-    {
-      "name": "BG",
-      "percent": 27.27272727272727,
-      "total_victims": 11,
-      "stealer_victims": 3
-    },
-    {
-      "name": "PH",
-      "percent": 27.083333333333332,
-      "total_victims": 48,
-      "stealer_victims": 13
     },
     {
       "name": "IR",
@@ -1146,10 +1148,16 @@
       "stealer_victims": 4
     },
     {
+      "name": "PH",
+      "percent": 26.53061224489796,
+      "total_victims": 49,
+      "stealer_victims": 13
+    },
+    {
       "name": "TR",
-      "percent": 25.0,
-      "total_victims": 100,
-      "stealer_victims": 25
+      "percent": 25.49019607843137,
+      "total_victims": 102,
+      "stealer_victims": 26
     },
     {
       "name": "PA",
@@ -1171,8 +1179,8 @@
     },
     {
       "name": "CH",
-      "percent": 24.778761061946902,
-      "total_victims": 113,
+      "percent": 24.561403508771928,
+      "total_victims": 114,
       "stealer_victims": 28
     },
     {
@@ -1194,9 +1202,15 @@
       "stealer_victims": 6
     },
     {
+      "name": "HU",
+      "percent": 23.076923076923077,
+      "total_victims": 13,
+      "stealer_victims": 3
+    },
+    {
       "name": "PT",
-      "percent": 23.25581395348837,
-      "total_victims": 43,
+      "percent": 22.727272727272727,
+      "total_victims": 44,
       "stealer_victims": 10
     },
     {
@@ -1219,15 +1233,15 @@
     },
     {
       "name": "SE",
-      "percent": 20.54794520547945,
-      "total_victims": 73,
+      "percent": 20.27027027027027,
+      "total_victims": 74,
       "stealer_victims": 15
     },
     {
       "name": "IT",
-      "percent": 20.317460317460316,
-      "total_victims": 315,
-      "stealer_victims": 64
+      "percent": 20.18633540372671,
+      "total_victims": 322,
+      "stealer_victims": 65
     },
     {
       "name": "MU",
@@ -1254,28 +1268,10 @@
       "stealer_victims": 14
     },
     {
-      "name": "NL",
-      "percent": 18.30985915492958,
-      "total_victims": 71,
-      "stealer_victims": 13
-    },
-    {
-      "name": "DE",
-      "percent": 18.22742474916388,
-      "total_victims": 598,
-      "stealer_victims": 109
-    },
-    {
       "name": "CN",
       "percent": 18.181818181818183,
       "total_victims": 77,
       "stealer_victims": 14
-    },
-    {
-      "name": "HU",
-      "percent": 18.181818181818183,
-      "total_victims": 11,
-      "stealer_victims": 2
     },
     {
       "name": "NZ",
@@ -1284,28 +1280,34 @@
       "stealer_victims": 4
     },
     {
+      "name": "DE",
+      "percent": 18.106312292358805,
+      "total_victims": 602,
+      "stealer_victims": 109
+    },
+    {
+      "name": "NL",
+      "percent": 18.055555555555554,
+      "total_victims": 72,
+      "stealer_victims": 13
+    },
+    {
       "name": "GB",
-      "percent": 17.849898580121703,
-      "total_victims": 493,
+      "percent": 17.813765182186234,
+      "total_victims": 494,
       "stealer_victims": 88
     },
     {
       "name": "US",
-      "percent": 17.392043522611356,
-      "total_victims": 5882,
-      "stealer_victims": 1023
+      "percent": 17.397213727488957,
+      "total_victims": 5886,
+      "stealer_victims": 1024
     },
     {
       "name": "BH",
       "percent": 16.666666666666664,
       "total_victims": 6,
       "stealer_victims": 1
-    },
-    {
-      "name": "CZ",
-      "percent": 16.3265306122449,
-      "total_victims": 49,
-      "stealer_victims": 8
     },
     {
       "name": "HK",
@@ -1315,9 +1317,15 @@
     },
     {
       "name": "CA",
-      "percent": 15.482695810564662,
-      "total_victims": 549,
+      "percent": 15.454545454545453,
+      "total_victims": 550,
       "stealer_victims": 85
+    },
+    {
+      "name": "CZ",
+      "percent": 15.384615384615385,
+      "total_victims": 52,
+      "stealer_victims": 8
     },
     {
       "name": "AU",
@@ -1326,16 +1334,16 @@
       "stealer_victims": 34
     },
     {
-      "name": "HR",
-      "percent": 14.285714285714285,
-      "total_victims": 14,
-      "stealer_victims": 2
-    },
-    {
       "name": "SJ",
       "percent": 14.285714285714285,
       "total_victims": 7,
       "stealer_victims": 1
+    },
+    {
+      "name": "HR",
+      "percent": 13.333333333333334,
+      "total_victims": 15,
+      "stealer_victims": 2
     },
     {
       "name": "IL",
@@ -1351,8 +1359,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.191950464396285,
-      "total_victims": 646,
+      "percent": 6.1443932411674345,
+      "total_victims": 651,
       "stealer_victims": 40
     },
     {
@@ -1360,6 +1368,12 @@
       "percent": 5.88235294117647,
       "total_victims": 34,
       "stealer_victims": 2
+    },
+    {
+      "name": "LT",
+      "percent": 0.0,
+      "total_victims": 3,
+      "stealer_victims": 0
     },
     {
       "name": "BS",
@@ -1718,28 +1732,22 @@
       "stealer_victims": 14
     },
     {
+      "group": "lockbit5",
+      "percent": 33.762057877813504,
+      "total_victims": 311,
+      "stealer_victims": 105
+    },
+    {
       "group": "rhysida",
       "percent": 33.63636363636363,
       "total_victims": 110,
       "stealer_victims": 37
     },
     {
-      "group": "lockbit5",
-      "percent": 33.440514469453376,
-      "total_victims": 311,
-      "stealer_victims": 104
-    },
-    {
       "group": "Doommageddon",
       "percent": 33.33333333333333,
       "total_victims": 6,
       "stealer_victims": 2
-    },
-    {
-      "group": "payload",
-      "percent": 33.33333333333333,
-      "total_victims": 66,
-      "stealer_victims": 22
     },
     {
       "group": "morpheus",
@@ -1758,6 +1766,12 @@
       "percent": 33.33333333333333,
       "total_victims": 6,
       "stealer_victims": 2
+    },
+    {
+      "group": "payload",
+      "percent": 32.83582089552239,
+      "total_victims": 67,
+      "stealer_victims": 22
     },
     {
       "group": "cactus",
@@ -1827,8 +1841,8 @@
     },
     {
       "group": "akira",
-      "percent": 27.547169811320753,
-      "total_victims": 1060,
+      "percent": 27.521206409048066,
+      "total_victims": 1061,
       "stealer_victims": 292
     },
     {
@@ -1964,6 +1978,12 @@
       "stealer_victims": 66
     },
     {
+      "group": "Deadlock",
+      "percent": 20.0,
+      "total_victims": 75,
+      "stealer_victims": 15
+    },
+    {
       "group": "Wallstreet",
       "percent": 20.0,
       "total_victims": 5,
@@ -2096,12 +2116,6 @@
       "stealer_victims": 5
     },
     {
-      "group": "Deadlock",
-      "percent": 10.0,
-      "total_victims": 10,
-      "stealer_victims": 1
-    },
-    {
       "group": "aurora",
       "percent": 9.523809523809524,
       "total_victims": 21,
@@ -2199,8 +2213,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.188141391106043,
-      "total_victims": 1754,
+      "percent": 5.167518455423055,
+      "total_victims": 1761,
       "stealer_victims": 91
     },
     {
@@ -2324,5 +2338,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-10T11:57:49.520571Z"
+  "last_update": "2026-07-10T14:46:47.866755Z"
 }
