@@ -1299,8 +1299,8 @@
     },
     {
       "name": "US",
-      "percent": 17.411245116358074,
-      "total_victims": 5887,
+      "percent": 17.40828804347826,
+      "total_victims": 5888,
       "stealer_victims": 1025
     },
     {
@@ -2069,8 +2069,8 @@
     },
     {
       "group": "dragonforce",
-      "percent": 16.386554621848738,
-      "total_victims": 476,
+      "percent": 16.352201257861633,
+      "total_victims": 477,
       "stealer_victims": 78
     },
     {
@@ -2338,5 +2338,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-10T21:11:01.043721Z"
+  "last_update": "2026-07-10T23:02:35.011511Z"
 }
