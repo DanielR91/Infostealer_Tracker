@@ -1105,8 +1105,8 @@
     },
     {
       "name": "ES",
-      "percent": 30.4029304029304,
-      "total_victims": 273,
+      "percent": 30.29197080291971,
+      "total_victims": 274,
       "stealer_victims": 83
     },
     {
@@ -1285,8 +1285,8 @@
     },
     {
       "name": "GB",
-      "percent": 17.88617886178862,
-      "total_victims": 492,
+      "percent": 17.849898580121703,
+      "total_victims": 493,
       "stealer_victims": 88
     },
     {
@@ -1539,8 +1539,8 @@
     },
     {
       "group": "nova",
-      "percent": 50.955414012738856,
-      "total_victims": 157,
+      "percent": 50.63291139240506,
+      "total_victims": 158,
       "stealer_victims": 80
     },
     {
@@ -1832,12 +1832,6 @@
       "stealer_victims": 292
     },
     {
-      "group": "gunra",
-      "percent": 26.666666666666668,
-      "total_victims": 45,
-      "stealer_victims": 12
-    },
-    {
       "group": "cicada3301",
       "percent": 26.666666666666668,
       "total_victims": 30,
@@ -1848,6 +1842,12 @@
       "percent": 26.53061224489796,
       "total_victims": 49,
       "stealer_victims": 13
+    },
+    {
+      "group": "gunra",
+      "percent": 26.08695652173913,
+      "total_victims": 46,
+      "stealer_victims": 12
     },
     {
       "group": "incransom",
@@ -2324,5 +2324,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-10T00:10:37.068225Z"
+  "last_update": "2026-07-10T04:56:56.394171Z"
 }
