@@ -1254,12 +1254,6 @@
       "stealer_victims": 14
     },
     {
-      "name": "CN",
-      "percent": 18.421052631578945,
-      "total_victims": 76,
-      "stealer_victims": 14
-    },
-    {
       "name": "NL",
       "percent": 18.30985915492958,
       "total_victims": 71,
@@ -1270,6 +1264,12 @@
       "percent": 18.22742474916388,
       "total_victims": 598,
       "stealer_victims": 109
+    },
+    {
+      "name": "CN",
+      "percent": 18.181818181818183,
+      "total_victims": 77,
+      "stealer_victims": 14
     },
     {
       "name": "HU",
@@ -1544,12 +1544,6 @@
       "stealer_victims": 80
     },
     {
-      "group": "blackwater",
-      "percent": 50.0,
-      "total_victims": 6,
-      "stealer_victims": 3
-    },
-    {
       "group": "cipherforce",
       "percent": 50.0,
       "total_victims": 6,
@@ -1602,6 +1596,12 @@
       "percent": 43.90243902439025,
       "total_victims": 41,
       "stealer_victims": 18
+    },
+    {
+      "group": "blackwater",
+      "percent": 42.857142857142854,
+      "total_victims": 7,
+      "stealer_victims": 3
     },
     {
       "group": "killsec",
@@ -2324,5 +2324,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-10T08:29:48.135529Z"
+  "last_update": "2026-07-10T11:57:49.520571Z"
 }
