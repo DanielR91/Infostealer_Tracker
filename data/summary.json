@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2848,
+    "domains_tracked": 2849,
     "employees_exposed": 141400,
     "users_exposed": 19601260,
-    "thirdparties_exposed": 112853,
+    "thirdparties_exposed": 112858,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 93
+      "count": 94
     }
   ],
   "sectors": [
@@ -169,7 +169,7 @@
     },
     {
       "name": "Education",
-      "count": 37406
+      "count": 37411
     },
     {
       "name": "Technology",
@@ -227,7 +227,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 1024
+      "count": 1025
     },
     {
       "name": "BR",
@@ -915,8 +915,8 @@
     },
     {
       "name": "MA",
-      "percent": 42.10526315789473,
-      "total_victims": 19,
+      "percent": 40.0,
+      "total_victims": 20,
       "stealer_victims": 8
     },
     {
@@ -1299,9 +1299,9 @@
     },
     {
       "name": "US",
-      "percent": 17.397213727488957,
-      "total_victims": 5886,
-      "stealer_victims": 1024
+      "percent": 17.411245116358074,
+      "total_victims": 5887,
+      "stealer_victims": 1025
     },
     {
       "name": "BH",
@@ -1864,16 +1864,16 @@
       "stealer_victims": 12
     },
     {
+      "group": "interlock",
+      "percent": 26.0,
+      "total_victims": 100,
+      "stealer_victims": 26
+    },
+    {
       "group": "incransom",
       "percent": 25.465838509316768,
       "total_victims": 644,
       "stealer_victims": 164
-    },
-    {
-      "group": "interlock",
-      "percent": 25.252525252525253,
-      "total_victims": 99,
-      "stealer_victims": 25
     },
     {
       "group": "radar",
@@ -2213,8 +2213,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.167518455423055,
-      "total_victims": 1761,
+      "percent": 5.164585698070375,
+      "total_victims": 1762,
       "stealer_victims": 91
     },
     {
@@ -2338,5 +2338,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-10T14:46:47.866755Z"
+  "last_update": "2026-07-10T17:01:11.132829Z"
 }
