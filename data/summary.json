@@ -1317,8 +1317,8 @@
     },
     {
       "name": "AU",
-      "percent": 15.765765765765765,
-      "total_victims": 222,
+      "percent": 15.695067264573993,
+      "total_victims": 223,
       "stealer_victims": 35
     },
     {
@@ -2069,8 +2069,8 @@
     },
     {
       "group": "dragonforce",
-      "percent": 16.352201257861633,
-      "total_victims": 477,
+      "percent": 16.317991631799163,
+      "total_victims": 478,
       "stealer_victims": 78
     },
     {
@@ -2338,5 +2338,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-11T14:59:56.688933Z"
+  "last_update": "2026-07-11T16:04:37.423709Z"
 }
