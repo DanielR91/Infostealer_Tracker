@@ -848,12 +848,6 @@
       "stealer_victims": 14
     },
     {
-      "name": "GH",
-      "percent": 50.0,
-      "total_victims": 6,
-      "stealer_victims": 3
-    },
-    {
       "name": "LV",
       "percent": 50.0,
       "total_victims": 4,
@@ -900,6 +894,12 @@
       "percent": 43.24324324324324,
       "total_victims": 37,
       "stealer_victims": 16
+    },
+    {
+      "name": "GH",
+      "percent": 42.857142857142854,
+      "total_victims": 7,
+      "stealer_victims": 3
     },
     {
       "name": "BD",
@@ -2129,8 +2129,8 @@
     },
     {
       "group": "cmdorganization",
-      "percent": 9.090909090909092,
-      "total_victims": 33,
+      "percent": 8.823529411764707,
+      "total_victims": 34,
       "stealer_victims": 3
     },
     {
@@ -2338,5 +2338,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-11T10:19:24.871053Z"
+  "last_update": "2026-07-11T11:56:23.311109Z"
 }
