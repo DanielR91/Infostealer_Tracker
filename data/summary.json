@@ -1124,16 +1124,16 @@
       "stealer_victims": 101
     },
     {
-      "name": "ES",
-      "percent": 30.03533568904594,
-      "total_victims": 283,
-      "stealer_victims": 85
-    },
-    {
       "name": "GT",
       "percent": 30.0,
       "total_victims": 10,
       "stealer_victims": 3
+    },
+    {
+      "name": "ES",
+      "percent": 29.929577464788732,
+      "total_victims": 284,
+      "stealer_victims": 85
     },
     {
       "name": "LK",
@@ -1978,12 +1978,6 @@
       "stealer_victims": 66
     },
     {
-      "group": "Deadlock",
-      "percent": 20.0,
-      "total_victims": 75,
-      "stealer_victims": 15
-    },
-    {
       "group": "Wallstreet",
       "percent": 20.0,
       "total_victims": 5,
@@ -2024,6 +2018,12 @@
       "percent": 20.0,
       "total_victims": 5,
       "stealer_victims": 1
+    },
+    {
+      "group": "Deadlock",
+      "percent": 19.736842105263158,
+      "total_victims": 76,
+      "stealer_victims": 15
     },
     {
       "group": "crypto24",
@@ -2338,5 +2338,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-12T19:13:02.017574Z"
+  "last_update": "2026-07-12T20:57:16.893038Z"
 }
