@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2864,
+    "domains_tracked": 2865,
     "employees_exposed": 141402,
     "users_exposed": 19601348,
-    "thirdparties_exposed": 112906,
+    "thirdparties_exposed": 112907,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 109
+      "count": 110
     }
   ],
   "sectors": [
@@ -181,7 +181,7 @@
     },
     {
       "name": "Business Services",
-      "count": 15374
+      "count": 15375
     },
     {
       "name": "Consumer Services",
@@ -227,7 +227,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 1027
+      "count": 1028
     },
     {
       "name": "BR",
@@ -1161,8 +1161,8 @@
     },
     {
       "name": "IE",
-      "percent": 26.47058823529412,
-      "total_victims": 34,
+      "percent": 25.71428571428571,
+      "total_victims": 35,
       "stealer_victims": 9
     },
     {
@@ -1299,9 +1299,9 @@
     },
     {
       "name": "US",
-      "percent": 17.415635068678988,
-      "total_victims": 5897,
-      "stealer_victims": 1027
+      "percent": 17.426682488557383,
+      "total_victims": 5899,
+      "stealer_victims": 1028
     },
     {
       "name": "BH",
@@ -2044,6 +2044,12 @@
       "stealer_victims": 6
     },
     {
+      "group": "m3rx",
+      "percent": 17.24137931034483,
+      "total_victims": 29,
+      "stealer_victims": 5
+    },
+    {
       "group": "8base",
       "percent": 17.24137931034483,
       "total_victims": 29,
@@ -2078,12 +2084,6 @@
       "percent": 16.304347826086957,
       "total_victims": 184,
       "stealer_victims": 30
-    },
-    {
-      "group": "m3rx",
-      "percent": 15.384615384615385,
-      "total_victims": 26,
-      "stealer_victims": 4
     },
     {
       "group": "pear",
@@ -2338,5 +2338,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-12T11:15:29.148401Z"
+  "last_update": "2026-07-12T13:39:25.027180Z"
 }
