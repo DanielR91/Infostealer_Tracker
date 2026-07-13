@@ -1299,8 +1299,8 @@
     },
     {
       "name": "US",
-      "percent": 17.426682488557383,
-      "total_victims": 5899,
+      "percent": 17.423728813559322,
+      "total_victims": 5900,
       "stealer_victims": 1028
     },
     {
@@ -2129,8 +2129,8 @@
     },
     {
       "group": "cmdorganization",
-      "percent": 8.823529411764707,
-      "total_victims": 34,
+      "percent": 8.571428571428571,
+      "total_victims": 35,
       "stealer_victims": 3
     },
     {
@@ -2338,5 +2338,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-12T23:01:04.494772Z"
+  "last_update": "2026-07-13T03:32:55.131050Z"
 }
