@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2872,
+    "domains_tracked": 2873,
     "employees_exposed": 141436,
-    "users_exposed": 19610804,
-    "thirdparties_exposed": 112992,
+    "users_exposed": 19610805,
+    "thirdparties_exposed": 112994,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 117
+      "count": 118
     }
   ],
   "sectors": [
@@ -173,7 +173,7 @@
     },
     {
       "name": "Technology",
-      "count": 31766
+      "count": 31768
     },
     {
       "name": "Telecommunication",
@@ -255,7 +255,7 @@
     },
     {
       "name": "IN",
-      "count": 80
+      "count": 81
     },
     {
       "name": "IT",
@@ -1011,14 +1011,14 @@
     },
     {
       "name": "IN",
-      "percent": 34.48275862068966,
-      "total_victims": 232,
-      "stealer_victims": 80
+      "percent": 34.763948497854074,
+      "total_victims": 233,
+      "stealer_victims": 81
     },
     {
       "name": "AR",
-      "percent": 34.375,
-      "total_victims": 96,
+      "percent": 34.02061855670103,
+      "total_victims": 97,
       "stealer_victims": 33
     },
     {
@@ -1299,8 +1299,8 @@
     },
     {
       "name": "US",
-      "percent": 17.428861788617887,
-      "total_victims": 5904,
+      "percent": 17.422959701997968,
+      "total_victims": 5906,
       "stealer_victims": 1029
     },
     {
@@ -2039,8 +2039,8 @@
     },
     {
       "group": "safepay",
-      "percent": 18.29787234042553,
-      "total_victims": 470,
+      "percent": 18.259023354564754,
+      "total_victims": 471,
       "stealer_victims": 86
     },
     {
@@ -2081,8 +2081,8 @@
     },
     {
       "group": "dragonforce",
-      "percent": 16.59751037344398,
-      "total_victims": 482,
+      "percent": 16.528925619834713,
+      "total_victims": 484,
       "stealer_victims": 80
     },
     {
@@ -2134,6 +2134,12 @@
       "stealer_victims": 9
     },
     {
+      "group": "nightspire",
+      "percent": 8.695652173913043,
+      "total_victims": 299,
+      "stealer_victims": 26
+    },
+    {
       "group": "cmdorganization",
       "percent": 8.571428571428571,
       "total_victims": 35,
@@ -2144,12 +2150,6 @@
       "percent": 8.536585365853659,
       "total_victims": 82,
       "stealer_victims": 7
-    },
-    {
-      "group": "nightspire",
-      "percent": 8.389261744966444,
-      "total_victims": 298,
-      "stealer_victims": 25
     },
     {
       "group": "Icarus",
@@ -2344,5 +2344,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-13T14:47:33.393741Z"
+  "last_update": "2026-07-13T17:18:02.244032Z"
 }
