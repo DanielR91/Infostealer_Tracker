@@ -1293,8 +1293,8 @@
     },
     {
       "name": "US",
-      "percent": 17.408221959059382,
-      "total_victims": 5911,
+      "percent": 17.405277401894452,
+      "total_victims": 5912,
       "stealer_victims": 1029
     },
     {
@@ -2104,16 +2104,16 @@
       "stealer_victims": 1
     },
     {
-      "group": "chaos",
-      "percent": 13.636363636363635,
-      "total_victims": 66,
-      "stealer_victims": 9
-    },
-    {
       "group": "termite",
       "percent": 13.513513513513514,
       "total_victims": 37,
       "stealer_victims": 5
+    },
+    {
+      "group": "chaos",
+      "percent": 13.432835820895523,
+      "total_victims": 67,
+      "stealer_victims": 9
     },
     {
       "group": "aurora",
@@ -2338,5 +2338,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-14T14:57:48.177203Z"
+  "last_update": "2026-07-14T16:22:09.993654Z"
 }
