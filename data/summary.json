@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2874,
-    "employees_exposed": 141440,
-    "users_exposed": 19610817,
-    "thirdparties_exposed": 112994,
+    "domains_tracked": 2875,
+    "employees_exposed": 141441,
+    "users_exposed": 19610822,
+    "thirdparties_exposed": 112997,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 119
+      "count": 120
     }
   ],
   "sectors": [
@@ -193,7 +193,7 @@
     },
     {
       "name": "Not Found",
-      "count": 11010
+      "count": 11014
     },
     {
       "name": "Public Sector",
@@ -263,7 +263,7 @@
     },
     {
       "name": "MX",
-      "count": 52
+      "count": 53
     },
     {
       "name": "TW",
@@ -1023,9 +1023,9 @@
     },
     {
       "name": "MX",
-      "percent": 33.33333333333333,
-      "total_victims": 156,
-      "stealer_victims": 52
+      "percent": 33.75796178343949,
+      "total_victims": 157,
+      "stealer_victims": 53
     },
     {
       "name": "BG",
@@ -1299,8 +1299,8 @@
     },
     {
       "name": "US",
-      "percent": 17.414114063293283,
-      "total_victims": 5909,
+      "percent": 17.411167512690355,
+      "total_victims": 5910,
       "stealer_victims": 1029
     },
     {
@@ -2063,9 +2063,9 @@
     },
     {
       "group": "dragonforce",
-      "percent": 16.70103092783505,
-      "total_victims": 485,
-      "stealer_victims": 81
+      "percent": 16.872427983539097,
+      "total_victims": 486,
+      "stealer_victims": 82
     },
     {
       "group": "CRPxO",
@@ -2140,16 +2140,16 @@
       "stealer_victims": 26
     },
     {
-      "group": "cmdorganization",
-      "percent": 8.571428571428571,
-      "total_victims": 35,
-      "stealer_victims": 3
-    },
-    {
       "group": "ransomhouse",
       "percent": 8.536585365853659,
       "total_victims": 82,
       "stealer_victims": 7
+    },
+    {
+      "group": "cmdorganization",
+      "percent": 8.333333333333332,
+      "total_victims": 36,
+      "stealer_victims": 3
     },
     {
       "group": "Icarus",
@@ -2344,5 +2344,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-14T07:12:37.868992Z"
+  "last_update": "2026-07-14T10:03:52.150608Z"
 }
