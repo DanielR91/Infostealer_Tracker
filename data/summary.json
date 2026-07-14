@@ -1,8 +1,8 @@
 {
   "totals": {
-    "domains_tracked": 2873,
-    "employees_exposed": 141436,
-    "users_exposed": 19610805,
+    "domains_tracked": 2874,
+    "employees_exposed": 141440,
+    "users_exposed": 19610817,
     "thirdparties_exposed": 112994,
     "stealer_families_count": 19
   },
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 118
+      "count": 119
     }
   ],
   "sectors": [
@@ -173,7 +173,7 @@
     },
     {
       "name": "Technology",
-      "count": 31768
+      "count": 31772
     },
     {
       "name": "Telecommunication",
@@ -342,6 +342,10 @@
       "count": 16
     },
     {
+      "name": "CN",
+      "count": 15
+    },
+    {
       "name": "CL",
       "count": 15
     },
@@ -371,10 +375,6 @@
     },
     {
       "name": "NO",
-      "count": 14
-    },
-    {
-      "name": "CN",
       "count": 14
     },
     {
@@ -1023,8 +1023,8 @@
     },
     {
       "name": "MX",
-      "percent": 33.5483870967742,
-      "total_victims": 155,
+      "percent": 33.33333333333333,
+      "total_victims": 156,
       "stealer_victims": 52
     },
     {
@@ -1262,6 +1262,12 @@
       "stealer_victims": 36
     },
     {
+      "name": "CN",
+      "percent": 19.230769230769234,
+      "total_victims": 78,
+      "stealer_victims": 15
+    },
+    {
       "name": "NL",
       "percent": 19.17808219178082,
       "total_victims": 73,
@@ -1278,12 +1284,6 @@
       "percent": 18.48184818481848,
       "total_victims": 606,
       "stealer_victims": 112
-    },
-    {
-      "name": "CN",
-      "percent": 18.181818181818183,
-      "total_victims": 77,
-      "stealer_victims": 14
     },
     {
       "name": "NZ",
@@ -2062,6 +2062,12 @@
       "stealer_victims": 5
     },
     {
+      "group": "dragonforce",
+      "percent": 16.70103092783505,
+      "total_victims": 485,
+      "stealer_victims": 81
+    },
+    {
       "group": "CRPxO",
       "percent": 16.666666666666664,
       "total_victims": 6,
@@ -2078,12 +2084,6 @@
       "percent": 16.666666666666664,
       "total_victims": 18,
       "stealer_victims": 3
-    },
-    {
-      "group": "dragonforce",
-      "percent": 16.528925619834713,
-      "total_victims": 484,
-      "stealer_victims": 80
     },
     {
       "group": "devman",
@@ -2219,8 +2219,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.129650507328072,
-      "total_victims": 1774,
+      "percent": 5.126760563380282,
+      "total_victims": 1775,
       "stealer_victims": 91
     },
     {
@@ -2344,5 +2344,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-14T00:01:14.724231Z"
+  "last_update": "2026-07-14T04:07:11.346354Z"
 }
