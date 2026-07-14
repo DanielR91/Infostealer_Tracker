@@ -1191,8 +1191,8 @@
     },
     {
       "name": "FI",
-      "percent": 24.0,
-      "total_victims": 25,
+      "percent": 23.076923076923077,
+      "total_victims": 26,
       "stealer_victims": 6
     },
     {
@@ -1293,8 +1293,8 @@
     },
     {
       "name": "US",
-      "percent": 17.405277401894452,
-      "total_victims": 5912,
+      "percent": 17.39644970414201,
+      "total_victims": 5915,
       "stealer_victims": 1029
     },
     {
@@ -1871,8 +1871,8 @@
     },
     {
       "group": "incransom",
-      "percent": 25.465838509316768,
-      "total_victims": 644,
+      "percent": 25.386996904024766,
+      "total_victims": 646,
       "stealer_victims": 164
     },
     {
@@ -2129,8 +2129,8 @@
     },
     {
       "group": "nightspire",
-      "percent": 8.695652173913043,
-      "total_victims": 299,
+      "percent": 8.666666666666668,
+      "total_victims": 300,
       "stealer_victims": 26
     },
     {
@@ -2213,8 +2213,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.126760563380282,
-      "total_victims": 1775,
+      "percent": 5.123873873873873,
+      "total_victims": 1776,
       "stealer_victims": 91
     },
     {
@@ -2338,5 +2338,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-14T18:08:13.795639Z"
+  "last_update": "2026-07-14T20:17:08.281276Z"
 }
