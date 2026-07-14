@@ -1,7 +1,7 @@
 {
   "totals": {
-    "domains_tracked": 2875,
-    "employees_exposed": 141441,
+    "domains_tracked": 2876,
+    "employees_exposed": 141442,
     "users_exposed": 19610822,
     "thirdparties_exposed": 112997,
     "stealer_families_count": 19
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 120
+      "count": 121
     }
   ],
   "sectors": [
@@ -217,7 +217,7 @@
     },
     {
       "name": "Hospitality and Tourism",
-      "count": 2294
+      "count": 2295
     },
     {
       "name": "Construction",
@@ -259,7 +259,7 @@
     },
     {
       "name": "IT",
-      "count": 67
+      "count": 68
     },
     {
       "name": "MX",
@@ -1227,9 +1227,9 @@
     },
     {
       "name": "IT",
-      "percent": 20.552147239263803,
-      "total_victims": 326,
-      "stealer_victims": 67
+      "percent": 20.795107033639145,
+      "total_victims": 327,
+      "stealer_victims": 68
     },
     {
       "name": "SE",
@@ -1648,16 +1648,16 @@
       "stealer_victims": 13
     },
     {
+      "group": "payoutsking",
+      "percent": 38.095238095238095,
+      "total_victims": 105,
+      "stealer_victims": 40
+    },
+    {
       "group": "moneymessage",
       "percent": 37.5,
       "total_victims": 8,
       "stealer_victims": 3
-    },
-    {
-      "group": "payoutsking",
-      "percent": 37.5,
-      "total_victims": 104,
-      "stealer_victims": 39
     },
     {
       "group": "embargo",
@@ -2338,5 +2338,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-14T16:22:09.993654Z"
+  "last_update": "2026-07-14T18:08:13.795639Z"
 }
