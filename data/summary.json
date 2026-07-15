@@ -1293,8 +1293,8 @@
     },
     {
       "name": "US",
-      "percent": 17.424370458002368,
-      "total_victims": 5917,
+      "percent": 17.41848285183308,
+      "total_victims": 5919,
       "stealer_victims": 1031
     },
     {
@@ -1541,8 +1541,8 @@
     },
     {
       "group": "shinyhunters",
-      "percent": 54.961832061068705,
-      "total_victims": 131,
+      "percent": 54.54545454545454,
+      "total_victims": 132,
       "stealer_victims": 72
     },
     {
@@ -2207,8 +2207,8 @@
     },
     {
       "group": "securotrop",
-      "percent": 5.405405405405405,
-      "total_victims": 37,
+      "percent": 5.263157894736842,
+      "total_victims": 38,
       "stealer_victims": 2
     },
     {
@@ -2338,5 +2338,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-14T23:56:43.773164Z"
+  "last_update": "2026-07-15T03:20:11.703124Z"
 }
