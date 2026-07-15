@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2883,
-    "employees_exposed": 141589,
-    "users_exposed": 19610874,
-    "thirdparties_exposed": 113139,
+    "domains_tracked": 2884,
+    "employees_exposed": 141601,
+    "users_exposed": 19611081,
+    "thirdparties_exposed": 113159,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 128
+      "count": 129
     }
   ],
   "sectors": [
@@ -205,7 +205,7 @@
     },
     {
       "name": "Manufacturing",
-      "count": 5104
+      "count": 5136
     },
     {
       "name": "Healthcare",
@@ -279,7 +279,7 @@
     },
     {
       "name": "JP",
-      "count": 37
+      "count": 38
     },
     {
       "name": "SG",
@@ -1238,6 +1238,12 @@
       "stealer_victims": 15
     },
     {
+      "name": "JP",
+      "percent": 20.0,
+      "total_victims": 190,
+      "stealer_victims": 38
+    },
+    {
       "name": "MU",
       "percent": 20.0,
       "total_victims": 5,
@@ -1248,12 +1254,6 @@
       "percent": 20.0,
       "total_victims": 5,
       "stealer_victims": 1
-    },
-    {
-      "name": "JP",
-      "percent": 19.576719576719576,
-      "total_victims": 189,
-      "stealer_victims": 37
     },
     {
       "name": "NL",
@@ -1505,9 +1505,9 @@
     },
     {
       "group": "coinbasecartel",
-      "percent": 62.35955056179775,
-      "total_victims": 178,
-      "stealer_victims": 111
+      "percent": 62.56983240223464,
+      "total_victims": 179,
+      "stealer_victims": 112
     },
     {
       "group": "settra",
@@ -2338,5 +2338,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-15T15:38:00.013462Z"
+  "last_update": "2026-07-15T17:22:32.715117Z"
 }
