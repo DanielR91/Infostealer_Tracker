@@ -1293,8 +1293,8 @@
     },
     {
       "name": "US",
-      "percent": 17.41848285183308,
-      "total_victims": 5919,
+      "percent": 17.41554054054054,
+      "total_victims": 5920,
       "stealer_victims": 1031
     },
     {
@@ -2213,8 +2213,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.123873873873873,
-      "total_victims": 1776,
+      "percent": 5.120990433314575,
+      "total_victims": 1777,
       "stealer_victims": 91
     },
     {
@@ -2338,5 +2338,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-15T03:20:11.703124Z"
+  "last_update": "2026-07-15T06:20:15.700438Z"
 }
