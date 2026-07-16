@@ -744,12 +744,6 @@
   ],
   "countries_pct": [
     {
-      "name": "BW",
-      "percent": 75.0,
-      "total_victims": 4,
-      "stealer_victims": 3
-    },
-    {
       "name": "JM",
       "percent": 71.42857142857143,
       "total_victims": 7,
@@ -790,6 +784,12 @@
       "percent": 61.53846153846154,
       "total_victims": 13,
       "stealer_victims": 8
+    },
+    {
+      "name": "BW",
+      "percent": 60.0,
+      "total_victims": 5,
+      "stealer_victims": 3
     },
     {
       "name": "QA",
@@ -1009,8 +1009,8 @@
     },
     {
       "name": "MX",
-      "percent": 33.75796178343949,
-      "total_victims": 157,
+      "percent": 33.54430379746836,
+      "total_victims": 158,
       "stealer_victims": 53
     },
     {
@@ -1045,8 +1045,8 @@
     },
     {
       "name": "SG",
-      "percent": 31.858407079646017,
-      "total_victims": 113,
+      "percent": 31.57894736842105,
+      "total_victims": 114,
       "stealer_victims": 36
     },
     {
@@ -1279,8 +1279,8 @@
     },
     {
       "name": "GB",
-      "percent": 16.917293233082706,
-      "total_victims": 532,
+      "percent": 16.885553470919323,
+      "total_victims": 533,
       "stealer_victims": 90
     },
     {
@@ -1484,16 +1484,16 @@
       "stealer_victims": 3
     },
     {
-      "group": "settra",
-      "percent": 59.25925925925925,
-      "total_victims": 27,
-      "stealer_victims": 16
-    },
-    {
       "group": "fog",
       "percent": 58.252427184466015,
       "total_victims": 103,
       "stealer_victims": 60
+    },
+    {
+      "group": "settra",
+      "percent": 57.14285714285714,
+      "total_victims": 28,
+      "stealer_victims": 16
     },
     {
       "group": "LeakBazaar",
@@ -2036,16 +2036,16 @@
       "stealer_victims": 3
     },
     {
-      "group": "dragonforce",
-      "percent": 16.400000000000002,
-      "total_victims": 500,
-      "stealer_victims": 82
-    },
-    {
       "group": "devman",
       "percent": 16.304347826086957,
       "total_victims": 184,
       "stealer_victims": 30
+    },
+    {
+      "group": "dragonforce",
+      "percent": 16.302186878727635,
+      "total_victims": 503,
+      "stealer_victims": 82
     },
     {
       "group": "chaos",
@@ -2306,5 +2306,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-16T09:18:57.371551Z"
+  "last_update": "2026-07-16T11:44:15.099089Z"
 }
