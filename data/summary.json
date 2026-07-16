@@ -859,8 +859,8 @@
     },
     {
       "name": "BR",
-      "percent": 47.89272030651341,
-      "total_victims": 261,
+      "percent": 47.70992366412214,
+      "total_victims": 262,
       "stealer_victims": 125
     },
     {
@@ -1279,8 +1279,8 @@
     },
     {
       "name": "GB",
-      "percent": 16.822429906542055,
-      "total_victims": 535,
+      "percent": 16.791044776119403,
+      "total_victims": 536,
       "stealer_victims": 90
     },
     {
@@ -1833,8 +1833,8 @@
     },
     {
       "group": "interlock",
-      "percent": 26.0,
-      "total_victims": 100,
+      "percent": 25.742574257425744,
+      "total_victims": 101,
       "stealer_victims": 26
     },
     {
@@ -2109,8 +2109,8 @@
     },
     {
       "group": "ransomhouse",
-      "percent": 8.433734939759036,
-      "total_victims": 83,
+      "percent": 8.333333333333332,
+      "total_victims": 84,
       "stealer_victims": 7
     },
     {
@@ -2306,5 +2306,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-16T14:06:19.880723Z"
+  "last_update": "2026-07-16T16:21:18.849754Z"
 }
