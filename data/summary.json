@@ -1,31 +1,31 @@
 {
   "totals": {
-    "domains_tracked": 2882,
+    "domains_tracked": 2883,
     "employees_exposed": 141586,
-    "users_exposed": 19601822,
+    "users_exposed": 19601844,
     "thirdparties_exposed": 113094,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1258417
+      "count": 1258418
     },
     {
       "name": "Lumma",
-      "count": 619069
+      "count": 619073
     },
     {
       "name": "Generic Stealer",
-      "count": 493958
+      "count": 493966
     },
     {
       "name": "Raccoon",
-      "count": 331887
+      "count": 331889
     },
     {
       "name": "Azorult",
-      "count": 132685
+      "count": 132691
     },
     {
       "name": "StealC",
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 127
+      "count": 128
     }
   ],
   "sectors": [
@@ -231,7 +231,7 @@
     },
     {
       "name": "BR",
-      "count": 124
+      "count": 125
     },
     {
       "name": "DE",
@@ -859,9 +859,9 @@
     },
     {
       "name": "BR",
-      "percent": 47.69230769230769,
-      "total_victims": 260,
-      "stealer_victims": 124
+      "percent": 47.89272030651341,
+      "total_victims": 261,
+      "stealer_victims": 125
     },
     {
       "name": "DO",
@@ -948,16 +948,16 @@
       "stealer_victims": 19
     },
     {
-      "name": "CO",
-      "percent": 38.82352941176471,
-      "total_victims": 85,
-      "stealer_victims": 33
-    },
-    {
       "name": "PY",
       "percent": 38.46153846153847,
       "total_victims": 13,
       "stealer_victims": 5
+    },
+    {
+      "name": "CO",
+      "percent": 38.372093023255815,
+      "total_victims": 86,
+      "stealer_victims": 33
     },
     {
       "name": "TW",
@@ -1279,8 +1279,8 @@
     },
     {
       "name": "GB",
-      "percent": 16.94915254237288,
-      "total_victims": 531,
+      "percent": 16.917293233082706,
+      "total_victims": 532,
       "stealer_victims": 90
     },
     {
@@ -1478,16 +1478,16 @@
       "stealer_victims": 112
     },
     {
-      "group": "settra",
-      "percent": 60.0,
-      "total_victims": 25,
-      "stealer_victims": 15
-    },
-    {
       "group": "underground",
       "percent": 60.0,
       "total_victims": 5,
       "stealer_victims": 3
+    },
+    {
+      "group": "settra",
+      "percent": 59.25925925925925,
+      "total_victims": 27,
+      "stealer_victims": 16
     },
     {
       "group": "fog",
@@ -2114,12 +2114,6 @@
       "stealer_victims": 7
     },
     {
-      "group": "cmdorganization",
-      "percent": 8.333333333333332,
-      "total_victims": 36,
-      "stealer_victims": 3
-    },
-    {
       "group": "Icarus",
       "percent": 8.333333333333332,
       "total_victims": 12,
@@ -2130,6 +2124,12 @@
       "percent": 8.333333333333332,
       "total_victims": 12,
       "stealer_victims": 1
+    },
+    {
+      "group": "cmdorganization",
+      "percent": 8.108108108108109,
+      "total_victims": 37,
+      "stealer_victims": 3
     },
     {
       "group": "kraken",
@@ -2306,5 +2306,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-16T06:23:45.031084Z"
+  "last_update": "2026-07-16T09:18:57.371551Z"
 }
