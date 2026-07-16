@@ -1273,8 +1273,8 @@
     },
     {
       "name": "US",
-      "percent": 17.403035413153457,
-      "total_victims": 5930,
+      "percent": 17.400101163378856,
+      "total_victims": 5931,
       "stealer_victims": 1032
     },
     {
@@ -2049,8 +2049,8 @@
     },
     {
       "group": "chaos",
-      "percent": 15.942028985507244,
-      "total_victims": 69,
+      "percent": 15.714285714285714,
+      "total_victims": 70,
       "stealer_victims": 11
     },
     {
@@ -2306,5 +2306,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-16T16:21:18.849754Z"
+  "last_update": "2026-07-16T18:10:25.332439Z"
 }
