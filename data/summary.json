@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2888,
-    "employees_exposed": 141830,
-    "users_exposed": 19617901,
-    "thirdparties_exposed": 113880,
+    "domains_tracked": 2889,
+    "employees_exposed": 141833,
+    "users_exposed": 19617918,
+    "thirdparties_exposed": 113891,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 133
+      "count": 134
     }
   ],
   "sectors": [
@@ -181,7 +181,7 @@
     },
     {
       "name": "Business Services",
-      "count": 16407
+      "count": 16421
     },
     {
       "name": "Consumer Services",
@@ -243,7 +243,7 @@
     },
     {
       "name": "GB",
-      "count": 90
+      "count": 91
     },
     {
       "name": "CA",
@@ -1014,6 +1014,12 @@
       "stealer_victims": 53
     },
     {
+      "name": "AD",
+      "percent": 33.33333333333333,
+      "total_victims": 3,
+      "stealer_victims": 1
+    },
+    {
       "name": "BG",
       "percent": 33.33333333333333,
       "total_victims": 12,
@@ -1219,8 +1225,8 @@
     },
     {
       "name": "NL",
-      "percent": 20.27027027027027,
-      "total_victims": 74,
+      "percent": 20.0,
+      "total_victims": 75,
       "stealer_victims": 15
     },
     {
@@ -1243,8 +1249,8 @@
     },
     {
       "name": "SE",
-      "percent": 19.736842105263158,
-      "total_victims": 76,
+      "percent": 19.480519480519483,
+      "total_victims": 77,
       "stealer_victims": 15
     },
     {
@@ -1273,15 +1279,15 @@
     },
     {
       "name": "US",
-      "percent": 17.400101163378856,
-      "total_victims": 5931,
+      "percent": 17.39423563121524,
+      "total_victims": 5933,
       "stealer_victims": 1032
     },
     {
       "name": "GB",
-      "percent": 16.791044776119403,
-      "total_victims": 536,
-      "stealer_victims": 90
+      "percent": 16.91449814126394,
+      "total_victims": 538,
+      "stealer_victims": 91
     },
     {
       "name": "BH",
@@ -1826,22 +1832,22 @@
       "stealer_victims": 13
     },
     {
-      "group": "gunra",
-      "percent": 26.08695652173913,
-      "total_victims": 46,
-      "stealer_victims": 12
-    },
-    {
       "group": "interlock",
       "percent": 25.742574257425744,
       "total_victims": 101,
       "stealer_victims": 26
     },
     {
+      "group": "gunra",
+      "percent": 25.53191489361702,
+      "total_victims": 47,
+      "stealer_victims": 12
+    },
+    {
       "group": "incransom",
-      "percent": 25.347758887171562,
-      "total_victims": 647,
-      "stealer_victims": 164
+      "percent": 25.462962962962965,
+      "total_victims": 648,
+      "stealer_victims": 165
     },
     {
       "group": "radar",
@@ -2187,8 +2193,8 @@
     },
     {
       "group": "play",
-      "percent": 4.316546762589928,
-      "total_victims": 556,
+      "percent": 4.27807486631016,
+      "total_victims": 561,
       "stealer_victims": 24
     },
     {
@@ -2306,5 +2312,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-16T18:10:25.332439Z"
+  "last_update": "2026-07-16T20:05:12.729540Z"
 }
