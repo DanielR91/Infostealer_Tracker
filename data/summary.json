@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2889,
-    "employees_exposed": 141833,
-    "users_exposed": 19617918,
-    "thirdparties_exposed": 113891,
+    "domains_tracked": 2890,
+    "employees_exposed": 141834,
+    "users_exposed": 19617919,
+    "thirdparties_exposed": 113893,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 134
+      "count": 135
     }
   ],
   "sectors": [
@@ -197,7 +197,7 @@
     },
     {
       "name": "Public Sector",
-      "count": 10102
+      "count": 10105
     },
     {
       "name": "Energy",
@@ -227,7 +227,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 1032
+      "count": 1033
     },
     {
       "name": "BR",
@@ -1279,9 +1279,9 @@
     },
     {
       "name": "US",
-      "percent": 17.39423563121524,
-      "total_victims": 5933,
-      "stealer_victims": 1032
+      "percent": 17.40815638692282,
+      "total_victims": 5934,
+      "stealer_victims": 1033
     },
     {
       "name": "GB",
@@ -1833,9 +1833,9 @@
     },
     {
       "group": "interlock",
-      "percent": 25.742574257425744,
-      "total_victims": 101,
-      "stealer_victims": 26
+      "percent": 26.47058823529412,
+      "total_victims": 102,
+      "stealer_victims": 27
     },
     {
       "group": "gunra",
@@ -2312,5 +2312,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-16T22:07:24.086439Z"
+  "last_update": "2026-07-17T00:02:31.463086Z"
 }
