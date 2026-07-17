@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2910,
-    "employees_exposed": 141878,
-    "users_exposed": 19608552,
-    "thirdparties_exposed": 113961,
+    "domains_tracked": 2912,
+    "employees_exposed": 141879,
+    "users_exposed": 19608563,
+    "thirdparties_exposed": 113962,
     "stealer_families_count": 19
   },
   "families": [
@@ -95,7 +95,7 @@
     },
     {
       "month": "2025-03",
-      "count": 240
+      "count": 241
     },
     {
       "month": "2025-04",
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 142
+      "count": 143
     }
   ],
   "sectors": [
@@ -173,7 +173,7 @@
     },
     {
       "name": "Technology",
-      "count": 31782
+      "count": 31784
     },
     {
       "name": "Telecommunication",
@@ -227,7 +227,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 1041
+      "count": 1043
     },
     {
       "name": "BR",
@@ -1279,9 +1279,9 @@
     },
     {
       "name": "US",
-      "percent": 17.52230264265275,
+      "percent": 17.55596700892106,
       "total_victims": 5941,
-      "stealer_victims": 1041
+      "stealer_victims": 1043
     },
     {
       "name": "GB",
@@ -1581,9 +1581,9 @@
     },
     {
       "group": "killsec",
-      "percent": 45.94594594594595,
+      "percent": 46.62162162162162,
       "total_victims": 148,
-      "stealer_victims": 68
+      "stealer_victims": 69
     },
     {
       "group": "blackwater",
@@ -1820,6 +1820,12 @@
       "stealer_victims": 294
     },
     {
+      "group": "chaos",
+      "percent": 27.142857142857142,
+      "total_victims": 70,
+      "stealer_victims": 19
+    },
+    {
       "group": "cicada3301",
       "percent": 26.666666666666668,
       "total_victims": 30,
@@ -1836,12 +1842,6 @@
       "percent": 25.961538461538463,
       "total_victims": 104,
       "stealer_victims": 27
-    },
-    {
-      "group": "chaos",
-      "percent": 25.71428571428571,
-      "total_victims": 70,
-      "stealer_victims": 18
     },
     {
       "group": "incransom",
@@ -2312,5 +2312,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-17T20:09:54.590521Z"
+  "last_update": "2026-07-17T21:58:13.236252Z"
 }
