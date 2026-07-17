@@ -1279,8 +1279,8 @@
     },
     {
       "name": "US",
-      "percent": 17.405223251895535,
-      "total_victims": 5935,
+      "percent": 17.402291105121293,
+      "total_victims": 5936,
       "stealer_victims": 1033
     },
     {
@@ -1309,8 +1309,8 @@
     },
     {
       "name": "CA",
-      "percent": 15.591397849462366,
-      "total_victims": 558,
+      "percent": 15.56350626118068,
+      "total_victims": 559,
       "stealer_victims": 87
     },
     {
@@ -1345,8 +1345,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.325301204819277,
-      "total_victims": 664,
+      "percent": 6.306306306306306,
+      "total_victims": 666,
       "stealer_victims": 42
     },
     {
@@ -1815,8 +1815,8 @@
     },
     {
       "group": "akira",
-      "percent": 27.605633802816904,
-      "total_victims": 1065,
+      "percent": 27.553889409559513,
+      "total_victims": 1067,
       "stealer_victims": 294
     },
     {
@@ -1833,8 +1833,8 @@
     },
     {
       "group": "interlock",
-      "percent": 26.47058823529412,
-      "total_victims": 102,
+      "percent": 25.961538461538463,
+      "total_victims": 104,
       "stealer_victims": 27
     },
     {
@@ -2312,5 +2312,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-17T12:14:17.685075Z"
+  "last_update": "2026-07-17T14:47:26.846157Z"
 }
