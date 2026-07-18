@@ -1,31 +1,31 @@
 {
   "totals": {
-    "domains_tracked": 2920,
-    "employees_exposed": 141884,
-    "users_exposed": 19608615,
-    "thirdparties_exposed": 113970,
+    "domains_tracked": 2921,
+    "employees_exposed": 141892,
+    "users_exposed": 19608627,
+    "thirdparties_exposed": 113971,
     "stealer_families_count": 19
   },
   "families": [
     {
       "name": "RedLine",
-      "count": 1260565
+      "count": 1260578
     },
     {
       "name": "Lumma",
-      "count": 620364
+      "count": 620367
     },
     {
       "name": "Generic Stealer",
-      "count": 496529
+      "count": 496530
     },
     {
       "name": "Raccoon",
-      "count": 331908
+      "count": 331909
     },
     {
       "name": "StealC",
-      "count": 132829
+      "count": 132830
     },
     {
       "name": "Azorult",
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 145
+      "count": 146
     }
   ],
   "sectors": [
@@ -177,7 +177,7 @@
     },
     {
       "name": "Telecommunication",
-      "count": 28405
+      "count": 28414
     },
     {
       "name": "Business Services",
@@ -342,6 +342,10 @@
       "count": 17
     },
     {
+      "name": "SA",
+      "count": 15
+    },
+    {
       "name": "ZA",
       "count": 15
     },
@@ -379,10 +383,6 @@
     },
     {
       "name": "NO",
-      "count": 14
-    },
-    {
-      "name": "SA",
       "count": 14
     },
     {
@@ -990,16 +990,16 @@
       "stealer_victims": 4
     },
     {
+      "name": "SA",
+      "percent": 35.714285714285715,
+      "total_victims": 42,
+      "stealer_victims": 15
+    },
+    {
       "name": "IN",
       "percent": 35.47008547008547,
       "total_victims": 234,
       "stealer_victims": 83
-    },
-    {
-      "name": "SA",
-      "percent": 34.146341463414636,
-      "total_victims": 41,
-      "stealer_victims": 14
     },
     {
       "name": "MX",
@@ -2055,9 +2055,9 @@
     },
     {
       "group": "dragonforce",
-      "percent": 16.205533596837945,
-      "total_victims": 506,
-      "stealer_victims": 82
+      "percent": 16.370808678500985,
+      "total_victims": 507,
+      "stealer_victims": 83
     },
     {
       "group": "pear",
@@ -2312,5 +2312,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-18T11:56:27.995473Z"
+  "last_update": "2026-07-18T13:39:52.341358Z"
 }
