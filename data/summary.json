@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2922,
+    "domains_tracked": 2923,
     "employees_exposed": 141893,
-    "users_exposed": 19608628,
-    "thirdparties_exposed": 113986,
+    "users_exposed": 19608858,
+    "thirdparties_exposed": 113987,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,13 +159,13 @@
     },
     {
       "month": "2026-07",
-      "count": 146
+      "count": 147
     }
   ],
   "sectors": [
     {
       "name": "Financial Services",
-      "count": 68111
+      "count": 68112
     },
     {
       "name": "Education",
@@ -458,6 +458,10 @@
       "count": 6
     },
     {
+      "name": "BG",
+      "count": 5
+    },
+    {
       "name": "PY",
       "count": 5
     },
@@ -479,10 +483,6 @@
     },
     {
       "name": "UY",
-      "count": 4
-    },
-    {
-      "name": "BG",
       "count": 4
     },
     {
@@ -954,6 +954,12 @@
       "stealer_victims": 19
     },
     {
+      "name": "BG",
+      "percent": 38.46153846153847,
+      "total_victims": 13,
+      "stealer_victims": 5
+    },
+    {
       "name": "PY",
       "percent": 38.46153846153847,
       "total_victims": 13,
@@ -1012,12 +1018,6 @@
       "percent": 33.33333333333333,
       "total_victims": 3,
       "stealer_victims": 1
-    },
-    {
-      "name": "BG",
-      "percent": 33.33333333333333,
-      "total_victims": 12,
-      "stealer_victims": 4
     },
     {
       "name": "MT",
@@ -1628,6 +1628,12 @@
       "stealer_victims": 40
     },
     {
+      "group": "krybit",
+      "percent": 37.66233766233766,
+      "total_victims": 77,
+      "stealer_victims": 29
+    },
+    {
       "group": "moneymessage",
       "percent": 37.5,
       "total_victims": 8,
@@ -1650,12 +1656,6 @@
       "percent": 37.17948717948718,
       "total_victims": 78,
       "stealer_victims": 29
-    },
-    {
-      "group": "krybit",
-      "percent": 36.84210526315789,
-      "total_victims": 76,
-      "stealer_victims": 28
     },
     {
       "group": "J",
@@ -2312,5 +2312,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-18T16:05:09.978823Z"
+  "last_update": "2026-07-18T17:58:54.994773Z"
 }
