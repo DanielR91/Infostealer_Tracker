@@ -1267,8 +1267,8 @@
     },
     {
       "name": "DE",
-      "percent": 18.421052631578945,
-      "total_victims": 608,
+      "percent": 18.39080459770115,
+      "total_victims": 609,
       "stealer_victims": 112
     },
     {
@@ -1700,12 +1700,6 @@
       "stealer_victims": 12
     },
     {
-      "group": "threeam",
-      "percent": 34.21052631578947,
-      "total_victims": 38,
-      "stealer_victims": 13
-    },
-    {
       "group": "lockbit3",
       "percent": 34.146341463414636,
       "total_victims": 41,
@@ -1716,6 +1710,12 @@
       "percent": 33.63636363636363,
       "total_victims": 110,
       "stealer_victims": 37
+    },
+    {
+      "group": "threeam",
+      "percent": 33.33333333333333,
+      "total_victims": 39,
+      "stealer_victims": 13
     },
     {
       "group": "Doommageddon",
@@ -2312,5 +2312,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-18T08:51:45.317439Z"
+  "last_update": "2026-07-18T10:22:38.375262Z"
 }
