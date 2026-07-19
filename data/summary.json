@@ -859,8 +859,8 @@
     },
     {
       "name": "BR",
-      "percent": 47.924528301886795,
-      "total_victims": 265,
+      "percent": 47.744360902255636,
+      "total_victims": 266,
       "stealer_victims": 127
     },
     {
@@ -1712,6 +1712,12 @@
       "stealer_victims": 37
     },
     {
+      "group": "unsafe",
+      "percent": 33.33333333333333,
+      "total_victims": 3,
+      "stealer_victims": 1
+    },
+    {
       "group": "blackout",
       "percent": 33.33333333333333,
       "total_victims": 3,
@@ -2324,5 +2330,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-19T19:13:36.207599Z"
+  "last_update": "2026-07-19T20:57:21.698085Z"
 }
