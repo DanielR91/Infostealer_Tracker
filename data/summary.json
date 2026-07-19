@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2924,
+    "domains_tracked": 2925,
     "employees_exposed": 141893,
-    "users_exposed": 19608859,
-    "thirdparties_exposed": 113987,
+    "users_exposed": 19608864,
+    "thirdparties_exposed": 113989,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 148
+      "count": 149
     }
   ],
   "sectors": [
@@ -193,7 +193,7 @@
     },
     {
       "name": "Not Found",
-      "count": 11039
+      "count": 11041
     },
     {
       "name": "Public Sector",
@@ -243,7 +243,7 @@
     },
     {
       "name": "GB",
-      "count": 92
+      "count": 93
     },
     {
       "name": "CA",
@@ -1231,8 +1231,8 @@
     },
     {
       "name": "JP",
-      "percent": 20.207253886010363,
-      "total_victims": 193,
+      "percent": 20.103092783505154,
+      "total_victims": 194,
       "stealer_victims": 39
     },
     {
@@ -1279,15 +1279,15 @@
     },
     {
       "name": "US",
-      "percent": 17.57687783565787,
-      "total_victims": 5951,
+      "percent": 17.573924731182796,
+      "total_victims": 5952,
       "stealer_victims": 1046
     },
     {
       "name": "GB",
-      "percent": 17.26078799249531,
-      "total_victims": 533,
-      "stealer_victims": 92
+      "percent": 17.415730337078653,
+      "total_victims": 534,
+      "stealer_victims": 93
     },
     {
       "name": "BH",
@@ -1710,6 +1710,12 @@
       "percent": 33.63636363636363,
       "total_victims": 110,
       "stealer_victims": 37
+    },
+    {
+      "group": "blackout",
+      "percent": 33.33333333333333,
+      "total_victims": 3,
+      "stealer_victims": 1
     },
     {
       "group": "threeam",
@@ -2312,5 +2318,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-19T11:16:09.196575Z"
+  "last_update": "2026-07-19T13:36:32.754015Z"
 }
