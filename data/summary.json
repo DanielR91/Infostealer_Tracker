@@ -942,12 +942,6 @@
       "stealer_victims": 2
     },
     {
-      "name": "CO",
-      "percent": 38.82352941176471,
-      "total_victims": 85,
-      "stealer_victims": 33
-    },
-    {
       "name": "EG",
       "percent": 38.775510204081634,
       "total_victims": 49,
@@ -970,6 +964,12 @@
       "percent": 38.405797101449274,
       "total_victims": 138,
       "stealer_victims": 53
+    },
+    {
+      "name": "CO",
+      "percent": 38.372093023255815,
+      "total_victims": 86,
+      "stealer_victims": 33
     },
     {
       "name": "TH",
@@ -1887,8 +1887,8 @@
     },
     {
       "group": "thegentlemen",
-      "percent": 24.315619967793882,
-      "total_victims": 621,
+      "percent": 24.27652733118971,
+      "total_victims": 622,
       "stealer_victims": 151
     },
     {
@@ -2312,5 +2312,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-19T09:56:31.624902Z"
+  "last_update": "2026-07-19T11:16:09.196575Z"
 }
