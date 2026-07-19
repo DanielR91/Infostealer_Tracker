@@ -1273,8 +1273,8 @@
     },
     {
       "name": "US",
-      "percent": 17.573924731182796,
-      "total_victims": 5952,
+      "percent": 17.568021498152504,
+      "total_victims": 5954,
       "stealer_victims": 1046
     },
     {
@@ -1345,8 +1345,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.325301204819277,
-      "total_victims": 664,
+      "percent": 6.315789473684211,
+      "total_victims": 665,
       "stealer_victims": 42
     },
     {
@@ -1749,8 +1749,8 @@
     },
     {
       "group": "payload",
-      "percent": 32.83582089552239,
-      "total_victims": 67,
+      "percent": 32.35294117647059,
+      "total_victims": 68,
       "stealer_victims": 22
     },
     {
@@ -2199,8 +2199,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.075292805354155,
-      "total_victims": 1793,
+      "percent": 5.069637883008356,
+      "total_victims": 1795,
       "stealer_victims": 91
     },
     {
@@ -2324,5 +2324,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-19T15:01:39.383792Z"
+  "last_update": "2026-07-19T17:03:50.175677Z"
 }
