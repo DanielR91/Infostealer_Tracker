@@ -231,7 +231,7 @@
     },
     {
       "name": "BR",
-      "count": 127
+      "count": 126
     },
     {
       "name": "DE",
@@ -406,11 +406,11 @@
       "count": 10
     },
     {
-      "name": "CZ",
-      "count": 9
+      "name": "DO",
+      "count": 10
     },
     {
-      "name": "DO",
+      "name": "CZ",
       "count": 9
     },
     {
@@ -834,6 +834,12 @@
       "stealer_victims": 7
     },
     {
+      "name": "DO",
+      "percent": 50.0,
+      "total_victims": 20,
+      "stealer_victims": 10
+    },
+    {
       "name": "BO",
       "percent": 50.0,
       "total_victims": 10,
@@ -859,15 +865,9 @@
     },
     {
       "name": "BR",
-      "percent": 47.744360902255636,
-      "total_victims": 266,
-      "stealer_victims": 127
-    },
-    {
-      "name": "DO",
-      "percent": 47.368421052631575,
-      "total_victims": 19,
-      "stealer_victims": 9
+      "percent": 47.54716981132076,
+      "total_victims": 265,
+      "stealer_victims": 126
     },
     {
       "name": "BD",
@@ -1345,8 +1345,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.325301204819277,
-      "total_victims": 664,
+      "percent": 6.306306306306306,
+      "total_victims": 666,
       "stealer_victims": 42
     },
     {
@@ -1839,8 +1839,8 @@
     },
     {
       "group": "akira",
-      "percent": 27.553889409559513,
-      "total_victims": 1067,
+      "percent": 27.502338634237606,
+      "total_victims": 1069,
       "stealer_victims": 294
     },
     {
@@ -2336,5 +2336,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-20T11:50:08.329425Z"
+  "last_update": "2026-07-20T14:19:39.383326Z"
 }
