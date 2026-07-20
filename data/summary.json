@@ -1273,8 +1273,8 @@
     },
     {
       "name": "US",
-      "percent": 17.550335570469798,
-      "total_victims": 5960,
+      "percent": 17.544448171754446,
+      "total_victims": 5962,
       "stealer_victims": 1046
     },
     {
@@ -1297,8 +1297,8 @@
     },
     {
       "name": "CA",
-      "percent": 16.071428571428573,
-      "total_victims": 560,
+      "percent": 16.0427807486631,
+      "total_victims": 561,
       "stealer_victims": 90
     },
     {
@@ -1491,8 +1491,8 @@
     },
     {
       "group": "coinbasecartel",
-      "percent": 62.22222222222222,
-      "total_victims": 180,
+      "percent": 61.87845303867403,
+      "total_victims": 181,
       "stealer_victims": 112
     },
     {
@@ -1863,8 +1863,8 @@
     },
     {
       "group": "incransom",
-      "percent": 25.609756097560975,
-      "total_victims": 656,
+      "percent": 25.570776255707763,
+      "total_victims": 657,
       "stealer_victims": 168
     },
     {
@@ -1964,16 +1964,16 @@
       "stealer_victims": 4
     },
     {
-      "group": "kairos",
-      "percent": 20.27027027027027,
-      "total_victims": 74,
-      "stealer_victims": 15
-    },
-    {
       "group": "lynx",
       "percent": 20.121951219512198,
       "total_victims": 328,
       "stealer_victims": 66
+    },
+    {
+      "group": "kairos",
+      "percent": 20.0,
+      "total_victims": 75,
+      "stealer_victims": 15
     },
     {
       "group": "blacknevas",
@@ -2336,5 +2336,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-20T16:35:08.160180Z"
+  "last_update": "2026-07-20T18:56:32.313426Z"
 }
