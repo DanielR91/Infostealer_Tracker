@@ -823,8 +823,8 @@
     },
     {
       "name": "ID",
-      "percent": 50.68493150684932,
-      "total_victims": 73,
+      "percent": 50.0,
+      "total_victims": 74,
       "stealer_victims": 37
     },
     {
@@ -1038,16 +1038,16 @@
       "stealer_victims": 1
     },
     {
-      "name": "AR",
-      "percent": 32.67326732673268,
-      "total_victims": 101,
-      "stealer_victims": 33
-    },
-    {
       "name": "RO",
       "percent": 32.432432432432435,
       "total_victims": 37,
       "stealer_victims": 12
+    },
+    {
+      "name": "AR",
+      "percent": 32.35294117647059,
+      "total_victims": 102,
+      "stealer_victims": 33
     },
     {
       "name": "SG",
@@ -1273,8 +1273,8 @@
     },
     {
       "name": "US",
-      "percent": 17.559174080913213,
-      "total_victims": 5957,
+      "percent": 17.550335570469798,
+      "total_victims": 5960,
       "stealer_victims": 1046
     },
     {
@@ -1345,8 +1345,8 @@
     },
     {
       "name": "Unknown",
-      "percent": 6.306306306306306,
-      "total_victims": 666,
+      "percent": 6.296851574212893,
+      "total_victims": 667,
       "stealer_victims": 42
     },
     {
@@ -1491,8 +1491,8 @@
     },
     {
       "group": "coinbasecartel",
-      "percent": 62.56983240223464,
-      "total_victims": 179,
+      "percent": 62.22222222222222,
+      "total_victims": 180,
       "stealer_victims": 112
     },
     {
@@ -1539,8 +1539,8 @@
     },
     {
       "group": "nova",
-      "percent": 51.80722891566265,
-      "total_victims": 166,
+      "percent": 50.887573964497044,
+      "total_victims": 169,
       "stealer_victims": 86
     },
     {
@@ -1898,16 +1898,16 @@
       "stealer_victims": 1
     },
     {
-      "group": "anubis",
-      "percent": 24.46808510638298,
-      "total_victims": 94,
-      "stealer_victims": 23
-    },
-    {
       "group": "thegentlemen",
       "percent": 24.27652733118971,
       "total_victims": 622,
       "stealer_victims": 151
+    },
+    {
+      "group": "anubis",
+      "percent": 23.958333333333336,
+      "total_victims": 96,
+      "stealer_victims": 23
     },
     {
       "group": "bravox",
@@ -2336,5 +2336,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-20T14:19:39.383326Z"
+  "last_update": "2026-07-20T16:35:08.160180Z"
 }
