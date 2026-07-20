@@ -859,8 +859,8 @@
     },
     {
       "name": "BR",
-      "percent": 47.744360902255636,
-      "total_victims": 266,
+      "percent": 47.565543071161045,
+      "total_victims": 267,
       "stealer_victims": 127
     },
     {
@@ -1730,12 +1730,6 @@
       "stealer_victims": 13
     },
     {
-      "group": "Doommageddon",
-      "percent": 33.33333333333333,
-      "total_victims": 6,
-      "stealer_victims": 2
-    },
-    {
       "group": "morpheus",
       "percent": 33.33333333333333,
       "total_victims": 21,
@@ -1812,6 +1806,12 @@
       "percent": 29.059829059829063,
       "total_victims": 117,
       "stealer_victims": 34
+    },
+    {
+      "group": "Doommageddon",
+      "percent": 28.57142857142857,
+      "total_victims": 7,
+      "stealer_victims": 2
     },
     {
       "group": "benzona",
@@ -2330,5 +2330,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-19T22:00:34.059187Z"
+  "last_update": "2026-07-20T00:01:30.926243Z"
 }
