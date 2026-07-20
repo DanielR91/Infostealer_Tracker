@@ -1,8 +1,8 @@
 {
   "totals": {
-    "domains_tracked": 2934,
+    "domains_tracked": 2935,
     "employees_exposed": 142392,
-    "users_exposed": 19619108,
+    "users_exposed": 19619123,
     "thirdparties_exposed": 114149,
     "stealer_families_count": 19
   },
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 156
+      "count": 157
     }
   ],
   "sectors": [
@@ -283,7 +283,7 @@
     },
     {
       "name": "ID",
-      "count": 36
+      "count": 37
     },
     {
       "name": "SG",
@@ -823,9 +823,9 @@
     },
     {
       "name": "ID",
-      "percent": 50.0,
-      "total_victims": 72,
-      "stealer_victims": 36
+      "percent": 50.68493150684932,
+      "total_victims": 73,
+      "stealer_victims": 37
     },
     {
       "name": "NG",
@@ -1272,16 +1272,16 @@
       "stealer_victims": 4
     },
     {
-      "name": "GB",
-      "percent": 17.570093457943926,
-      "total_victims": 535,
-      "stealer_victims": 94
+      "name": "US",
+      "percent": 17.559174080913213,
+      "total_victims": 5957,
+      "stealer_victims": 1046
     },
     {
-      "name": "US",
-      "percent": 17.562122229684352,
-      "total_victims": 5956,
-      "stealer_victims": 1046
+      "name": "GB",
+      "percent": 17.537313432835823,
+      "total_victims": 536,
+      "stealer_victims": 94
     },
     {
       "name": "SN",
@@ -1539,9 +1539,9 @@
     },
     {
       "group": "nova",
-      "percent": 51.515151515151516,
-      "total_victims": 165,
-      "stealer_victims": 85
+      "percent": 51.80722891566265,
+      "total_victims": 166,
+      "stealer_victims": 86
     },
     {
       "group": "cipherforce",
@@ -1766,12 +1766,6 @@
       "stealer_victims": 17
     },
     {
-      "group": "chaos",
-      "percent": 31.428571428571427,
-      "total_victims": 70,
-      "stealer_victims": 22
-    },
-    {
       "group": "tridentlocker",
       "percent": 31.25,
       "total_victims": 16,
@@ -1782,6 +1776,12 @@
       "percent": 31.182795698924732,
       "total_victims": 93,
       "stealer_victims": 29
+    },
+    {
+      "group": "chaos",
+      "percent": 30.985915492957744,
+      "total_victims": 71,
+      "stealer_victims": 22
     },
     {
       "group": "blackshrantac",
@@ -2211,8 +2211,8 @@
     },
     {
       "group": "qilin",
-      "percent": 5.061179087875417,
-      "total_victims": 1798,
+      "percent": 5.058365758754864,
+      "total_victims": 1799,
       "stealer_victims": 91
     },
     {
@@ -2336,5 +2336,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-20T08:10:18.060392Z"
+  "last_update": "2026-07-20T11:50:08.329425Z"
 }
