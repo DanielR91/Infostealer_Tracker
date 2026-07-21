@@ -4149,6 +4149,32 @@
     "ransomnotes_count": 1,
     "url": "https://www.ransomware.live/group/babuk2"
   },
+  "worldleaks": {
+    "client": "hose_chamber1d@icloud.com",
+    "group": "worldleaks",
+    "description": "World Leaks emerged in January 2025 as a rebrand of the Hunters International ransomware operation, shifting its focus from file encryption to solely stealing sensitive data and threatening to leak it unless a ransom is paid",
+    "added_date": "2025-05-16",
+    "victims": 155,
+    "firstseen": "2022-06-23T18:57:09+00:00",
+    "lastseen": "2026-05-12T16:59:22+00:00",
+    "ttps": [],
+    "vulnerabilities": [],
+    "tools": {},
+    "locations": [
+      {
+        "fqdn": "worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion",
+        "title": "(no title)",
+        "slug": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/api/companies",
+        "type": "DLS",
+        "available": true
+      }
+    ],
+    "has_negotiations": false,
+    "negotiation_count": 0,
+    "has_ransomnote": true,
+    "ransomnotes_count": 1,
+    "url": "https://www.ransomware.live/group/worldleaks"
+  },
   "everest": {
     "client": "hose_chamber1d@icloud.com",
     "group": "everest",
@@ -4307,32 +4333,6 @@
     "has_ransomnote": true,
     "ransomnotes_count": 1,
     "url": "https://www.ransomware.live/group/everest"
-  },
-  "worldleaks": {
-    "client": "hose_chamber1d@icloud.com",
-    "group": "worldleaks",
-    "description": "World Leaks emerged in January 2025 as a rebrand of the Hunters International ransomware operation, shifting its focus from file encryption to solely stealing sensitive data and threatening to leak it unless a ransom is paid",
-    "added_date": "2025-05-16",
-    "victims": 155,
-    "firstseen": "2022-06-23T18:57:09+00:00",
-    "lastseen": "2026-05-12T16:59:22+00:00",
-    "ttps": [],
-    "vulnerabilities": [],
-    "tools": {},
-    "locations": [
-      {
-        "fqdn": "worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion",
-        "title": "(no title)",
-        "slug": "https://worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid.onion/api/companies",
-        "type": "DLS",
-        "available": true
-      }
-    ],
-    "has_negotiations": false,
-    "negotiation_count": 0,
-    "has_ransomnote": true,
-    "ransomnotes_count": 1,
-    "url": "https://www.ransomware.live/group/worldleaks"
   },
   "nova": {
     "client": "hose_chamber1d@icloud.com",

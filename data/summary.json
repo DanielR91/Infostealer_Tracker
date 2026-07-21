@@ -1,9 +1,9 @@
 {
   "totals": {
-    "domains_tracked": 2944,
+    "domains_tracked": 2946,
     "employees_exposed": 142630,
-    "users_exposed": 19624301,
-    "thirdparties_exposed": 114530,
+    "users_exposed": 19624302,
+    "thirdparties_exposed": 114538,
     "stealer_families_count": 19
   },
   "families": [
@@ -159,7 +159,7 @@
     },
     {
       "month": "2026-07",
-      "count": 166
+      "count": 168
     }
   ],
   "sectors": [
@@ -169,11 +169,11 @@
     },
     {
       "name": "Education",
-      "count": 37688
+      "count": 37690
     },
     {
       "name": "Technology",
-      "count": 31868
+      "count": 31874
     },
     {
       "name": "Telecommunication",
@@ -227,7 +227,7 @@
   "countries": [
     {
       "name": "US",
-      "count": 1051
+      "count": 1052
     },
     {
       "name": "BR",
@@ -319,7 +319,7 @@
     },
     {
       "name": "KR",
-      "count": 24
+      "count": 25
     },
     {
       "name": "PL",
@@ -954,12 +954,6 @@
       "stealer_victims": 5
     },
     {
-      "name": "CO",
-      "percent": 38.372093023255815,
-      "total_victims": 86,
-      "stealer_victims": 33
-    },
-    {
       "name": "EG",
       "percent": 38.0,
       "total_victims": 50,
@@ -970,6 +964,12 @@
       "percent": 37.95620437956204,
       "total_victims": 137,
       "stealer_victims": 52
+    },
+    {
+      "name": "CO",
+      "percent": 37.93103448275862,
+      "total_victims": 87,
+      "stealer_victims": 33
     },
     {
       "name": "TH",
@@ -1003,8 +1003,8 @@
     },
     {
       "name": "IN",
-      "percent": 35.47008547008547,
-      "total_victims": 234,
+      "percent": 35.319148936170215,
+      "total_victims": 235,
       "stealer_victims": 83
     },
     {
@@ -1080,6 +1080,12 @@
       "stealer_victims": 21
     },
     {
+      "name": "KR",
+      "percent": 30.864197530864196,
+      "total_victims": 81,
+      "stealer_victims": 25
+    },
+    {
       "name": "SK",
       "percent": 30.76923076923077,
       "total_victims": 13,
@@ -1108,12 +1114,6 @@
       "percent": 30.0,
       "total_victims": 290,
       "stealer_victims": 87
-    },
-    {
-      "name": "KR",
-      "percent": 30.0,
-      "total_victims": 80,
-      "stealer_victims": 24
     },
     {
       "name": "GT",
@@ -1225,8 +1225,8 @@
     },
     {
       "name": "IT",
-      "percent": 20.972644376899694,
-      "total_victims": 329,
+      "percent": 20.909090909090907,
+      "total_victims": 330,
       "stealer_victims": 69
     },
     {
@@ -1273,9 +1273,9 @@
     },
     {
       "name": "US",
-      "percent": 17.619446772841577,
-      "total_victims": 5965,
-      "stealer_victims": 1051
+      "percent": 17.63029998324116,
+      "total_victims": 5967,
+      "stealer_victims": 1052
     },
     {
       "name": "GB",
@@ -2126,16 +2126,16 @@
       "stealer_victims": 5
     },
     {
+      "group": "spacebears",
+      "percent": 9.70873786407767,
+      "total_victims": 103,
+      "stealer_victims": 10
+    },
+    {
       "group": "aurora",
       "percent": 9.523809523809524,
       "total_victims": 21,
       "stealer_victims": 2
-    },
-    {
-      "group": "spacebears",
-      "percent": 9.0,
-      "total_victims": 100,
-      "stealer_victims": 9
     },
     {
       "group": "nightspire",
@@ -2186,16 +2186,16 @@
       "stealer_victims": 2
     },
     {
+      "group": "worldleaks",
+      "percent": 6.2857142857142865,
+      "total_victims": 175,
+      "stealer_victims": 11
+    },
+    {
       "group": "global",
       "percent": 6.25,
       "total_victims": 32,
       "stealer_victims": 2
-    },
-    {
-      "group": "worldleaks",
-      "percent": 5.780346820809249,
-      "total_victims": 173,
-      "stealer_victims": 10
     },
     {
       "group": "cloak",
@@ -2240,15 +2240,15 @@
       "stealer_victims": 3
     },
     {
-      "group": "Black X",
+      "group": "titan",
       "percent": 0.0,
-      "total_victims": 6,
+      "total_victims": 15,
       "stealer_victims": 0
     },
     {
-      "group": "titan",
+      "group": "Black X",
       "percent": 0.0,
-      "total_victims": 14,
+      "total_victims": 6,
       "stealer_victims": 0
     },
     {
@@ -2336,5 +2336,5 @@
       "stealer_victims": 0
     }
   ],
-  "last_update": "2026-07-21T07:35:19.805247Z"
+  "last_update": "2026-07-21T10:29:17.379117Z"
 }
