@@ -1,13 +1,13 @@
 [
   {
-    "company": "Senti Biosciences Holdings, Inc.",
-    "stockticker": "SNTI",
+    "company": "REPLIGEN CORP",
+    "stockticker": "RGEN",
     "form": "8-K",
-    "file_date": "2026-07-15",
-    "cik": "0001854270",
-    "adsh": "0001628280-26-048248",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001854270/000162828026048248/0001628280-26-048248-index.htm",
-    "display_name": "Senti Biosciences Holdings, Inc.  (SNTI)  (CIK 0001854270)",
+    "file_date": "2026-07-22",
+    "cik": "0000730272",
+    "adsh": "0001193125-26-311402",
+    "link": "https://www.sec.gov/Archives/edgar/data/0000730272/000119312526311402/0001193125-26-311402-index.htm",
+    "display_name": "REPLIGEN CORP  (RGEN)  (CIK 0000730272)",
     "item105": false,
     "item801": true
   }
