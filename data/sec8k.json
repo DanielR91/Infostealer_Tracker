@@ -1,13 +1,13 @@
 [
   {
-    "company": "REPLIGEN CORP",
-    "stockticker": "RGEN",
+    "company": "SouthState Bank Corp",
+    "stockticker": "SSB",
     "form": "8-K",
-    "file_date": "2026-07-22",
-    "cik": "0000730272",
-    "adsh": "0001193125-26-311402",
-    "link": "https://www.sec.gov/Archives/edgar/data/0000730272/000119312526311402/0001193125-26-311402-index.htm",
-    "display_name": "REPLIGEN CORP  (RGEN)  (CIK 0000730272)",
+    "file_date": "2026-07-23",
+    "cik": "0000764038",
+    "adsh": "0001104659-26-086278",
+    "link": "https://www.sec.gov/Archives/edgar/data/0000764038/000110465926086278/0001104659-26-086278-index.htm",
+    "display_name": "SouthState Bank Corp  (SSB)  (CIK 0000764038)",
     "item105": false,
     "item801": true
   }
