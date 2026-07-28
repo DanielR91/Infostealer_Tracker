@@ -1,13 +1,13 @@
 [
   {
-    "company": "SouthState Bank Corp",
-    "stockticker": "SSB",
+    "company": "LUXFER HOLDINGS PLC",
+    "stockticker": "LXFR",
     "form": "8-K",
-    "file_date": "2026-07-23",
-    "cik": "0000764038",
-    "adsh": "0001104659-26-086278",
-    "link": "https://www.sec.gov/Archives/edgar/data/0000764038/000110465926086278/0001104659-26-086278-index.htm",
-    "display_name": "SouthState Bank Corp  (SSB)  (CIK 0000764038)",
+    "file_date": "2026-07-27",
+    "cik": "0001096056",
+    "adsh": "0002077096-26-000223",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001096056/000207709626000223/0002077096-26-000223-index.htm",
+    "display_name": "LUXFER HOLDINGS PLC  (LXFR)  (CIK 0001096056)",
     "item105": false,
     "item801": true
   }
