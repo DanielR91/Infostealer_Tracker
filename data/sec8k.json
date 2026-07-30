@@ -1,13 +1,13 @@
 [
   {
-    "company": "LUXFER HOLDINGS PLC",
-    "stockticker": "LXFR",
+    "company": "PROG Holdings, Inc.",
+    "stockticker": "PRG",
     "form": "8-K",
-    "file_date": "2026-07-27",
-    "cik": "0001096056",
-    "adsh": "0002077096-26-000223",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001096056/000207709626000223/0002077096-26-000223-index.htm",
-    "display_name": "LUXFER HOLDINGS PLC  (LXFR)  (CIK 0001096056)",
+    "file_date": "2026-07-29",
+    "cik": "0001808834",
+    "adsh": "0001808834-26-000101",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001808834/000180883426000101/0001808834-26-000101-index.htm",
+    "display_name": "PROG Holdings, Inc.  (PRG)  (CIK 0001808834)",
     "item105": false,
     "item801": true
   }
