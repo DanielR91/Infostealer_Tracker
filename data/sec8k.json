@@ -1,13 +1,13 @@
 [
   {
-    "company": "PROG Holdings, Inc.",
-    "stockticker": "PRG",
+    "company": "SUPERNUS PHARMACEUTICALS, INC.",
+    "stockticker": "SUPN",
     "form": "8-K",
-    "file_date": "2026-07-29",
-    "cik": "0001808834",
-    "adsh": "0001808834-26-000101",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001808834/000180883426000101/0001808834-26-000101-index.htm",
-    "display_name": "PROG Holdings, Inc.  (PRG)  (CIK 0001808834)",
+    "file_date": "2026-08-03",
+    "cik": "0001356576",
+    "adsh": "0001104659-26-089425",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001356576/000110465926089425/0001104659-26-089425-index.htm",
+    "display_name": "SUPERNUS PHARMACEUTICALS, INC.  (SUPN)  (CIK 0001356576)",
     "item105": false,
     "item801": true
   }
