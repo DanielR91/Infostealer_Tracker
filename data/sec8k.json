@@ -1,13 +1,13 @@
 [
   {
-    "company": "SUPERNUS PHARMACEUTICALS, INC.",
-    "stockticker": "SUPN",
+    "company": "ADI GLOBAL DISTRIBUTION INC.",
+    "stockticker": "ADIG",
     "form": "8-K",
-    "file_date": "2026-08-03",
-    "cik": "0001356576",
-    "adsh": "0001104659-26-089425",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001356576/000110465926089425/0001104659-26-089425-index.htm",
-    "display_name": "SUPERNUS PHARMACEUTICALS, INC.  (SUPN)  (CIK 0001356576)",
+    "file_date": "2026-08-04",
+    "cik": "0002105139",
+    "adsh": "0001213900-26-084882",
+    "link": "https://www.sec.gov/Archives/edgar/data/0002105139/000121390026084882/0001213900-26-084882-index.htm",
+    "display_name": "ADI GLOBAL DISTRIBUTION INC.  (ADIG)  (CIK 0002105139)",
     "item105": false,
     "item801": true
   }
