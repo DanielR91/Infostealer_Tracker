@@ -1,13 +1,13 @@
 [
   {
-    "company": "Vireo Growth Inc.",
-    "stockticker": "VREOF",
+    "company": "GRIFFON CORP",
+    "stockticker": "GFF",
     "form": "8-K",
-    "file_date": "2026-08-05",
-    "cik": "0001771706",
-    "adsh": "0001104659-26-091266",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001771706/000110465926091266/0001104659-26-091266-index.htm",
-    "display_name": "Vireo Growth Inc.  (VREOF)  (CIK 0001771706)",
+    "file_date": "2026-08-07",
+    "cik": "0000050725",
+    "adsh": "0001628280-26-054906",
+    "link": "https://www.sec.gov/Archives/edgar/data/0000050725/000162828026054906/0001628280-26-054906-index.htm",
+    "display_name": "GRIFFON CORP  (GFF)  (CIK 0000050725)",
     "item105": false,
     "item801": true
   }
