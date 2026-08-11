@@ -1,13 +1,13 @@
 [
   {
-    "company": "GRIFFON CORP",
-    "stockticker": "GFF",
+    "company": "Replimune Group, Inc.",
+    "stockticker": "REPL",
     "form": "8-K",
-    "file_date": "2026-08-07",
-    "cik": "0000050725",
-    "adsh": "0001628280-26-054906",
-    "link": "https://www.sec.gov/Archives/edgar/data/0000050725/000162828026054906/0001628280-26-054906-index.htm",
-    "display_name": "GRIFFON CORP  (GFF)  (CIK 0000050725)",
+    "file_date": "2026-08-10",
+    "cik": "0001737953",
+    "adsh": "0001104659-26-093042",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001737953/000110465926093042/0001104659-26-093042-index.htm",
+    "display_name": "Replimune Group, Inc.  (REPL)  (CIK 0001737953)",
     "item105": false,
     "item801": true
   }
