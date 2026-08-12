@@ -1,13 +1,13 @@
 [
   {
-    "company": "Replimune Group, Inc.",
-    "stockticker": "REPL",
+    "company": "Joby Aviation, Inc.",
+    "stockticker": "JOBY, JOBY-WT",
     "form": "8-K",
-    "file_date": "2026-08-10",
-    "cik": "0001737953",
-    "adsh": "0001104659-26-093042",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001737953/000110465926093042/0001104659-26-093042-index.htm",
-    "display_name": "Replimune Group, Inc.  (REPL)  (CIK 0001737953)",
+    "file_date": "2026-08-11",
+    "cik": "0001819848",
+    "adsh": "0001628280-26-055505",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001819848/000162828026055505/0001628280-26-055505-index.htm",
+    "display_name": "Joby Aviation, Inc.  (JOBY, JOBY-WT)  (CIK 0001819848)",
     "item105": false,
     "item801": true
   }
