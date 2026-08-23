@@ -1,13 +1,13 @@
 [
   {
-    "company": "Ferguson Enterprises Inc. /DE/",
-    "stockticker": "FERG",
+    "company": "Lyntris Inc.",
+    "stockticker": "LYNX",
     "form": "8-K",
-    "file_date": "2026-08-14",
-    "cik": "0002011641",
-    "adsh": "0001140361-26-033163",
-    "link": "https://www.sec.gov/Archives/edgar/data/0002011641/000114036126033163/0001140361-26-033163-index.htm",
-    "display_name": "Ferguson Enterprises Inc. /DE/  (FERG)  (CIK 0002011641)",
+    "file_date": "2026-08-21",
+    "cik": "0002132582",
+    "adsh": "0001193125-26-359991",
+    "link": "https://www.sec.gov/Archives/edgar/data/0002132582/000119312526359991/0001193125-26-359991-index.htm",
+    "display_name": "Lyntris Inc.  (LYNX)  (CIK 0002132582)",
     "item105": false,
     "item801": true
   }
