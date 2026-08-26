@@ -1,13 +1,13 @@
 [
   {
-    "company": "Lyntris Inc.",
-    "stockticker": "LYNX",
+    "company": "Bleichroeder Acquisition Corp. III",
+    "stockticker": "BCCQ, BCCQU, BCCQW",
     "form": "8-K",
-    "file_date": "2026-08-21",
-    "cik": "0002132582",
-    "adsh": "0001193125-26-359991",
-    "link": "https://www.sec.gov/Archives/edgar/data/0002132582/000119312526359991/0001193125-26-359991-index.htm",
-    "display_name": "Lyntris Inc.  (LYNX)  (CIK 0002132582)",
+    "file_date": "2026-08-25",
+    "cik": "0002128045",
+    "adsh": "0001213900-26-093229",
+    "link": "https://www.sec.gov/Archives/edgar/data/0002128045/000121390026093229/0001213900-26-093229-index.htm",
+    "display_name": "Bleichroeder Acquisition Corp. III  (BCCQ, BCCQU, BCCQW)  (CIK 0002128045)",
     "item105": false,
     "item801": true
   }
