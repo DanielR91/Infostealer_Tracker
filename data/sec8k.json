@@ -1,14 +1,19 @@
 [
   {
-    "company": "ONEOK INC /NEW/",
-    "stockticker": "OKE",
+    "company": "NovoCure Ltd",
+    "stockticker": "NVCR",
     "form": "8-K",
-    "file_date": "2026-08-31",
-    "cik": "0001039684",
-    "adsh": "0001193125-26-377023",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001039684/000119312526377023/0001193125-26-377023-index.htm",
-    "display_name": "ONEOK INC /NEW/  (OKE)  (CIK 0001039684)",
+    "file_date": "2026-09-01",
+    "cik": "0001645113",
+    "adsh": "0001645113-26-000065",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001645113/000164511326000065/0001645113-26-000065-index.htm",
+    "display_name": "NovoCure Ltd  (NVCR)  (CIK 0001645113)",
     "item105": false,
-    "item801": true
+    "item801": true,
+    "matched_terms": [
+      "Item 1.05",
+      "cybersecurity incident"
+    ],
+    "score": 5
   }
 ]
