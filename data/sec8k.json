@@ -1,18 +1,17 @@
 [
   {
-    "company": "NovoCure Ltd",
-    "stockticker": "NVCR",
+    "company": "Park Dental Partners, Inc.",
+    "stockticker": "PARK",
     "form": "8-K",
     "file_date": "2026-09-01",
-    "cik": "0001645113",
-    "adsh": "0001645113-26-000065",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001645113/000164511326000065/0001645113-26-000065-index.htm",
-    "display_name": "NovoCure Ltd  (NVCR)  (CIK 0001645113)",
-    "item105": false,
-    "item801": true,
+    "cik": "0002069604",
+    "adsh": "0001104659-26-104300",
+    "link": "https://www.sec.gov/Archives/edgar/data/0002069604/000110465926104300/0001104659-26-104300-index.htm",
+    "display_name": "Park Dental Partners, Inc.  (PARK)  (CIK 0002069604)",
+    "item105": true,
+    "item801": false,
     "matched_terms": [
-      "Item 1.05",
-      "cybersecurity incident"
+      "Item 1.05"
     ],
     "score": 5
   }
