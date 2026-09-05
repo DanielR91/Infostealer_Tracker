@@ -1,18 +1,19 @@
 [
   {
-    "company": "SAIA INC",
-    "stockticker": "SAIA",
+    "company": "FLEX LTD.",
+    "stockticker": "FLEX",
     "form": "8-K",
-    "file_date": "2026-09-03",
-    "cik": "0001177702",
-    "adsh": "0001193125-26-381050",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001177702/000119312526381050/0001193125-26-381050-index.htm",
-    "display_name": "SAIA INC  (SAIA)  (CIK 0001177702)",
+    "file_date": "2026-09-04",
+    "cik": "0000866374",
+    "adsh": "0001193125-26-382492",
+    "link": "https://www.sec.gov/Archives/edgar/data/0000866374/000119312526382492/0001193125-26-382492-index.htm",
+    "display_name": "FLEX LTD.  (FLEX)  (CIK 0000866374)",
     "item105": false,
     "item801": true,
     "matched_terms": [
+      "cybersecurity breach",
       "ransomware"
     ],
-    "score": 2
+    "score": 3
   }
 ]
