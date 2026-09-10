@@ -1,18 +1,19 @@
 [
   {
-    "company": "Veradigm Inc.  (CIK 0001124804)",
-    "stockticker": null,
+    "company": "KORN FERRY",
+    "stockticker": "KFY",
     "form": "8-K",
-    "file_date": "2026-09-08",
-    "cik": "0001124804",
-    "adsh": "0001193125-26-385249",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001124804/000119312526385249/0001193125-26-385249-index.htm",
-    "display_name": "Veradigm Inc.  (CIK 0001124804)",
+    "file_date": "2026-09-09",
+    "cik": "0000056679",
+    "adsh": "0000056679-26-000033",
+    "link": "https://www.sec.gov/Archives/edgar/data/0000056679/000005667926000033/0000056679-26-000033-index.htm",
+    "display_name": "KORN FERRY  (KFY)  (CIK 0000056679)",
     "item105": false,
     "item801": true,
     "matched_terms": [
-      "cybersecurity incident"
+      "cybersecurity breach",
+      "ransomware"
     ],
-    "score": 1
+    "score": 3
   }
 ]
