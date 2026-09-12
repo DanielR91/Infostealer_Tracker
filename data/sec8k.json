@@ -1,18 +1,19 @@
 [
   {
-    "company": "CONDUENT Inc",
-    "stockticker": "CNDT",
+    "company": "Nutex Health Inc.",
+    "stockticker": "NUTX",
     "form": "8-K",
-    "file_date": "2026-09-10",
-    "cik": "0001677703",
-    "adsh": "0001677703-26-000113",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001677703/000167770326000113/0001677703-26-000113-index.htm",
-    "display_name": "CONDUENT Inc  (CNDT)  (CIK 0001677703)",
+    "file_date": "2026-09-11",
+    "cik": "0001479681",
+    "adsh": "0001628280-26-061432",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001479681/000162828026061432/0001628280-26-061432-index.htm",
+    "display_name": "Nutex Health Inc.  (NUTX)  (CIK 0001479681)",
     "item105": false,
     "item801": true,
     "matched_terms": [
-      "cybersecurity incident"
+      "Item 1.05",
+      "cybersecurity event"
     ],
-    "score": 1
+    "score": 5
   }
 ]
