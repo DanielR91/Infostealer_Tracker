@@ -1,19 +1,14 @@
 [
   {
-    "company": "Nutex Health Inc.",
-    "stockticker": "NUTX",
+    "company": "Imunon, Inc.",
+    "stockticker": "IMNN",
     "form": "8-K",
-    "file_date": "2026-09-11",
-    "cik": "0001479681",
-    "adsh": "0001628280-26-061432",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001479681/000162828026061432/0001628280-26-061432-index.htm",
-    "display_name": "Nutex Health Inc.  (NUTX)  (CIK 0001479681)",
+    "file_date": "2025-12-31",
+    "cik": "0000749647",
+    "adsh": "0001493152-25-029711",
+    "link": "https://www.sec.gov/Archives/edgar/data/0000749647/000149315225029711/0001493152-25-029711-index.htm",
+    "display_name": "Imunon, Inc.  (IMNN)  (CIK 0000749647)",
     "item105": false,
-    "item801": true,
-    "matched_terms": [
-      "Item 1.05",
-      "cybersecurity event"
-    ],
-    "score": 5
+    "item801": true
   }
 ]
