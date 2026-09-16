@@ -1,18 +1,18 @@
 [
   {
-    "company": "NorthStrive Acquisition Corp I.",
-    "stockticker": "NSAI, NSAIR, NSAIU, NSAIW",
+    "company": "USA Rare Earth, Inc.",
+    "stockticker": "USAR",
     "form": "8-K",
-    "file_date": "2026-09-14",
-    "cik": "0002133719",
-    "adsh": "0001213900-26-099386",
-    "link": "https://www.sec.gov/Archives/edgar/data/0002133719/000121390026099386/0001213900-26-099386-index.htm",
-    "display_name": "NorthStrive Acquisition Corp I.  (NSAI, NSAIR, NSAIU, NSAIW)  (CIK 0002133719)",
+    "file_date": "2026-09-15",
+    "cik": "0001970622",
+    "adsh": "0001213900-26-100190",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001970622/000121390026100190/0001213900-26-100190-index.htm",
+    "display_name": "USA Rare Earth, Inc.  (USAR)  (CIK 0001970622)",
     "item105": false,
     "item801": true,
     "matched_terms": [
-      "cybersecurity incident"
+      "ransomware"
     ],
-    "score": 1
+    "score": 2
   }
 ]
