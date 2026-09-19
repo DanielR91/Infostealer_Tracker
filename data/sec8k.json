@@ -1,13 +1,13 @@
 [
   {
-    "company": "FB Financial Corp",
-    "stockticker": "FBK",
+    "company": "Mistras Group, Inc.",
+    "stockticker": "MG",
     "form": "8-K",
-    "file_date": "2026-09-17",
-    "cik": "0001649749",
-    "adsh": "0001213900-26-100750",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001649749/000121390026100750/0001213900-26-100750-index.htm",
-    "display_name": "FB Financial Corp  (FBK)  (CIK 0001649749)",
+    "file_date": "2026-09-18",
+    "cik": "0001436126",
+    "adsh": "0001140361-26-037107",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001436126/000114036126037107/0001140361-26-037107-index.htm",
+    "display_name": "Mistras Group, Inc.  (MG)  (CIK 0001436126)",
     "item105": false,
     "item801": true,
     "matched_terms": [
