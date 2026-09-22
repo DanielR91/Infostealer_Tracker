@@ -1,18 +1,18 @@
 [
   {
-    "company": "Mistras Group, Inc.",
-    "stockticker": "MG",
+    "company": "Priority Technology Holdings, Inc.",
+    "stockticker": "PRTH, PRTHU",
     "form": "8-K",
-    "file_date": "2026-09-18",
-    "cik": "0001436126",
-    "adsh": "0001140361-26-037107",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001436126/000114036126037107/0001140361-26-037107-index.htm",
-    "display_name": "Mistras Group, Inc.  (MG)  (CIK 0001436126)",
+    "file_date": "2026-09-21",
+    "cik": "0001653558",
+    "adsh": "0001213900-26-101651",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001653558/000121390026101651/0001213900-26-101651-index.htm",
+    "display_name": "Priority Technology Holdings, Inc.  (PRTH, PRTHU)  (CIK 0001653558)",
     "item105": false,
     "item801": true,
     "matched_terms": [
-      "ransomware"
+      "cyber incident"
     ],
-    "score": 2
+    "score": 1
   }
 ]
