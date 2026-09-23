@@ -1,18 +1,18 @@
 [
   {
-    "company": "Priority Technology Holdings, Inc.",
-    "stockticker": "PRTH, PRTHU",
+    "company": "GROUP 1 AUTOMOTIVE INC",
+    "stockticker": "GPI",
     "form": "8-K",
-    "file_date": "2026-09-21",
-    "cik": "0001653558",
-    "adsh": "0001213900-26-101651",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001653558/000121390026101651/0001213900-26-101651-index.htm",
-    "display_name": "Priority Technology Holdings, Inc.  (PRTH, PRTHU)  (CIK 0001653558)",
+    "file_date": "2026-09-22",
+    "cik": "0001031203",
+    "adsh": "0001193125-26-397968",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001031203/000119312526397968/0001193125-26-397968-index.htm",
+    "display_name": "GROUP 1 AUTOMOTIVE INC  (GPI)  (CIK 0001031203)",
     "item105": false,
     "item801": true,
     "matched_terms": [
-      "cyber incident"
+      "ransomware"
     ],
-    "score": 1
+    "score": 2
   }
 ]
