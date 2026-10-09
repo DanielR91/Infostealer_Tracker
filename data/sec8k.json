@@ -1,13 +1,13 @@
 [
   {
-    "company": "HighPeak Energy, Inc.",
-    "stockticker": "HPK",
+    "company": "SPIRE INC",
+    "stockticker": "SR, SRJN",
     "form": "8-K",
-    "file_date": "2026-10-06",
-    "cik": "0001792849",
-    "adsh": "0001437749-26-032094",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001792849/000143774926032094/0001437749-26-032094-index.htm",
-    "display_name": "HighPeak Energy, Inc.  (HPK)  (CIK 0001792849)",
+    "file_date": "2026-10-08",
+    "cik": "0001126956",
+    "adsh": "0001193125-26-417983",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001126956/000119312526417983/0001193125-26-417983-index.htm",
+    "display_name": "SPIRE INC  (SR, SRJN)  (CIK 0001126956)",
     "item105": false,
     "item801": true,
     "matched_terms": [
