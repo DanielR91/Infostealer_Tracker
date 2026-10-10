@@ -1,18 +1,18 @@
 [
   {
-    "company": "SPIRE INC",
-    "stockticker": "SR, SRJN",
+    "company": "XMax Inc.",
+    "stockticker": "XMAX",
     "form": "8-K",
-    "file_date": "2026-10-08",
-    "cik": "0001126956",
-    "adsh": "0001193125-26-417983",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001126956/000119312526417983/0001193125-26-417983-index.htm",
-    "display_name": "SPIRE INC  (SR, SRJN)  (CIK 0001126956)",
+    "file_date": "2026-10-09",
+    "cik": "0001473334",
+    "adsh": "0001493152-26-046545",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001473334/000149315226046545/0001493152-26-046545-index.htm",
+    "display_name": "XMax Inc.  (XMAX)  (CIK 0001473334)",
     "item105": false,
     "item801": true,
     "matched_terms": [
-      "ransomware"
+      "cyber attack"
     ],
-    "score": 2
+    "score": 1
   }
 ]
