@@ -1,18 +1,18 @@
 [
   {
-    "company": "Park Dental Partners, Inc.",
-    "stockticker": "PARK",
+    "company": "PENSKE AUTOMOTIVE GROUP, INC.",
+    "stockticker": "PAG",
     "form": "8-K",
-    "file_date": "2026-10-13",
-    "cik": "0002069604",
-    "adsh": "0001104659-26-115541",
-    "link": "https://www.sec.gov/Archives/edgar/data/0002069604/000110465926115541/0001104659-26-115541-index.htm",
-    "display_name": "Park Dental Partners, Inc.  (PARK)  (CIK 0002069604)",
-    "item105": true,
-    "item801": false,
+    "file_date": "2026-10-15",
+    "cik": "0001019849",
+    "adsh": "0001140361-26-039661",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001019849/000114036126039661/0001140361-26-039661-index.htm",
+    "display_name": "PENSKE AUTOMOTIVE GROUP, INC.  (PAG)  (CIK 0001019849)",
+    "item105": false,
+    "item801": true,
     "matched_terms": [
-      "Item 1.05"
+      "ransomware"
     ],
-    "score": 5
+    "score": 2
   }
 ]
