@@ -1,16 +1,16 @@
 [
   {
-    "company": "SOUTHERN MISSOURI BANCORP, INC.",
-    "stockticker": "SMBC",
+    "company": "TRICO BANCSHARES /",
+    "stockticker": "TCBK",
     "form": "8-K",
-    "file_date": "2026-10-21",
-    "cik": "0000916907",
-    "adsh": "0001104659-26-117871",
-    "link": "https://www.sec.gov/Archives/edgar/data/0000916907/000110465926117871/0001104659-26-117871-index.htm",
-    "display_name": "SOUTHERN MISSOURI BANCORP, INC.  (SMBC)  (CIK 0000916907)",
+    "file_date": "2026-10-22",
+    "cik": "0000356171",
+    "adsh": "0000356171-26-000115",
+    "link": "https://www.sec.gov/Archives/edgar/data/0000356171/000035617126000115/0000356171-26-000115-index.htm",
+    "display_name": "TRICO BANCSHARES /  (TCBK)  (CIK 0000356171)",
     "item105": false,
     "item801": true,
-    "domain": "bankwithsouthern.com",
+    "domain": "tricountiesbank.com",
     "domain_source": "filing",
     "matched_terms": [
       "ransomware"
