@@ -1,20 +1,22 @@
 [
   {
-    "company": "TRICO BANCSHARES /",
-    "stockticker": "TCBK",
+    "company": "RANGE RESOURCES CORP",
+    "stockticker": "RRC",
     "form": "8-K",
-    "file_date": "2026-10-22",
-    "cik": "0000356171",
-    "adsh": "0000356171-26-000115",
-    "link": "https://www.sec.gov/Archives/edgar/data/0000356171/000035617126000115/0000356171-26-000115-index.htm",
-    "display_name": "TRICO BANCSHARES /  (TCBK)  (CIK 0000356171)",
+    "file_date": "2026-10-26",
+    "cik": "0000315852",
+    "adsh": "0001193125-26-431025",
+    "link": "https://www.sec.gov/Archives/edgar/data/0000315852/000119312526431025/0001193125-26-431025-index.htm",
+    "display_name": "RANGE RESOURCES CORP  (RRC)  (CIK 0000315852)",
     "item105": false,
     "item801": true,
-    "domain": "tricountiesbank.com",
+    "domain": "rangeresources.com",
     "domain_source": "filing",
     "matched_terms": [
+      "cyber attack",
+      "cybersecurity incident",
       "ransomware"
     ],
-    "score": 2
+    "score": 4
   }
 ]
