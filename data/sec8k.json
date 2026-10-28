@@ -1,22 +1,20 @@
 [
   {
-    "company": "RANGE RESOURCES CORP",
-    "stockticker": "RRC",
+    "company": "OCEANFIRST FINANCIAL CORP",
+    "stockticker": "OCFC",
     "form": "8-K",
-    "file_date": "2026-10-26",
-    "cik": "0000315852",
-    "adsh": "0001193125-26-431025",
-    "link": "https://www.sec.gov/Archives/edgar/data/0000315852/000119312526431025/0001193125-26-431025-index.htm",
-    "display_name": "RANGE RESOURCES CORP  (RRC)  (CIK 0000315852)",
+    "file_date": "2026-10-27",
+    "cik": "0001004702",
+    "adsh": "0001004702-26-000122",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001004702/000100470226000122/0001004702-26-000122-index.htm",
+    "display_name": "OCEANFIRST FINANCIAL CORP  (OCFC)  (CIK 0001004702)",
     "item105": false,
     "item801": true,
-    "domain": "rangeresources.com",
+    "domain": "oceanfirst.com",
     "domain_source": "filing",
     "matched_terms": [
-      "cyber attack",
-      "cybersecurity incident",
       "ransomware"
     ],
-    "score": 4
+    "score": 2
   }
 ]
