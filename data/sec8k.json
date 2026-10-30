@@ -1,20 +1,20 @@
 [
   {
-    "company": "PROG Holdings, Inc.",
-    "stockticker": "PRG",
+    "company": "SAIA INC",
+    "stockticker": "SAIA",
     "form": "8-K",
-    "file_date": "2026-10-28",
-    "cik": "0001808834",
-    "adsh": "0001628280-26-067737",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001808834/000162828026067737/0001628280-26-067737-index.htm",
-    "display_name": "PROG Holdings, Inc.  (PRG)  (CIK 0001808834)",
+    "file_date": "2026-10-29",
+    "cik": "0001177702",
+    "adsh": "0001193125-26-437022",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001177702/000119312526437022/0001193125-26-437022-index.htm",
+    "display_name": "SAIA INC  (SAIA)  (CIK 0001177702)",
     "item105": false,
     "item801": true,
-    "domain": "progholdings.com",
+    "domain": "saia.com",
     "domain_source": "filing",
     "matched_terms": [
-      "cybersecurity incident"
+      "ransomware"
     ],
-    "score": 1
+    "score": 2
   }
 ]
