@@ -1,19 +1,20 @@
 [
   {
-    "company": "SAIA INC",
-    "stockticker": "SAIA",
+    "company": "Revolve Group, Inc.",
+    "stockticker": "RVLV",
     "form": "8-K",
-    "file_date": "2026-10-29",
-    "cik": "0001177702",
-    "adsh": "0001193125-26-437022",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001177702/000119312526437022/0001193125-26-437022-index.htm",
-    "display_name": "SAIA INC  (SAIA)  (CIK 0001177702)",
+    "file_date": "2026-10-30",
+    "cik": "0001746618",
+    "adsh": "0001193125-26-439022",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001746618/000119312526439022/0001193125-26-439022-index.htm",
+    "display_name": "Revolve Group, Inc.  (RVLV)  (CIK 0001746618)",
     "item105": false,
     "item801": true,
-    "domain": "saia.com",
+    "domain": "revolve.com",
     "domain_source": "filing",
     "matched_terms": [
-      "ransomware"
+      "cyber incident",
+      "cybersecurity incident"
     ],
     "score": 2
   }
