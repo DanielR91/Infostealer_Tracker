@@ -1,17 +1,17 @@
 [
   {
-    "company": "WORLD OMNI AUTO RECEIVABLES LLC  (CIK 0001083199)",
-    "stockticker": null,
+    "company": "SEMPRA",
+    "stockticker": "SRE, SREA",
     "form": "8-K",
-    "file_date": "2026-11-10",
-    "cik": "0001083199",
-    "adsh": "0001104659-26-125258",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001083199/000110465926125258/0001104659-26-125258-index.htm",
-    "display_name": "WORLD OMNI AUTO RECEIVABLES LLC  (CIK 0001083199)",
+    "file_date": "2026-11-12",
+    "cik": "0001032208",
+    "adsh": "0001032208-26-000057",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001032208/000103220826000057/0001032208-26-000057-index.htm",
+    "display_name": "SEMPRA  (SRE, SREA)  (CIK 0001032208)",
     "item105": false,
     "item801": true,
-    "domain": null,
-    "domain_source": null,
+    "domain": "sempra.com",
+    "domain_source": "filing",
     "matched_terms": [
       "ransomware"
     ],
