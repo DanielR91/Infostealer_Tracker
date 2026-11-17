@@ -1,20 +1,20 @@
 [
   {
-    "company": "SEMPRA",
-    "stockticker": "SRE, SREA",
+    "company": "Zoomcar Holdings, Inc.",
+    "stockticker": "ZCAR, ZCARW",
     "form": "8-K",
-    "file_date": "2026-11-12",
-    "cik": "0001032208",
-    "adsh": "0001032208-26-000057",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001032208/000103220826000057/0001032208-26-000057-index.htm",
-    "display_name": "SEMPRA  (SRE, SREA)  (CIK 0001032208)",
+    "file_date": "2026-11-16",
+    "cik": "0001854275",
+    "adsh": "0001096906-26-001785",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001854275/000109690626001785/0001096906-26-001785-index.htm",
+    "display_name": "Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)",
     "item105": false,
     "item801": true,
-    "domain": "sempra.com",
+    "domain": "zoomcar.com",
     "domain_source": "filing",
     "matched_terms": [
-      "ransomware"
+      "cybersecurity incident"
     ],
-    "score": 2
+    "score": 1
   }
 ]
