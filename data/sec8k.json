@@ -1,17 +1,17 @@
 [
   {
-    "company": "Zoomcar Holdings, Inc.",
-    "stockticker": "ZCAR, ZCARW",
+    "company": "Nutex Health Inc.",
+    "stockticker": "NUTX",
     "form": "8-K",
-    "file_date": "2026-11-16",
-    "cik": "0001854275",
-    "adsh": "0001096906-26-001785",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001854275/000109690626001785/0001096906-26-001785-index.htm",
-    "display_name": "Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)",
+    "file_date": "2026-11-17",
+    "cik": "0001479681",
+    "adsh": "0001628280-26-074363",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001479681/000162828026074363/0001628280-26-074363-index.htm",
+    "display_name": "Nutex Health Inc.  (NUTX)  (CIK 0001479681)",
     "item105": false,
     "item801": true,
-    "domain": "zoomcar.com",
-    "domain_source": "filing",
+    "domain": "nutexhealth.com",
+    "domain_source": "clearbit",
     "matched_terms": [
       "cybersecurity incident"
     ],
