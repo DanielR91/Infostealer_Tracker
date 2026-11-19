@@ -1,20 +1,20 @@
 [
   {
-    "company": "Nutex Health Inc.",
-    "stockticker": "NUTX",
+    "company": "WORLD OMNI AUTO RECEIVABLES LLC  (CIK 0001083199)",
+    "stockticker": null,
     "form": "8-K",
-    "file_date": "2026-11-17",
-    "cik": "0001479681",
-    "adsh": "0001628280-26-074363",
-    "link": "https://www.sec.gov/Archives/edgar/data/0001479681/000162828026074363/0001628280-26-074363-index.htm",
-    "display_name": "Nutex Health Inc.  (NUTX)  (CIK 0001479681)",
+    "file_date": "2026-11-18",
+    "cik": "0001083199",
+    "adsh": "0001104659-26-129756",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001083199/000110465926129756/0001104659-26-129756-index.htm",
+    "display_name": "WORLD OMNI AUTO RECEIVABLES LLC  (CIK 0001083199)",
     "item105": false,
     "item801": true,
-    "domain": "nutexhealth.com",
-    "domain_source": "clearbit",
+    "domain": null,
+    "domain_source": null,
     "matched_terms": [
-      "cybersecurity incident"
+      "ransomware"
     ],
-    "score": 1
+    "score": 2
   }
 ]
