@@ -1,20 +1,19 @@
 [
   {
-    "company": "Elmet Group Co.",
-    "stockticker": "ELMT",
+    "company": "Carvana Receivables Depositor LLC  (CIK 0001770373)",
+    "stockticker": null,
     "form": "8-K",
-    "file_date": "2026-11-24",
-    "cik": "0002101698",
-    "adsh": "0001213900-26-123746",
-    "link": "https://www.sec.gov/Archives/edgar/data/0002101698/000121390026123746/0001213900-26-123746-index.htm",
-    "display_name": "Elmet Group Co.  (ELMT)  (CIK 0002101698)",
+    "file_date": "2026-11-25",
+    "cik": "0001770373",
+    "adsh": "0001770373-26-000065",
+    "link": "https://www.sec.gov/Archives/edgar/data/0001770373/000177037326000065/0001770373-26-000065-index.htm",
+    "display_name": "Carvana Receivables Depositor LLC  (CIK 0001770373)",
     "item105": false,
     "item801": true,
-    "domain": "theelmetgroup.com",
-    "domain_source": "filing",
+    "domain": null,
+    "domain_source": null,
     "matched_terms": [
-      "cyber incident",
-      "cybersecurity incident"
+      "ransomware"
     ],
     "score": 2
   }
